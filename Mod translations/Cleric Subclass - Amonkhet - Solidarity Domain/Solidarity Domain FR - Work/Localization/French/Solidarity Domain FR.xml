@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_ACD_Solidarity_Name" version="1">Domaine de Solidarité</content>
+	<content contentuid="LHB_ACD_Solidarity_ShortName" version="1">Solidarité</content>
+	<content contentuid="LHB_ACD_Solidarity_Description" version="1">La vertu de solidarité est de s'unir dans la poursuite d'un but.</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_Name" version="1">Action de Solidarité</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_Description" version="1">Lorsque vous faites l'action Aide : Aide à l'attaque, vous pouvez effectuer une attaque en tant qu'Action bonus. Vous pouvez utiliser cette caractéristique un nombre de fois égal à votre modificateur de Sagesse (au minimum une fois). Vous regagnez les utilisations dépensées lorsque vous terminez un long repos.</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_Charge_Name" version="1">Charge d'Action de Solidarité</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_MeleeAttack_Name" version="1">Action de Solidarité : Attaque de mêlée</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_RangedAttack_Name" version="1">Action de Solidarité : Attaque à distance</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_MeleeAttack_Description" version="1">Utiliser une Charge d'Action de Solidarité pour effectuer une attaque supplémentaire avec une arme de mêlée.</content>
+	<content contentuid="LHB_ACD_SolidaritysAction_RangedAttack_Description" version="1">Utiliser une Charge d'Action de Solidarité pour effectuerune attaque supplémentaire avec une arme à distance.</content>
+	<content contentuid="LHB_ACD_Help_AidAttack_Name" version="1">Aide : Aide à l'attaque</content>
+	<content contentuid="LHB_ACD_Help_AidAttack_Description" version="1">Aide à l'attaque d'un allié : Il gagne l'Avantage sur son prochain Jet d'attaque avant le début de votre prochain tour.</content>
+	<content contentuid="LHB_ACD_Help_AidAttack_StatusDescription" version="1">Aidé par un allié : A l'Avantage sur le prochain Jet d'attaque effectué avant le début du prochain tour du lanceur de sorts.</content>
+	<content contentuid="LHB_ACD_BlessingOfSolidarity_Name" version="1">Conduit Divin : Bénédiction de la Solidarité</content>
+	<content contentuid="LHB_ACD_SupremeHealing_Name" version="1">Guérison suprême</content>
+	<content contentuid="LHB_ACD_SupremeHealing_Description" version="1">Lorsque vous devriez normalement lancer un ou plusieurs dés pour restaurer des points de vie avec un sort, vous utilisez à la place le nombre le plus élevé possible pour chaque dé.</content>
+	<content contentuid="LHB_AuraOfLife_Name" version="1">Aura de vie</content>
+	<content contentuid="LHB_AuraOfLife_Description" version="1">Une énergie préservant la vie rayonne de vous sous forme d'aura. Chaque créature non-hostile dans l'aura a une résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut pas être réduit. De plus, une créature vivante non hostile regagne 1 point de vie lorsqu'elle commence son tour dans l'aura avec 0 point de vie.</content>
+	<content contentuid="LHB_AuraOfLife_Status_Description" version="1">Résistance aux dégâts nécrotiques, le nombre maximum de points de vie ne peut être réduit. Regagne 1 point de vie au début du tour s'il est abattu.</content>
+	<content contentuid="LHB_CircleOfPower_Name" version="1">Cercle de puissance</content>
+	<content contentuid="LHB_CircleOfPower_Description" version="1">L'énergie divine rayonne de vous, déformant et diffusant l'énergie magique dans une aura. Chaque créature amie dans la zone a un avantage sur les jets de sauvegarde contre les sorts et autres effets magiques.</content>
+	<content contentuid="LHB_CircleOfPower_ExtraDescription" version="1">En outre, lorsqu'un sort ou un effet magique devrait infliger la moitié des dégâts sur un jet de sauvegarde de Dextérité réussi, il n'inflige aucun dégât à la place.</content>
+	<content contentuid="LHB_CircleOfPower_Status_Description" version="1">Avantage aux jets de sauvegarde contre les sorts et autres effets magiques. Lorsqu'un sort ou un effet magique devrait infliger la moitié des dégâts sur un jet de sauvegarde de Dextérité réussi, il n'inflige aucun dégât à la place.</content>
+</contentList>

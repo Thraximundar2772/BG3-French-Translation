@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_ACD_Zeal_Name" version="1">Domaine du Zèle</content>
+	<content contentuid="LHB_ACD_Zeal_ShortName" version="1">Zèle</content>
+	<content contentuid="LHB_ACD_Zeal_Description" version="1">La meilleure façon d'enseigner le zèle est d'en faire la démonstration.</content>
+	<content contentuid="LHB_ACD_PriestOfZeal_Name" version="1">Prêtre du Zèle</content>
+	<content contentuid="LHB_ACD_PriestOfZeal_Description" version="1">Lorsque vous effectuez une attaque à mains nues ou avec une arme, vous pouvez dépenser une Charge de Prêtre du Zèle pour effectuer une attaque supplémentaire en tant qu'action bonus.</content>
+	<content contentuid="LHB_ACD_PriestOfZeal_Charge_Name" version="1">Charge de Prêtre du Zèle</content>
+	<content contentuid="LHB_ACD_ConsumingFervor_Name" version="1">Consommer la ferveur</content>
+	<content contentuid="LHB_ACD_ConsumingFervor_Description" version="1">Lorsque vous infligez des dégâts de Feu ou de Tonnerre, vous pouvez utiliser votre Charge de Conduit Divin pour infliger le maximum de dégâts à la place.</content>
+	<content contentuid="LHB_ACD_ResoundingStrike_Name" version="1">Frappe retentissante</content>
+	<content contentuid="LHB_ACD_ResoundingStrike_Description" version="1">Lorsque vous infligez des dégâts de Tonnerre à une créature qui est Grande ou plus petite, vous pouvez aussi la repousser jusqu'à 3 mètres.</content>
+	<content contentuid="LHB_ACD_BlazeOfGlory_Name" version="1">Flamme de Gloire</content>
+	<content contentuid="LHB_ACD_BlazeOfGlory_Description" version="1">Lorsque vous êtes attaqué, même si vous êtes tué, vous pouvez utiliser votre pouvoir pour vous venger de l'attaquant. L'attaque inflige 5d10 points de dégâts de feu et 5d10 points de dégâts du type de votre arme de mêlée principale.
+
+Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé un long repos.</content>
+</contentList>
