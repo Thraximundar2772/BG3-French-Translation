@@ -1,0 +1,1 @@
+# BG3-French-Translation
