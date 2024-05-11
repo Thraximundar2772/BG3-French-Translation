@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="beast5e" version="1">Bête</content>
+	<content contentuid="beast5e" version="1">Voie de la Bête</content>
 	<content contentuid="beast5edescript" version="1">Barbares qui empruntent la Voie de la Bête tirent leur rage d'une étincelle bestiale brûlant au fond de leur âme. Cette bête surgit dans les affres de la rage, transformant physiquement le Barbare.</content>
 	<content contentuid="hc062d317gad17g47c1g90b9gee71747cf113" version="1">Infligez [1] dégât supplémentaire avec les armes de mêlée, les armes improvisées et les armes de jet. Jusqu'à la fin de la Rage, vous manifestez une arme naturelle.</content>
 	<content contentuid="h96862f98g4d79g4539ga3b0g901bffc37abf" version="1">Vous pouvez utiliser la capacité &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;. Lorsque vous entrez en Rage, vous vous transformez, révélant le pouvoir bestial en vous.</content>
