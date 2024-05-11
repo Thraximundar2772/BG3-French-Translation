@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="battlerager5e" version="1">Voie du Fou de guerre</content>
+	<content contentuid="battlerager5edescript" version="1">Appelés Kuldjargh (littéralement "Idiot à la hache") en nain, les Fous de Fuerres sont des nains adeptes des Dieux de la guerre et suivent la voie du Fou de guerre. Ils se spécialisent dans le port d'une armure volumineuse à pointes et se jettent dans le combat, frappant avec leur corps même et s'abandonnant à la fureur de la bataille.</content>
+	<content contentuid="hd6f883d7g8abdg45ebg9551gda82b5e59275" version="1">Kuldjargh</content>
+	<content contentuid="hb26c9949g2d67g4d29ga7f1g391879f0fd9f" version="1">Armure du Fou de guerre</content>
+	<content contentuid="hdc85a2dag5af7g4fc2g9647gb7eceb43a48f" version="1">Armure du Fou de guerre (Agripper)</content>
+	<content contentuid="hb3b264efgf873g4fecg81a8g73322822feb5" version="1">Armure du Fou de guerre (Lancer)</content>	
+	<content contentuid="hc6f69848g33c8g466eg84ebgefbbf746baa2" version="1">Armure à pointes</content>
+	<content contentuid="h1ddddec9g2043g4b06gb997g2970d3a1cdab" version="1">Alors que vous portez une armure métallique moyenne et que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt; vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour effectuer une attaque à l'arme de mêlée avec les pointes de votre armure contre une cible située à moins de [1] de vous.</content>	
+	<content contentuid="he6a1be96g780bg46d6gadd1gd3ecec909bd1" version="1">Abandon imprudent</content>
+	<content contentuid="hc2197a71g6188g48dcgae0dg1be82c01e23b" version="1">Charge du Fou de guerre</content>
+	<content contentuid="h4a60c7d2ga5e3g49e2gac22ge93b2da6160c" version="1">Attaque imprudente (sans arme)</content>
+	<content contentuid="hc5100e69gd703g41c1g93a2g7da04a5cc491" version="1">Attaque imprudente (improvisée)</content>
+	<content contentuid="h4bb051cfgec19g4166g8c22gbccb1cb12369" version="1">Vous êtes un véritable idiot de la hache. Bien que certains tentent de copier le style presque suicidaire du combat nain, aucun ne peut vraiment reproduire votre immense force, votre durabilité et votre agressivité.</content>
+	<content contentuid="h0cabe01ag5373g4e9dgb171gae81248370ff" version="1">Une fois au combat, vous devenez presque animal, vos yeux sont exorbités, vos dents grincent et de la bave s'échappe de votre bouche et de votre barbe. On vous a appris à utiliser tout votre corps au combat, en incorporant votre armure à pointes, qui vous permet de porter des coups fatals avec une barge, un coup de pied, ou même un coup de tête.</content>
+	<content contentuid="h2e1920b2g0538g4014g9e7cg51589e32f5f3" version="1">Alors que vous portez une armure métallique moyenne et que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enragé&lt;/LSTag&gt;, vous pouvez utiliser une &lt; LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour faire une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque à l'arme de mêlée&lt;/LSTag&gt; avec vos pointes d'armure contre une cible à moins de [1] de vous. &lt;br&gt;&lt;br&gt;De plus, lorsque vous utilisez l'action d'attaque pour saisir ou lancer une créature, la cible subit [2] dégâts perforants si vous réussissez votre test.</content>
+
+	<content contentuid="h9e2e6a28gcdcag43c4gbb78g6f68a947bdd3" version="1">Lorsque vous utilisez l'action d'attaque pour saisir ou lancer une créature, la cible subit [1] dégâts perforants si votre test est réussi.</content>
+	<content contentuid="hb5c4079dg5e1bg487eg9ba2g12e3c617fd8f" version="1">Lorsque vous utilisez l'action d'attaque pour agripper une créature, la cible subit [1] dégâts perforants si votre test d'agrippement réussit.</content>
+	<content contentuid="h7afeb636ga82bg429dg8d31g50f0d43d6e5f" version="1">Lorsque vous utilisez l'action d'attaque pour lancer une créature, la cible subit [1] dégâts perforants si votre lancer réussit.</content>
+	<content contentuid="h2ce8296ag7179g4b9cgb462g0d5328a27282" version="1">Lorsque vous utilisez une &lt;LSTag Type="Passive" Tooltip="RecklessAttack"&gt;Attaque téméraire&lt;/LSTag&gt; pendant que vous êtes &lt;LSTag Type="Statut" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt; vous gagnez également [1]. Ils disparaissent s'il en reste lorsque votre Rage prend fin.</content>
+	<content contentuid="h17547d81ge9a9g4b5ega43ag87e3545987fe" version="1">Gagnez [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Point(s) de vie temporaire&lt;/LSTag&gt; de &lt;LSTag Type="Passive" Tooltip="RecklessAbandon"&gt;Attaque imprudente&lt;/LSTag&gt;. </content>
+	<content contentuid="h7208377dg6089g4ea9gbc1cgeb747e653bb1" version="1">Vous pouvez utiliser l'action &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Foncer&lt;/LSTag&gt; comme une &lt; LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pendant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;.</content>
+	<content contentuid="hdcfb552eg41a9g44d2gb70dg6f8a478c95b3" version="1">Chatiment hérissé</content>
+	<content contentuid="h4beb30dfgab5eg4919gba17g2ce4f973360f" version="1">Lorsqu'une créature à moins de [1] de vous vous touche avec une Attaque en mêlée, l'attaquant prend [2] si vous êtes &lt; LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, n'êtes pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;, et portez une armure moyenne métallique.</content>
+	<content contentuid="h4a1ccf74g3f7bg4192ga739g729cf72571b9" version="1">Armure à Pointe</content>
+	<content contentuid="h59a1b929ged8ag4a6eg93f2g4366ff64d341" version="1">L'entité a attaché des pointes à son armure qui peut être utilisée comme une arme.</content>
+</contentList>

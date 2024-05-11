@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="zealot5e" version="1">Voie du Zélote</content>
+	<content contentuid="zealot5edescript" version="1">Certaines divinités incitent leurs adeptes à se lancer dans une fureur de combat féroce. Ces barbares sont des Zélotes – des guerriers qui canalisent leur rage vers de puissantes démonstrations de pouvoir divin.</content>
+	<content contentuid="hb3ff777ag6a12g431cga1c5g237f7dbdcf6e" version="1">Zélote</content>
+	<content contentuid="he35b6455g6b4ag4de4gab8ege01caf022625" version="1">Ces barbares sont des Zélotes – des guerriers qui canalisent leur rage dans de puissantes démonstrations de pouvoir divin.</content>
+	<content contentuid="habdc0ecage852g4c43ga2acg72a157d3e1a1" version="1">Fidèle</content>
+	<content contentuid="h0c452652g2fd7g4449ga3dag52f3509184f4" version="1">Les barbares qui suivent la Voie du Zélote se trouvent souvent parmi les fidèles de certains dieux.</content>
+	<content contentuid="hfc4eed00g0954g47b2gb725g8fcab682d84b" version="1">Zélote (Non aligné)</content>
+	<content contentuid="he5371903g33b2g4c7eg8ab1g781d4b40e93c" version="1">Zélote de Bahamut</content>		
+	<content contentuid="h4994963fg78b3g4a18ga8b8g24bd11a18dca" version="1">Zélote de Bane</content>
+	<content contentuid="h676a6933ge56dg4ff0ga53cg9c02e1b038d9" version="1">Zélote de Bhaal</content>
+	<content contentuid="h1ec2666fg82e9g4217g945dgb2bdf2c0d1db" version="1">Zélote de Corellon Larethian</content>	
+	<content contentuid="h39802b79g2229g47f8gb8f4g31fa647de317" version="1">Zélote de Gruumsh</content>
+	<content contentuid="hd0907d49gadd7g4778g8c2dge4f9b3ae7ad3" version="1">Zélote de Lolth</content>
+	<content contentuid="h547a9b37g94acg49bcg9761g8b7487046f71" version="1">Zélote de Talos</content>	
+	<content contentuid="hd23a6857gc1a6g4ad3ga10ag3d77293eb3ac" version="1">Zélote de Tempus</content>
+	<content contentuid="hde248709ga950g41a2g9edbg1b582e57b2a6" version="1">Zélote de Tyr</content>
+	<content contentuid="ha3aae9a3g5ae8g46e8g92aag3b4f04c68282" version="1">Zélote de Vlaakith</content>	
+	<content contentuid="hb369c83bg5214g4c5fg8429g75b9a6085e9f" version="1">Les dieux qui inspirent les Zélotes sont des divinités du combat, de la destruction et de la violence. Tous ne sont pas mauvais, mais rares sont ceux qui sont bons.</content>
+	<content contentuid="hd0a81fdcga686g42b0g9186g1daa0232e012" version="1">Fureur divine</content>
+	<content contentuid="h57faf4f9g3003g4306g81ebg8f36440a4ad5" version="1">Fureur divine (Radiant)</content>
+	<content contentuid="hb081128dgab42g4cf1g9e6egb6b259b19773" version="1">Fureur divine (Nécrotique)</content>
+	<content contentuid="h29644b12g5677g4a77gabdcgafd0cfd8d05e" version="1">Vous pouvez canaliser la fureur divine dans vos frappes avec vos armes. Vous choisissez d'infliger des dégâts radiants ou nécrotiques lors de votre première attaque d'arme réussie par tour tant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;.</content>
+	<content contentuid="ha467c260gb4d0g4b00ga7abg7aba376cbbfd" version="1">Pendant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, la première créature que vous frappez à chacun de vos tours avec un l'arme subit des dégâts radiants supplémentaires égaux à [1]</content>
+	<content contentuid="h5fbbac2dga920g41f1g9795g83b8e95c5498" version="1">Pendant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, la première créature que vous frappez à chacun de vos tours avec un l'arme subit des dégâts nécrotiques supplémentaires égaux à [1]</content>
+	<content contentuid="h5394e3fbgbf7cg4b4dgb4f9g5249046968b0" version="1">Guerrier des Dieux</content>
+	<content contentuid="hc7548247g103cg430eg9219g0ef80a2e2bf4" version="1">Si un sort, tel que &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Rappel&lt;/LSTag&gt;, a pour seul effet de vous redonner de la vie (mais pas réanimer), le lanceur de sorts n'a pas besoin de d'ingrédient pour lancer le sort sur vous.</content>
+	<content contentuid="h93bccc17g0c08g4a04gab0bgbd4dfd5d6b5e" version="1">Proche du Guerrier des Dieux</content>
+	<content contentuid="hc9337222gdec1g4e13gadf5g2011d84fef1e" version="1">Un barbare zélote tombé au combat se trouve à proximité. Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Rappel&lt;/LSTag&gt; sur eux sans consommer de parchemin de sort.</content>
+	<content contentuid="h447380c4gf024g4085gb617g66d5c198e628" version="1">Renaissance du Guerrier des Dieux</content>
+	<content contentuid="hc3c619c5g6caeg4a8fga749gad3aa92f8b8e" version="1">Réanimez un barbare zélote sans utiliser les composants matériels d'un sort. Ils reprennent vie avec [1].</content>
+	<content contentuid="h4506a737g139bg4c71gacd9gf7911014f72e" version="1">Obstination fanatique</content>
+	<content contentuid="h5008bf5bga9fag43e5gb859gd6547e464409" version="1">Si vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en étant &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, vous pouvez le relancer et vous devez utiliser le nouveau jet. Vous ne pouvez utiliser cette capacité qu'une seule fois par Rage.</content>
+	<content contentuid="h1fcd5901g36c9g4c4eg9747geb1a615c8895" version="1">Chaque fois que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt;, vous pouvez lancer à nouveau, en utilisant le nouveau résultat à la place. </content>
+	<content contentuid="h22c85720g2eaeg416cg9d22g2020016af64e" version="1">Présence zélatrice</content>
+	<content contentuid="h6bac9323g04e8g420fg874fg893d4267f540" version="1">Jusqu'à [1] autres créatures de votre choix dans un rayon de [2] autour de vous qui peuvent vous entendre gagnent un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>	
+	<content contentuid="he7a44166gfd88g4f4bga1dfg4f3676ad35f7" version="1">Fanatisme inspiré</content>
+	<content contentuid="he66056c2gcfdag42d0g8034gacbb5bff67b9" version="1">A un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h9610bb36g0d81g4dbag9b8dg790fa9c2fee3" version="1">Enragé par-delà la mort</content>
+	<content contentuid="h013390b3gb411g42d6g9d2fg71551a22e157" version="1">Si vous passez à [1] &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; tant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, vous récupérez [2] au lieu d'être &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;Inconscient&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Vous devez toujours effectuer des Jets de sauvegarde contre la mort et vous subissez les effets normaux de subir des dégâts alors que vous êtes à 0 point de vie. Cependant, si vous mourez à cause d'un échec de jet de sauvegarde contre la mort, vous ne mourrez pas avant la fin de votre rage, et vous ne mourrez alors que si vous avez encore 1 point de vie.</content>
+	<content contentuid="hd6bb0172gb401g4190g8018gd73f8fae643d" version="1">L'entité ne peut pas être blessé tant qu'elle est &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragée&lt;/LSTag&gt;, mais doit effectuer des jets de Sauvegarde comme d'habitude et mourra si elle a 3 échecs et n'est pas été soignés à la fin de leur rage.</content>
+	<content contentuid="h6454aaa4gc6f2g4d44g9ffdg9ebe3b52ff03" version="1">Échec du Jet de sauvegarde contre la mort</content>
+	<content contentuid="he9ef166eg801eg42ebg9f50g050502717e3a" version="1">Réussite du Jet de sauvegarde contre la mort</content>
+	<content contentuid="h3ee7b720gbe03g4620gb217g9b8d6cc03248" version="1">Trois échecs de Jet de sauvegarde contre la mort entraînent la mort si vous n'avez pas été soigné lorsque votre &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; se termine.</content>
+	<content contentuid="h9a6d7549g5742g4e37g9e8dg95fb0703cee7" version="1">Trois réussites de Jet de sauvegarde contre la mort vous stabiliseront et effaceront tous les échecs de Jet de sauvegarde contre la mort que vous avez reçus.</content>
+	<content contentuid="h8b07642dg30ceg44e8gae1fg70d020f1b210" version="1">Au seuil de la mort</content>
+	<content contentuid="h3e2af7f2ge482g48e2g860dg472f21b6e49d" version="1">Stable</content>
+	<content contentuid="h23e065e1g5a57g4eeegb584g82ad13347aef" version="1">Les entités mourront si elles n'ont pas été soignées lorsque leur &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; se termine.</content>
+	<content contentuid="h33398cebg9887g4f3bg80c8g989c51c50b81" version="1">L'entité est stable, mais cessera de l'être et recommencera à effectuer des Jet de sauvegarde contre la mort si elle subit des dégâts.</content>
+
+</contentList>
