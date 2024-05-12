@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="SitOut_Blank" version="1"> </content>
+	<content contentuid="SitOut_Toggle" version="1">Spectateur</content>
+	<content contentuid="SitOut_Toggle_Desc" version="1">Activez ceci pour faire participer ou non ce personnage aux combats.</content>
+	<content contentuid="SittingOut" version="1">Spectateur</content>
+	<content contentuid="SittingOut_Desc" version="1">Le personnage va automatiquement disparaître lorsqu'un combat se lance et réapparaîtra à la fin de celui ci.</content>
+	<content contentuid="SitOut_Vanish_Passive_Name" version="1">Spectateur: Disparition</content>
+	<content contentuid="SitOut_Vanish_Passive_Desc" version="1">Activez ceci pour faire disparaître ou non ce personnage aux combats lorsqu'il n'est pas contrôlé.</content>
+	<content contentuid="SitOut_Vanish_Status_Name" version="1">Spectateur: Disparu</content>
+	<content contentuid="SitOut_Vanish_Status_Desc" version="1">Ce personnage disparaîtra lorsqu'il n'est pas contrôlé.</content>
+	<content contentuid="SitOut_Hush_Passive_Name" version="1">Spectateur: Muet</content>
+	<content contentuid="SitOut_Hush_Passive_Desc" version="1">Activez ceci pour faire participer ou non le personnage aux dialogues.</content>
+	<content contentuid="SitOut_Hush_Status_Name" version="1">Spectateur: Muet</content>
+	<content contentuid="SitOut_Hush_Status_Desc" version="1">Ce personnage ne participera plus aux dialogues.</content>
+	<content contentuid="SitOut_Spell" version="1">Spectateur</content>
+	<content contentuid="SitOut_Spell_Desc" version="1">Choisissez combien de personnages vont participer aux combats.</content>
+	<content contentuid="SitOut_Spell_On" version="1">Spectateur</content>
+	<content contentuid="SitOut_Spell_On_Desc" version="1">Les personnages ciblés ne participent pas au combat.</content>
+	<content contentuid="SitOut_Spell_Off" version="1">Acteurs</content>
+	<content contentuid="SitOut_Spell_Off_Desc" version="1">Les personnages ciblés participent au combat.</content>
+	<content contentuid="SitOut_Spell_Vanish" version="1">Disparition</content>
+	<content contentuid="SitOut_Spell_Vanish_Desc" version="1">Les personnages ciblés disparaîtront jusqu'à qu'ils entrent en combat et soit contrôlé par un joueur.</content>
+	<content contentuid="SitOut_Spell_Vanish_Off" version="1"> Réapparition</content>
+	<content contentuid="SitOut_Spell_Vanish_Off_Desc" version="1">Les personnages ciblés ne disparaîtront plus lorsqu'ils sont hors combat et ne sont pas contrôlé par un joueur.</content>
+	<content contentuid="SitOut_Spell_Hush" version="1">Muet</content>
+	<content contentuid="SitOut_Spell_Hush_Desc" version="1">Les personnages ciblés ne participeront plus aux dialogues.</content>
+	<content contentuid="SitOut_Spell_Hush_Off" version="1">Ne plus être Muet</content>
+	<content contentuid="SitOut_Spell_Hush_Off_Desc" version="1">Les personnages ciblés peuvent participer aux dialogues à nouveau.</content>
+	<content contentuid="SitOut_Spell_Stop" version="1">Bouton d'urgence</content>
+	<content contentuid="SitOut_Spell_Stop_Desc" version="1">UTILISER SEULEMENT LORSQUE QUELQUE CHOSE NE FONCTIONNE PLUS. Tous les membres du groupes et du camp arrêteront d'être spectateurs et autres états dû à ce mod.</content>
+	<content contentuid="SitOut_Config_SummonsSitOut" version="1">Toujours être en spectateur lorsque le joueur hôte l'est?</content>
+	<content contentuid="SitOut_Config_NumCombatants" version="1">Combien de personnages devraient participer au combat?</content>
+	<content contentuid="SitOut_Config_RandomSitOut" version="1">Est-ce que des personnages devraient aléatoirement devenir spectateur s'il y a trop de combattant?</content>
+	<content contentuid="SitOut_Config_AlwaysFight" version="1">Quels membres du groupe, s'il y en a, devraient toujours combattre au lieu d'être spectateur des combats aléatoirement?</content>
