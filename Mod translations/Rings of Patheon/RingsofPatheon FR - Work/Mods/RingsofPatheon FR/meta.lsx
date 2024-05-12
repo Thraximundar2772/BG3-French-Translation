@@ -6,16 +6,16 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSString" value="kusanagi942"/> Your alias
+                    <attribute id="Author" type="LSString" value="kusanagi942"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Traduction du mod RingsofPatheon"/>
-                    <attribute id="Folder" type="LSString" value="RingsofPatheon FR"/>
+                    <attribute id="Description" type="LSString" value="Traduction du mod Rings of Pantheon"/>
+                    <attribute id="Folder" type="LSString" value="Rings of Pantheon FR"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="RingsofPatheon FR"/>
+                    <attribute id="Name" type="FixedString" value="Rings of Pantheon FR"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
