@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hffa10bacg46dfg4b1ag85beg7d711831d3fe" version="1">Communion avec votre Familier</content>
+	<content contentuid="hffa1800dg3b66g4c94gbb1bgcabd8c8c47e1" version="1">Les sorts ayant une portée au corps à corps peuvent être lancés à travers un familier à [1] de portée.</content>
+	<content contentuid="hffa19e60g06ebg41fdgb30ag60b3184e7f1a" version="1">Familier à proximité</content>
+	<content contentuid="hffa112efg26f6g4ce4gbd51gc8adb721c6c1" version="1">Peut être ciblé par un sort ayant une portée au corps à corps à [1] de portée.</content>
+	<content contentuid="hffa17ec6g33cag4c57g9f2fg4a66595979b8" version="1">Trop loin de votre familier.</content>
+	<content contentuid="hffa176d4g24fbg4482g8b9ag9de30a179b83" version="1"></content>
+	<content contentuid="haf1a94afge90cg41fagb409g6bf5d8517b98" version="1">Familier médiateur</content>
+	<content contentuid="h5e9a26c0g650dg4684g8d3bg3380e4f4c0b8" version="1">A servi d'intermédiaire pour lancer un sort pour son invocateur.</content>
+	<content contentuid="hf1bc845dg34b3g41f3gb6f2g3f317ad546e9" version="1">Peut être lancer comme s'il était considéré lancé par votre familier en utilisant sa &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt;.</content>
+	<content contentuid="hffa16e49gcb25g4867g841dg6a4710eccbbe" version="1">Peut être lancer comme s'il était considéré lancé par votre familier en utilisant sa &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt;.</content>
+</contentList>
