@@ -8,21 +8,21 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="kusanagi942"/> Your alias
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Traduction du mod RingsofPatheon"/> Description of your mod
-                    <attribute id="Folder" type="LSString" value="RingsofPatheon FR"/> The name of the mod folder
+                    <attribute id="Description" type="LSString" value="Traduction du mod RingsofPatheon"/>
+                    <attribute id="Folder" type="LSString" value="RingsofPatheon FR"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="RingsofPatheon FR"/> Mod's name. I recommend same as Folder
+                    <attribute id="Name" type="FixedString" value="RingsofPatheon FR"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSString" value=""/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-					<attribute id="UUID" type="FixedString" value="73c5bedc-6e2a-4315-a5a3-e4ccf475b810"/> Generate new UUID
-					<attribute id="Version" type="int64" value="36310274143158272"/>
+		    <attribute id="UUID" type="FixedString" value="73c5bedc-6e2a-4315-a5a3-e4ccf475b810"/>
+		    <attribute id="Version" type="int64" value="36310274143158272"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version" type="int64" value="36310274143158272"/>
