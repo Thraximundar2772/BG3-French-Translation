@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_Frostbite_Description" version="1">Vous provoquez la formation de gel engourdissant sur une créature que vous pouvez voir dans la portée. La cible a un désavantage sur le prochain jet d'attaque avec une arme qu'elle effectue avant la fin de son prochain tour.</content>
+	<content contentuid="LHB_Frostbite_Status_Description" version="1">Engourdie par le gel, a un désavantage sur son prochain jet d'attaque avec une arme.</content>
+</contentList>

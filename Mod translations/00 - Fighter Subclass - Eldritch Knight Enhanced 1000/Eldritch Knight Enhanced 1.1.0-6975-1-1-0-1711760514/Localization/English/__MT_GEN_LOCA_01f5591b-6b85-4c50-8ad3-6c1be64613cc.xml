@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_Frostbite_Description" version="1">You cause numbing frost to form on one creature that you can see within range, the target has disadvantage on the next weapon attack roll it makes before the end of its next turn.</content>
+	<content contentuid="LHB_Frostbite_Status_Description" version="1">Numbed by frost, has disadvantage on its next weapon attack roll.</content>
+</contentList>
