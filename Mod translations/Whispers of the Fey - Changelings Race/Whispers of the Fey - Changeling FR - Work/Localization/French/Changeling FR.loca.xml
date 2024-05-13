@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h33007ec1gf80cg4726g875ege76880e71416" version="1">Changelin</content>
+	<content contentuid="h0f7cef08g82a7g4e3eg8a6agaf8b4ee98bbc" version="1">Avec des apparences en constante évolution, les Changelings résident dans de nombreuses sociétés sans être détectés.  Chaque Changeling peut surnaturellement adopter le visage de son choix.  Pour certains Changelings, un nouveau visage n'est qu'un déguisement.  Pour les autres Changelings, un nouveau visage peut révéler un aspect de leur âme.</content>
+	<content contentuid="h00efdfe4g7f01g4e62gbf70g4bcc037a4140" version="1">Changeur de forme</content>
+	<content contentuid="hac291435g6d5fg4738gba27gef725f5ee49a" version="1">Changeur de forme - Générique</content>
+	<content contentuid="hffb76d35gb6beg4886g8127g1337979206de" version="1">Changeur de forme - ACT 1</content>
+	<content contentuid="h5e815f99g419fg4445g8ce9g3cb7afc3b354" version="1">Changeur de forme - ACT 2</content>
+	<content contentuid="hdb5dc207g5dddg4aeaga075ge53cc062092c" version="1">Changeur de forme - ACT 3</content>
+	<content contentuid="hce93652ag575fg4d46g8b65gf2d6d6fc0228" version="1">Par une action, vous pouvez changer votre apparence.  Vous devez adopter une forme qui a la même disposition de base des membres que la vôtre.  Vos vêtements et votre équipement ne sont pas modifiés par ce trait.  Vous apprenez plus de formes en atteignant respectivement les niveaux 2, 7 et 10.</content>
+	<content contentuid="h7d2cbbd4g0746g4941g8de6ge74fd273e959" version="1">Ascendance féerique</content>
+	<content contentuid="hfbda3476gd944g466ega07cg853b07753fa8" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre le fait d'être Charmé, et la magie ne peut pas vous endormir.</content>
+	<content contentuid="h6f0df4ecgcfe7g40f5gafe8g9e12adedfda8" version="1">Immunités</content>
+	<content contentuid="he33bc6e2gf59dg4488g85f4g75a2fee69b5c" version="1">Revenez à votre forme inchangée.</content>
+	<content contentuid="h11f29090g5219g456eg8eedg35392b8f4a4f" version="1">Changez de forme en une forme humanoïde à partir d'un pool générique de races jusqu'à ce que vous mourriez ou que vous utilisiez une action pour ignorer l'effet.  Vous apprenez plus de formes en atteignant respectivement les niveaux 2, 7 et 10.</content>
+	<content contentuid="h37ff8f2bgcecdg4288gb1cdg4350816ad6ea" version="1">Transformez-vous en forme humanoïde à partir de l'ACTE 1 jusqu'à ce que vous mouriez ou utilisiez une action pour annuler l'effet.  Devient disponible en atteignant le niveau 2.</content>
+	<content contentuid="hb02554eag0274g43cegaf5bg8f05985ac0df" version="1">Transformez-vous en une forme humanoïde à partir de l'ACT 2 jusqu'à ce que vous mourriez ou utilisez une action pour ignorer l'effet.  Devient disponible en atteignant le niveau 7.</content>
+	<content contentuid="h4a0ed99agf22bg447egae45g61d9c61f86dc" version="1">Transformez-vous en une forme humanoïde à partir de l'ACT 3 jusqu'à ce que vous mourriez ou utilisez une action pour ignorer l'effet.  Devient disponible en atteignant le niveau 10.</content>
+	<content contentuid="hf034be16g182dg44c9g8fa6g7b4285c58ad8" version="1">Daxze Trihza</content>
+	<content contentuid="he961f40bg78f7g4cf5g933aga53fe67347fd" version="1">Daxze s'est portée volontaire pour s'intégrer à la société humaine afin de satisfaire sa propre curiosité. Ses parents adoptifs étaient des chercheurs qui ont mis en colère un puissant sorcier. Vendue une nouvelle fois comme offre de paix, elle grandit sous les ailes de ce pratiquant du profane.</content>
+	<content contentuid="ha9ba8277ge662g49bfg85fage8e861af9ab7" version="1">Tête Changelin Orin</content>
+	<content contentuid="h356a7852g4b95g4e27g8b8bg603488bef7f1" version="1">Tête Changelin 4</content>
+	<content contentuid="h1ea90553g123ag48afga938g7b1e6c1b253c" version="1">Tête Changelin 3</content>
+	<content contentuid="h89638118ged0eg467dgb017g131d69f1bf10" version="1">Tête Changelin 2</content>
+	<content contentuid="h2887a975g9facg4c4bgaa3ag56f4eecf51e3" version="1">Tête Changelin 1</content>
+	<content contentuid="h8c46ac72g4188g4c54g9764gfa6f2566e2a4" version="1">Instincts changelins</content>
+	<content contentuid="h00f539a9g7e70g4203ga0f8g35a756f893cf" version="1">Grâce à votre connexion au royaume féerique, vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de deux des &lt;LSTag Tooltip="Skill"&gt;Compétences&lt;/LSTag&gt; suivantes de votre choix : Tromperie, Perspicacité,  Intimidation, performance ou persuasion.</content>
+	<content contentuid="h5902e8a2g7c80g43e1g9739gd07ff88d2ec6" version="1">Changez votre forme pour celle d'un autre humanoïde.</content>
+	<content contentuid="hd10f7655gca53g4644g9c82g1c6f38212a39" version="1">Changement de forme : Lae'zel</content>
+	<content contentuid="h9662a2a7gd696g4531g81a0gb7558b79dd4f" version="1">Changement de forme : Karlach</content>
+	<content contentuid="h9efb8816g1a77g4176g8fa4gf027f646a8a5" version="1">Changement de forme : Coup de vent</content>
+	<content contentuid="h8223eac5g1dd9g40e2g818eg5d6a87635ead" version="1">Changement de forme : Wyll</content>
+	<content contentuid="h19cf14c4g5164g4e1fgb840g7ba49d8f3e16" version="1">Changement de forme : Wyll (modifié)</content>
+	<content contentuid="h595c4fe7g2cc6g436cgac04gcd00407bf316" version="1">Changement de forme : Astarion</content>
+	<content contentuid="h3509bcfage884g4f15g801fg6cdca2236393" version="1">Changement de forme : Cœur d'Ombre</content>
+	<content contentuid="he8c32d54g3335g481dg84eeg57a95446769b" version="1">Changement de forme : Alfira</content>
+	<content contentuid="h29f50e24g4374g42fcg9792g58842b6256e1" version="1">Changement de forme : Zevlor</content>
+	<content contentuid="h8e8d5741gd748g4e7bgac95gd39f3bdebad7" version="1">Changement de forme : Kagha</content>
+	<content contentuid="had5a4aacg2781g4717g8dadgc3ba2dfaef52" version="1">Changement de forme : Rolan</content>
+	<content contentuid="h343f5291ge0e9g456dg936bgf7c74b87e2dc" version="1">Changement de forme : Halsin</content>
+	<content contentuid="hbf5c5b69gaf7bg45b1g8ae7gdb6bd6386f13" version="1">Changement de forme : Minthara</content>
+	<content contentuid="h167e7f5eg89bfg40a9g89e8g154a3b63e20d" version="1">Changement de forme : Abdirak</content>
+	<content contentuid="ha1230066gbf0ag4931g97e3g473e2c48af9e" version="1">Changement de forme : Dammon</content>
+	<content contentuid="hb3ce27a1gf4f9g4708gbdc2g13062838cb30" version="1">Changement de forme : Florrick</content>
+	<content contentuid="h0728c127ga34cg4f6dga117g031367454ddb" version="1">Changement de forme : Gandrel</content>
+	<content contentuid="hf9a80f12g5543g444cga1acg354bb53857b5" version="1">Changement de forme : L'envie sombre</content>
+	<content contentuid="h997066eeg323eg4d2fga525gd021222d34de" version="1">Changement de forme : Lakrissa</content>
+	<content contentuid="hb9d130feg2e23g4c36g8189g35a5e84f38f8" version="1">Changement de forme : tante Ethel</content>
+	<content contentuid="h24a74b75g437ag469ag9b1eg8e4f9049d2c1" version="1">Changement de forme : Gimblebock</content>
+	<content contentuid="h3a7f42d1gfd81g4dd3g8f71g3483b8503ddd" version="1">Changement de forme : Taman</content>
+	<content contentuid="hff2ef875g6852g468eg88bfg962db8a45b86" version="1">Changement de forme : Baelen</content>
+	<content contentuid="hb6d0b368g82d3g48b2gbe83gaa3cbc9f12c4" version="1">Changement de forme : Derryth</content>
+	<content contentuid="h7c2c295agd8cfg48e9gbca9g186c7ea197fb" version="1">Changement de forme : Aylin</content>
+	<content contentuid="h994e4111g7e19g4d49g97b5g9a9311733df8" version="1">Changement de forme : Isobel</content>
+	<content contentuid="h71baafd6g4808g4215g8795gf1a566e42e2b" version="1">Changement de forme : Ketheric</content>
+	<content contentuid="hae4ac052g22a5g4b74gb31fgd30317b9418c" version="1">Changement de forme : Z'rell</content>
+	<content contentuid="ha6a7f103g6a97g4ddfg84c1g1d8dfea2b724" version="1">Changement de forme : Jaheira</content>
+	<content contentuid="hea483e95g2d5eg4de3g88c4gffe433db581a" version="1">Changement de forme : Celui qui était</content>
+	<content contentuid="h50f688fage4e8g42b6g9dfegb9146ee3ccf8" version="1">Changement de forme : Raphaël</content>
+	<content contentuid="hef306c61g9239g431eg83e0g84a98805b304" version="1">Changement de forme : Araj</content>
+	<content contentuid="h07aa6468gca2dg4547ga355g28040cfdf4e6" version="1">Changement de forme : Elminster</content>
+	<content contentuid="h3041bbc9g367fg4193ga5f0g3a02001c53a3" version="1">Changement de forme : Lassandra</content>
+	<content contentuid="hd11d82cdg54fbg423bg9f1ag90123e6b8c6a" version="1">Changement de forme : Kressa</content>
+	<content contentuid="hb4b97586g1894g4944ga233gbb993630bebf" version="1">Changement de forme : Le gardien</content>
+	<content contentuid="h09d8c12cg3666g4b59g8401g3ab8a8fcf3c0" version="1">Changement de forme : Minsc</content>
+	<content contentuid="h622a4988g47f8g40d0g9413gb844c262d80a" version="1">Changement de forme : Gortash</content>
+	<content contentuid="ha95005ddged97g430cga1e6gdb4ebdc49174" version="1">Changement de forme : Orin</content>
+	<content contentuid="h6d21eb64ga895g4ed5gbc12g03c5446a15dc" version="1">Changement de forme : Kith'rak Voss</content>
+	<content contentuid="h7588b14bga8f3g47ffgb7d1g3e27df474d3b" version="1">Changement de forme : Nocturne</content>
+	<content contentuid="h53327042g74fag4860g9edeg6469ff5f7a4e" version="1">Changement de forme : Lucrétif</content>
+	<content contentuid="h34979ddcg6018g4c28g8345ge56f09495163" version="1">Changement de forme : Sarevok</content>
+	<content contentuid="h1703f538g3fb3g4f14ga553g8fb38d268c1b" version="1">Changement de forme : Plus âgé</content>
+	<content contentuid="hf26851cagf9b0g4dd8g8ec9g07180d19ee26" version="1">Changement de forme : Viconia</content>
+	<content contentuid="hcb55d0dagaea8g4bd9g98c2g25dacb653292" version="1">Changement de forme : Cazador</content>
+	<content contentuid="hf9a7f06ag8b80g4698gbbc6gcbee56c1f4d0" version="1">Changement de forme : Ulma</content>
+	<content contentuid="h74093d6cg8c35g41cbgbaa6g4a9f17027a43" version="1">Changement de forme : Exxvikyap</content>
+	<content contentuid="hd276e4bfgb3c4g438cga0f5g3dff34cb7749" version="1">Changement de forme : Naoise</content>
+	<content contentuid="h2b7f18c3gbf80g4121g87cdg6ad6506a355a" version="1">Changement de forme : Korilla</content>
+	<content contentuid="h09f061c1gc4c6g422fg99fbgea8b4fb158df" version="1">Changement de forme : Sorn</content>
+	<content contentuid="hf1be70f9g673eg4e3fgb601g08e4a00507e9" version="1">Changement de forme : Nym</content>
+	<content contentuid="hffd8346fgb347g47cegbe73gcabbacf33404" version="1">Changement de forme : Dribble le clown</content>
+	<content contentuid="ha3d3b05fgeb6eg4782g83fbg264b9a217a9d" version="1">Changement de forme : Mystra</content>
+	<content contentuid="hc4e2d3fbg3317g4585ga1fcg5a3391c826fb" version="1">Changement de forme : Forme de base</content>
+	<content contentuid="h3270ead9g7ee9g45c1gb6e0gde4e8dec074d" version="1">Changement de forme : Mâle Tiefling</content>
+	<content contentuid="h7bb4b035g6cedg49dcga90ag462afca70e7f" version="1">Changement de forme : Femelle Tiefling</content>
+	<content contentuid="h6504f85cg09d3g4968g9759gf8153e51c96e" version="1">Changement de forme : Drow Mâle</content>
+	<content contentuid="he8bac825g5a74g428fg9501g46c37e4cb437" version="1">Changement de forme : Femelle Drow</content>
+	<content contentuid="heaedffffge3acg4103g9c29gd2aa52975069" version="1">Changement de forme : Mâle Humain</content>
+	<content contentuid="h3cb18f84gea66g4b6bg84aag5a6619e52b1e" version="1">Changement de forme : Femelle Humaine</content>
+	<content contentuid="h17ed1d58gfed9g427fgb07ag4192837272ef" version="1">Changement de forme : Mâle Githyanki</content>
+	<content contentuid="hdce73e36g25e2g4367gb887ge25b1fa5d0af" version="1">Changement de forme : Femelle Githyanki</content>
+	<content contentuid="h99689726g1928g4438gbd1ege9c30c83e0b9" version="1">Changement de forme : Mâle Nain</content>
+	<content contentuid="h95386cfag053ag4a22gae62g7f724a1305e9" version="1">Changement de forme : Femelle Naine</content>
+	<content contentuid="hb62ed56ag0911g44a4g9e00gae2a0194c12d" version="1">Changement de forme : Mâle Elfe</content>
+	<content contentuid="he663ece9g65c2g456eg9ed7g82294d895c1d" version="1">Changement de forme : Femelle Elfe</content>
+	<content contentuid="hf2a2eef7g0527g4155ga6a6gd440373d2386" version="1">Changement de forme : Mâle demi-elfe</content>
+	<content contentuid="h97fec884gd587g48b2g9e47g2790933a2ba1" version="1">Changement de forme : Femelle demi-elfe</content>
+	<content contentuid="h1761358fgeeceg42b5gbb43g741366a16b58" version="1">Changement de forme : Mâle Halfelin</content>
+	<content contentuid="h24e92c30g082ag4534g95b1ge07f9e0628d4" version="1">Changement de forme : Femelle Halfeline</content>
+	<content contentuid="h5c1ee8a9g723cg48b2gaeb8ga055ccbec687" version="1">Changement de forme : Mâle Gnome</content>
+	<content contentuid="h3802e5adg8754g4d79gb0adg2be4c34f4949" version="1">Changement de forme : Femelle Gnome</content>
+	<content contentuid="h9b8e3326gfd9bg48a5ga845g5ec1cf3ec3ba" version="1">Changement de forme : Mâle Drakéide</content>
+	<content contentuid="hb9bab66fg2686g4bc7g956dg035a9d3c7660" version="1">Changement de forme : Femelle Drakéide</content>
+	<content contentuid="h3415669bg8d39g4e11gbfaeg694d79bde061" version="1">Changement de forme : Mâle Demi-orque</content>
+	<content contentuid="h41a4f638g1c21g43e0g9906g5cb75d4cb5ff" version="1">Changement de forme : Femelle Demi-orque</content>
+	<content contentuid="h85c2a948gd294g42b1g8b41g6fcfdbe76fdc" version="1">Changement de forme : Femelle Gobelin</content>
+	<content contentuid="hcc52c461gc319g40a1gafc9g4f49169985bc" version="1">Changement de forme : Mâle Gobelin</content>
+	<content contentuid="h1f802c8dg1781g4d3fg84d9gdbf9c58c9611" version="1">Changement de forme : Mâle Humain fort</content>
+	<content contentuid="hf703adfcg0e34g47bcg94aag1e97c7365bb9" version="1">Changement de forme : Femme Humaine forte</content>
+	<content contentuid="haad93771g0c2dg4792g9912g2ca05776c8fb" version="1">Changement de forme : Mâle Drow fort</content>
+	<content contentuid="h2d9535f8g2210g46fag8219gc05103eac090" version="1">Changement de forme : Femelle Drow forte</content>
+	<content contentuid="hc31cb6a6g7c25g49dcgbe04g3abe3c269901" version="1">Changement de forme : Mâle Elfe fort</content>
+	<content contentuid="h271922feg6248g4b6ega047g8f3d73e8cf1d" version="1">Changement de forme : Femelle Elfe forte</content>
+	<content contentuid="h30b47cd3gdbf3g4b7dga53fgd974b3266348" version="1">Changement de forme : Mâle Demi-elfe fort</content>
+	<content contentuid="h491f604dg5176g4bd3gb565gc02f93ed2780" version="1">Changement de forme : Femelle Demi-elfe Forte</content>
+	<content contentuid="h10594fbeg41a4g43aeg8f65g3a93574b1fde" version="1">Changement de forme : Mâle Tiefling fort</content>
+	<content contentuid="hd9f99933gb606g40cdga38fg4af04fbb8856" version="1">Changement de forme : Femelle Tiefling Forte</content>
+</contentList>

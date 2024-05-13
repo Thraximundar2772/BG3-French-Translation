@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1">Gobelin</content>
+  <content contentuid="hf4ea4067g29c9g4833g9246g366ea0b0ac1d" version="1">Les gobelins occupent une place difficile dans un monde dangereux et ils réagissent en s'en prenant à toutes les créatures qu'ils croient pouvoir intimider.  Rusés au combat et cruels dans la victoire, les gobelins sont complaisants et serviles dans la défaite.</content>
+  <content contentuid="h7f4ce4a6g73a9g49bag90edg3752347a1a41" version="1">Vous êtes un petit gobelin.  Court et gros.</content>
+  <content contentuid="h1783f559g7919g4b20gb209g105ffe123904" version="1">Ascendance féerique</content>
+  <content contentuid="hd8c76b7dg236bg4a55g8616g8f57b8e16e83" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre le fait d'être Charmé, et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;  contre la fin de l'effet Charmé.</content>
+  <content contentuid="h7b73d027g0875g4841g835dg539a9fd555c1" version="1">Adorable écureuil</content>
+  <content contentuid="h31969a47g62f4g4ea6gb173g8adb04eac258" version="1">Adorable petite créature.</content>
+  <content contentuid="h12abad0dg1cf3g4c89g9f81g9f18ce3d0ad4" version="1">Un bébé écureuil</content>
+  <content contentuid="h12dfe942gdf87g4710g99d9g7a082770b37d" version="1">Il ne semble pas encore capable de grand chose.  Peut-être qu'une fois qu'il aura grandi un peu.</content>
+  <content contentuid="h873843f1gc110g4691g9ed4gee1ddaa4ae61" version="1">Un écureuil sympathique</content>
+  <content contentuid="h727a1de1g30f5g4fc3g9a04g86e4cf8ed5b5" version="1">Un ami</content>
+  <content contentuid="h6cec329dg1140g49dagaa4bg8e84344242e2" version="1">Un bon ami</content>
+  <content contentuid="h72917b9cgc738g4fa8g8b58g4b9c6a4a9d60" version="1">Mon meilleur ami</content>
+  <content contentuid="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1">Tête de gobelin 1</content>
+  <content contentuid="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1">Tête de gobelin 2</content>
+  <content contentuid="h99c7c023g6beag4c13gace4gb57bbf7cd7fb" version="1">Tête de gobelin 3</content>
+  <content contentuid="hefb17929gb996g42aagbd95g0a7dcf98a3df" version="1">Tête de gobelin 4</content>
+  <content contentuid="h67495c97ge17cg4baega614g9950b14913eb" version="1">Tête de gobelin 5</content>
+  <content contentuid="ha3e51e6agd112g499egb657ge674100a17c3" version="1">Tête de gobelin 6</content>
+  <content contentuid="h5076c659g3122g4944g8121gc57680041411" version="1">Un gros gland</content>
+  <content contentuid="h517cd086g9801g4695g870fgf6e19ce3d49b" version="1">Nourrissez votre meilleure amie</content>
+  <content contentuid="h905aa51dga99bg4d24gb5c5g64a35a47db4f" version="1">Nourrir un ami</content>
+  <content contentuid="hce8acb95g5b70g4c23ga7e0g3fa4bf85d9a9" version="1">Votre meilleur ami les adore, quel régal.</content>
+  <content contentuid="he4efd787ge325g40c3gb366g6dc6b75cde91" version="1">Guérit et rassasie l'appétit de votre ami écureuil.</content>
+  <content contentuid="hb7d4185bg0229g4bdbgb690g9d8b73edc60b" version="2">Devenir fou</content>
+  <content contentuid="h4a975442geef3g4c5aga639ge7f8cc694f90" version="4">Cédez aux instincts de base de l'écureuil pour augmenter votre &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; de [1] et éventuellement rendre les créatures proches &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Peur&lt;/LSTag&gt;.</content>
+  <content contentuid="h5c7a2e51g3e71g4a14gad8bg6dece2464ac8" version="2">Devenir fou</content>
+  <content contentuid="h6f13a4ffg7667g41cdga7edga91bcdeae784" version="2">L'écureuil est enragé !  &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; augmentée de [1].</content>
+  <content contentuid="hedc70702ge25bg48cbgbda2g7bea6da0e31f" version="1">Sautez sur une cible pour la mordre et la frapper &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à plat ventre&lt;/LSTag&gt;.</content>
+  <content contentuid="hac9d9676g2480g404dg8663g3035f3449b59" version="1">Vol puissant</content>
+  <content contentuid="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1">Septum osseux</content>
+  <content contentuid="hfbc4eec5ge8eeg4a56gb73dg9e476a7a330f" version="1">Trouver le meilleur ami</content>
+  <content contentuid="h2c42450agb906g4078ga98ag43cb8c6e9d60" version="1">Faites appel à votre meilleure amie, elle viendra en courant !  Vous pouvez utiliser ce trait une fois par jour, en récupérant une utilisation lorsque vous terminez un repos long.</content>
+  <content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Vision dans le noir</content>
+  <content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">La fureur des petits</content>
+  <content contentuid="h770409c2gc38ag4cc7gaa2ega21ea3d88eb8" version="1">Parler avec les bêtes</content>
+  <content contentuid="h9a100708g2fe2g4ef1ga11dg8530f3cb6a75" version="1">Grâce aux sons et aux gestes, vous pouvez communiquer des idées simples avec les bêtes.  Les gobelins de Dankwood aiment les animaux et gardent souvent des écureuils, des blaireaux, des lapins, des taupes, des pics et d'autres créatures comme animaux de compagnie bien-aimés.</content>
+  <content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Charge de trait gobelin</content>
+  <content contentuid="h157407c7gde6cg4110g9653gcd30e0e9e5f7" version="1">Évasion agile</content>
+  <content contentuid="h5e88dccag4c70g437fg8f2ag38b38b8302dc" version="1">Lorsque vous blessez une créature avec une attaque ou un sort et que la taille de la créature est plus grande que la vôtre, vous pouvez faire en sorte que l'attaque ou le sort inflige des dégâts supplémentaires à la créature.  Les dégâts supplémentaires sont égaux à votre bonus de maîtrise.</content>
+  <content contentuid="hb6c131a5g020bg4339g9736ge47a222f7d13" version="1">Vous pouvez effectuer l'action Désengager ou Cacher comme une action bonus à chacun de vos tours.</content>
+  <content contentuid="hdc27891ega12dg4bceg99dcg3a75fa59d499" version="1">Nombre de fois où vous pouvez utiliser votre capacité raciale gobeline.</content>
+  <content contentuid="h5b9ac58cg0e4ag4b15g8c35gc2ab75b3026d" version="1">Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, récupérant toutes les utilisations dépensées lorsque vous terminez un repos long, et vous ne pouvez pas l'utiliser plus d'une fois par tour.</content>
+  <content contentuid="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1">Vieux brillant</content>
+  <content contentuid="h423af4b3gb909g49a0ga6beg17620cf9ed09" version="1">À la fois boudé et adoré par son espèce pour ses prouesses magiques, ce vieux gobelin cherche une nouvelle vie d'aventure et d'émerveillement !</content>
+  <content contentuid="h286c14beg6a72g46c3gbd83g6804f991bd92" version="1">Toi et moi, nous sommes pareils, je vais te mordre les oreilles et les pousser.  &lt;i&gt;En bas.  Ton.  Gob&lt;/i&gt; !</content>
+  <content contentuid="h7a846460g8bfbg47a8gb2e2ged155a755a84" version="1">Prenez le chemin du nord, mon pote.  Il vous serpente, sûr comme le soleil, jusqu'à ce que vous atteigniez les tours.</content>
+  <content contentuid="h1d3e939cg4d8eg417dga4b9g692d33005f77" version="4">Retirez-vous de ma présence, chers parents, ou payez le prix.</content>
+  <content contentuid="h86016808g8d91g47a0g874cg5bc447ba9296" version="1">Continue.  Je ne vais pas retenir un gobelin.</content>
+  <content contentuid="h629e49a0g1367g4aa2gb1a9g1fb6edad2c1c" version="1">Bien!  Regardez qui est ramené en arrière.  Et en compagnie si familière !  À quel point as-tu fait une erreur ?</content>
+  <content contentuid="h1be183dbg841ag4acag8d2cgdd79b3ccd4ca" version="1">L'ami drow de Ragzlin ne sera pas content d'entendre &lt;i&gt;ça&lt;/i&gt;.</content>
+  <content contentuid="hc4fa2e67g1cb9g43dag9eeag8a9a501d473d" version="1">Petite merde.</content>
+  <content contentuid="h9a611dceg6c54g4de5g8f3fgab03f5bbc26c" version="1">Véritable parent de l'âme.</content>
+  <content contentuid="hf586656dge1b1g41dfga8a9g528364fc11d7" version="1">Attention, cousine.  Ce tambour est pour appeler des renforts.</content>
+  <content contentuid="hbca49369gebbdg4e18gbe5bg143fada1e307" version="4">Une belle entrée, cousin, mais nous avons reçu des commandes.  Les gars, intrus !</content>
+  <content contentuid="hda957372g20d0g4dd3ga713g482e16e4dce8" version="1">Ah, mon pote, tu n'étais pas censé toucher à ça.</content>
+  <content contentuid="h0f9a4720g4b34g45d0gad63gfb647678243f" version="1">Bien joué, cousin !  Dommage que vous veniez de sonner l'alarme.</content>
+  <content contentuid="h37933664g14ddg4179g8d2dgf0a8998ca409" version="1">Votre, euh, foutez le camp, cousin.</content>
+  <content contentuid="h6b1ec921g6c5eg4ab1g876bg5f5cb4e6a699" version="1">Bouscule-toi, Klaw !  Un gobelin arrive.</content>
+  <content contentuid="h8df396bfg7867g46e1ga459g22a8f5b5170d" version="1">Je pensais qu'un gobelin connaîtrait la route défoncée !</content>
+  <content contentuid="hcf4bd9c1g0316g4eedg9dfdg65902b9fccba" version="1">Oh, recule cousin !  D'où viens-tu ?</content>
+  <content contentuid="h52171d70gc7e2g4569g94d5g0309b49b2775" version="3">Je suis pressé.  J'ai un message important du patron.</content>
+  <content contentuid="h6740c37dge630g428aga507g71c87437d0c8" version="1">Je-je-je n'avais pas réalisé.  Je suis vraiment désolé, True Soul.  &lt;i&gt;Très &lt;/i&gt;désolé.</content>
+  <content contentuid="h2bc34aa8gce36g4687g8e8fgdbd6f38db228" version="2">Bienvenue cousin.  Il y a eu des intrus il y a quelque temps - je ne peux pas être trop prudent.</content>
+  <content contentuid="hd2ce5625g007fg4845gb566gd72309322aa1" version="1">Puis Minthara est arrivé.  Et maintenant, vous... l'Absolu raffolez des gobelins, semble-t-il.</content>
+  <content contentuid="hba665a8eg0e72g4566g95cageb115e4df2c6" version="1">Comme la prêtresse Gut et le patron Ragzlin.  Dieux, nous avons même un &lt;i&gt;gobelin&lt;/i&gt;.  Deux, je compte sur toi.</content>
+  <content contentuid="h9584ccf4ge7e3g4f73g848dg7fde8efa961b" version="3">Notre espèce ne traite généralement pas directement avec le patron Ragzlin et la prêtresse Gut.</content>
+  <content contentuid="h6165dc7cg366dg4ad1gb5f9g85bf98694a07" version="1">Puis Minthara est arrivé.  Et maintenant, vous... l'Absolu raffolez des gobelins, semble-t-il.</content>
+  <content contentuid="h541226aagd15fg4ac7gb4ecgad4aba0aab74" version="1">Entre nous tous, nous nageons en gobelin.  Allez-y, je suis sûr que le drow vous attend.</content>
+  <content contentuid="hb568a31eg610ag47e8g8c8cg2ca80c212e5d" version="1">J'ai une audience avec Minthara, cousin.</content>
+  <content contentuid="hab33524eg3386g447bg85d0g0c14b42e8f3c" version="2">J'ai une audience avec celui qui est en charge, ma sœur.</content>
+  <content contentuid="h68a79fe9g44ceg4cfcg8862ge39e85f3fa53" version="5">Je pourrais t'apprivoiser pour devenir un worg, &lt;i&gt;si&lt;/i&gt; je le voulais.  Je n'en ai pas vraiment envie.</content>
+  <content contentuid="hb227f9f2g780fg4e75ga631g5ae82c206671" version="4">Je ne m'attendais pas à voir un gobelin ici.  La patronne vous a-t-elle envoyé pour me sauver ?</content>
+  <content contentuid="h10f8832bg7ce5g43abg8101g21ef2a9fd4e7" version="4">Je suppose que vous en voulez à Minthara.  C'est peut-être votre laquais, à en juger par votre apparence.</content>
+  <content contentuid="h7ed23fb8gfdc3g410fg81e5g8a7b013a4066" version="1">Gobelin peau-verte</content>
+  <content contentuid="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1">Peuple souterrain, les premiers gobelins servaient à la cour de la Reine de l'Air et des Ténèbres, l'une des archéées de Feywild.  Les gobelins ont prospéré dans son domaine dangereux grâce à un avantage spécial de sa part : un talent surnaturel pour trouver les points faibles chez des ennemis plus grands qu'eux et pour se sortir des ennuis.  Les gobelins ont apporté cette bénédiction féerique avec eux dans les mondes du plan Matériel, même s'ils ne se souviennent pas du royaume féerique qu'ils habitaient. Aujourd'hui, de nombreux gobelins poursuivent leur propre destinée, échappant aux complots des archfees et des dieux.</content>
+  <content contentuid="h5f7b411eg2a77g44f4g9c42gca164c6f5659" version="1">Gobelin de Dankwood</content>
+  <content contentuid="hd8247159g4c24g467cgbe9eg11cf78e29787" version="1">Les gobelins de Dankwood ressemblent beaucoup à tous les autres gobelins ordinaires, mais ils sont beaucoup plus doux et artistiques que les gobelins sauvages et grossiers du monde.  Ils sont curieux et entretiennent un lien magique avec les petites créatures de la forêt avec lesquelles ils sont souvent amis.  Ils sont rapides et agiles et adorent explorer.  Pour cette raison, ils font de grands aventuriers et guides.</content>
+</contentList>
