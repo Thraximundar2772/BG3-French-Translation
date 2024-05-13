@@ -7,25 +7,25 @@
         <node id="Dependencies" />
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Thraximundar2772" />
-          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
           <attribute id="Description" type="LSString" value="Traduction en Français du mod : Expension Level 13-20" />
           <attribute id="Folder" type="LSString" value="Expension Level 13-20 FR" />
-          <attribute id="GMTemplate" type="FixedString" value="" />
-          <attribute id="LobbyLevelName" type="FixedString" value="" />
-          <attribute id="MD5" type="LSString" value="" />
-          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
-          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="GMTemplate" type="FixedString" value=""/>
+          <attribute id="LobbyLevelName" type="FixedString" value=""/>
+          <attribute id="MD5" type="LSString" value=""/>
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+          <attribute id="MenuLevelName" type="FixedString" value=""/>
           <attribute id="Name" type="FixedString" value="Expension Level 13-20 FR" />
-          <attribute id="NumPlayers" type="uint8" value="4" />
-          <attribute id="PhotoBooth" type="FixedString" value="" />
-          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="NumPlayers" type="uint8" value="4"/>
+          <attribute id="PhotoBooth" type="FixedString" value=""/>
+          <attribute id="StartupLevelName" type="FixedString" value=""/>
           <attribute id="Tags" type="LSString" value="Translation" />
-          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="Type" type="FixedString" value="Add-on"/>
           <attribute id="UUID" type="FixedString" value="1ae448e8-3fde-4a41-947d-ec915dd170ce" />
-          <attribute id="Version64" type="int64" value="36028803461414912" />
+          <attribute id="Version64" type="int64" value="36028803461414914"/>
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="36028803461414912" />
+              <attribute id="Version64" type="int64" value="36028803461414914" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
