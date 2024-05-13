@@ -349,59 +349,59 @@
   <content contentuid="h4d90bd0ege7c8g4c98g8d79gd6f6c4b53189" version="1">Cette entité émet une aura solaire de rayon de [1].</content>
   <content contentuid="hf264b38fgf2eeg4572g99dcg9f0ed6f37c0f" version="1">A un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts qui infligent des dégâts de Feu ou Radiant.</content>
   <content contentuid="h4e79d344g6a5cg4a0fga194ge2962ed1408b" version="1">Né de la tempête</content>
-  <content contentuid="hb9d09447g6414g448bg93fagd55ea6d80bb9" version="1">You gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
-  <content contentuid="hc88d8c3cg3ca9g443fg8d7cg2f3863cdd611" version="1">Improved Duplicity</content>
-  <content contentuid="hde8dabe0g866dg48e5g96deg66998a7ba0e1" version="1">You can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can command any number of them to move up to [1].</content>
-  <content contentuid="hcc95376agefcdg4f97g812cg47350e391a5f" version="1">Command Duplicate(s)</content>
-  <content contentuid="hf33ec9c4g1479g499bgb46dgc9f072d6d9f0" version="1">Command your duplicate(s) to move.</content>
-  <content contentuid="h75be88fcg63f2g4e6dg9017g35c69b889191" version="1">Commanded</content>
-  <content contentuid="h4c4e66b1g7a07g4f2cg879dg5f270384bbe4" version="1">Can move due to summoner's command.</content>
-  <content contentuid="h1c477f46g093eg439fg9aa5g2261b71b4c6b" version="1">Avatar of Battle</content>
-  <content contentuid="h0769455dg28f3g4ca0g8532gf2b65ee76bd3" version="1">You gain &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to bludgeoning, piercing, and slashing damage from nonmagical attacks.</content>
-  <content contentuid="h95196965g269ag4730g8e28gc3537f80996d" version="1">Divine Intervention Improvement</content>
-  <content contentuid="h240e1e58gcee8g4596g94ebg4d4c1e908877" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Shout_DivineIntervention"&gt;Divine Intervention&lt;/LSTag&gt; to invoke your God's aid.</content>
-  <content contentuid="hcd73c76fg0391g49abgb7b5g54fe4c16f3be" version="1">Call upon your deity in your moment of greatest need.</content>
-  <content contentuid="h684134dbgebacg43bbg9ff1ge03f1cbd3746" version="1">Beast Spells</content>
-  <content contentuid="h77ad60aegc444g45f3ga2d8g95962eee8499" version="1">You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.</content>
-  <content contentuid="h9082b07ag0d3eg4326gac6eg01690eed92fe" version="1">Archdruid</content>
-  <content contentuid="h5e8d8049g8380g430cg8efeg79536960d5bd" version="1">You can use your Wild Shape an unlimited number of times. Additionally, you can ignore the verbal and somatic components of your druid spells. You gain this benefit in both your normal shape and your beast shape from Wild Shape.</content>
-  <content contentuid="he63a2c1ag91c1g43c8g9ed8gae8259444712" version="1">Superior Extra Attack</content>
-  <content contentuid="hf62756fag5dceg4890g9011g61f535a64c42" version="1">You can make three additional attacks after attacking with your main-hand weapon.</content>
-  <content contentuid="h852450ffg190eg44c5g8843g5fb33d09b238" version="1">You can take an additional three weapon attacks when you take the Attack action.</content>
-  <content contentuid="h141e54d7g3bbbg4029gb2a2g9f46b40ec6c3" version="1">Relentless</content>
-  <content contentuid="he8d4356eg8d22g470dg9a15g9ab02002559a" version="1">When you roll initiative and have no &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Dice&lt;/LSTag&gt; remaining, you regain 1 &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Die&lt;/LSTag&gt;.</content>
-  <content contentuid="hee51f780g4c1eg4fd5g991bge8e9f5a371d2" version="1">Improved Combat Superiority (2)</content>
-  <content contentuid="hc070fd26g5a32g4247g9206g7dbc371945d5" version="2">The size of your &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Dice&lt;/LSTag&gt; increases to 1d12.</content>
-  <content contentuid="he6f63cc2g2950g4709ga1bbg7f80cf5552dd" version="1">Improved War Magic</content>
-  <content contentuid="h6a9e1f03gc23eg4c32gbdf0ge2833eaa72dc" version="1">You have honed your body and magic for war. After you cast a spell, you can make a weapon attack using a bonus action.</content>
-  <content contentuid="he2543e31g97afg4aadg8669geb540123aeae" version="1">Superior Critical</content>
-  <content contentuid="h8f67aa7ega977g4e59gbe62g2d5cf7b6e329" version="2">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 2. This effect can stack.</content>
-  <content contentuid="hb2e372bbgaed9g495fgaa39gf5f0bc14c554" version="1">Survivor</content>
-  <content contentuid="h1fa40eacgf345g4f78ga87cg6f921ee255e8" version="2">You attain the pinnacle of resilience in battle. At the start of each of your turns, you regain [1] if you have no more than half of your &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; left. You don't gain this benefit if you have [2].</content>
-  <content contentuid="h7ff4c21bga65eg4dc3gbed8gea6a92af61f7" version="1">Regain [1] per turn.</content>
-  <content contentuid="hb7e698cfg4d01g4c02g8d72g8a074414024d" version="1">Empty Body</content>
+  <content contentuid="hb9d09447g6414g448bg93fagd55ea6d80bb9" version="1">Vous gagnez la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Voler&lt;/LSTag&gt;.</content>
+  <content contentuid="hc88d8c3cg3ca9g443fg8d7cg2f3863cdd611" version="1">Duplicité améliorée</content>
+  <content contentuid="hde8dabe0g866dg48e5g96deg66998a7ba0e1" version="1">Vous pouvez créer jusqu'à quatre doublons de vous-même, au lieu d'un, lorsque vous utilisez Invoquer un double. Par une action bonus pendant votre tour, vous pouvez ordonner à n'importe quel nombre d'entre eux de se déplacer jusqu'à [1].</content>
+  <content contentuid="hcc95376agefcdg4f97g812cg47350e391a5f" version="1">Commander Doublon(s)</content>
+  <content contentuid="hf33ec9c4g1479g499bgb46dgc9f072d6d9f0" version="1">Commandez à vos doublons de se déplacer.</content>
+  <content contentuid="h75be88fcg63f2g4e6dg9017g35c69b889191" version="1">Commandé</content>
+  <content contentuid="h4c4e66b1g7a07g4f2cg879dg5f270384bbe4" version="1">Peut se déplacer grâce à l'ordre de l'invocateur.</content>
+  <content contentuid="h1c477f46g093eg439fg9aa5g2261b71b4c6b" version="1">Avatar de bataille</content>
+  <content contentuid="h0769455dg28f3g4ca0g8532gf2b65ee76bd3" version="1">Vous gagnez &lt;LSTag Tooltip="Resistance"&gt;Résistance&lt;/LSTag&gt; aux dégâts contondants, perforants et tranchants des attaques non magiques.</content>
+  <content contentuid="h95196965g269ag4730g8e28gc3537f80996d" version="1">Amélioration de l'intervention divine</content>
+  <content contentuid="h240e1e58gcee8g4596g94ebg4d4c1e908877" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Shout_DivineIntervention"&gt;Intervention divine&lt;/LSTag&gt; pour invoquer l'aide de ton Dieu.</content>
+  <content contentuid="hcd73c76fg0391g49abgb7b5g54fe4c16f3be" version="1">Faites appel à votre divinité au moment où vous en avez le plus besoin.</content>
+  <content contentuid="h684134dbgebacg43bbg9ff1ge03f1cbd3746" version="1">Incantation animale</content>
+  <content contentuid="h77ad60aegc444g45f3ga2d8g95962eee8499" version="1">Vous pouvez lancer plusieurs de vos sorts de druide sous n’importe quelle forme que vous prenez en utilisant Wild Shape. Vous pouvez exécuter les composantes somatiques et verbales d'un sort de druide sous Forme sauvage, mais vous n'êtes pas en mesure de fournir des composantes matérielles.</content>
+  <content contentuid="h9082b07ag0d3eg4326gac6eg01690eed92fe" version="1">Archidruide</content>
+  <content contentuid="h5e8d8049g8380g430cg8efeg79536960d5bd" version="1">Vous pouvez utiliser votre Forme sauvage un nombre illimité de fois. De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide. Vous bénéficiez de cet avantage à la fois dans votre forme normale et dans votre forme de bête grâce à Forme sauvage.</content>
+  <content contentuid="he63a2c1ag91c1g43c8g9ed8gae8259444712" version="1">Attaque supplémentaire supérieure</content>
+  <content contentuid="hf62756fag5dceg4890g9011g61f535a64c42" version="1">Vous pouvez effectuer trois attaques supplémentaires après avoir attaqué avec votre arme principale..</content>
+  <content contentuid="h852450ffg190eg44c5g8843g5fb33d09b238" version="1">Vous pouvez effectuer trois attaques d'armes supplémentaires lorsque vous effectuez l'action Attaque..</content>
+  <content contentuid="h141e54d7g3bbbg4029gb2a2g9f46b40ec6c3" version="1">Implacable</content>
+  <content contentuid="he8d4356eg8d22g470dg9a15g9ab02002559a" version="1">Lorsque vous lancez un jet d'initiative et que vous n'avez pas de &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de supériorité&lt;/LSTag&gt; restant, vous récupérez 1 &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de supériorité&lt;/LSTag&gt;.</content>
+  <content contentuid="hee51f780g4c1eg4fd5g991bge8e9f5a371d2" version="1">Supériorité au combat améliorée (2)</content>
+  <content contentuid="hc070fd26g5a32g4247g9206g7dbc371945d5" version="2">La taille de votre &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de supériorité&lt;/LSTag&gt; augmente à 1d12.</content>
+  <content contentuid="he6f63cc2g2950g4709ga1bbg7f80cf5552dd" version="1">Magie de guerre améliorée</content>
+  <content contentuid="h6a9e1f03gc23eg4c32gbdf0ge2833eaa72dc" version="1">Vous avez perfectionné votre corps et votre magie pour la guerre. Après avoir lancé un sort, vous pouvez effectuer une attaque avec une arme en utilisant une action bonus.</content>
+  <content contentuid="he2543e31g97afg4aadg8669geb540123aeae" version="1">Critique supérieur</content>
+  <content contentuid="h8f67aa7ega977g4e59gbe62g2d5cf7b6e329" version="2">Le &lt;LSTag Tooltip="AttackRoll"&gt;Jet&lt;/LSTag&gt; dont vous avez besoin pour una &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; en attaquant est réduit de 2. Cet effet peut se cumuler.</content>
+  <content contentuid="hb2e372bbgaed9g495fgaa39gf5f0bc14c554" version="1">Survivant</content>
+  <content contentuid="h1fa40eacgf345g4f78ga87cg6f921ee255e8" version="2">Vous atteignez le summum de la résilience au combat. Au début de chacun de vos tours, vous récupérez [1] si vous n'avez pas plus de la moitié de vos &lt;LSTag Tooltip="HitPoints"&gt;Point de vie&lt;/LSTag&gt;. Vous ne bénéficiez pas de cet avantage si vous possédez [2].</content>
+  <content contentuid="h7ff4c21bga65eg4dc3gbed8gea6a92af61f7" version="1">Regagnez [1] par tour.</content>
+  <content contentuid="hb7e698cfg4d01g4c02g8d72g8a074414024d" version="1">Corps vide</content>
   <content contentuid="h39f09b62g8cbeg40c1g857cg62838f22d08e" version="1">You can use your action to spend 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; to become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for 10 turns. During that time, you also have &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to all damage but force damage.</content>
   <content contentuid="h952e0f22gc8c1g4131gb4ccg2d872c41113f" version="1">You become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and gain &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to all damage but force damage.</content>
   <content contentuid="h5f4df36fge60cg426agb675g86c92d44cd71" version="1">This entity is &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to all damage except force damage.</content>
-  <content contentuid="h05bb9ee6geb06g4761gbfc3gc3e9db4024e4" version="1">Perfect Self</content>
+  <content contentuid="h05bb9ee6geb06g4761gbfc3gc3e9db4024e4" version="1">Perfection de l'être</content>
   <content contentuid="h3344c2e8g3f98g4f4eg8408g069b4397cba0" version="1">When you roll for initiative and have no &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; remaining, you regain 4 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt;.</content>
-  <content contentuid="ha8aa9c4cg40f1g431ag8fc0g240fdedcce08" version="1">Avenging Angel</content>
-  <content contentuid="hba3f126eg144bg4eeagb8a6g5b61fb424959" version="1">You can assume the form of an angelic avenger.</content>
+  <content contentuid="ha8aa9c4cg40f1g431ag8fc0g240fdedcce08" version="1">Ange de la vengeance</content>
+  <content contentuid="hba3f126eg144bg4eeagb8a6g5b61fb424959" version="1">Vous pouvez prendre la forme d’un Ange de la vengeance .</content>
   <content contentuid="hc2602725gd0edg4e31g80e9g0d77ef237b94" version="1">Assume the form of an angelic avenger, granting you the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;. You also emanate a [1] radius aura of menace which &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightens&lt;/LSTag&gt; creatures that enter or start their turn in the aura.</content>
   <content contentuid="hdd60d0e7g2c98g4c61ga7beg434862304410" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against these &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; creatures also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
   <content contentuid="h92d3a9efg7c26g4bafgb9d3gfd449c80419b" version="1">This entity has the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; and has a [1] aura that &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightens&lt;/LSTag&gt; creatures that enters or starts it turn in the aura.</content>
   <content contentuid="hd5b57741g1156g4eb6g9d7cgf29b90a0831f" version="7">Cannot move. Frightened entities also have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this entity also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
-  <content contentuid="h3aad821dga734g4ca0g9f61g6525eb9def19" version="1">Angel Wings</content>
-  <content contentuid="h768ab8eegec01g4a74ga13cg8f58f41c80e4" version="1">These wings were gained from the Avenging Angel feature.</content>
-  <content contentuid="h8dfccfffgffb9g4eeeg932cg18d2ad31aa96" version="1">Feral Senses</content>
+  <content contentuid="h3aad821dga734g4ca0g9f61g6525eb9def19" version="1">Ailes d'anges</content>
+  <content contentuid="h768ab8eegec01g4a74ga13cg8f58f41c80e4" version="1">Ces ailes ont été obtenues grâce à la capacité Ange de la vengeance.</content>
+  <content contentuid="h8dfccfffgffb9g4eeeg932cg18d2ad31aa96" version="1">Sens sauvages</content>
   <content contentuid="h919e72e4gca80g459dg8a61g8873b819675b" version="1">You gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it. You are also aware of the location of any &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creature within [1] of you, provided that the creature isn't hidden from you and you aren't &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; or Deafened.</content>
-  <content contentuid="hd6a55ae9ge803g4347gb3c7g0b852bc16ae9" version="1">Foe Slayer</content>
+  <content contentuid="hd6a55ae9ge803g4347gb3c7g0b852bc16ae9" version="1">Tueur implacable</content>
   <content contentuid="h1da8c763gd3bdg4e18g8eb5g19506772a30c" version="1">You become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the &lt;LSTag Tooltip="AttackRoll"&gt;attack&lt;/LSTag&gt; or damage roll of an attack you make.</content>
-  <content contentuid="hc11edb90g4b17g4dd9gac35g22a338886fa5" version="1">Foe Slayer: Attack</content>
+  <content contentuid="hc11edb90g4b17g4dd9gac35g22a338886fa5" version="1">Tueur implacable : Attaque</content>
   <content contentuid="h46c0f116g88fbg4963g8d30g09715eddb27a" version="1">Add your Wisdom modifier to the &lt;LSTag Tooltip="AttackRoll"&gt;attack&lt;/LSTag&gt; roll of an attack you make.</content>
-  <content contentuid="h0fd97129g9005g4524gbdddgd0a1ed453bc8" version="1">Foe Slayer: Damage</content>
-  <content contentuid="h03102422g952cg4af1gbb63gf388454a526b" version="1">Add your Wisdom modifier to the damage roll of an attack you make.</content>
-  <content contentuid="hb9f03c21g6181g4da1g869fg4b62335c5ee3" version="1">Wind Soul</content>
+  <content contentuid="h0fd97129g9005g4524gbdddgd0a1ed453bc8" version="1">Tueur implacable : Dégâts</content>
+  <content contentuid="h03102422g952cg4af1gbb63gf388454a526b" version="1">Ajoutez votre modificateur de Sagesse au jet de dégâts d'une attaque que vous effectuez.</content>
+  <content contentuid="hb9f03c21g6181g4da1g869fg4b62335c5ee3" version="1">Âme du vent</content>
   <content contentuid="h14956f35gef29g4242g8142g124c70ed98c5" version="1">You gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to lightning and thunder damage, the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_WindSoul"&gt;Fly&lt;/LSTag&gt; up to [1] and can share your ability to fly with others.</content>
   <content contentuid="h0783ca61ge6b8g48c9ga1ffg16532804aeab" version="1">Reduce the distance you can &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_WindSoul"&gt;Fly&lt;/LSTag&gt; by half and grant other creatures the same ability to fly.</content>
   <content contentuid="h12c1ca11g0c72g400fg9769gea8eefbf0b1e" version="1">Has the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_WindSoul_9m"&gt;Fly&lt;/LSTag&gt;.</content>
