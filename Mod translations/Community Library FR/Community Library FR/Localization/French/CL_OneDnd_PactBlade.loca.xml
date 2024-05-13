@@ -1,0 +1,28 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="hd8d71343g6d98g4099g8a53g093b6242d2d5" version="1">Arme du Pacte de Liaison : Arme principale de mélée</content>
+<content contentuid="h43d73aebg49c0g4159g8735gda570350149a" version="1">Arme du Pacte de Liaison : Arme principale à distance</content>
+<content contentuid="h3a3621e2g0e6dg4b18gb401g380c5da4bb04" version="1">Arme du Pacte de Liaison : Arme secondaire de mélée</content>
+<content contentuid="h6e1f3b08g9338g4194gb79egdb574add28ff" version="1">Arme du Pacte de Liaison : Arme secondaire à distance</content>
+<content contentuid="he9e44a3eg7f4ag41b9gb857g97f69f21e401" version="1">Arme du Pacte de Liaison : Défaire</content>
+<content contentuid="hd6ae785ag6f2fg4173g9319gdf789b24385f" version="1">Bascule du Pacte de Liaison : Arme principale de mélée</content>
+<content contentuid="h5a6b2e55g2decg4478gbac1g6abc143d88b1" version="1">Bascule du Pacte de Liaison : Arme principale à distance</content>
+<content contentuid="h0467fa81gf86fg4ef5gb72bgb3e14efe3362" version="1">Bascule du Pacte de Liaison : Arme secondaire de mélée</content>
+<content contentuid="hc6dd4c2dg8a5fg4fd9gb1bdga42f621e1658" version="1">Bascule du Pacte de Liaison : Arme secondaire à distance</content>
+<content contentuid="h983e72deg4e0cg4ac8g80d0g03146a5a2e83" version="1">L'Occultiste lié à cette arme est en a toujours la  &lt;LSTag Tooltip="Proficiency"&gt;Maitrise&lt;/LSTag&gt;. L'arme inflige[1] au lieu de ses dégâts habituels.</content>
+<content contentuid="he9ed94abg0148g48d9g8e7egcfa402c8e040" version="1">Vous lie à votre Arme principale de mélée. Ses dégâts deviennent magiques et vous pouvez lui faire infliger[1],[2] ou[3] au lieu de ses dégâts habituels.</content>
+<content contentuid="h08226d83g061ag4521gb627g74a3f013fc52" version="1">Vous lie à votre Arme principale à distance. Ses dégâts deviennent magiques et vous pouvez lui faire infliger[1],[2] ou[3] au lieu de ses dégâts habituels.</content>
+<content contentuid="hf5bd604cg0662g4c2fgad66g4bbc4115959c" version="1">Vous lie à votre Arme secondaire de mélée. Ses dégâts deviennent magiques et vous pouvez lui faire infliger[1],[2] ou[3] au lieu de ses dégâts habituels.</content>
+<content contentuid="he8e06849ge21ag4734g9282g79f8f80b1591" version="1">Vous lie à votre Arme secondaire à distance. Ses dégâts deviennent magiques et vous pouvez lui faire infliger[1],[2] ou[3] au lieu de ses dégâts habituels.</content>
+<content contentuid="h47a84058g47abg44b4gb33agd30875eae28e" version="1">Sur l'équipement: &lt;br&gt;Lorsque vous n'êtes pas en combat, vous vous liez automatiquement aux armes que vous équipez.</content>
+<content contentuid="h8f70b516g19ebg47f2g8cbagda7df0f2e370" version="1">Attaques avec votre Arme du pacte inflige [1].</content>
+<content contentuid="hba6e2a96gcefbg431agb604g02c9d84e1d46" version="1">Liez-vous à votre arme. Ses dégâts deviennent magiques et vous pouvez lui faire infliger[1], [2] ou[3] au lieu de ses dégâts habituels. Vous ne pouvez pas la laisser tomber ou la lancer, et vous en gagnez la &lt;LSTag Tooltip="WeaponProficiency"&gt;Maitrise&lt;/LSTag&gt; avec si vous ne l'aviez pas déjà.</content>
+<content contentuid="hbfedf3c8gc2ebg4ccagb222g605b2fe383f1" version="1">Arme du Pacte: Necrotique</content>
+<content contentuid="ha378d7b5g1870g4350ga61bg3ffcf601e034" version="1">Arme du Pacte: Psychique</content>
+<content contentuid="hac917788g7986g44f6g802aga22564ddff40" version="1">Arme du Pacte: Radiant</content>
+<content contentuid="hc174c0dbg30bdg41e4g8c8cge54257c4584e" version="1">Vous ne pouvez avoir qu'une seule Arme du Pacte à la fois.</content>
+<content contentuid="h3c811d7bg3666g4dcfg9791gdd37d82a72c7" version="1">Libérez le lien avec votre arme.</content>
+<content contentuid="hd3e167a8g16fag4658g964bg85d209e6f04b" version="1">Pas d'arme de mélée équipée.&lt;br&gt;</content>
+<content contentuid="h49da39e7gcac2g435agbfd7g81138ace47b1" version="1">Pas d'arme à distance équipée.&lt;br&gt;</content>
+<content contentuid="hef7dd7fbgfff5g4882g8f59g6eacf657cb89" version="1">Pas d'arme secondaire équipée.&lt;br&gt;</content>
+<content contentuid="ha46981c9g003ag4c06g9aa1gd811c530608f" version="1">Vous pouvez &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade"&gt;Invoquer une arme du pacte&lt;/LSTag&gt;, ou &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade_Bind"&gt;Lier&lt;/LSTag&gt; celle que vous utilisez, ses dégâts deviennent magiques et vous pouvez lui faire infliger[1], [2] ou[3] au lieu de ses dégâts habituels.</content>
+</contentList>

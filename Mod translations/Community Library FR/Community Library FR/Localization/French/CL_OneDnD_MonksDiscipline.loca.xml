@@ -1,0 +1,28 @@
+<contentList>
+<!-- Monk’s Discipline -->
+<content contentuid="h54c1dc8971ae437cb8e4f85c1d135a0770dg" version="1">Discipline du moine</content>
+<content contentuid="h4e5a7c5bfdcf4b6dbe09638690ac342df62f" version="1">Votre autodiscipline et votre entraînement martial vous permettent d’exploiter en vous un puits d’énergie extraordinaire. Vous pouvez dépenser &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;ces points&lt;/LSTag&gt; pour alimenter les techniques de moine avancées.</content>
+<content contentuid="h2a84d236ac1241b68bd127b5be0840fa3g10" version="1">Vous commencez en connaissant trois de ces techniques : &lt;LSTag Type="Spell" Tooltip="CL_Target_OneDnD_FlurryOfBlows_FirstStrike"&gt;Déluge de coups&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Shout_OneDnD_PatientDefence"&gt;Défense patiente&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="CL_Shout_OneDnD_StepOfTheWind"&gt;Déplacement aérien&lt;/LSTag&gt;.</content>
+<!-- Ki Action Resource Update -->
+<content contentuid="h2833afe5dba74f8680ef69d9fc8956b37cc9" version="1">Points de Discipline : 2</content>
+<content contentuid="hbdbfec264cdb4ee98e665df930390108a41e" version="1">Point(s) de Discipline</content>
+<content contentuid="h12acf4ef97a740e89b27a9d5a258ee8e11g7" version="1">votre autodiscipline et votre entraînement martial vous permettent d’exploiter en vous un puits d’énergie extraordinaire. Vous pouvez dépenser des Points de Discipline pour alimenter des techniques de moine avancées.</content>
+<content contentuid="h8947490e4ba34e3cbf8e9841392b6aad9245" version="1">Point de Discipline additionnel</content>
+<content contentuid="hb8291b241bc84255af5815b4df5f2226ee5e" version="1">Vous gagnez un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de discipline&lt;/LSTag&gt; pour alimenter vos techniques de moine.</content>
+<!-- CL_Target_OneDnD_FlurryOfBlows_FirstStrike -->
+<content contentuid="h54a656eaf36847a6992adf03f80326425g8g" version="1">Déluge de coups</content>
+<content contentuid="h9a92c18ecd3b4cc486567b0a646832ff4141" version="1">Effectuez deux Frappes à mains nues en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+<!-- CL_Target_OneDnD_FlurryOfBlows_SecondStrike -->
+<content contentuid="h356396fa35884b8fa1f03509cec1212ce4af" version="1">Déluge de coups: Frappe consécutive</content>
+<content contentuid="h0d53d76eeb87409cba67a6b9a7b7542d960c" version="1">Frappe à mains nues un seconde fois.</content>
+<!-- CL_Shout_OneDnD_PatientDefence_Disengage -->
+<content contentuid="h4994b37094b04d1b929ddbd29acf122a3feg" version="1">Défense patiente: Désengagement</content>
+<!-- CL_Shout_OneDnD_PatientDefence -->
+<content contentuid="h8c36a9aab6f34d5c87581467c31178bf6cc7" version="1">Défense patiente</content>
+<content contentuid="h9242152009da4e72bc2711ca43fc76a79079" version="1">Se concentrer sur l'esquive des attaques.&lt;br&gt;&lt;Br&gt;Peut se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre l'entité affectée ont un &lt;LSTag Tooltip="Désavantage"&gt;Désavantage&lt;/LSTag&gt;, et l'entité a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; de Dextérité.</content>
+<!-- CL_Shout_OneDnD_StepOfTheWind_Dash -->
+<content contentuid="hca17c350c8214a25be2ee25d1a48ed8f4gaa" version="1">Déplacement aérien : Foncer</content>
+<!-- CL_Shout_OneDnD_StepOfTheWind -->
+<content contentuid="h3ad7aa4d82a0423fb838e87f1db56bc24170" version="1">Déplacement aérien</content>
+<content contentuid="hc3b19cbb1a9e4d03b3decaadac6b9e3d3ad5" version="1">Vous concentrer sur la vitesse. Votre &lt;br&gt;&lt;Br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de mouvement&lt;/LSTag&gt; est doublé. Vous vous déplacez sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaque d'opportunité&lt;/LSTag&gt;. Sauter ne nécessite plus une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; et la distance est doublée.</content>
+</contentList>

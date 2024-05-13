@@ -1,0 +1,86 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="hef8b663egda40g4814ga8a3g943884629173" version="1">Oeil paisible</content>
+<content contentuid="hc859716cg3d8cg4c7fgbf10g6397adca8841" version="1">Paume rugissante</content>
+<content contentuid="hb5b16ef5g439bg4b54gbf3cga38398c12c3f" version="1">Lors de l'utilisation de cette action, la cible doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de Constitution. Si elle échoue, elle perd connaissance. Si elle réussit, elle subit [1].</content>
+<content contentuid="h4e802633g3b90g42ecg84e2gf18aad9dbb35" version="1">Chaque fois que vous utilisez une &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Attaque à main nues&lt;/LSTag&gt; contre un adversaire, vous pouvez dépenser 6 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; pour étendre un rayon [1] de pur &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; centré autour de votre cible. Dans cette zone, le son ne circulera pas et aucune créature à portée ne pourra parler.</content>
+<content contentuid="he64d5ac5gacc2g4d57gbf01gbf02e40063df" version="1">Regard apaisant</content>
+<content contentuid="h5fc02e1fg9300g4816g9e9cg90a04ee22b86" version="1">Votre regard attire l’œil d’une créature à portée de votre choix. Ils peuvent effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de Charisme. En cas de succès, le sort échoue et la créature reste dans son état émotionnel. Sinon, ils entreront dans un état d’esprit calme pendant 8 heures et refuseront de se battre. Ils ne seront plus effrayés ni charmés.</content>
+<content contentuid="h31c654d1gb718g4de6g8557gf6c542946349" version="1">Toucher de Charme</content>
+<content contentuid="h0cc1b517g24f5g4748g937fgc1fa9cec851d" version="1">Vous touchez une créature proche pour tenter de la charmer. Il doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de Sagesse, pour éviter d'être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt;.</content>
+<content contentuid="h518a5142g4fbbg49ecgb543g6d4722580ae7" version="1">Toucher démoralisant</content>
+<content contentuid="h494276e3g68c0g4630gb5eege914eef8153f" version="1">Vous touchez une créature proche dans le but de la démoraliser. Il doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de Sagesse, pour éviter d'être &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt;.</content>
+<content contentuid="h96c88250g675fg49d1ga366g0c2e9dfa7e3f" version="1">Toucher de Frénésie</content>
+<content contentuid="hc8b9bee9g795fg46a6gba32g2e0d6438cc61" version="1">Vous touchez une créature à proximité dans le but de l'énerver. Il doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de Sagesse, pour éviter d'être entraîné dans une &lt;LSTag Type="Status" Tooltip="MAD"&gt;Frénésie&lt;/LSTag&gt;.</content>
+<content contentuid="h2d19bba1gc532g4419ga081g8a9a12b9ce90" version="1">Toucher Héroique</content>
+<content contentuid="h2c5acd82gc94eg4ce1g866bg9a71e98a350a" version="1">Vous touchez une créature à proximité dans le but de lui redonner du courage. La créature est &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; à être &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt;, et gagne un nombre de &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égal à votre Capacité de lancer de sorts.</content>
+<content contentuid="hfa8c9662gb2e0g4561gba89g7bcb9a5ccf88" version="1">Toucher de Frénésie</content>
+<content contentuid="hfa8c9662gb2e0g4561gba89g7bcb9a5ccf88" version="1">Toucher de Frénésie</content>
+<content contentuid="hfa8c9662gb2e0g4561gba89g7bcb9a5ccf88" version="1">Labyrinthe Oculaire</content>
+<content contentuid="h5c4b6886g1881g4a2aga34eg8a6482aed8f1" version="1">Votre corps se déplace dans et hors de vue, vous accordant +2 à la CA et +2 à la Discrétion.</content>
+<content contentuid="h4e08a7fdgedf9g42eeg9f87g18fe35b02de4" version="1">Cette créature n'est que partiellement visible, ce qui lui confère +1 en Discrétion et +1 en CA supplémentaire..</content>
+<content contentuid="h7a2ac713g9ea9g4380gaa4fgb3b12ef0c036" version="1">Cette créature n'est que partiellement visible, ce qui lui confère +2 en Discrétion et +1 en CA supplémentaire.</content>
+<content contentuid="hc40199ccgc729g4698g9bbbg88c9a389a67a" version="1">Votre corps se déplace dans et hors de vue, vous accordant +1 CA et +1 Discrétion.</content>
+<content contentuid="h839395a4g82dcg49d1ga693g17ae67569315" version="1">Caméléon</content>
+<content contentuid="h5dc2b102g8931g4ebega27fg2ce3afec0bb3" version="1">Cette créature n'est que partiellement visible, ce qui lui confère un avantage et une maîtrise à ses Jets de Furtivité.</content>
+<content contentuid="h8b37aac5ge924g47ddg9f9bg0454c9a98db3" version="1">Vous touchez une cible consentante, ce qui fait que la coloration et la texture de ses vêtements se fondent dans l'environnement de la créature. Ils gagnent un avantage et une maîtrise dans tous les Jets de Furtivité.</content>
+<content contentuid="hf1fb07e7g4594g497ag8c4cg55bd93792f36" version="1">Choc psychique</content>
+<content contentuid="hacda281cg55ebg4339gb592g962c35fc90a0" version="1">Vous envahissez l'esprit d'une autre créature et, pendant une fraction de seconde, vous lui faites percevoir une image, un bruit ou un souvenir qui lui causerait du stress. Choisissez une cible que vous pouvez voir ou entendre. La créature effectue un jet de Sauvegarde d'Intelligence. Si elle échoue, la créature subit [1] et a un désavantage à ses jets d'attaque ce tour-ci.</content>
+<content contentuid="h81f6bfeegf3b9g4e47gb406g2a8ac5c7e714" version="1">Cette créature revit un souvenir douloureux et est désavantagée aux jets d'attaque.</content>
+<content contentuid="h252d24e7g4336g443eg80dfg5ac0024ff3a8" version="1">Chut!</content>
+<content contentuid="hfc7b1c0aga9f9g4546gacc8g9da25cfe98d9" version="1">Vous lancez une illusion dans la bouche d'une créature à portée. Si la créature échoue à un jet de Sauvegarde de Sagesse, aucun mot ne peut sortir de sa bouche et sa connexion avec la Toile est rompue pour la durée du sort.</content>
+<content contentuid="h35069ed4g06a4g481ag8dfdg03963b207d18" version="1">Clé squelette</content>
+<content contentuid="h7a726ec1g6911g4cadg8e91g36207c377083" version="1">Vous enfoncez votre doigt dans la serrure, ouvrant n’importe quelle serrure.</content>
+<content contentuid="h234b5017g929bg4403g9031gdc09713fbb1a" version="1">Téléportez-vous comme par magie jusqu'à 9 m dans un espace inoccupé que vous pouvez voir.</content>
+<content contentuid="hbd4ca9b4gf9b3g4f09gbdcbg3791f0d55c8a" version="1">Modification d'Arme</content>
+<content contentuid="hd582799ag1ab4g45fega132g97077fa1c873" version="1">Tout en tenant une arme de mêlée, vous canalisez de la magie vers celle-ci, modifiant ses propriétés avec l'un des effets suivants : &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_Enflame"&gt;Enflamé&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_HealingStrike"&gt;Frappe de guérison&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_StaticBite"&gt;Morsure statique&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_SwiftStrike" &gt;Frappe rapide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_ScreamingCleave"&gt;Fente hurlante&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="CL_Target_AlterWeapon_ViscousTear"&gt;Larme vicieuse&lt;/LSTag&gt;.</content>
+<content contentuid="hac303a04g7304g4347gb4bagf8c982a0d353" version="1">Enflammer</content>
+<content contentuid="h8fe35118gdf18g417ag9711g68cdfd0fdcde" version="1">Tout en tenant une arme, vous y canalisez de la magie, modifiant ses propriétés pour infliger [1] supplémentaire</content>
+<content contentuid="hc5b32ab2g0c10g4e96ga8d0gdbfe5f463113" version="1">Frappe de guérison</content>
+<content contentuid="hf9ad20bagea97g4d01g824dgf5a168ad40a4" version="1">Tout en tenant une arme, vous canalisez de la magie vers celle-ci, modifiant ses propriétés pour pouvoir soigner les cibles de [1], ou infliger un montant équivalent de dégâts radiants aux cibles mortes-vivantes.</content>
+<content contentuid="he88ba08bg809bg4830gbeafge8436c004586" version="1">Vous pouvez effectuer une attaque d'arme pour soigner les cibles de [1], ou infliger un montant équivalent de dégâts radiants aux cibles mortes-vivantes.</content>
+<content contentuid="h6bd5856egfa5bg451bg88bcgb4162c288d38" version="1">Morsure statique</content>
+<content contentuid="h09447d46gffc8g4cd8gb094gc6582f2a26c5" version="1">Tout en tenant une arme, vous y canalisez de la magie, modifiant ses propriétés pour infliger [1] supplémentaire.</content>
+<content contentuid="h9b72a2e1gbd32g4deag834fgc801ed961ab4" version="1">Frappe rapide</content>
+<content contentuid="ha903bd60g9b04g485bgafcdg0000814a42af" version="1">Lorsque vous tenez une arme, vous canalisez de la magie vers celle-ci, modifiant ses propriétés pour toujours vous donner un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; en attaquant.</content>
+<content contentuid="h1518fe43gb8e7g4a7ag8eb4g257b6e516083" version="1">Fente hurlante</content>
+<content contentuid="hcc2fae69gf884g4f02g8f42g78463a46a68b" version="1">Tout en tenant une arme, vous y canalisez de la magie, modifiant ses propriétés pour infliger [1] supplémentaire.</content>
+<content contentuid="h0af79943g0d9ag4c81g8751g1490fd5c3cd8" version="1">Larme vicieuse</content>
+<content contentuid="h1b7862a6g4ae0g41aag85beg07a9ab8fd7fb" version="1">Tout en tenant une arme, vous y canalisez de la magie, modifiant ses propriétés pour infliger [1] supplémentaire.</content>
+<content contentuid="hadf69a32g4178g4b92ga206gb896e800b661" version="1">Se manifeste par une action supplémentaire dans votre barre de raccourcis.</content>
+<content contentuid="hfd9fbc4egcaabg4d26ga986g6a3cf65ef932" version="1">Chance</content>
+<content contentuid="h2f97f2bag2cedg451agab31g05591f4979d1" version="1">Lorsque vous lancez ce sort, vous accordez une malédiction mineure à une créature que vous pouvez voir à portée. Cette créature doit réussir un jet de Sauvegarde de Sagesse, ou subir, au choix, l'un des effets suivants pendant toute la durée : Déjoué : La cible a un désavantage aux Jets de Sauvegarde d'Intelligence et de Sagesse. | Maladresse : La cible a un désavantage aux jets d'attaque. | Faute : Chaque fois que la cible est attaquée, elle subit un [1] supplémentaire.</content>
+<content contentuid="h9a51d23bg827dg42cbg9831ga1733b703e12" version="1">Déjoué</content>
+<content contentuid="h2126970bgfd91g4e07gab97g151c6c93e05a" version="1">Cette créature a un désavantage aux Jets de Sauvegarde d'Intelligence et de Sagesse.</content>
+<content contentuid="h5c9386e4g667dg446ega0bdgbc72cca33874" version="1">La cible est désavantagée aux Jets de Sauvegarde d'Intelligence et de Sagesse.</content>
+<content contentuid="h343b02cdgb05cg4cacga587g1e7e29635257" version="1">Maladresse</content>
+<content contentuid="h04eb95dbg38fcg453bg8f03gb1afac26b7e0" version="1">Cette créature a un désavantage aux jets d'attaque.</content>
+<content contentuid="h9d99cfbcge248g44ffgb2d8g477dc6f6e48f" version="1">La cible est désavantagée aux jets d'attaque.</content>
+<content contentuid="h2d00c05ag4854g48b3g9aaag1f0efc0c7763" version="1">Faute</content>
+<content contentuid="h3b99d74egb2bfg4b6eg83b3gd4b59f8e1b53" version="1">Chaque fois que cette créature est attaquée, elle subit des dégâts supplémentaires.</content>
+<content contentuid="h578af80bg5ec9g4174gadceg5a4b742a7f90" version="1">Chaque fois que la cible est attaquée, il subit [1].</content>
+<content contentuid="h6ccf0c85gdc55g4596g90c1gbc45c6d7a222" version="1">Bravoure</content>
+<content contentuid="h0b675858ga668g4da9g845egc2c7bdc2c5a3" version="1">Ce personnage a un avantage à tous les Jets de Sauvegarde contre la peur.</content>
+<content contentuid="hcae3dba6g66d0g4f1bg8077g507addbc5487" version="1">Lorsque vous lancez ce sort, un manteau de courage étincelant s'installe sur la créature que vous touchez. La cible a l'avantage aux Jets de Sauvegarde de ne pas être effrayée pendant toute la durée du sort.</content>
+<content contentuid="h01828aa6gea5bg4fa7gbbc0g92d5ed31fe51" version="1">Croissance d'épines</content>
+<content contentuid="h581722bbgb7b9g4b81ga35dg951264bdf258" version="1">Le sol se tord et pousse des pointes et des épines dures. La zone est couverte de vignes épineuses pendant toute la durée du sort.</content>
+<content contentuid="heb0249a6gc1bag4292gb636geabc3e42be7c" version="1">Armure tonitruante</content>
+<content contentuid="h72a65006g3bd8g4d09gadfdg7c7a5c941ca2" version="1">Vous imprégnez l'armure ou les vêtements d'une créature d'une énergie pulsée, augmentant sa protection de +2 CA.</content>
+<content contentuid="h3c1867ecg2570g4c3cga989gd89b5e104cc7" version="1">La cible acquiert également la capacité de sacrifier les effets du sort pour faire exploser les ennemis proches.</content>
+<content contentuid="hae17cadeg0d13g4efcgab76g6313e3db81b4" version="1">Libérer l'énergie</content>
+<content contentuid="h917114bfg780cg4787ga38ag1953c354fe71" version="1">Vous libérez l'énergie qui traverse votre armure à l'aide d'Armure tonitruante vers une seule créature, infligeant [1] et la repoussant.</content>
+<content contentuid="h7ab24283g959bg4fe2g868aga7345a5ad519" version="1">Libérer l'énergie (Zone)</content>
+<content contentuid="ha257b8aegdd61g43d2gbc90g33242b215c9c" version="1">Vous libérez l'énergie qui traverse votre armure à l'aide d'Armure tonitruante, infligeant des dégâts de Force et repoussant les créatures proches.</content>
+<content contentuid="h8198fc32g499fg401ag975eg9d35bf711345" version="1">Marque Mal orientée</content>
+<content contentuid="h805bbf01gf211g4215g8ad9ge54594b12e81" version="1">Vous dissimulez votre attaque arcanique, influençant mentalement votre ennemi en lui faisant croire que l'attaque venait de l'un de vos alliés et en vous concentrant sur cet allié de manière obsessionnelle. Effectuez une attaque magique à distance contre une cible à portée. En cas de coup sûr, la cible subit [1]. Par une action gratuite, vous choisissez un allié qui, selon cette cible, a lancé l'attaque.</content>
+<content contentuid="h392ef12ag8001g4e8cgb07cg7f5374f0e4fc" version="1">Marque un allié</content>
+<content contentuid="hb733faddg6852g45c3ga96fgb491d85b310d" version="1">Utiliser ceci débloque une action gratuite pour marquer un allié.</content>
+<content contentuid="hf9a9f86cg511eg4b2fg984bgcf4739576e84" version="1">Marquez un allié. La cible de Marque Mal orientée n’aura pas de désavantage aux jets d’attaque contre cette cible.</content>
+<content contentuid="hfe63dd0eg49b9g4fe3gbc44gfcca5adc019c" version="1">Silencieux</content>
+<content contentuid="he6d4dac1g73aeg46b5g8ba9gd2c5fb511911" version="1">Pendant toute la durée de l'effet, tous les sons créés par une créature ou un objet ciblé que vous pouvez voir à portée sont étouffés. Les créatures affectées ont un avantage sur n'importe quel jet de Furtivité.</content>
+<content contentuid="h7d3d70afg88b6g4403g9d58g30dec833dd83" version="1">Garde partielle</content>
+<content contentuid="h96627ba0gb7deg4d7cg8a8bg06978375f49e" version="1">Vous êtes résistant aux dégâts contondants.</content>
+<content contentuid="h9d4a0716gce96g43e8gb439g1e4356383243" version="1">La créature que vous touchez porte une inscription ancienne, lui conférant une résistance à tous les dégâts contondants pendant 10 minutes.</content>
+<content contentuid="h5567e608gafccg4881gb7cfgabb487e33ad8" version="1">La cible de ce sort devient très belle physiquement. Ils gagnent &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur n'importe quel &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de&lt;/LSTag&gt; Charisme.</content>
+<content contentuid="h991644b5g2a46g44e7gba7cg45daf9ec2b5b" version="1">Coup de coeur</content>
+<content contentuid="ha91ed8ddged86g447agb8aag6363f3a8ee17" version="1">Frappez vos ennemis pour gagner des Points de Vie temporaires égaux à votre niveau plus le modificateur de Sagesse.</content>
+</contentList>

@@ -1,0 +1,154 @@
+<contentList date="4/28/2024 18:00">
+<!-- Generic Progression Description -->
+<content contentuid="h08bbe0a2b84743b3af49f2bbfb323b95fd37" version="1">Sélection de Tag</content>
+<content contentuid="ha3d8d0d960d247bf97a3861a81b04fd57g6a" version="1">Sélectionnez votre Tag.</content>
+<!-- No Tag -->
+<content contentuid="hb79e46e2b6194fa3b0616f28db8910f678d5" version="1">Pas plus de Tag</content>
+<content contentuid="h64d30700e204408e8a83a1f15872c983af25" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Pas plus de Tag.</content>
+<!-- Class Tags -->
+<!-- Artificer Tags -->
+<content contentuid="h4176c1b1dca04f20ada953b2e2c534dd5dgd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Artificier&lt;/b&gt;.</content>
+<!-- Barbarian Tags -->
+<content contentuid="hd19320e50d1c414c93a8f06310a2c8c3d705" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Barbarien&lt;/b&gt;.</content>
+<content contentuid="hfef1fc05a5d54d2dbb6c34183d6f5cb5a16d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Berserker&lt;/b&gt;.</content>
+<!-- Bard Tags -->
+<content contentuid="h14bea36cad9e40ddb05ed62d4be2b10c4312" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Barde&lt;/b&gt;.</content>
+<!-- Cleric Tags -->
+<content contentuid="h15a0bee3044b425f98201ebd2fab0125a7a5" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Clerc&lt;/b&gt;.</content>
+<!-- Druid Tags -->
+<content contentuid="hf76b3fe32b58487a920ad99e221b4b64aaf2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Druide&lt;/b&gt;.</content>
+<!-- Fighter Tags -->
+<content contentuid="h2544d5a26b20414f9dda5c1555e5bab6gbec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Guerrier&lt;/b&gt;.</content>
+<!-- Monk Tags -->
+<content contentuid="h66fb867493e94b3484c3aaaa866959ab8f8d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Moine&lt;/b&gt;.</content>
+<!-- Paladin Tags -->
+<content contentuid="h1fb9c651227642648a52e8b943e8db57231e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Paladin&lt;/b&gt;.</content>
+<content contentuid="h7cc785c554eb4144a80ff407fd8a344535d0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Ancien&lt;/b&gt;.</content>
+<content contentuid="h9f1e237a617343c18d3279f6ade3ec55bg6c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Dévotion&lt;/b&gt;.</content>
+<content contentuid="hfb686671e08a414aacef54df345c3b4b40f8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Vengeance&lt;/b&gt;.</content>
+<!-- Ranger Tags -->
+<content contentuid="h84de6ce58c934591be31d2773c3cf503734a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Rôdeur&lt;/b&gt;.</content>
+<content contentuid="h5e5a83f354cc405d9f95ff09c7e5347647b3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Maître des bêtes&lt;/b&gt;.</content>
+<content contentuid="h847c8d0ccee144899e4d2bcdfcdf9eb32b30" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Traqueur des ténèbres&lt;/b&gt;.</content>
+<content contentuid="h069d6c3a583a46bf9522ef65daf1ee44gdbf" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Chasseur&lt;/b&gt;.</content>
+<!-- Rogue Tags -->
+<content contentuid="hdde0ccda54bf40f38193e0632d939b72c435" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Roublard&lt;/b&gt;.</content>
+<!-- Sorcerer Tags -->
+<content contentuid="h663961c9d2fc4a28b508b7d9669c183d5c24" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Ensorceleur&lt;/b&gt;.</content>
+<content contentuid="heab5a64ed5b643309172733310f4f82c5c59" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Draconique&lt;/b&gt;.</content>
+<content contentuid="h3b1415623c8948a7bac2336b9b1d886f0dg0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Magie sauvage&lt;/b&gt;.</content>
+<!-- Warlock Tags -->
+<content contentuid="h160ede52e1974c9ba8030fa86bb151ba7d9f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Occultiste&lt;/b&gt;.</content>
+<content contentuid="hd5f923744ea84cc4bfaf3a8431594ab3e88a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Archifée&lt;/b&gt;.</content>
+<content contentuid="hf14b691bd709404bac2e453806df48d5f01b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Fiélon&lt;/b&gt;.</content>
+<content contentuid="h4081d7aafeb140998c135057d054066d76dg" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Grand Ancien&lt;/b&gt;.</content>
+<!-- Wizard Tags -->
+<content contentuid="h5c50cffd1f3640fc9dfcf007b2fbcd81c132" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Magicien&lt;/b&gt;.</content>
+<content contentuid="h22b3e0f446f848708287f151aa782d97ec94" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nécromancie&lt;/b&gt;.</content>
+<!-- Race Tags -->
+<!-- Dragonborn Tags -->
+<content contentuid="h467123585ea34bdb89a28adebd0d3a1c4046" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drakéide&lt;/b&gt;.</content>
+<!-- Dwarf Tags -->
+<content contentuid="h6155251157934466901e69307ce9aa544ae8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain&lt;/b&gt;.</content>
+<content contentuid="hda5122e6716941c689f89dbb067ae0c5570c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Duergar&lt;/b&gt;.</content>
+<content contentuid="hc74b96011c124507b6ff58fe79cc140987ec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Nain d'Or&lt;/b&gt;.</content>
+<content contentuid="h450cdb6c32904a0a90d943521b25e1e760ea" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Nain Bouclier&lt;/b&gt;.</content>
+<!-- Elf Tags -->
+<content contentuid="hbca68e32e3bf46da9c54bce3a1cf71783533" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="h443bc2ebfe294439893caf0a20ad310bf8e2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow&lt;/b&gt;.</content>
+<content contentuid="hd646bcba7299471a98b99f7f1a6bf3cf8e4g" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow etDrow de Lolth&lt;/b&gt;.</content>
+<content contentuid="hc622575fb17d49eebf39f8687abdd598gbce" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow et Drow Seldarine&lt;/b&gt;.</content>
+<content contentuid="h3cc6bdcff82a41bf840b19992eebfa0ca045" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe et Haut-Elf&lt;/b&gt;.</content>
+<content contentuid="h90146279f9fa48368c68a1cc3ab1e1b08136" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe et Elfe des bois&lt;/b&gt;.</content>
+<!-- Gith Tags -->
+<content contentuid="h8d356451208b418d9e10ff432590371b75fb" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Githyanki&lt;/b&gt;.</content>
+<!-- Gnome Tags -->
+<content contentuid="h08b4bf569d1f48dbb9db5dfa56a8f205274e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome&lt;/b&gt;.</content>
+<content contentuid="h93d338c01ab9460083d9d5e997c708affa0d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et Gnome des profondeurs&lt;/b&gt;.</content>
+<content contentuid="h89a9b5fd1a594457af9d0ca903df7270feca" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et Gnome des bois&lt;/b&gt;.</content>
+<content contentuid="h63425d30b33240fe97f62f6e301a5d8dd6dg" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et Gnome des roches&lt;/b&gt;.</content>
+<!-- Half Elf Tags -->
+<content contentuid="h6f54620a8d1b40cba956f4305b602ef4cf3a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Demi-elfe&lt;/b&gt;.</content>
+<content contentuid="h098352282bed465eb7758894f10194512b24" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Demi-elfe et Demi-elfe Drow&lt;/b&gt;.</content>
+<content contentuid="h2a1508e7976f4098988f7fd42d0e2761bcff" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Demi-elfe et Haut Demi-elfe&lt;/b&gt;.</content>
+<content contentuid="hf04d9e7461084a53826e2fc65104391fafe8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Demi-elfe et Demi-elfe des bois&lt;/b&gt;.</content>
+<!-- Half Orc Tags -->
+<content contentuid="h36f57bf5a36f4182b0665d7c12c8fd23e145" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Demi-orc&lt;/b&gt;.</content>
+<!-- Halfelin Tags -->
+<content contentuid="h5387077121844fdf86dfc867cb8e3a4509d0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Halfelin&lt;/b&gt;.</content>
+<content contentuid="h34e6a6e748e646f49d54ee6d350d9088be5b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Halfelin et Halfelin Pied-léger&lt;/b&gt;.</content>
+<content contentuid="hcf07d1515a7545bb97a6a1be11df7fe4bc74" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Halfelin et Halfelin Coeur solide&lt;/b&gt;.</content>
+<!-- Human Tags -->
+<content contentuid="hc493bd5b49994a46a017420314ad494d1aaa" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Humain&lt;/b&gt;.</content>
+<!-- Tiefling Tags -->
+<content contentuid="h4610fec8869a470f83beb33cc2189a59dfce" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Tieffelin&lt;/b&gt;.</content>
+<content contentuid="hf6152647598c48eea2ad28e3ac16cb11ae09" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Tieffelin and Tieffelin d'Asmodeus&lt;/b&gt;.</content>
+<content contentuid="hc80a540adfe94455b5b6e8c3014ab4b17fff" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Tieffelin and Tieffelin de Mephistopheles&lt;/b&gt;.</content>
+<content contentuid="h1cdc6c0d606e4c22bdcc038e24696234397a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Tieffelin and Tieffelin de Zariel&lt;/b&gt;.</content>
+<!-- ~Misc Tags -->
+<content contentuid="ha5b4997bf6234422a039e2660316cb9ebebg" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Rare&lt;/b&gt;.</content>
+<content contentuid="h16ca10f009c54df4bb00fa07b6e40e567619" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Bestiale&lt;/b&gt;.</content>
+<content contentuid="h8b7f5cd7a6804b9ab1901d9f030c5f48ae72" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Aasimar&lt;/b&gt;.</content>
+<content contentuid="h9a9f9027d8c449a287faa154aedc35a25310" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Génasi&lt;/b&gt;.</content>
+<!--  Examples
+Rare: aasimar, dragonborn, firbolg, genasi, githyanki, half-drow, half-orc, tiefling, triton, warforged, yuan-ti pureblood
+Beast: aarakocra, kenku, lizardfolk, tabaxi, tortle
+-->
+<content contentuid="h74680b6805ab45cc9eeb9fc0a2d68df3024c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Baldurien&lt;/b&gt;.</content>
+<content contentuid="h1b54caab0e5d48c89b48e197979dc00a6b25" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Planaire&lt;/b&gt;.</content>
+<content contentuid="hd42e01f2fbb64a60b7d3f9ada2291f0f21ea" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Underdark&lt;/b&gt;.</content>
+
+<!-- Race Tags -->
+<!-- Dragonborn Tags -->
+<content contentuid="h467123585ea34bdb89a28adebd0d3a1c4046" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drakéide&lt;/b&gt;.</content>
+<!-- Dwarf Tags -->
+<content contentuid="h6155251157934466901e69307ce9aa544ae8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain&lt;/b&gt;.</content>
+<content contentuid="hda5122e6716941c689f89dbb067ae0c5570c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Duergar&lt;/b&gt;.</content>
+<content contentuid="hc74b96011c124507b6ff58fe79cc140987ec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Nain d'Or&lt;/b&gt;.</content>
+<content contentuid="h450cdb6c32904a0a90d943521b25e1e760ea" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Nain et Nain Bouclier&lt;/b&gt;.</content>
+<!-- Elf Tags -->
+<content contentuid="hbca68e32e3bf46da9c54bce3a1cf71783533" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="h443bc2ebfe294439893caf0a20ad310bf8e2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow&lt;/b&gt;.</content>
+<content contentuid="hd646bcba7299471a98b99f7f1a6bf3cf8e4g" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow et Drow de Lolth&lt;/b&gt;.</content>
+<content contentuid="hc622575fb17d49eebf39f8687abdd598gbce" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Drow et Drow Seldarine&lt;/b&gt;.</content>
+<content contentuid="h3cc6bdcff82a41bf840b19992eebfa0ca045" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe and Haut-Elfe&lt;/b&gt;.</content>
+<content contentuid="h90146279f9fa48368c68a1cc3ab1e1b08136" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe and Elfe des bois&lt;/b&gt;.</content>
+<!-- Gith Tags -->
+<content contentuid="h8d356451208b418d9e10ff432590371b75fb" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Githyanki&lt;/b&gt;.</content>
+<!-- Gnome Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et &lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et &lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Gnome et &lt;/b&gt;.</content>
+<!-- Half Elf Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<!-- Half Orc Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<!-- Halfelin Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<!-- Human Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Human&lt;/b&gt;.</content>
+<!-- Tiefling Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<!-- ~Misc Tags -->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<!--  Examples
+Rare: aasimar, dragonborn, firbolg, genasi, githyanki, half-drow, half-orc, tiefling, triton, warforged, yuan-ti pureblood
+Beast: aarakocra, kenku, lizardfolk, tabaxi, tortle
+-->
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+<content contentuid="" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ajouter le Tag &lt;b&gt;Elfe&lt;/b&gt;.</content>
+
+</contentList>

@@ -1,0 +1,5 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="h143b3f41g1715g4962g9bc8gf5a1bf9a85ca" version="1">Feu follet étoilé</content>
+<content contentuid="hc2388340ged04g440fg83fegbe0dafeac6e2" version="1">Lancez un grain de lumière sur une cible. Jusqu'à la fin de votre prochain tour, la cible émet une faible lumière dans un rayon de [1] et ne peut pas bénéficier de l'état  &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
+<content contentuid="h1df3df79g481dg4a14g95ccga98e09876c4f" version="1">Émet une faible lumière dans un rayon de [1] et ne peut pas bénéficier de l'état &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
+</contentList>
