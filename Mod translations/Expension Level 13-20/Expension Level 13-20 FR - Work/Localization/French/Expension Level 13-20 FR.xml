@@ -31,15 +31,15 @@
 	<content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Chant-de-lame : Attaque supplémentaire</content>
 	<content contentuid="5d65f927-a55e-44a9-a03e-bf1b7e1a0ae6" version="1">Peut effectuer une attaque supplémentaire gratuitement ou lancer un sort mineur après avoir effectué une attaque à mains nues ou avec une arme.</content>
 	<content contentuid="b20e04c9-647b-48ab-99b6-5fa0fbd957ea" version="1">Chant de Défense</content>
-	<content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">When you take damage, you can use your reaction to expend a spell slot and reduce the damage taken by five times the spell slot's level.</content>
-	<content contentuid="8d39dadd-360e-4469-a642-e8ae8973abd0" version="1">When you take damage, you can use your reaction to expend a Level [1] spell slot and reduce the damage taken by [2].</content>
+	<content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour dépenser un emplacement de sort et réduire les dégâts subis de cinq fois le niveau de l'emplacement de sort.</content>
+	<content contentuid="8d39dadd-360e-4469-a642-e8ae8973abd0" version="1">Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour dépenser un emplacement de sort de niveau [1] et réduire les dégâts subis de [2].</content>
 	<content contentuid="fb87975e461a44c392ac30bcebfba43d" version="1">Réduit les dégâts subit de -[1].</content>
-	<content contentuid="76e7c6f3-e15a-40cc-9ee1-04f1993c78f7" version="1">hant de Victoire</content>
+	<content contentuid="76e7c6f3-e15a-40cc-9ee1-04f1993c78f7" version="1">Chant de Victoire</content>
 	<content contentuid="5538c5d1-bf81-4659-ba88-07222edd392a" version="1">The damage of your melee weapon attacks is increased by your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; modifier while your Bladesong is active.</content>
-	<content contentuid="h84e070ecg9320g4423g88bbge9b08b425d3c" version="1">The number of times you can use the Bladesong feature.</content>
-	<content contentuid="e79797137bc54f2ca5678209d5619edd" version="1">Cannot activate while wearing medium or heavy armor or while equipped with a shield.</content>
+	<content contentuid="h84e070ecg9320g4423g88bbge9b08b425d3c" version="1">Le nombre de fois que vous pouvez utiliser la capacité Chant-de-lame.</content>
+	<content contentuid="e79797137bc54f2ca5678209d5619edd" version="1">Ne peut pas être activé en portant une armure moyenne ou lourde ou en étant équipé d'un bouclier.</content>
 	<content contentuid="0a07d1346d794825bf36c51b03e0e555" version="1">Pas de maîtrise</content>
-	<content contentuid="a85ab2e07b7d4cc5babd8694e19f778d" version="1">You can choose to not become proficient in a weapon.</content>
+	<content contentuid="a85ab2e07b7d4cc5babd8694e19f778d" version="1">Vous pouvez choisir de ne pas maîtriser une arme.</content>
 
 	<content contentuid="h5517943ag0e65g4efcg96beg0f09361fce6d" version="1">Instinctive Pounce</content>
 	<content contentuid="h96b0d51bg1c81g4212ga725g4d0c96e56755" version="1">As part of the bonus action you take to enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, you can move up to half your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
@@ -92,50 +92,50 @@
   <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">You can increase the damage you deal by [1] once per turn whilst marking a creature.</content>
   <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Deal an additional [1] to a favored foe.</content>
   <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Call on your mystical bond with nature to mark a creature as your favored enemy.</content>
-  <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Deft Explorer: Canny</content>
+  <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Explorateur des profondeurs : Prudent</content>
   <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choose one of your skill proficiencies. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for any &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make using the chosen skill.</content>
-  <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Deft Explorer: Roving</content>
+  <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Explorateur des profondeurs : Nomade</content>
   <content contentuid="ha1521904g9bbbg490egaeb7gda51d7583b81" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increases by [1].</content>
-  <content contentuid="h55d9723cgaeecg47b7g9789g0b57ce1bf283" version="1">Deft Explorer: Tireless</content>
+  <content contentuid="h55d9723cgaeecg47b7g9789g0b57ce1bf283" version="1">Explorateur des profondeurs : Infatigable</content>
   <content contentuid="hfdd3b858g1a29g4169g8a92ge166d65dc52c" version="1">Gain [1].</content>
-  <content contentuid="h992b5a5bg6faeg44e3gb498gd94e4c1cc2a4" version="1">Canny</content>
-  <content contentuid="hec2ea28bgead7g48d6g9d6ag3d19bc15f955" version="1">Canny: Acrobatics</content>
+  <content contentuid="h992b5a5bg6faeg44e3gb498gd94e4c1cc2a4" version="1">Prudent</content>
+  <content contentuid="hec2ea28bgead7g48d6g9d6ag3d19bc15f955" version="1">Prudent : Acrobatics</content>
   <content contentuid="h83ba1ae7ga760g43c4gb8f2g59f6e74c6515" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h61ea5d58g6803g444fga62agc6cf14fed573" version="1">Canny: Animal Handling</content>
+  <content contentuid="h61ea5d58g6803g444fga62agc6cf14fed573" version="1">Prudent : Animal Handling</content>
   <content contentuid="h9e214c2eg644dg4e70g9b05gd1f5c89e5aca" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="hb6db9060gbf4fg49d8g96f4gba29b307f3e4" version="1">Canny: Arcana</content>
+  <content contentuid="hb6db9060gbf4fg49d8g96f4gba29b307f3e4" version="1">Prudent : Arcana</content>
   <content contentuid="h3010b045ge4d9g4a39gb4adgc9a3ba5fc265" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="hf3a39ca0g829eg46f5g8a84gf4ca40a3e613" version="1">Canny: Athletics</content>
+  <content contentuid="hf3a39ca0g829eg46f5g8a84gf4ca40a3e613" version="1">Prudent : Athletics</content>
   <content contentuid="h79210289gb43bg4470gbfaag7c58552fe2ec" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h5c6d058bg9230g46d1ga559gb739690eadd9" version="1">Canny: Deception</content>
+  <content contentuid="h5c6d058bg9230g46d1ga559gb739690eadd9" version="1">Prudent : Deception</content>
   <content contentuid="haa062942g2b2cg4d67g89bfgadbe87895542" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h995e357dgf9c8g43e6ga997g96f91b5b6b3e" version="1">Canny: History</content>
+  <content contentuid="h995e357dgf9c8g43e6ga997g96f91b5b6b3e" version="1">Prudent : History</content>
   <content contentuid="hb72402abg4cddg453dg94a5g6d4d3ee93784" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h629a8494gc126g4e69g8a06g404d99201fa0" version="1">Canny: Insight</content>
+  <content contentuid="h629a8494gc126g4e69g8a06g404d99201fa0" version="1">Prudent : Insight</content>
   <content contentuid="hb3b8cdd2gd20fg4328gb5c7g8105bdbb1ea5" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h1587f5d0gb0d8g4da5g8af3gd178d7e0a0c1" version="1">Canny: Intimidation</content>
+  <content contentuid="h1587f5d0gb0d8g4da5g8af3gd178d7e0a0c1" version="1">Prudent : Intimidation</content>
   <content contentuid="hddd7eaf5ge979g43fegb653ga4d765cfafb1" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h8a900ffdgced3g48e1g99f7ge3dcee3aeaea" version="1">Canny: Investigation</content>
+  <content contentuid="h8a900ffdgced3g48e1g99f7ge3dcee3aeaea" version="1">Prudent : Investigation</content>
   <content contentuid="h1e425d76g1635g415agb0c9gd1091e87dd50" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="hf284062ag1a42g4d41ga0a6g02d141ba369e" version="1">Canny: Medicine</content>
+  <content contentuid="hf284062ag1a42g4d41ga0a6g02d141ba369e" version="1">Prudent : Medicine</content>
   <content contentuid="hd04ff8c4g2d8ag4764ga1cfgf00a84953d61" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h2c0a00b8gda5ag40c5g9089gf001827b1ee1" version="1">Canny: Nature</content>
+  <content contentuid="h2c0a00b8gda5ag40c5g9089gf001827b1ee1" version="1">Prudent : Nature</content>
   <content contentuid="hac8984d9gd8e6g47fbg804agbb4d464c2812" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h03de19a5gecf1g43d3g89f8g9053039f060e" version="1">Canny: Perception</content>
+  <content contentuid="h03de19a5gecf1g43d3g89f8g9053039f060e" version="1">Prudent : Perception</content>
   <content contentuid="hf78b8ae6g5616g4a77gb59dg41cd2f0a9d45" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h391b80e0g2455g434dg9578g5fb253949ff6" version="1">Canny: Performance</content>
+  <content contentuid="h391b80e0g2455g434dg9578g5fb253949ff6" version="1">Prudent : Performance</content>
   <content contentuid="h2cb2cff2gbf44g4c6agbbd5g2e0a58b5abb0" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="hbb1cd459g3e0eg4af2g9e01g2df28fd83c8c" version="1">Canny: Persuasion</content>
+  <content contentuid="hbb1cd459g3e0eg4af2g9e01g2df28fd83c8c" version="1">Prudent : Persuasion</content>
   <content contentuid="hde60db8agba4fg4360g85c2gc6b4f59f473c" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h37c78ae9gee3eg4b4dg981fg04cf072ed183" version="1">Canny: Religion</content>
+  <content contentuid="h37c78ae9gee3eg4b4dg981fg04cf072ed183" version="1">Prudent : Religion</content>
   <content contentuid="h634127b2gebd3g4810g9041g534bb2313f51" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="hd987f9d0g56e1g4389g93b3gd4aabd2b95b4" version="1">Canny: Sleight of Hand</content>
+  <content contentuid="hd987f9d0g56e1g4389g93b3gd4aabd2b95b4" version="1">Prudent : Sleight of Hand</content>
   <content contentuid="h58d5f409gdfc3g496bgbf7bgdd3447c7ec10" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h9c6da7fcg5810g4c18gb52ag9a59196197ff" version="1">Canny: Stealth</content>
+  <content contentuid="h9c6da7fcg5810g4c18gb52ag9a59196197ff" version="1">Prudent : Stealth</content>
   <content contentuid="h3614f5b9gffaeg45f9gb424g03a8367bb265" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h7e79a291gcc88g4c61gb65dg4709a7339645" version="1">Canny: Survival</content>
+  <content contentuid="h7e79a291gcc88g4c61gb65dg4709a7339645" version="1">Prudent : Survival</content>
   <content contentuid="h89335a24g7de5g4988ga2e5g14646f893b99" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; est doublé.</content>
-  <content contentuid="h2d4a55e9g11f8g43a7g8b4cge2195afe0d84" version="1">Tireless</content>
+  <content contentuid="h2d4a55e9g11f8g43a7g8b4cge2195afe0d84" version="1">Infatigable</content>
   <content contentuid="hbe937f06ge76cg469dgab99ge92bbfd8bcae" version="1">Gain [1].</content>
   <content contentuid="h96e39f55g8bf4g4e3eg9e1fge5ca9ae2c1c3" version="1">Primal Awareness</content>
   <content contentuid="hc879165ag99b3g4ebega700g12b2a2c8efbe" version="1">You can focus your awareness through the interconnections of nature. You learn additional spells when you reach certain levels in this class if you don't already know them. You can cast each of these spells once without expending a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt;. Once you cast a spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
@@ -149,7 +149,7 @@
   <content contentuid="hf0d89bafge311g47fdgbdb3ge1ffc7a3ee62" version="1">Become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
   <content contentuid="h0ad642d8g5843g4e84gb1f8ge2b826dc8ed7" version="1">The number of times you can use Nature's Veil.</content>
   <content contentuid="haaeeb7afgf4d0g4a70ga9d0g865862705519" version="1">The number of times you can use the Tireless feature.</content>
-  <content contentuid="h43a885bdgb17cg4dedg88a7gd0bb83b49cfc" version="1">Tireless</content>
+  <content contentuid="h43a885bdgb17cg4dedg88a7gd0bb83b49cfc" version="1">Infatigable</content>
 
   <content contentuid="habfba1e9g67feg485cga8c5g42b79883e505" version="1">Steady Aim</content>
   <content contentuid="h54973f68gefb8g4637g8914g6eba76b61120" version="1">As a bonus action, you can give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is 0 until the end of the current turn.</content>
