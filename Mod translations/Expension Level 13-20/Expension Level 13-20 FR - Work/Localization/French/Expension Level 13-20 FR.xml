@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList date="26/10/2020 01:10">
-	<content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
+	<content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">Au combat, un Chantelame utilise une série de manœuvres complexes et élégantes qui repoussent les dégâts et lui permettent de canaliser la magie vers des attaques dévastatrices et une défense astucieuse.
 	
-	Level 2 -  &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in War and Song&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Bladesong&lt;/LSTag&gt;
-	Level 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Extra Attack&lt;/LSTag&gt;
-	Level 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Song of Defense&lt;/LSTag&gt;
-	Level 14 - &lt;LSTag Type="Passive" Tooltip="SongOfVictory"&gt;Song of Victory&lt;/LSTag&gt;</content>
-	<content contentuid="f19c7c75-299b-4dd1-bc0b-04597562abba" version="1">Bladesinging</content>
-	<content contentuid="7c2d8b56-c598-4d53-b653-945b942f7730" version="1">Choose a type of one-handed melee weapon to gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in.</content>
+	Niveau 2 - &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in War and Song&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Chant-de-lame&lt;/LSTag&gt;
+	Niveau 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Attaque supplémentaire&lt;/LSTag&gt;
+	Niveau 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Chant de Défense&lt;/LSTag&gt;
+	Niveau 14 - &lt;LSTag Type="Passive" Tooltip="SongOfVictory"&gt;Chant de Victoire&lt;/LSTag&gt;</content>
+	<content contentuid="f19c7c75-299b-4dd1-bc0b-04597562abba" version="1">Chante-lame</content>
+	<content contentuid="7c2d8b56-c598-4d53-b653-945b942f7730" version="1">Choisissez un type d'arme de mêlée à une main pour en gagner la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt;.</content>
 	<content contentuid="2a15fc63-ef81-4881-b7b4-e593ed7c394b" version="1">Training in War and Song</content>
 	<content contentuid="27adf46d-fa49-41a9-ab0e-d1590232c1bc" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with light armor and you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with one type of one-handed melee weapon of your choice. You also gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in the Performance skill if you don’t already have it.</content>
 	<content contentuid="1ae7c683-e5d1-4430-b72a-16cae830bd36" version="1">You can direct your magic to absorb damage while your Bladesong is active. When you take damage, you can use your reaction to expend one &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; and reduce that damage to you by an amount equal to five times the &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt; level.</content>
@@ -19,16 +19,16 @@
 	<content contentuid="27e203e5-3e29-4b09-99c9-fa7060784031" version="1">Add bonus of +[1] to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
 	<content contentuid="bad85182-6102-4901-903d-590a3ba91e77" version="1">You can forge an empowering bond among people who are at peace with one another. As an action, you choose [1] allied creatures within [2] of you (including yourself) and create a magical bond among them or until you use this feature again. While any bonded creature is within [2] of another, the creature can add a bonus of +[3] to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; it makes once per turn.</content>
 	<content contentuid="8dacdd49-0efb-469a-be1e-e508dbfb2146" version="1">Activate to add a bonus of +[1] to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-	<content contentuid="cdac1eaa-bf9e-43da-a352-deffeb061813" version="1">Weapon already affected by the Hex Warrior feature.</content>
-	<content contentuid="488c86d5-742a-4b09-a969-cd1f3d77852b" version="1">Cannot be used on a two handed weapon.</content>
-	<content contentuid="hee205f06gca41g4dedg89cdg8bfb80bbd016" version="1">Bladesong Charge</content>
-	<content contentuid="a0c4c7aa-99de-455e-953e-c527019d4540" version="1">Bladesong</content>
-	<content contentuid="1b8729cc-9b3d-4126-b413-757e047437bf" version="1">Invoke an elven magic called the Bladesong, gracing you with supernatural speed, agility and focus as long as you aren't wearing medium or heavy armor or using a shield.</content>
-	<content contentuid="4c0c5808-0bb4-4a21-82cb-2b665052f53a" version="1">Your Bladesong ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon.</content>
+	<content contentuid="cdac1eaa-bf9e-43da-a352-deffeb061813" version="1">L'ame est déjà affectée par la Malédiction du Guerrier maudit.</content>
+	<content contentuid="488c86d5-742a-4b09-a969-cd1f3d77852b" version="1">Ne peut pas être utilisé sur une arme à deux mains.</content>
+	<content contentuid="hee205f06gca41g4dedg89cdg8bfb80bbd016" version="1">Charge de Chant-de-lame</content>
+	<content contentuid="a0c4c7aa-99de-455e-953e-c527019d4540" version="1">Chant-de-lame</content>
+	<content contentuid="1b8729cc-9b3d-4126-b413-757e047437bf" version="1">Invoquez une magie elfique appelée Chant-de-lame, qui vous confère une vitesse, une agilité et une concentration surnaturelles tant que vous ne portez pas d'armure moyenne ou lourde ou que vous n'utilisez pas de bouclier.</content>
+	<content contentuid="4c0c5808-0bb4-4a21-82cb-2b665052f53a" version="1">Votre Chant de la Lame se termine plus tôt si vous êtes incapacité, si vous portez une armure moyenne ou lourde ou un bouclier, ou si vous utilisez vos deux mains pour effectuer une attaque avec une arme.</content>
 	<content contentuid="778fd309-ba52-40b6-8d5d-9236d6b4219c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain concentration increased by [1], your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Acrobatics &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-	<content contentuid="2bbcd67e-c395-467e-9e41-ce0641ded232" version="1">Dismiss Bladesong</content>
-	<content contentuid="77abc5bdfbad49ef8d145ef2b15390a7" version="1">Dismiss the effects of Bladesong.</content>
-	<content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Bladesinging: Extra Attack</content>
+	<content contentuid="2bbcd67e-c395-467e-9e41-ce0641ded232" version="1">Interrompre Chant-de-lame</content>
+	<content contentuid="77abc5bdfbad49ef8d145ef2b15390a7" version="1">Interrompt les effets de Chant-de-lame.</content>
+	<content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Chant-de-lame : Attaque supplémentaire</content>
 	<content contentuid="5d65f927-a55e-44a9-a03e-bf1b7e1a0ae6" version="1">Can make an additional free attack or cast a cantrip after making an unarmed or weapon attack.</content>
 	<content contentuid="b20e04c9-647b-48ab-99b6-5fa0fbd957ea" version="1">Song of Defense</content>
 	<content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">When you take damage, you can use your reaction to expend a spell slot and reduce the damage taken by five times the spell slot's level.</content>
@@ -570,75 +570,75 @@
   <content contentuid="h8083bbf1g44d1g4a2bg98e4gecfd3805f0eb" version="1">Choisissez le sort Web. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h07b4ac5fg08d0g41d9g96efg6733e5cda467" version="1">Maîtrise de Sort : Wither and Bloom</content>
   <content contentuid="h77ec531bg1b9eg45c1g85e1gde09d4b5c6fa" version="1">Choisissez le sort Wither and Bloom. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
-  <content contentuid="h699c4673gc560g4504g800fgcdcc08335a4f" version="1">Sorts Signature</content>
+  <content contentuid="h699c4673gc560g4504g800fgcdcc08335a4f" version="1">Sorts de prédilection</content>
   <content contentuid="hda8e3cfdg797fg4a0fgadd4gb2af02998c82" version="1">Vous maîtrisez deux puissants sorts de niveau 3 et pouvez les lancer avec peu d'effort.</content>
   <content contentuid="h5c6d4245g199fg4412gb6fbg86f15aaf4f31" version="1">Vous pouvez lancer ces Sorts à leur plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="ha52feadcg9351g4f56g9959g95d6685556de" version="1">Animate Dead</content>
-  <content contentuid="h3b52cef0g4600g4538g98b1gb359cfd3464f" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animate Dead&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h3b52cef0g4600g4538g98b1gb359cfd3464f" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animate Dead&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h0e958b24g2c8cg4d1fg8d78g51f41af8f844" version="1">Ashardalon's Stride</content>
-  <content contentuid="h50f57cf9g9ce2g4502gbed6g7dc3c6fc1b91" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_AshardalonsStride"&gt;Ashardalon's Stride&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h50f57cf9g9ce2g4502gbed6g7dc3c6fc1b91" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_AshardalonsStride"&gt;Ashardalon's Stride&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h0dc0b72ag7ddag481fgabf1g1ee8feef3ab1" version="1">Bestow Curse</content>
-  <content contentuid="h8ff3ecb0g2061g4f9cg8bfagccbc153f499e" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Bestow Curse&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h8ff3ecb0g2061g4f9cg8bfagccbc153f499e" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Bestow Curse&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="he68d0eecg6043g4247gb00agaa5c6a15322e" version="1">Blink</content>
-  <content contentuid="hed512dc5g6820g49ddgb826g64ee87d4cc00" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_Blink"&gt;Blink&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hed512dc5g6820g49ddgb826g64ee87d4cc00" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_Blink"&gt;Blink&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="he76b08dfgd02cg4be2g8cccg7ddb057d2ce9" version="1">Catnap</content>
-  <content contentuid="h73171932g6a22g418aga98cg6dd9d75be63d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Catnap"&gt;Catnap&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h73171932g6a22g418aga98cg6dd9d75be63d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Catnap"&gt;Catnap&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hd965de7ag380bg4726gad19g5872024e99a6" version="1">Counterspell</content>
-  <content contentuid="h94895606g086cg406bgbed7g8dc472219e06" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Counterspell_Success"&gt;Counterspell&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h94895606g086cg406bgbed7g8dc472219e06" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Counterspell_Success"&gt;Counterspell&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h28fbb3a7g7831g4cb3g86c9g3be9cb1b9318" version="1">Enemies Abound</content>
-  <content contentuid="hc7909f8cg6a67g452ag93b5g3263eb5f9ec5" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_EnemiesAbound"&gt;Enemies Abound&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hc7909f8cg6a67g452ag93b5g3263eb5f9ec5" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_EnemiesAbound"&gt;Enemies Abound&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h01f41740gf6bbg4e47g9c74gb591c1c8605d" version="1">Erupting Earth</content>
-  <content contentuid="h596c5b81gc190g427ag86a7g7cbaac5cd629" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_EruptingEarth"&gt;Erupting Earth&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h596c5b81gc190g427ag86a7g7cbaac5cd629" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_EruptingEarth"&gt;Erupting Earth&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h83924a16ged54g4c10ga2d9g22354b7b0e01" version="1">Fear</content>
-  <content contentuid="h6c7b4187g2ca4g4fa2gb274gba72d4ff438d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Zone_Fear"&gt;Fear&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h6c7b4187g2ca4g4fa2gb274gba72d4ff438d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Zone_Fear"&gt;Fear&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hc57495c0g90fdg4d10gb7f1g3c13a8d053d7" version="1">Feign Death</content>
-  <content contentuid="hf7ecb35dgbe54g486dg99a9ged06bbaa0d0c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_FeignDeath"&gt;Feign Death&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hf7ecb35dgbe54g486dg99a9ged06bbaa0d0c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_FeignDeath"&gt;Feign Death&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hf4a9ebd9gb059g4c26ga1dfgc530f9096125" version="1">Fireball</content>
-  <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Fireball&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Fireball&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hf4a9ebd9gb059g4c26ga1dfgc530f9096125" version="1">Fireball</content>
-  <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Fireball&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Fireball&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h1498809fg3f0dg4d0bgbaa4gbecff6975a30" version="1">Flame Arrows</content>
-  <content contentuid="h7c9c59f8g9f02g42fcg868egdf4e2390a79f" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_FlameArrows"&gt;Flame Arrows&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h7c9c59f8g9f02g42fcg868egdf4e2390a79f" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_FlameArrows"&gt;Flame Arrows&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h7d48dc4ag427dg48d5g9616g91b183943001" version="1">Fly</content>
-  <content contentuid="h51f897dcg19f3g4487ga2b1g225a6e83cd10" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h51f897dcg19f3g4487ga2b1g225a6e83cd10" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h590464c4gf399g41f7gadb3g3f6a33c93a5f" version="1">Gaseous Form</content>
-  <content contentuid="hc07fb3b9g991eg4826ga839g845074b3c719" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_GaseousForm"&gt;Gaseous Form&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hc07fb3b9g991eg4826ga839g845074b3c719" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_GaseousForm"&gt;Gaseous Form&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h1b2ef4f0gcc16g485fga56fg8d4c558a8d77" version="1">Glyph of Warding</content>
-  <content contentuid="h9e2297ddge8fbg447agbf7cg8e88dcc80812" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_GlyphOfWarding"&gt;Glyph of Warding&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h9e2297ddge8fbg447agbf7cg8e88dcc80812" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_GlyphOfWarding"&gt;Glyph of Warding&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h0e723558g04c8g4753gaef1gd66826575642" version="1">Haste</content>
-  <content contentuid="hf7166969g120cg45fcgb604g07ee06692e8c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;Haste&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hf7166969g120cg45fcgb604g07ee06692e8c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;Haste&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h24f765f9g1c6eg4a1dg946ag487089a36f10" version="1">Hypnotic Pattern</content>
-  <content contentuid="hcb043b3eg0d95g4eeaga975g6af69e5ee7f2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_HypnoticPattern"&gt;Hypnotic Pattern&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hcb043b3eg0d95g4eeaga975g6af69e5ee7f2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_HypnoticPattern"&gt;Hypnotic Pattern&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="ha98ff679ga463g479cg82e3g5730dcc15a58" version="1">Intellect Fortress</content>
-  <content contentuid="h42d50406gf894g432eg9628g1f4a6c36d4c8" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_IntellectFortress"&gt;Intellect Fortress&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h42d50406gf894g432eg9628g1f4a6c36d4c8" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_IntellectFortress"&gt;Intellect Fortress&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h6791de46g8f47g4ca7g9681g5d36103137cf" version="1">Life Transference</content>
-  <content contentuid="hce8de64bg07f5g4d4eg9115g61cc47b6b372" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_LifeTransference"&gt;Life Transference&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hce8de64bg07f5g4d4eg9115g61cc47b6b372" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_LifeTransference"&gt;Life Transference&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hafac054cgabe7g4a92g8998gca51c76e64e4" version="1">Lightning Bolt</content>
-  <content contentuid="h56066fd9g2826g4aefgbe41g6edd08456b75" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Zone_LightningBolt"&gt;Lightning Bolt&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h56066fd9g2826g4aefgbe41g6edd08456b75" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Zone_LightningBolt"&gt;Lightning Bolt&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h55f37f99g997eg4cd2g8e03g9dd3a9c4238d" version="1">Minute Meteors</content>
-  <content contentuid="hda1dcc5ag3964g49a3g8e33g31a1c417e273" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_MinuteMeteors"&gt;Minute Meteors&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hda1dcc5ag3964g49a3g8e33g31a1c417e273" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_MinuteMeteors"&gt;Minute Meteors&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h5586dfb1g5b5dg4779g8ca8g99de5365cfe7" version="1">Nondetection</content>
-  <content contentuid="h88ac3931ge0dag4f95g99d6gd902dffcb0d0" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;Nondetection&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h88ac3931ge0dag4f95g99d6gd902dffcb0d0" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;Nondetection&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h368dda2bg6d1dg42bcgbb47g8f314f88ca40" version="1">Protection from Energy</content>
-  <content contentuid="h99fbde3dg24b3g43fcg9d95gef9708f197a2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_ProtectionFromEnergy"&gt;Protection from Energy&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h99fbde3dg24b3g43fcg9d95gef9708f197a2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_ProtectionFromEnergy"&gt;Protection from Energy&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h4ec99ea7gd012g4b28gb8d9gab75e9b24b01" version="1">Remove Curse</content>
-  <content contentuid="h1e01f276gdc9ag4d42g8467gd0a07720d412" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse"&gt;Remove Curse&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h1e01f276gdc9ag4d42g8467gd0a07720d412" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse"&gt;Remove Curse&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h09788b9ag269dg4ac8g9c0fg9c5f23b8236a" version="1">Sleet Storm</content>
-  <content contentuid="ha415b8c0gb8f8g47ecg8f7bg9ea9f155fab2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SleetStorm"&gt;Sleet Storm&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="ha415b8c0gb8f8g47ecg8f7bg9ea9f155fab2" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SleetStorm"&gt;Sleet Storm&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h8842365cg9183g4e04gafb1g78f1f5e351eb" version="1">Slow</content>
-  <content contentuid="hddaa7189g438bg4cbeg94d5g4a6b97ad43e4" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Slow"&gt;Slow&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hddaa7189g438bg4cbeg94d5g4a6b97ad43e4" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_Slow"&gt;Slow&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h10a8cbf2g9b6cg428cg8523g6e95eda23678" version="1">Speak with Dead</content>
-  <content contentuid="h0399a7fagfee8g44d1ga6cbg3904fb830fa4" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Speak with Dead&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h0399a7fagfee8g44d1ga6cbg3904fb830fa4" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Speak with Dead&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hcfa237f1g1efbg4c20gb775g104ba153b8b6" version="1">Spirit Shroud</content>
-  <content contentuid="hbab4953fg5ee3g4be5gad3dge84eac1a9ea3" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_SpiritShroud"&gt;Spirit Shroud&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="hbab4953fg5ee3g4be5gad3dge84eac1a9ea3" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Shout_SpiritShroud"&gt;Spirit Shroud&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hdc532e87gfea7g434bg8916gbd9844fd224f" version="1">Stinking Cloud</content>
-  <content contentuid="h3fa38566g41d1g4e2eg8473g1e01fb4ec33c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_StinkingCloud"&gt;Stinking Cloud&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h3fa38566g41d1g4e2eg8473g1e01fb4ec33c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_StinkingCloud"&gt;Stinking Cloud&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h4592895agf782g4007gaac2g94fe117f7c49" version="1">Summon Shadowspawn</content>
-  <content contentuid="haf6091beg032ag4b36g9d04ga39dd0e1623e" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowspawn"&gt;Summon Shadowspawn&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="haf6091beg032ag4b36g9d04ga39dd0e1623e" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowspawn"&gt;Summon Shadowspawn&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hd22a9015gaf28g4318g8b9bga4c74dfe671e" version="1">Thunder Step</content>
-  <content contentuid="h9e3dd04ag9083g42e9gb4bfg2ed838dcd0b1" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Teleportation_ThunderStep"&gt;Thunder Step&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h9e3dd04ag9083g42e9gb4bfg2ed838dcd0b1" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Teleportation_ThunderStep"&gt;Thunder Step&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hfc58d95bg5c9bg4992g8ebagd8819e267c58" version="1">Vampiric Touch</content>
-  <content contentuid="h1bcce343g764ag4d09g8a4dg8d98940900a8" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;Vampiric Touch&lt;/LSTag&gt; comme Sort Signature.</content>
+  <content contentuid="h1bcce343g764ag4d09g8a4dg8d98940900a8" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;Vampiric Touch&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h6d8f354dgee0ag41eag83f0g5a7ab82d1dc2" version="1">Sorcerous Restoration</content>
   <content contentuid="h72322df5g74d4g4192gb031g4d5b3206a45d" version="1">You regain 4 expended &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; whenever you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
   <content contentuid="h054bef58gceb3g46e0g9c84gbe56f125ea11" version="1">Draconic Presence</content>
