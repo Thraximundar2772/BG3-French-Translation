@@ -75,25 +75,25 @@
   <content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Polyvalence martiale</content>
  
   <content contentuid="h4f1e90cdgcf6fg4816gab13ge2a5a4468a28" version="1">Attaque chargée de Ki</content>
-  <content contentuid="haf3c2d4dgbbceg4e5bg95a8g7504b2dab109" version="1">If you spend 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Point&lt;/LSTag&gt; or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</content>
-  <content contentuid="h7bc867f9g6021g46e4ga97bg4b770d825deb" version="1">Bonus action attack after spending Ki Points as a part of action.</content>
-  <content contentuid="h4a8d013bgab50g477eg90aag83df0aee9a28" version="1">Quickened Healing</content>
-  <content contentuid="hae8d3b89gb0e9g48a9g8c0dg83a0d6bab6c5" version="1">You can spend 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; and roll a Martial Arts die to regain [1].</content>
+  <content contentuid="haf3c2d4dgbbceg4e5bg95a8g7504b2dab109" version="1">Si vous dépensez 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de Ki&lt;/LSTag&gt; ou plus dans le cadre de votre action lors de votre tour, vous pouvez effectuer une attaque à mains nues ou une arme de moine en action bonus avant la fin du tour.</content>
+  <content contentuid="h7bc867f9g6021g46e4ga97bg4b770d825deb" version="1">Attaque en Action bonus après avoir dépensé des Points de Ki dans le cadre d'une action.</content>
+  <content contentuid="h4a8d013bgab50g477eg90aag83df0aee9a28" version="1">Guérison accélérée</content>
+  <content contentuid="hae8d3b89gb0e9g48a9g8c0dg83a0d6bab6c5" version="1">Vous pouvez dépenser 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; et faire un Jet d'arts martiaux pour regagner [1].</content>
   <content contentuid="hed1a40c7ged75g494ega0deg4a448a7839e4" version="1">Regagnez [1].</content>
   <content contentuid="hcd9fd408g808ag4dc3g91cege7ac3134384a" version="1">Concentration ciblé</content>
-  <content contentuid="h224481bfg70e8g4fe8gb28cga47553468344" version="1">When you attack a creature, you can spend 1 to 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; to increase your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; by +2 for each point you spend.</content>
+  <content contentuid="h224481bfg70e8g4fe8gb28cga47553468344" version="1">Lorsque vous attaquez une créature, vous pouvez dépenser 1 à 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; pour augmenter votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; de +2 pour chaque point dépensé.</content>
   <content contentuid="hfdc4b496gfd5ag4b60gb369g63f980b4a0c2" version="1">Concentration ciblé : 1 Point de Ki</content>
   <content contentuid="ha45815f2g287bg49d3ga9e2gbec4d93452f9" version="1">Concentration ciblé : 2 Points de Ki</content>
   <content contentuid="h3f91e912g2f00g4a00gb9dcg58c1359f900e" version="1">Concentration ciblé : 3 Points de Ki</content>
-  <content contentuid="hfe43f72ega3edg4a06gb98bgd84f9d43eded" version="1">Increase your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; by +[1].</content>
+  <content contentuid="hfe43f72ega3edg4a06gb98bgd84f9d43eded" version="1">Augmentez votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; par +[1].</content>
 
-  <content contentuid="h8fd95bb3g31e8g41a2ga5c4g7715586f6dde" version="1">Favored Foe</content>
-  <content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">The number of times you can use the Favored Foe feature.</content>
-  <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">You can increase the damage you deal by [1] once per turn whilst marking a creature.</content>
-  <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Deal an additional [1] to a favored foe.</content>
-  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Call on your mystical bond with nature to mark a creature as your favored enemy.</content>
+  <content contentuid="h8fd95bb3g31e8g41a2ga5c4g7715586f6dde" version="1">Ennemi juré</content>
+  <content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">Le nombre de fois que vous pouvez utiliser la capacité Ennemi juré.</content>
+  <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">Vous pouvez augmenter les dégâts que vous infligez de [1] une fois par tour tout en marquant une créature..</content>
+  <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Infligez [1] suplémentaire à un Ennemi juré.</content>
+  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Faites appel à votre lien mystique avec la nature pour marquer une créature comme votre Ennemi juré.</content>
   <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Explorateur des profondeurs : Prudent</content>
-  <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choose one of your skill proficiencies. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for any &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make using the chosen skill.</content>
+  <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choisissez l'une de vos compétences. Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est doublé pour tout &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt; que vous effetuez en utilisant la compétence choisie.</content>
   <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Explorateur des profondeurs : Nomade</content>
   <content contentuid="ha1521904g9bbbg490egaeb7gda51d7583b81" version="1">Votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; augmente de [1].</content>
   <content contentuid="h55d9723cgaeecg47b7g9789g0b57ce1bf283" version="1">Explorateur des profondeurs : Infatigable</content>
@@ -137,12 +137,12 @@
   <content contentuid="h89335a24g7de5g4988ga2e5g14646f893b99" version="1">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur les jets de &lt;LSTag Tooltip="Survival"&gt;Survie&lt;/LSTag&gt; est doublé.</content>
   <content contentuid="h2d4a55e9g11f8g43a7g8b4cge2195afe0d84" version="1">Infatigable</content>
   <content contentuid="hbe937f06ge76cg469dgab99ge92bbfd8bcae" version="1">Gagnez [1].</content>
-  <content contentuid="h96e39f55g8bf4g4e3eg9e1fge5ca9ae2c1c3" version="1">Primal Awareness</content>
-  <content contentuid="hc879165ag99b3g4ebega700g12b2a2c8efbe" version="1">You can focus your awareness through the interconnections of nature. You learn additional spells when you reach certain levels in this class if you don't already know them. You can cast each of these spells once without expending a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt;. Once you cast a spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
-  <content contentuid="h1d29b2edg0eacg4e20g8db4g7875b0422849" version="1">Can cast without expending a spell slot.</content>
-  <content contentuid="hcfccb2a0g3e5dg4bcag8f52g54720ececbf0" version="1">Speak with Animals: Primal Awareness</content>
-  <content contentuid="h8e066398gcc59g4e51gba02g4601057b4022" version="1">Commune with Nature: Primal Awareness</content>
-  <content contentuid="h345bef1cg2fdag4aa6gbe09g8e49f179420a" version="1">Hide in Plain Sight</content>
+  <content contentuid="h96e39f55g8bf4g4e3eg9e1fge5ca9ae2c1c3" version="1">Conscience primordiale</content>
+  <content contentuid="hc879165ag99b3g4ebega700g12b2a2c8efbe" version="1">Vous pouvez concentrer votre conscience sur les interconnexions de la nature. Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux dans cette classe si vous ne les connaissez pas déjà. Vous pouvez lancer chacun de ces sorts une fois sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sorts&lt;/LSTag&gt;. Une fois que vous avez lancé un sort de cette manière, vous ne pouvez plus le refaire tant que vous n'avez pas terminé un &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+  <content contentuid="h1d29b2edg0eacg4e20g8db4g7875b0422849" version="1">Peut être lancé sans dépenser un emplacement de sort.</content>
+  <content contentuid="hcfccb2a0g3e5dg4bcag8f52g54720ececbf0" version="1">Communication avec les animaux : Conscience primordiale</content>
+  <content contentuid="h8e066398gcc59g4e51gba02g4601057b4022" version="1">Communion avec la nature : Conscience primordiale</content>
+  <content contentuid="h345bef1cg2fdag4aa6gbe09g8e49f179420a" version="1">Caché à la vue de tous</content>
   <content contentuid="hb222dc82gc871g49ffg8f6eg3c0382f3fe46" version="1">As an action, you can camouflage yourself with your environment to become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and gain a +[1] bonus to Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, as long as you stand still.</content>
   <content contentuid="h6b40ce00ge4d7g4b9bg9a6cgec08a5c6c3fc" version="1">Nature's Veil</content>
   <content contentuid="h5b256406g78c9g43cfgb158g3c8eba1a78c0" version="1">You draw on the powers of nature to hide yourself from view briefly by magically become invisible. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; and regain all uses once you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
@@ -236,17 +236,17 @@
   <content contentuid="h384f96aag6b7ag40f7gae1ag49db98d6b7cf" version="1">The target returns to the space it previously occupied at the end of your next turn and takes [1] if it is not a fiend.</content>
   <content contentuid="h3028ab5egfbbfg44f1g9fdagb83cd5942481" version="1">This entity has been transported through the lower planes.</content>
   <content contentuid="h69ff7904gd23cg4cabg99fdgdbbd0077a59e" version="1">This entity has been transported through the lower planes and takes [1] upon returning.</content>
-  <content contentuid="h8587aeb8g1fa6g4a23gac11g5bf4d3bc3840" version="1">Create Thrall</content>
+  <content contentuid="h8587aeb8g1fa6g4a23gac11g5bf4d3bc3840" version="1">Créer un serviteur</content>
   <content contentuid="hc64b67a9gb587g4d8fgb1a4gb9c727be5eb2" version="1">Touch an &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; humanoid creature, causing it to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you.</content>
   <content contentuid="h4bec93fdgedffg4616gb475g5f71aaadb411" version="1">The &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; condition is removed when &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse&gt;Délivrance des malédictions&lt;/LSTag&gt; is used on the creature, the condition is removed or when you use this action again.</content>
   <content contentuid="h84b21324g9f50g4224g8499g09f43423dba6" version="1">You gain the ability to infect a humanoid's mind with the alien magic of your patron, &lt;LSTag Type="Spell" Tooltip="Target_CreateThrall&gt;creating a thrall&lt;/LSTag&gt;.</content>
 
   <content contentuid="h7524fe55ged66g4971g9e56g678ffd10ccc5" version="1">Résistance aux sorts</content>
-  <content contentuid="h4ebceda9g8e24g439egafc2g819cf919319a" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells and you have &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; against the damage of spells.</content>
+  <content contentuid="h4ebceda9g8e24g439egafc2g819cf919319a" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts et vous avez une &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; contre les dégâts des sorts.</content>
   <content contentuid="he1839990gf540g4c4egbab6g02a55fe3a296" version="1">Surcharge magique</content>
-  <content contentuid="h92b4e9c0gbbbdg4bccg9fe4gfcee7a0da4e4" version="1">You can increase the power of your simpler spells. When you cast a spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take [1] for each level of the spell, immediately after you cast it. You take an additional [2] per spell level with each subsequent cast.</content>
-  <content contentuid="h45e47255gd6e0g453cga652g621b0577939d" version="1">When you cast a 1st through 5th level spell that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take [1] for each level of the spell, immediately after you cast it. You take an additional [2] per spell level with each subsequent cast.</content>
-  <content contentuid="h62fc1db1ga036g4b5fg990cg1e18aca87fe4" version="1">Deal maximum damage with spell of 1st to 5th level.</content>
+  <content contentuid="h92b4e9c0gbbbdg4bccg9fe4gfcee7a0da4e4" version="1">Vous pouvez augmenter la puissance de vos sorts les plus simples. Lorsque vous lancez un sort de niveau 1 à 5 qui inflige des dégâts, vous pouvez infliger un maximum de dégâts avec ce sort. La première fois que vous le faites, vous ne subissez aucun effet indésirable. Si vous utilisez à nouveau cette capacité avant de terminer un repos long, vous recevez [1] pour chaque niveau du sort, immédiatement après l'avoir lancé. Vous prenez [2] supplémentaires par niveau de sort à chaque lancement ultérieur.</content>
+  <content contentuid="h45e47255gd6e0g453cga652g621b0577939d" version="1">Lorsque vous lancez un sort de niveau 1 à 5 qui inflige des dégâts, vous pouvez infliger un maximum de dégâts avec ce sort. La première fois que vous le faites, vous ne subissez aucun effet indésirable. Si vous utilisez à nouveau cette fonctionnalité avant de terminer un repos long, vous recevez [1] pour chaque niveau du sort, immédiatement après l'avoir lancé. Vous prenez [2] supplémentaires par niveau de sort à chaque lancement ultérieur.</content>
+  <content contentuid="h62fc1db1ga036g4b5fg990cg1e18aca87fe4" version="1">Inflige un maximum de dégâts avec des sorts de niveau 1 à 5.</content>
   <content contentuid="hb2954270g4e81g4668gb280gdbfcafd766c5" version="1">Surcharge magique (1)</content>
   <content contentuid="h42b3d3dcg4d8ag4fc1ga302gb9f19e76a2b5" version="1">Surcharge magique (2)</content>
   <content contentuid="he6c55f91g740ag4a21gb375gdf1b7e6e9968" version="1">Surcharge magique (3)</content>
@@ -255,25 +255,25 @@
   <content contentuid="h5e3afc50gaca0g403bg9b3dgb32eae97b867" version="1">Surcharge magique (6)</content>
   <content contentuid="hdfc59a40g986fg4194ga700g7ecc9c9a4b2c" version="1">Surcharge magique (7)</content>
   <content contentuid="h6e2947abg3415g4a41g87d4g1d6111062ad8" version="1">Surcharge magique (8)</content>
-  <content contentuid="h351ae9efg02c7g4302ga73eg8844b74aecb9" version="1">Take [1] for each level of a damaging spell cast from 1st to 5th level.</content>
+  <content contentuid="h351ae9efg02c7g4302ga73eg8844b74aecb9" version="1">Subissez [1] pour chaque niveau d'un sort de dégât lancé du Niveau 1 à 5.</content>
   <content contentuid="h3d75abe2gf7f7g41c8g8ae1g26be3c7041d9" version="1">Rage percistante</content>
-  <content contentuid="hbeddf31dg9e62g477bgae64gc192e7a47c7e" version="1">Your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; is so fierce that it ends early only if you fall &lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;Unconscious&lt;/LSTag&gt; or if you choose to end it.</content>
+  <content contentuid="hbeddf31dg9e62g477bgae64gc192e7a47c7e" version="1">Votre &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; est si féroce qu'elle ne se terminera plus tôt que si vous tombez &lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;Inconscient&lt;/LSTag&gt; ou si vous choisissez d'y mettre fin.</content>
   <content contentuid="h86bcb3c9g6f04g46d6gb029g8433630344b5" version="1">Charge arcanique</content>
-  <content contentuid="h6cab21dfg3fb6g4374gb188gd43361dc823b" version="1">You gain the ability to teleport up to [1] after using Action Surge.</content>
+  <content contentuid="h6cab21dfg3fb6g4374gb188gd43361dc823b" version="1">Vous obtenez la possibilité de vous téléporter jusqu'à [1] après avoir utilisé Fougue.</content>
   <content contentuid="h4485faafgbfbdg4ed5g983cg75768e14b31d" version="1">Corps intemporel</content>
-  <content contentuid="hc38f1555g3210g4becga13bgc31c590d6bb7" version="1">You no longer suffer the negative effects of the &lt;LSTag Type="Spell" Tooltip="Target_Haste&gt;Hâte&lt;/LSTag&gt; spell ending.</content>
+  <content contentuid="hc38f1555g3210g4becga13bgc31c590d6bb7" version="1">Vous ne subissez plus les effets négatifs de fin du sort &lt;LSTag Type="Spell" Tooltip="Target_Haste&gt;Hâte&lt;/LSTag&gt;.</content>
   <content contentuid="h7f781143ge8ceg44f1g9ca9g017bc7075d84" version="1">Âme de vengeance</content>
-  <content contentuid="h3d599ae2g05fag4d86gbfc0g2949a00410cb" version="1">The authority with which you speak your &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Vow of Enmity&lt;/LSTag&gt; gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.</content>
-  <content contentuid="hce57670fgc111g49a5g835bgbacf5be1716f" version="1">Make a melee weapon attack against a creature that makes an attack while under the effects of your &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Vow of Enmity&lt;/LSTag&gt;.</content>
+  <content contentuid="h3d599ae2g05fag4d86gbfc0g2949a00410cb" version="1">L'autorité avec laquelle vous prononcez votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Voeu d'inimitié&lt;/LSTag&gt; vous donne un plus grand pouvoir sur votre ennemi. Lorsqu'une créature sous l'effet de votre Voeu d'inimitié effectue une attaque, vous pouvez utiliser votre réaction pour lancer une attaque au corps à corps contre cette créature si elle est à portée.</content>
+  <content contentuid="hce57670fgc111g49a5g835bgbacf5be1716f" version="1">Lancez une attaque au corps à corps avec une arme contre une créature qui effectue une attaque alors qu'elle est sous les effets de votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Voeu d'inimitié&lt;/LSTag&gt;.</content>
   <content contentuid="h8c263eb2g696ag4a86g8bd9gc26ce00d4c94" version="1">Souffle de l'hiver</content>
   <content contentuid="h1f31c024g90bfg404eg8a63gd8d646110b6a" version="1">Défense de la montagne éternelle</content>
   <content contentuid="h52a789d9g991dg47edg9772g2257fb90acb6" version="1">Rivière de flammes affamées</content>
   <content contentuid="h17ca6cdaga428g48bcg88b3g4047f05e1585" version="1">Vague de terre roulante</content>
   <content contentuid="h5b525335g4f8cg4531gbd35g7c96fd83c135" version="1">Voleur de sorts</content>
   <content contentuid="hc22b9f2dg59e7g4957gb9beg14007eb0171c" version="1">Echec de Voleur de sorts</content>
-  <content contentuid="ha1865b6dgd985g4c70ga4fcg658ef7022cec" version="1">You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.</content>
-  <content contentuid="h5d3dcdb4gc850g40fbg9d07gf718ce6e1f0a" version="1">Interrupt a creature casting a spell, causing it to fail.</content>
-  <content contentuid="he35b89d0g0320g4afcgbf01g618c76478325" version="1">You steal the knowledge of the spell if it is at least 1st level and of a level you can cast.</content>
+  <content contentuid="ha1865b6dgd985g4c70ga4fcg658ef7022cec" version="1">Vous obtenez la capacité de voler par magie la connaissance de la façon de lancer un sort à un autre lanceur de sorts.</content>
+  <content contentuid="h5d3dcdb4gc850g40fbg9d07gf718ce6e1f0a" version="1">Interrompez une créature qui lance un sort, ce qui provoque son échec.</content>
+  <content contentuid="he35b89d0g0320g4afcgbf01g618c76478325" version="1">Vous volez la connaissance du sort s'il est au moins de niveau 1 et d'un niveau que vous pouvez lancer.</content>
   <content contentuid="h69d6ca81gfac0g47dbg8a81gd76856e29b3f" version="1">Voleur de sorts : Intelligence</content>
   <content contentuid="h3e5232dfgb6a3g48e4gb0e7g5639831bb9cd" version="1">Force la créature qui lance un Sort à faire un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; d'Intelligence, provoquant éventuellement l'échec du sort et en l'apprenant s'il est d'un niveau que vous pouvez lancer.</content>
   <content contentuid="hb8628bd8g1d32g4468g9285g6f3f8159993f" version="1">Voleur de sorts : Sagesse</content>
@@ -407,10 +407,10 @@
   <content contentuid="h12c1ca11g0c72g400fg9769gea8eefbf0b1e" version="1">Has the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_WindSoul_9m"&gt;Fly&lt;/LSTag&gt;.</content>
   <content contentuid="hdf76f2b7g7771g41abgb629g031cd39b7205" version="1">Présence draconique</content>
   <content contentuid="he9dbfac6g9111g4098gae45geeadd586722c" version="1">Vous pouvez canaliser la présence redoutable de votre ancêtre dragon, provoquant l'émerveillement ou la peur chez ceux qui vous entourent.</content>
-  <content contentuid="haae057c7gc0c4g4b03g97b6g4c43f3b8aa30" version="1">Eldritch Master</content>
-  <content contentuid="h5d45c1cagd4e5g4ab4g831cgf6ad55e29f9c" version="1">You can draw on your inner reserve of mystical power while entreating your patron to regain your expended &lt;LSTag Tooltip="WarlockSpellSlot"&gt;spell slots&lt;/LSTag&gt; from your Pact Magic feature.</content>
-  <content contentuid="haf55b93dg0d1bg4fa6ga21egd17f9cf831ae" version="1">Draw on your inner reserve of mystical power while entreating your patron to regain your expended &lt;LSTag Tooltip="WarlockSpellSlot"&gt;spell slots&lt;/LSTag&gt;.</content>
-  <content contentuid="h0e4a4fcfg2b45g4538gb0d9g6b05fe7e80ea" version="1">Regained all expended &lt;LSTag Tooltip="WarlockSpellSlot"&gt;spell slots&lt;/LSTag&gt;.</content>
+  <content contentuid="haae057c7gc0c4g4b03g97b6g4c43f3b8aa30" version="1">Maître occulte</content>
+  <content contentuid="h5d45c1cagd4e5g4ab4g831cgf6ad55e29f9c" version="1">Vous pouvez puiser dans votre réserve intérieure de pouvoir mystique tout en suppliant votre patron de récupérer vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts&lt;/LSTag&gt; dépensés pour votre capacité de Pacte Magique.</content>
+  <content contentuid="haf55b93dg0d1bg4fa6ga21egd17f9cf831ae" version="1">Puisez dans votre réserve intérieure de pouvoir mystique tout en suppliant votre patron de récupérer vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts&lt;/LSTag&gt; dépensés.</content>
+  <content contentuid="h0e4a4fcfg2b45g4538gb0d9g6b05fe7e80ea" version="1">Regagnez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts&lt;/LSTag&gt; dépensés.</content>
   <content contentuid="h12937077g03feg4d50gbc13g1baf74958cdf" version="1">Maîtrise de Sort </content>
   <content contentuid="hdaabb98fg9f69g4cb3g8c61g641cfd422efa" version="1">Vous maîtrisez tellement certains sorts que vous pouvez les lancer à volonté.</content>
   <content contentuid="h5b1df13eg1653g4c55g92c5gd46fef2b3491" version="1">Activez-le pour vous permettre de changer vos choix de maîtrise des sorts de Niveaux 1 et 2 après avoir terminé une &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
