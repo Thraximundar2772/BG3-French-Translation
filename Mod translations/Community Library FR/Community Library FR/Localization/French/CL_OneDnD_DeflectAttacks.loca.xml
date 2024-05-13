@@ -1,0 +1,13 @@
+<contentList>
+<!-- CL_Passive_OneDnD_DeflectAttacks -->
+<content contentuid="habbb82f9afa64cc1ae16cb09fa38cfd87ab4" version="1">Dévier les attaques</content>
+<content contentuid="hb8c0a50a953d45dd9072582ce561c96662b8" version="1">Utilisez votre réaction pour réduire les dégâts d'une attaque avec une arme de 1d10 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de Dextérité + votre niveau de moine.&lt;br&gt;&lt;br&gt;Si les dégâts sont réduits à 0, vous utilisez un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de Discipline&lt;/LSTag&gt; pour &lt;LSTag Type="Spell" Tooltip="CL_Projectile_OneDnD_DeflectAttacks"&gt;Dévier l'attaque&lt;/LSTag&gt;.</content>
+<content contentuid="h60771c66eaf14c18bb4e840677e150c0c510" version="1">Vous pouvez uniquement réduire les dégâts de l'attaque, les effets supplémentaires ne peuvent pas être annulés.</content>
+<!-- CL_Interrupt_OneDnD_DeflectAttacks -->
+<content contentuid="h7714f97b21a342c984975f38f5a0a0a2gf9f" version="1">Dévier l'attaque</content>
+<content contentuid="h8805144926d445c5821b0e2f16bd60997e6d" version="1">Réduit les dégâts d'une attaque avec une arme de 1d10 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de Dextérité + votre niveau de moine.&lt;br&gt;&lt;br&gt;Si les dégâts sont réduits à 0, vous utilisez un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de Discipline&lt;/LSTag&gt; pour &lt;LSTag Type="Spell" Tooltip="CL_Projectile_OneDnD_DeflectAttacks"&gt;Dévier l'attaque&lt;/LSTag&gt;.</content>
+<!-- CL_Interrupt_OneDnD_DeflectAttacks_Return -->
+<content contentuid="h8902d741ac1a40dba37d677bf13a346cff05" version="1">Utilisez vos réflexes pour rediriger une attaque avec une arme vers votre attaquant.</content>
+<!-- CL_Projectile_OneDnD_DeflectAttacks -->
+<content contentuid="h45778f72253e4a2993cdf3acd197f8503cb0" version="1">Redirigez une attaque avec une arme vers votre attaquant.</content>
+</contentList>

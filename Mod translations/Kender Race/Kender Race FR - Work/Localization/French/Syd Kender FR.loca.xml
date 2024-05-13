@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="heb5c7c21g5aa9g4e56g8c7cgc293fedf7793" version="1">Kender</content>
+	<content contentuid="h377f23cag2cf3g4169g93edg4336710a111b" version="1">Un groupe de Gnomes a été transformé, leur donnant une curiosité surnaturelle et une intrépidité ; ce sont les Kender. En raison de leur curiosité et de leur désir d'enrichir leur collection infinie de bibelots, de nombreux Kender se retrouvent à travers des portails vers d'autres plans et mondes.</content>
+	<content contentuid="h5505c960gda1cg4ee8g9091gd60c40bc97e4" version="1">Infravision</content>
+	<content contentuid="h91fc4b1fge3e8g4739g8251g30eb9a95f1d2" version="1">Krynn</content>
+	<content contentuid="he2ae24d3g5f7cg4874g8d38gca68f6d510be" version="1">Visiteur du mode de Krynn</content>
+	<content contentuid="h67b21789g8c0cg4188g9ae8g79a2c45567a4" version="1">Intrépidité Kender</content>
+	<content contentuid="h52597c4eg06d2g4ebbgbd3cg3e05d4501492" version="1">Raillerie Kender</content>
+	<content contentuid="hc96c0adeg0478g42c8gbebdgdef83df0213e" version="1">Vous avez une capacité extraordinaire à perturber les créatures. Par une action bonus, vous pouvez lancer une série de mots provocants sur une créature. Elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; lors de son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;Vous pouvez utiliser cette action bonus un nombre de fois égal à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt;.</content>
+	<content contentuid="ha586b090g7ed5g480agbdb6g57f027209f60" version="1">Provoquer une créature. Elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; lors de son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; Vous pouvez utiliser cette action bonus un nombre de fois égal à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt;.</content>
+	<content contentuid="h5babf583gd803g476bg8decg1c3efae205d8" version="1">Saut planaire</content>
+	<content contentuid="ha0d1fd32gda2ag4029gab07g653c91ab6814" version="1">Invoquer un animal de compagnie</content>
+	<content contentuid="hd622e5e7g0cb7g47cag8c5bg9ce958abf7f2" version="1">Invoquez votre animal de compagnie, un animal avec lequel vous vous êtes lié d'amitié ou un animal que vous avez acquis dans le cadre de votre collection.</content>
+	<content contentuid="hb642bfb3g8e37g4c7eg8734g94953b30ff94" version="1">Sac sans fond Kender</content>
+	<content contentuid="hbea608cagfda8g488eg9e96g8572fba625c2" version="1">Un conte populaire rencontré sur la Côte des Épées raconte l'histoire d'un kender entreprenant qui a construit un village utopique entier à l'intérieur d'un puissant sac sans fond. On pensait que cette communauté était encore florissante aujourd'hui.</content>
+	<content contentuid="he5d29698gd69fg4042g8076gbf00202725d2" version="1">Poid réduit</content>
+	<content contentuid="h174e293bg7026g43cdg819dg3e64248543c4" version="1">Les objets que vous collectez deviennent légers une fois placés dans votre sac sans fond.</content>
+	<content contentuid="h11fe7c4cg9a36g4a67ga5a1gdb848cb892d4" version="1">Provoquer une créature. Elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; lors de son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h23093679g59adg40a4g8fcfgc71c65a377ae" version="1">Lorsque vous obtenez un 1 sur un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez relancer le dé et devez utiliser le nouveau jet.</content>
+	<content contentuid="h9fd7f495ge4a1g4f41g8f23g7083552e9c8e" version="1">Résistance à la peur Kender</content>
+	<content contentuid="h2874a9a5ge3f6g4de1g92d7g1b73baec36b8" version="1">Votre intrépidité innée vous empêche de devenir effrayé une fois par repos. </content>
+	<content contentuid="h90320edfga73cg4ea4g889dgc0727a85a949" version="1">Faites appel à un allié que vous avez rencontré lors de vos voyages à travers les Plans.</content>
+	<content contentuid="hbf66791fg4202g4a3cg9783gda3df25623d6" version="1">Chat de compagnie</content>
+	<content contentuid="h74e22e92g7ab9g4fc5ga9d7g2186f636b72a" version="1">Crabe de compagnie</content>
+	<content contentuid="h77f4095bg8f24g4b7dgb3e2ge058fb9521c9" version="1">Rat de compagnie</content>
+	<content contentuid="h718282cdg5e21g4adag9dbeg80bee86fa8e5" version="1">Corneille de compagnie</content>
+	<content contentuid="h7bc4f707g1810g49c3g932eg1c4ed2d46c70" version="1">Grenouille de compagnie</content>
+	<content contentuid="hcd8b1307g7b60g4efbg8209g9d6b8f95ec0e" version="1">Araignée de compagnie</content>
+	<content contentuid="h7bbb670dge7a6g45b6g9df8g66faca23f3b4" version="1">Accédez à votre sac sans fond et invoquez votre ami animal de compagnie.</content>
+	<content contentuid="h599b17a9gd67bg451cg8482ga19afc92a76f" version="1">Fatigué</content>
+	<content contentuid="h7ec8f536g0c26g4dcfg8208g3414edcb3b9b" version="1">Vous avez épuisé votre Résistance à la peur pour la journée.</content>
+	<content contentuid="h2ea4b7b4g0b64g45fagaec4gc15005aa6f89" version="1">Hamster géant de l'espace Juvénil de compagnie</content>
+	<content contentuid="h66055e86gceb2g4413ga3ebg259b6927478c" version="1">Chien de compagnie</content>
+	<content contentuid="h096a7dd8g8473g412eg90efg33d39ff9ab90" version="1">Poulet de compagnie</content>
+	<content contentuid="h66b7e33fge9b7g44d2gb35cg5683d5b32c26" version="1">Mouton de compagnie</content>
+	<content contentuid="h2c95eeebg86d7g4ce8gafbdg4c26f1728c20" version="1">Boeuf de compagnie</content>
+	<content contentuid="h915cd9adg1e26g49a7g8cb4g256be73e42f9" version="1">Ecureuil de compagnie</content>
+	<content contentuid="h989878e2gf100g450dg8c9fgd59a1fe63ff6" version="1">Oeuf</content>
+	<content contentuid="h241af748g1081g4f62gb13cgd896eb39e9cd" version="1">J'aime les oeufs.</content>
+	<content contentuid="h97fff0deg112fg4ad8ga5e4ga33a19fe0c5e" version="1">Rothé de compagnie</content>
+	<content contentuid="heeb9a080g5541g40bcgba1cg4044bff50c9b" version="1">Lapin de compagnie</content>
+	<content contentuid="hecc32dcag8d88g466agbff1g18f62c418bd3" version="1">Sanglier de compagnie</content>
+	<content contentuid="h10882bb6g3b1cg4d60g9bc6g2c75328f2636" version="1">Geai bleu de compagnie</content>
+	<content contentuid="hea9d2e87g4106g42f9gaf92gb6f6cc4fff5b" version="1">Ourson-Hibou de compagnie</content>
+	<content contentuid="h50e9abe7g5c9dg4893ga8a4g0b292f4dcc70" version="1">Vol</content>
+	<content contentuid="hd0151c7bg4fb6g4ce6gad31g460dd02a6ec2" version="1">Diablotin volé</content>
+	<content contentuid="h2c44dcedg7eb1g453bg9e42ge9f402113c46" version="1">Mettez la main dans votre sac et invoquez une créature que vous avez capturée pendant votre séjour dans les Enfers.</content>
+	<content contentuid="h261c1304g00ecg4a5cg8456g295016ad86d4" version="1">Fiélon volé</content>
+	<content contentuid="h1aed8da1g2e91g4680g894ag58be9408966e" version="1">Attaque Griffure</content>
+	<content contentuid="h578e5338gbc4eg4d11ga8d2gcbc34696b72a" version="1">C'est super efficace !</content>
+</contentList>

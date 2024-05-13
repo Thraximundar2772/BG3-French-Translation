@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  
+  <!--//////////////
+    /////Levistus/////
+    //////////////-->
+    
+  <content contentuid="hb8ff5ff9g2d3ag4086g9692gb0823298e7db" version="1">Lignée de Levistus</content>
+  <content contentuid="h84350b4ag0d29g4874g909bg477d7098420b" version="1">Les tieffelins descendant de la lignée du prince Lévistus présentent une affinité particulière pour la magie glaciale, digne de la cinquième couche de l'enfer gelée en permanence, la Stygie.</content>
+  <content contentuid="h3be2e06egebfeg44a5gba24g301edb2d65f8" version="1">Héritage de Stygie: Armure d'Agathys</content>
+  <content contentuid="h1b39ade7g5d62g41f3ga9bcgf646dfd6b353" version="1">Un tieffelin descendant du prince autoproclamé de Stygie, Levistus</content>
+  <content contentuid="h19f3c0e0ga375g493ag9088g2c81720996d2" version="1">Lignée de Levistus</content>
+  
+  <!--//////////////
+    //////Glasya/////
+    //////////////-->
+
+  <content contentuid="h2f81ae25g51bdg491fg9820g369d23200790" version="1">Lignée de Glasya</content>
+  <content contentuid="hf5bf2918g9f17g4929gbca0ge6668ffe668e" version="1">Descendants de la fille intimidante et rusée d'Asmodeus et de la princesse des Neuf Enfers, Glasya. À la hauteur de sa ruse, ces tieffelins sont dotés d'une magie propice à la tromperie.</content>
+  <content contentuid="h88a7fbccgbd5fg4089g9189g8ff08278b35a" version="1">Héritage de Malbolge: Changement d'apparence</content>
+  <content contentuid="h010a4a4eg5870g4114g9145g712ac93786e1" version="1">Héritage de Malbolge: Invisibilité</content>
+  <content contentuid="hcff28f6ag84d7g482egb15ag1782c7afb71e" version="1">Un tieffelin descendant de la princesse des Neuf Enfers, Glasya</content>
+  <content contentuid="hb558fbc0g64efg4049g88d2gf7250d68b0c4" version="1">Lignée de Glasya</content>
+  
+  <!--//////////////
+    //////Mammon/////
+    //////////////-->
+
+  <content contentuid="he4650379g703bg415cg9dbbg60af62275a3e" version="1">Lignée de Mammon</content>
+  <content contentuid="ha07d5134g1af2g4e90gbf6ag4900658182ed" version="1">Les tieffelins dont la lignée remonte à la créature la plus riche de tous les plans, l'archidiable Mammon, sont particulièrement doués pour acquérir et conserver toutes sortes de richesses.</content>
+  <content contentuid="h70fd1be9g3dd9g4bc7gbf49g6eb8b6717e15" version="1">Héritage de Minauros: Bouclier</content>
+  <content contentuid="h12fd51dag18dbg4796gb81cgf5c729270444" version="1">description</content>
+  <content contentuid="hdf2ee46bgead6g414aga82eg757f9bd9d8ed" version="1">Héritage de Minauros: Serrure Arcanique</content>
+  <content contentuid="hb6b05302g96bbg4c6eg876eg21523abc9949" version="1">Un tieffelin descendant du Seigneur de l'Avarice, Mammon</content>
+  <content contentuid="h4753b8c6g4de3g4061ga6ceg2937e833b1be" version="1">Lignée de Mammon</content>
+ 
+  <!--//////////////
+    //////Fierna/////
+    //////////////-->
+
+  <content contentuid="h87fa1925gae18g4fd8gb3a0g836a72015d52" version="1">Lignée de Fierna</content>
+  <content contentuid="h20e26e9fgb246g4ff3g953bg03131e9aa802" version="1">Les tieffelins assez fortuits pour descendre de la tout aussi séduisante qu'insidieuse Dame de Phlegethos, Fierna, sont dotés de personnalités puissantes qui captiveront même les âmes les plus prudentes.</content>
+  <content contentuid="hc63ff5e3g8a28g4ee2g92ecg0388e92c21af" version="1">Héritage de Phlegethos: Charme-Personne</content>
+  <content contentuid="hbbe3a97bg6525g43bcg8863g0410cc6c7070" version="1">Héritage de Phlegethos: Captiver</content>
+  <content contentuid="he4efaf5fg4a31g4334g8f5ag3ba17b4d5264" version="1">Un tiefling descendant de la fougueuse Dame de Phlégethos, Fierna</content>
+  <content contentuid="ha235f127g9641g4ac9ga49fg9f361a4944dd" version="1">Lignée de Fierna</content>
+ 
+  <!--//////////////
+    //////Dispater////
+    //////////////-->
+
+  <content contentuid="he224d452gf241g416bg9b99g2a0a75929a2a" version="1">Lignée de Dispater</content>
+  <content contentuid="h6736eeccge141g4e68ga910g039e04e8ccce" version="1">Les tieffelins descendants du tyran de la cité de fer de Dis, Dispater, sont connus pour avoir hérité à la fois de sa vigilance accrue et de sa fascination pour la découverte et la collecte des secrets les plus énigmatiques.</content>
+  <content contentuid="h4f08a399gcaa8g461bg9918g24451d63fec2" version="1">Héritage de Dis: Changement d'apparence</content>
+  <content contentuid="haff63b19g4245g41b1gaa57g6538af237dd0" version="1">Héritage de Dis: Détection des pensées</content>
+  <content contentuid="h5f89918bg1403g4048g8476gc469efd75b75" version="1">Un tieffelin descendant du père des conflits, Dispater</content>
+  <content contentuid="h2001fa2cgd411g4370gae88g3478734d2573" version="1">Lignée de Dispater</content>
+ 
+  <!--//////////////
+    /////Baalzebul////
+    //////////////-->
+
+  <content contentuid="h66171c84gd591g437cgb751g12b0bf6489c3" version="1">Lignée de Baalzebul</content>
+  <content contentuid="hdbb21c9agb910g489dgb31ag98737b7e2b6a" version="1">Les descendants de Baalzebul, le Déchu - un Céleste autrefois d'une beauté séduisante maudit par Asmodée lui-même - sont dotés du talent de corrompre les autres à la fois physiquement et psychiquement.</content>
+  <content contentuid="hcb4fd129g286cg4a3cg8a4cg66871e48259b" version="1">Héritage de Maladomini: Rayon de maladie</content>
+  <content contentuid="h8d77b762ge578g4819g83a9g794128c30306" version="1">Héritage de Maladomini: Couronne de folie</content>
+  <content contentuid="hd56043d9g326fg4807gae34g2b7378366656" version="1">Un tieffelin descendant du Seigneur du Mensonge, Baalzebul</content>
+  <content contentuid="h80f24bbfg684cg4687g9028g30139954ee10" version="1">Lignée de Baalzebul</content>
+  
+  <!--//////////////
+    /////Variant/////
+    //////////////-->
+
+  <content contentuid="hb80cc346g6c9cg487cg8d5dg6ca5daa08c89" version="1">Tieffelin Variant</content>
+  <content contentuid="h0705ba5cgb5a5g45dag8098g6fb79b94a57b" version="1">Tous les tieffelins ne sont pas capables de retracer leur lignée jusqu'à un singulier Archidiable de renommée. Aussi divers que soient les diables, les tieffelins qui en descendent le sont aussi.</content>
+  <content contentuid="had6588a8g830dg4096g968ege485a9817884" version="1">Langue du Diable: Murmures Dissonants</content>
+  <content contentuid="h30c7652bg0e9bg4d55ga455g3742e3f0ab20" version="1">Langue du Diable: Insuffler la Peur</content>
+  <content contentuid="ha948616eg6f5ag4e41gaa72gba042da23d5a" version="1">Projetez une image des Enfers si effrayante qu'elle fera tout lâcher à votre cible et deviendra &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Effrayé&lt;/LSTag&gt;. Ils seront plus faciles à toucher et ne pourront plus bouger.</content>
+  <content contentuid="h003b3d03g75b7g46dfg8474g0d2d6767f671" version="1">Un tiefling d'ascendance variée et particulière</content>
+  <content contentuid="h6c96d0f0g43d4g440dga24cgcd311e9692c2" version="1">Tieffelin Variant</content>
+  <content contentuid="h6757c45eg7250g4f0bgbee2g39ad679271df" version="1">Vous pouvez modifier votre sort mineur en en sélectionnant un autre parmi les sorts mineurs répertoriés ci-dessous. Ce sort mineur n'utilise pas &lt;LSTag Tooltip="SpellSlot"&gt;d'emplacement de sort&lt;/LSTag&gt; et peut être lancé à volonté. Il utilise votre charisme comme son &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modificateur&lt;/LSTag&gt;.</content>
+  <content contentuid="h7fe0a0b1g7d91g4a36ga3c8g92bc2b8ba397" version="1">Sort mineur de Tieffelin Variant</content>
+  <content contentuid="hcc2ee373gab66g453cga1cag6bf6b4238755" version="1">
+Vous pouvez changer l'énergie qui circule dans vos veines, vous permettant ainsi de la canaliser vers une attaque de griffe. Il utilise votre Dextérité comme &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modificateur&lt;/LSTag&gt;.</content>
+  <content contentuid="h8bae19a3g9c45g4081gbb29g033761d1444f" version="1">Griffes de Tieffelin Variant</content>
+  
+  <!--//////////////
+    ////Nightborn////
+    //////////////-->
+
+  <content contentuid="h2a57b513gac09g445dga408gc7c72301ac5f" version="1">Tieffelin Nocturne</content>
+  <content contentuid="hfbb291d3gbf7cg49a5g9997g34e4a2828352" version="1">Peut-être qu'un de vos ancêtres a été trompé par une Guenaude Nocturne, ou s'est mêlé à une d'entre elles. Quelle que soit la raison, l'influence d'une puissante Guenaude Nocturne persiste dans votre sang. Sa magie noire a déformé votre forme de façon permanente et vous a béni (ou maudit ?) avec des capacités bizarres.</content>
+  <content contentuid="h1910030fgb838g4bcdga33eg3d575c2c9c18" version="1">Lignée des Guenaude Nocturne: Sommeil</content>
+  <content contentuid="hf18a3934gc1f9g449eg843dga307dcb2a502" version="1">Lignée des Guenaude Nocturne: Rayon d'affaiblissement</content>
+  <content contentuid="ha7026fd8g8232g46fagad62g296d685fd8bb" version="1">Lignée des Guenaude Nocturne: Changement de Forme</content>
+  <content contentuid="h86876e01gd0dag4fa9ga822g8f93d57245de" version="1">Transformez comme par magie votre forme en celle d'un humanoïde féminin pour masquer vos ancêtres de guenaude.</content>
+  <content contentuid="hb01a1572g99d2g4070g957cgace4af2285f0" version="1">Lignée des Guenaude Nocturne</content>
+  <content contentuid="h24d1e9afg4789g4128g994ag7258f8272cb8" version="1">Un Tieffelin - mais quelque chose ne va pas chez eux.</content>
+  <content contentuid="h181f58ecg736eg4273g8113g5340c56962c4" version="1">Tieffelin Nocturne</content>
+  <content contentuid="hcde5d9d2gbe36g4b1ega9ebgf13a864b6690" version="1">Lignée des Guenaude Nocturne</content>
+  <content contentuid="h8e380195g3610g4cdfga8a8g37e147d44523" version="1">L'influence des Guenaude Nocturne dans votre sang vous accorde &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; contre le fait d'être charmé, et la magie ne peut pas vous endormir.</content>
+  <content contentuid="hee495340gbf5cg4446g8b53g7267513e9750" version="1">Féérique</content>
+  <content contentuid="h93e430bcg550dg4a98gbe06g5e0a671bf28b" version="1">Une créature ayant une ascendance Féérique.</content>
+  
+  <!--//////////////
+    //////Fey'Ri/////
+    //////////////-->
+
+  <content contentuid="h0a079cf9g5402g40b3gac03g7a53914b6e21" version="1">Lignée de Fey'ri</content>
+  <content contentuid="h1631ad2bgb48bg4888gad6ega1cb528c337c" version="1">Nés de l'alliance entre les Elfes du Soleil rarement rencontrés et les Tanar'ri abyssaux, les Fey'ri ne sont ni de vraies fées, ni des démons. Beaucoup passent leur vie à se reconnecter à leurs racines elfiques ou à parcourir le monde à la recherche de leur véritable identité.</content>
+  <content contentuid="h2e8559c3ge3e9g460eg87e3gce14364fe454" version="1">Ascendance Abyssale: Mains Brûlantes</content>
+  <content contentuid="hbf6087a4g77a0g4335gb90fgd403c727e02d" version="1">Ascendance féerique: Pas brumeux</content>
+  <content contentuid="hda2d9e13g3df2g4805g9194g84baddd8da49" version="1">Un mélange rarement rencontré d'ascendance elfique et abyssale</content>
+  <content contentuid="hfe5ffcc5g831dg4c26g83b0gcc2fdc4e0bd9" version="1">Lignée de Fey'ri</content>
+ 
+  <!--//////////////
+    ////Elamshinae////
+    //////////////-->
+
+  <content contentuid="hb3d8cc08gdd95g482cg83c1g39376ba21358" version="1">Lignée de Elamshinae</content>
+  <content contentuid="h148b1a72gc8dbg43fdgb4edgea423fc68519" version="1">Devenir Elamshinae est perçu comme un immense honneur – accordé, comme un cadeau sacré, uniquement aux adorateurs les plus précieux de Lolth, la Reine Araignée. Leurs formes autrefois elfiques ont été tordues, et leur moi et leur personnalité éternellement modifiés par l'essence démoniaque maligne des Abysses, le processus s'apparente à une nouvelle naissance - Un petit pas de plus vers sa propre image.</content>
+  <content contentuid="hf5a38d20gaf1bg41a1g88fbgd26d63574c5c" version="1">Toile Traînante</content>
+  <content contentuid="he0546aebg5873g4137g8fb2ga661c77ce8f9" version="1">Héritage de Demonweb : Toile</content>
+  <content contentuid="h25162311g22e2g48d9gbd51g982c706b4d59" version="1">Ascendance arachnide</content>
+  <content contentuid="hde5995a1g710eg4623g9bcfg078bfebf4bac" version="1">Vos liens avec les fosses de vous permettent de parcourir les surfaces entoilées sans être ralenti, et vous ne pouvez pas être ralenti. &lt;LSTag Type="Status" Tooltip="WEB"&gt;Entoilé&lt;/LSTag&gt;.</content>
+  <content contentuid="h70d57b67g86f9g4b20ga980gf13da4fcab0f" version="1">Influence de la Reine Araignée</content>
+  <content contentuid="hae2a56fcgee23g4358ga438g1af35698fb12" version="1">L'influence de la Reine Araignée vous confère une Résistance aux dégâts de Feu et de Poison, et vous avez un &lt;LSTag Tooltip="Avantage"&gt;Advantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; contre le fait d'être charmé ou empoisonné.</content>
+  <content contentuid="hefdf91e2gdfadg418egbd98gdae0ff5716c7" version="1">Entraînement aux armes de Lolthsworn</content>
+  <content contentuid="h1f7e1f24g2d08g4583gb27ag119fb4dfc92f" version="1">Vous obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; avec la rapière, le cimeterre, la faucille et l'arbalète à une main.</content>
+  <content contentuid="hcb761d05ge97dg4e22gb393ga8f7a7098aac" version="1">Héritage de Demonweb: Arachnomorphose</content>
+  <content contentuid="hda36b097g2347g44bfgb7e7g8b6a8d8dbdf6" version="1">Adoptez la forme parfaite et contorsionnez votre corps pour lui donner la belle forme d'arachnide.</content>
+  <content contentuid="hed6a51e9g5544g4900gb91bgdc14c2c0982e" version="1">Congédier la forme d'Arachnomorphose</content>
+  <content contentuid="hbba89502g29d9g4acfgbbc5g5e35c6a68ec4" version="1">Congédier votre forme arachnide parfaite et revenez à votre corps.</content>
+  <content contentuid="h471a2ab7g3fc3g49a6gb98bg24f6fc509629" version="1">Autrefois Drow, maintenant plus proche d'un Tieffelin - ou de son image.</content>
+  <content contentuid="h65324157g04eag40c3g894dg3c0389f7b88b" version="1">Lignée de Elamshinae</content>
+  <content contentuid="hc718de73g8408g49dfgb468gbbbec2c82e2c" version="1">L'enfant précieux de Lolth</content>
+  <content contentuid="hd9875a51ga256g48e7ga9f7g9c1cc4c8ce77" version="1">Invocation d'un groupe d'araignées</content>
+  <content contentuid="h916e8e0dg3b19g48a8gad2ag97f7e970a217" version="1">Demandez humblement à Lolth de se séparer temporairement de [1] de ses enfants précieux et de leur permettre de vous aider dans vos efforts.</content>
+  
+  <!--//////////////
+    ////Velkyn'bol////
+    //////////////-->
+
+  <content contentuid="h836ff496g6de1g4040g8884g53500e6414f2" version="1">Lignée de Velkyn'bol</content>
+  <content contentuid="hd86faef3g86e0g4d82g9156g987e2d2505fd" version="1">L'Ancien ne tient compte d'aucune maîtresse et ses caprices sont toujours imprévisibles ; pourtant, on sait que rarement, il se délecte de voir la reine araignée perdre son emprise sur un sujet. Il y a des chuchotements de Drow provocateurs tordus par une concoction particulière d'énergie démoniaque des Abysses et de l'influence du Royaume Lointain - un avertissement ou une promesse de salut ?</content>
+  <content contentuid="h3faf9d92gfd44g49c6g936fg9761f82bbbd0" version="1">Velkyn'bol</content>
+  <content contentuid="h59f63af8ge58eg4a68gb773gd3f8845bb0b8" version="1">Une créature semblable à un Drow ou à un Tieffelin, touchée par le Royaume Lointain et changée à jamais.</content>
+  <content contentuid="h5cf2d660g512ag40e1g8689ga8568ae9f5c4" version="1">Pourriture aberrante</content>
+  <content contentuid="hbf834e03gb143g4577gb1ecga512835b79d8" version="1">Faites sortir une goutte d'Essence aberrante des profondeurs du Royaume lointain et infusez-la dans une créature. En cas d'échec, le cœur même de leur esprit commence à &lt;LSTag Type="Status" Tooltip="ABERRANT_ROT"&gt;Pourrir&lt;/LSTag&gt;.</content>
+  <content contentuid="hf3e29efegd664g4a0eg8c4eg2c8d159cf394" version="1">Pourriture aberrante</content>
+  <content contentuid="h962a7f9fg9f89g42c2ga23dg465a2ba31c42" version="1">L’esprit de cette entité est lentement rongé par l’essence aberrante du royaume lointain. Ils ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les&lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en Sagesse et doivent réussir un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en Constitution pour se vider la tête. S'ils échouent, ils prennent [1] et la Pourriture se propage à toutes les cibles à moins de 6 mètres d'eux.</content>
+  <content contentuid="h4ab316a5gd82ag44b2g911fg8822d73ed5fe" version="1">Propagation aberrante de la pourriture</content>
+  <content contentuid="h15c3169cgd674g46b1ga694gc751434c4bed" version="1">La pourriture aberrante s'est propagée aux cibles proches.</content>
+  <content contentuid="hb44f9825g85d8g4884g9e5ag757bdefee54c" version="1">Murmures préventifs</content>
+  <content contentuid="haf29d7bag108bg4031gb943g5409808855bb" version="1">Faites appel aux murmures du Royaume lointain pour vous protéger et gagner [3]. Le bouclier riposte aux attaques au corps à corps. A l'expiration, le bouclier &lt;LSTag Type="Spell" Tooltip="Projectile_WhisperingShield_Detonate"&gt;explose&lt;/LSTag&gt;.</content>
+  <content contentuid="h4021ef24ged6ag478agba92gc811c2ac77e3" version="1">Murmures préventifs</content>
+  <content contentuid="h6b3e2026g2b74g4a02ga2e5gcffbc87a44e3" version="1">Les murmures du Royaume Lointain vous accordent [2] et ripostent aux attaques de mêlée lancées contre vous avec [1]. A l'expiration, le bouclier &lt;LSTag Type="Spell" Tooltip="Projectile_WhisperingShield_Detonate"&gt;explose&lt;/LSTag&gt;.</content>
+  <content contentuid="h52269e3fgbcadg4558g9a83gd71018af2fda" version="1">Murmures préventifs</content>
+  <content contentuid="hdb124deag1824g4bb6gb588gf55af4dccd14" version="1">Les murmures du Royaume Lointain vous accordent [2] et ripostent aux attaques de mêlée lancées contre vous avec [1]. A l'expiration, le bouclier &lt;LSTag Type="Spell" Tooltip="Projectile_WhisperingShield_Detonate"&gt;explose&lt;/LSTag&gt;.</content>
+  <content contentuid="he043d320gf03dg4999g94d1gdd3dcf770bd4" version="1">Explosion des Murmures préventifs</content>
+  <content contentuid="h0fa9f4bagf9c0g477dg9d54g07cc72049681" version="1">Murmures préventifs explose, faisant en sorte que toute personne à moins de [1] de vous devienne &lt;LSTag Type="Status" Tooltip="ANXIOUS"&gt;Anxieux&lt;/LSTag&gt;, et inflige potentiellement [2].</content>
+  <content contentuid="h897e4fa5g9607g45f8g8f92gec0bfdfe225d" version="1">Anxiété</content>
+  <content contentuid="h9d184f51g2f1cg41e7gb242g2e5713c37e5a" version="1">La cible subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt;, et &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; en Sagesse.</content>
+  <content contentuid="ha623dbe8gd916g4673gbf8ag92e5d59cd93d" version="1">Récompense de Ghaunadaur</content>
+  <content contentuid="h4ca9fb93g525dg4655gb292g8ebd57c63528" version="1">Celui qui se cache accueille favorablement le sacrifice que vous offrez. Jusqu'à la fin du combat, vos capacités infligent un [1] supplémentaire - mais l'invasion de votre esprit vous donne un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en Sagesse.</content>
+  <content contentuid="he955e47egc959g4154gaea3ge06ae9c572a7" version="1">Toucher du royaume lointain</content>
+  <content contentuid="hef08d11ege544g44deg97c1gbbe29aaa0275" version="1">Votre connexion au Royaume lointain et à l'Œil ancien vous confère une résistance aux dégâts psychiques et acides, et un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; contre le charme.</content>
+  <content contentuid="h381ec039g038dg4782g9392g0c6ab924ba8f" version="1">Anatomie amorphe</content>
+  <content contentuid="h7192e448g5d2ag45f7ga568g1ba0b8e31da5" version="1">Prenez temporairement une forme gélatineuse et translucide, transmise par votre connexion avec le Seigneur de la Vase. Jusqu'à ce que vous choisissiez de revenir à une forme matérielle, vous êtes &lt;LSTag Type="Status" Tooltip="AMORPHOUS_FORM"&gt;Amorphe&lt;/LSTag&gt;.</content>
+  <content contentuid="hb7ad84c7gcd40g49f4g8e79g6057d8f190a1" version="1">Amorphe</content>
+  <content contentuid="h1ad29b2fg8850g4a96ga198g4555cbcb7e33" version="1">Votre corps est constitué d’une étrange substance gélatineuse translucide. Dans cet état, vous pouvez facilement vous faufiler dans des espaces restreints et vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; de discrétion.</content>
+  <content contentuid="h0e1c93f8g4d2cg4fb4gb068gf490f1f88e67" version="1">Esprit fendu</content>
+  <content contentuid="ha85bc7eegf79fg4662gb3a7g50dded1932d6" version="1">Délivrez un éclat brûlant d'énergie psychique pure directement dans l'esprit d'une cible unique, avec une chance d'affliger &lt;LSTag Type="Status" Tooltip="SLIVERED_MIND"&gt;Esprit Fendu&lt;/LSTag&gt; pour un tour.</content>
+  <content contentuid="hd3c57e1ag3634g4bd2ga482g291ab139b042" version="1">Esprit fendu</content>
+  <content contentuid="ha99b21dcg4d7dg4306gb921gc758a24a800c" version="1">L’esprit de cette cible a été récemment disséqué. Ils reçoivent une pénalité de 1d4 à tout &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; fait pendant ce tour.</content>
+  <content contentuid="hdae17505g5986g4beegb625g8681d99765ca" version="1">Compétences des Drownés</content>
+  <content contentuid="hd227bc12gb43fg4b9eg8bcbgbff51aab987a" version="1">Vous obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; avec la rapière, le cimeterre et l'arbalète à une main, et la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  
+  <!--//////////////
+    ///Isilmnir'el////
+    //////////////-->
+
+  <content contentuid="ha6d1e18eg6eefg4577gaf28g06b6802c224a" version="1">Lignée de Isilmnir'el</content>
+  <content contentuid="haefef88fg5ad6g493egbe4dga1b4e26e6928" version="1">Les Isilmnir'el étaient autrefois de fidèles disciples d'Eilistraee transformés par les conséquences abyssales de sa chute, se manifestant sous la forme d'êtres ressemblant à des tieffelins. Contraints de se cacher par les Lolthsworn, ils émergent maintenant de l'ombre, attirés par les rumeurs du retour d'Eilistraee – cherchant refuge et peut-être une chance de percer les mystères de leurs formes démoniaques, que certains considèrent désormais comme un cadeau sacré de leur déesse déchue.</content>
+  <content contentuid="hf7fb3452g5168g4ba8g9ba5g7a8e9d9320aa" version="1">Isilmnir'el</content>
+  <content contentuid="h2329f31fg8b27g49e8ga0f6g67e759ceee83" version="1">Une adepte d'Eilistraee, corrompue par l'essence des fosses de Demonweb qui l'a effacée de ce plan.</content>
+  <content contentuid="h5804dbcfg6cceg4a54gb0d0g0585fa8c5d21" version="1">Bénédiction des jeunes filles sombres</content>
+  <content contentuid="hc0c61de6g7dc6g41a8g8384g0d0ac13586b1" version="1">La Lune brille de mille feux sur vous, vous conférant une résistance aux dégâts radiants et un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; contre le fait d'être charmé et vous empêche d'être effrayé.</content>
+  <content contentuid="heb6b0f03ga545g464cg87a8g4dd2d332be58" version="1">Mélodie de la lame</content>
+  <content contentuid="h83a28514g64abg44b8ga03bga6671dd38a76" version="1">Vous obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'épée longue, le cimeterre et la rapière, et la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; avec instruments de musique et de Représentation.</content>
+  <content contentuid="h86d2a7dbg85e7g418fgb66cg0808234b9eba" version="1">Feu de lune d'Elistraee</content>
+  <content contentuid="h079de9e4g932dg42beg92a5ge963aaea9a07" version="1">Invoquez la lumière réconfortante de la Lune, en vous entourant de particules lunaires infligeant [1] autour de vous.</content>
+  <content contentuid="h5970459fg4266g4399g9437gcffb37b4fce5" version="1">Entouré de particules lunaires dansantes, infligeant [1].</content>
+  <content contentuid="h90fd5fe7gc736g4ce7g926dga1dbdfb4c5d2" version="1">Disciple de la Lune</content>
+  <content contentuid="h5864095ag76c8g4581gafd7gac13cbff86ee" version="1">Vos capacités raciales évoluent en même temps que les &lt;LSTag Type="Status" Tooltip="MOONPHASECYCLING"&gt;Cycles&lt;/LSTag&gt; de la Lune, vous donnant accès à un pannel diversifié et en constante évolution de sorts.</content>
+  <content contentuid="h178366a7gd178g4d76g81ccg698982459157" version="1">La Lune traverse 4 phases lunaires distinctes : nouvelle lune, lune croissante, pleine lune et lune décroissante - une fois tous les 600 tours. Cela équivaut en moyenne à environ 1 heure de jeu.</content>
+  <content contentuid="h9a4a8d09g2fa7g4481g8a27g032dfecca2c8" version="1">Cycles lunaires</content>
+  <content contentuid="h2d4a799cga6e1g4341g8139g8c5f1fa42b00" version="1">Cycle lunaire : Nouvelle Lune</content>
+  <content contentuid="h0dfcf600g0305g48cfg800cg1d9d6116a750" version="1">La faible lumière de l’éclat à peine visible de la Nouvelle Lune brille sur vous. Vos capacités sont influencées par le froid glacial des nuits presque sans lune.</content>
+  <content contentuid="h871bed6fg1619g41aaga83eg30e65b664096" version="1">Nouvelle Lune : Missile Lunaire</content>
+  <content contentuid="hb2026e4cge4d1g4570g9066g109f59123f0c" version="1">Dirigez un éclat concentré de clair de lune pur sur une cible. Sur un jet de sauvegarde raté, le froid d &lt;LSTag Type="Status" Tooltip="FREEZINGNIGHT_STATUS"&gt;Nuit Glaciale&lt;/LSTag&gt; s'infiltre dans leurs os.</content>
+  <content contentuid="h6610e654g61adg49a4g9193g66bb8d37c28a" version="1">Nuit glaciale</content>
+  <content contentuid="h86f1cc39g3d55g4142ga10bg71e648473feb" version="1">Affecté par un froid mordant, réduisant de moitié leur vitesse de déplacement.</content>
+  <content contentuid="he1b5bb1bg073ag4290gbbaeg09bf9e69f9cd" version="1">Particules Lunaires Protectrices</content>
+  <content contentuid="h98fd6263gcd9bg4487g976cg1a9fa3761d14" version="1">Entourez-vous de Particules Lunaires dansantes, vous accordant [1] et ripostant aux attaques de mêlée avec [2] et [3]. Une fois les HP temporaires épuisés, les Particules Lunaires se dispersent.</content>
+  <content contentuid="h2dab9ebege05eg4e13gac85g4dc25bd41250" version="1">Nouvelle Lune : Balise Lunaire</content>
+  <content contentuid="heacaafcfg5831g46bdgae91g99b89ce1d8fe" version="1">Invoque une balise lumineuse au clair de lune qui endommage toute créature qui entre dans la balise ou commence son tour dans sa lumière. Pendant toute cette durée, le sol autour de la balise est gelé.</content>
+  <content contentuid="hc3bcb27ag0e08g461agbb10g63c494d1606a" version="1">Balise Lunaire</content>
+  <content contentuid="h3c8b82dbg8921g4945gb311gcbaec05a63a7" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] et [2] par tour. En cas de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
+  <content contentuid="he1dfa0f0g674eg4d18g8536gd3afc73ac7ee" version="1">Le clair de lune pur engloutit toute créature qui entre dans cette balise d’énergie lunaire pure ou qui commence son tour à l’intérieur de sa lumière. Il inlige [1] et [2]. En cas de jet de sauvegarde réussi, les cibles subissent toujours la moitié des dégâts.</content>
+  <content contentuid="h5fff3e24g8fb6g4efdgaf2fg3caf1c30df89" version="1">Cycle lunaire : Lune croissante</content>
+  <content contentuid="h0c36d05bg3d3fg4e1ag9d58g1fb0a953606f" version="1">Vous êtes sous l’influence du croissant de lune qui grandit très lentement. Vos capacités sont influencées par une force gravitationnelle très différente de celle de Faerûn.</content>
+  <content contentuid="h9c71e321g62f6g44f8g936cg7cd2d9543da4" version="1">Lune croissante: Missile lunaire</content>
+  <content contentuid="h2d9f1a7eg01f4g428cga92cgad4398c428ab" version="1">Attraction gravitationnelle</content>
+  <content contentuid="he843f972g0ff1g44e5gb8eegcf56034f243c" version="1">Lancez un petit éclat de lune elle-même. À l'atterrissage, une forte force gravitationnelle attire toutes les créatures qui échouent à leur jet de sauvegarde à portée de [1] vers le centre.</content>
+  <content contentuid="h7d2bee49g9ad5g4c01ga11ag2d3d42872ff6" version="1">Dirigez un éclat concentré de clair de lune pur sur une cible. En cas d'échec de jet de sauvegarde, la force de la puissante énergie lunaire éloigne la cible [1] de vous.</content>
+  <content contentuid="h9e142d83gc12bg4a5agb7f9ga7f5b8bb9c9b" version="1">Lune croissante: Balise Lunaire</content>
+  <content contentuid="ha6b06fa7g1bb3g43b3gb10dg78f9909ef352" version="1">Invoque une balise lumineuse au clair de lune qui endommage toute créature qui entre dans la balise ou commence son tour dans sa lumière. Pendant la durée, la gravité autour de la balise est modifiée, affectant les &lt;LSTag Type="Status" Tooltip="MODIFIEDGRAVITY_ALLY"&gt;Alliés&lt;/LSTag&gt; et &lt;LSTag Type="Status" Tooltip="MODIFIEDGRAVITY_ENEMY"&gt;Ennemis&lt;/LSTag&gt; à porté.</content>
+  <content contentuid="ha3b74a09g22d8g4418g8f9fge6b89a51603a" version="1">Balise Lunaire</content>
+  <content contentuid="h2b9b6e6dg517ag4300ga16cga8c05fb4ac6d" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] et [2] par tour. En cas de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
+  <content contentuid="h3b619b3ag0bcdg4100ga564gc114f7a3e60a" version="1">Le clair de lune pur engloutit toute créature qui entre dans cette balise d’énergie lunaire pure ou qui commence son tour à l’intérieur de sa lumière. Il inflige [1] et [2] et modifie la gravité autour des personnes affectées. En cas de jet de sauvegarde réussi, les cibles subissent toujours la moitié des dégâts.</content>
+  <content contentuid="h95c4679bga371g4120g9268g76cb4bd42417" version="1">Gravité modifiée</content>
+  <content contentuid="he0b62727g9777g47b2g8bb9g63162d2592d7" version="1">Affecté par une faible gravité, votre vitesse de déplacement est augmenté et vous confère un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en Force.</content>
+  <content contentuid="hf42245e2g49aag49ceg83afgbaabf8b604fe" version="1">Affecté par une forte gravité, votre vitesse de déplacement est diminué et vous confère un &lt;LSTag Tooltip="Disdvantage"&gt;Désavantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en Force.</content>
+  <content contentuid="hc85d152bg6b41g4a9dgb445gffcc70e8f65b" version="1">Cycle lunaire : Pleine Lune</content>
+  <content contentuid="h8b268a46g3571g4811g9380g72490bee8ca7" version="1">La lumière rayonnante et inébranlable de la Pleine Lune vous guide. Vos capacités sont influencées par les faisceaux luminescents du pur clair de lune qui éclairent votre chemin.</content>
+  <content contentuid="h61161c03ga539g42fag8a02g7d64dc8bffd4" version="1">Pleine Lune : Missile Lunaire</content>
+  <content contentuid="hcd1da588gbf6ag42e7g92f5g88340bfbee87" version="1">Dirigez un éclat concentré de clair de lune pur sur une cible. En cas d'échec de de jet sauvegarde, l'éclat de la Lune se reflète sur votre cible - encore plus si ce sont des morts-vivants.</content>
+  <content contentuid="h35dec8acg8ff1g4095g961fgd5dfeb26baa4" version="1">Conjuration de la lame de feu lunaire</content>
+  <content contentuid="hd88ab0b4g477dg468bg968ag799b40520434" version="1">Invoquez la Lune et invoquez une Lame de Clair de Lune et du Mithril dans votre main. Il inflige [1] et projette une lumière vive jusqu'à [2] et une lumière tamisée jusqu'à [3]. Tant que vous tenez la Lame, les alliés proches sont &lt;LSTag Type="Status" Tooltip="SILVERY_GRACE_AURA"&gt;Amélioré&lt;/LSTag&gt;.</content>
+  <content contentuid="h66d9f37eg6722g49fbga80fga5044444b1cb" version="1">Lame de feu lunaire</content>
+  <content contentuid="hbdb72020g3d75g4c00gb2e5g3e205ad7378d" version="1">Une épée éthérée faite de Mithril et de Clair de Lune.</content>
+  <content contentuid="h93bdcf15g80edg4d89g9536g5613a8368b7e" version="1">Cette lame inflige [1]. Il projette une lumière vive dans un rayon de [2] et une lumière tamisée dans un rayon de [3]. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; du porteur utilise le &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de Charisme.</content>
+  <content contentuid="h223602f1gaad5g4085g900bgd618eebb3ef9" version="1">Aura de grâce argentée</content>
+  <content contentuid="h67111c9ag8e8bg4a7eg9bb4g62ae6baa2200" version="1">Les alliés proches de [1] ont leur&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; augmenté et leurs attaques avec des armes sont renforcées par le clair de la lune.</content>
+  <content contentuid="h652d23eeg838eg48c1g8bedg12f644f8fc2f" version="1">Grâce argentée</content>
+  <content contentuid="h5df6f7a7g53beg46b0gbc47g4283acbbae2e" version="1">Les alliés proches de la Lame de feu lunaire et son utilisateur reçoivent un bonus de 25 % de &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt;, et leurs attaques avec des armes infligent 1d4 dégâts radiants supplémentaires.</content>
+  <content contentuid="hb9812100g354cg4f99g8015gb74bfe8ea2c4" version="1">Pleine Lune : Balise Lunaire</content>
+  <content contentuid="h0faa31b9g292fg406eg9375ga4a28e203928" version="1">Invoque une balise lumineuse au clair de lune qui endommage toute créature qui entre dans la balise ou commence son tour dans sa lumière. Pendant toute la durée du sort, le sol entourant la balise brûle de Feu Radiant, qui &lt;LSTag Type="Status" Tooltip="ASTRL_MOONLIGHTBURN"&gt;Brûle&lt;/LSTag&gt; les ennemis. </content>
+  <content contentuid="h0b66b9eeg60b5g4546ga665g3f1eb006d386" version="1">Balise Lunaire</content>
+  <content contentuid="h84fec719g8a58g4294gb656g6b3424f4657c" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] par tour et &lt;LSTag Type="Status" Tooltip="ASTRL_MOONLIGHTBURN"&gt;Brulûre&lt;/LSTag&gt;. En cas de de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
+  <content contentuid="h9f388378g2182g4dccgbf75gf80075c61640" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] par tour et &lt;LSTag Type="Status" Tooltip="ASTRL_MOONLIGHTBURN"&gt;Brulûre&lt;/LSTag&gt;. En cas de de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
+  <content contentuid="h78f5ac4cg1fbcg4d70g8586ga5ffc72c0017" version="1">Brûlure du feu lunaire</content>
+  <content contentuid="hd88d6f46gf0e7g4e11g9493gd707fba7c3a0" version="1">Enflammé par le clair de lune radieux. Subissez [1] par tour.</content>
+  <content contentuid="h0bd3aeedgf47bg4ab5ga508g7ae4c1ab5970" version="1">Cycle lunaire : Lune décroissante</content>
+  <content contentuid="h95a5d3d3g9271g4673gb3f6g2d328f86d1e5" version="1">Vous êtes touché par la lumière vacillante de la lune croissante. Vos capacités sont influencées par l’obscurité imminente alors que la Lune disparaît lentement de notre vue.</content>
+  <content contentuid="h5c09d896gdd89g44adgbf7dg3b442fe24cb7" version="1">Lune décroissante: Missile lunaire</content>
+  <content contentuid="h615473e3gf320g4c42gb706g6e39cca6061c" version="1">Dirigez un éclat concentré de clair de lune pur sur une cible. En cas d'échec du jet de sauvegarde, la peur de l'&lt;LSTag Type="Status" Tooltip="BLINDINGMOON_STATUS"&gt;Obscurité imminente&lt;/LSTag&gt; affecte votre cible.</content>
+  <content contentuid="h20966d94g95b1g4a51gb251gdfe0935483fa" version="1">Obscurité imminente</content>
+  <content contentuid="hdb8ed3cbgceb5g493dg8c22g157b662d4848" version="1">Frappé par une peur soudaine de l'obscurité envahissante, limitant la portée de leur vue et entravant leur capacité à attaquer.</content>
+  <content contentuid="h3bc6f789g17d4g49e4g9684g692106ef86c5" version="1">Multiplicité luminescente</content>
+  <content contentuid="h690f97d6g3c63g401bgb9fag84ed35690ec6" version="1">Faites appel à la Lune pour multiplier votre forme afin de distraire vos ennemis. Chaque fois que vous réussissez à échapper à une attaque, l'un des doubles explose, &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Aveuglant&lt;/LSTag&gt; et infligeant [1] aux ennemis.</content>
+  <content contentuid="hb87505a4g86d7g4f04gad7agebacb46e0914" version="1">Multiple luminescent</content>
+  <content contentuid="hf56303bcg5a4ag4a43gbaaag84c261238ef5" version="1">Le multiple distrait les attaquants, augmentant la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de 3 du lanceur de sorts. Lorsque le lanceur réussit à échapper à une attaque, l'une des images explose, &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Aveuglant&lt;/LSTag&gt; et infligeant [1] aux ennemis.</content>
+  <content contentuid="h07b32c07ga330g43f3g91ccg538d1605b9cf" version="1">Luminescence aveuglante</content>
+  <content contentuid="h684f637bgda4ag4b1fg987eg362e4bc0bb95" version="1">Aveuglé par la lumière rayonnante de la lune, limitant leur portée de vue et entravant leur capacité à attaquer.</content>
+  <content contentuid="hefa81173gf0aag4b18ga3f5gf6f480db1840" version="1">Lune Croissante : balise lunaire</content>
+  <content contentuid="h3be92b0bgd12dg4e51g8024g737f3d27a75b" version="1">Invoquez une balise lumineuse au clair de lune qui endommage toute créature qui entre dans la balise ou commence son tour dans sa lumière, et les &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Aveugle&lt;/LSTag&gt;.</content>
+  <content contentuid="h97c69400gc388g4da5g95e9g5f507d64be5e" version="1">Balise lunaire</content>
+  <content contentuid="hf296b4a7g55adg4a22g849egca68f3952e33" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] et [2] par tour. En cas de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
+  <content contentuid="hf799ee5fg6801g4b60g997dgd9d7647a0610" version="1">Pure moonlight engulfs any creature that enters this beacon of pure lunar energy, or starts its turn inside it's light. It deals [1] and [2], and &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Blinds&lt;/LSTag&gt;. On a successful save, targets still take half damage.</content>
+ 
+  <!--//////////////
+    //////Claws///////
+    //////////////-->
+
+  <content contentuid="hdcd93585g5c4eg41e8g85a6g51036a42dd78" version="1">Griffes fumantes</content>
+  <content contentuid="h79d897d3g01a9g4955gb1c1g4c970c6b7260" version="1">Griffes corruptrices</content>
+  <content contentuid="h76377b78g5c62g4221ga9c1g6d28ea47016d" version="1">Griffes fantasmatiques</content>
+  <content contentuid="hedd0bfb3gd71dg4cefg9adag493c0d8d0625" version="1">Griffes glaciales</content>
+  <content contentuid="hcc1fdac4gcc77g4992ga5bbg448dba69c1a2" version="1">Griffes puissantes</content>
+  <content contentuid="h04a7136fg160fg4781gb7d4g31617f181113" version="1">Griffes corrosives</content>
+  <content contentuid="h1e9026d9g0f3fg4414gae71ga513d15df79d" version="1">Griffes Voltaïques</content>
+  <content contentuid="h35a4237dg8a17g4758ga356gc1943ed129cf" version="1">Griffes sauvages</content>
+  <content contentuid="hf7b9276dg6eceg4415g9969gaec43ef34807" version="1">Griffes envenimeuses</content>
+  <content contentuid="h358ebbf9g62fbg486eg92a5g212f79a1faff" version="1">Griffes Lucide</content>
+  <content contentuid="hdee888bfgd657g4fe3g9f0bg7d901bcf5bd6" version="1">Griffes rugissantes</content>
+  <content contentuid="he76c32ecge4fcg47f8g98dcg0969f3d3410d" version="1">Concentrez l’énergie brûlante de votre sang dans vos doigts griffus et attaquez-vous à un ennemi.</content>
+  <content contentuid="h37b31b96g3f75g42a8g9873gc1a33067c9dd" version="1">Concentrez l'énergie maligne de votre sang dans vos doigts griffus et attaquez-vous à un ennemi.</content>
+  <content contentuid="h81af1aebg1741g48ceg9affg70de74f8a479" version="1">Concentrez l'énergie extrasensorielle de votre sang dans vos doigts griffus et attaquez-vous à un ennemi.</content>
+  <content contentuid="h8a99c98fg541fg4786ga22ege9d6b04b2f05" version="1">Concentrez l’énergie engourdissante de votre sang dans vos doigts griffus et attaquez-vous à un ennemi.</content>
+  <content contentuid="h73f59e30ga43bg42a5g8e52gc542ff1cf215" version="1">Concentrez l'énergie magique pure de votre sang dans vos doigts griffus et attaquez un ennemi.</content>
+  <content contentuid="hba07a336gb0b2g459fga881g9ac92c84420e" version="1">Concentrez l'énergie caustique de votre sang dans vos doigts griffus et attaquez un ennemi.</content>
+  <content contentuid="hd53da4c5g02f1g4c7dg8922g5528a54168b2" version="1">Concentrez l'énergie chargée de votre sang dans vos doigts griffus et attaquez un ennemi.</content>
+  <content contentuid="hb0bd44abgc1cbg4e42gb344gc448f53e5571" version="1">Concentrez l'énergie féroce de votre sang dans vos doigts griffus et frappez violemment un ennemi, le faisant saigner.</content>
+  <content contentuid="h30904b5dg48fag423dga467geb2566a26cbd" version="1">Concentrez l'énergie venimeuse de votre sang dans vos doigts griffus et frappez un ennemi en lui infligeant du poison.</content>
+  <content contentuid="h81f2fef7g44c5g45f2gb31fg8f875158a5ad" version="1">Concentrez l'énergie radiante de votre sang dans vos doigts griffus et attaquez un ennemi.</content>
+  <content contentuid="h94fd2030g7339g48bag89e1ge1ec3391bdb3" version="1">Concentrez l'énergie tonitruante de votre sang dans vos doigts griffus et frappez un ennemi.</content>
+  
+  <!--//////////////
+    ////Skintones/////
+    //////////////-->
+
+  <content contentuid="h3bc856d6g8120g447ag874egfe59476d8f8c" version="1">Moonsilver 01</content>
+  <content contentuid="h73c86c99g3eccg4772gaad2g9dd9f18f4780" version="1">Moonsilver 02</content>
+  <content contentuid="h44e0aa85ga693g497dg95e3g01c6dfdbc5ec" version="1">Moonsilver 03</content>
+  <content contentuid="h6b17c6ccg1aecg4165g86f2gf30e80d89a40" version="1">Moonsilver 04</content>
+  <content contentuid="h6cbcd021g2f3dg48beg9cf3g4fa75acf45ca" version="1">Moonsilver 05</content>
+  <content contentuid="hd4715f34gb180g4711gb7f4g8100d8acd6ba" version="1">Moonsilver 06</content>
+  <content contentuid="h51263b54ga417g49c4g80c0ga481a5f623c5" version="1">Moonsilver 07</content>
+  <content contentuid="h4d1ca708gd634g4e32g8c37g969b9b080312" version="1">Moonsilver 08</content>
+  <content contentuid="h5458160agacd0g4dc8gab30g91f486e12c0a" version="1">Moonsilver 09</content>
+  <content contentuid="h2fe65954gffd7g47eag8225gbeb26a29755a" version="1">Moonsilver 10</content>
+  <content contentuid="h442992abgf45cg4e4fg97f9g90a7f7e8ad7f" version="1">Moonsilver 11</content>
+  <content contentuid="h22af34f3g1b21g4177g81d0g0d4628552dd1" version="1">Moonsilver 12</content>
+  <content contentuid="h0de8cdf1g41b2g4ca9gb87bgc128d962017d" version="1">Moonlight 01</content>
+  <content contentuid="he113b5cdg8f3eg4afdg802ege3c7f2058afa" version="1">Moonlight 02</content>
+  <content contentuid="h29fce630gf305g46c3g8fecgf927bcacec43" version="1">Moonlight 03</content>
+  <content contentuid="hef4f1c69ga6d0g4d79g9cb2g6e9f47f64ea7" version="1">Moonlight 04</content>
+  <content contentuid="h48a479deg5411g4720ga824g78c24dfc58e4" version="1">Moonlight 05</content>
+  <content contentuid="h51a66528g4470g473fgace6gfc56d3f51964" version="1">Moonlight 06</content>
+  <content contentuid="h41b3c6ddg7e60g49c8g80f5g0aa1dc4dccea" version="1">Eilistraee</content>
+  <content contentuid="h335f4e40g326dg49b8g8986g57d2e99918fb" version="1">Elder Eye 01</content>
+  <content contentuid="he7b12358g956fg461fg852bgf164dcdfd91b" version="1">Elder Eye 02</content>
+  <content contentuid="hdbbdf683g5d47g49dfg9859g763f58729b4f" version="1">Elder Eye 03</content>
+  <content contentuid="hdbc35825gec12g49c2g94cfg9c7ce6832506" version="1">Elder Eye 04</content>
+  <content contentuid="hf3d971a2g5778g44b5gb919g2f6a695c8f71" version="1">Elder Eye 05</content>
+  <content contentuid="hfbc9070fg7bbfg43d9gbb77gf878e91d71f6" version="1">Elder Eye 06</content>
+  <content contentuid="hdc74e912gbd7eg47e4g92b3g04bad6694de9" version="1">Elder Eye 07</content>
+  <content contentuid="h65218870gaad8g4401g9818g7bfe83ff7059" version="1">Elder Eye 08</content>
+  <content contentuid="h2e448d12gb224g4478ga59ag220f82792974" version="1">Elder Eye 09</content>
+  <content contentuid="ha87c4b59gc396g48d7ga62cgd4291f76f984" version="1">Elder Eye 10</content>
+  <content contentuid="hc8495128g85c5g4793gbed8ga373afcb6521" version="1">Astral Sea 01</content>
+  <content contentuid="hdf23d153g7c45g4cbcg8076gdef514bc560c" version="1">Astral Sea 02</content>
+  <content contentuid="hea4fc348g06b5g4cdeg9197g08b5165d41c0" version="1">Astral Sea 03</content>
+  <content contentuid="h180b8ff8g29d5g4ad0g995dg27e71c181965" version="1">Astral Sea 04</content>
+  <content contentuid="h9e8405e2g0f94g4c4egb2d3g5ef139294a93" version="1">Astral Sea 05</content>
+  <content contentuid="h37e8687fgfd83g401dg8b5ag664ddf934682" version="1">Astral Sea 06</content>
+  <content contentuid="h4f86d7bbg2c3ag47b2ga136g638a04f078ab" version="1">Astral Sea 07</content>
+  <content contentuid="h940afb4ega52cg4bcfg8899gfe78bdca83f1" version="1">Astral Sea 08</content>
+  <content contentuid="h8b82e083g1fc6g4e51g9c20g0ffc06dd7772" version="1">Astral Sea 09</content>
+  <content contentuid="h6a5670b2geaddg409dg9eeag305fe20659c0" version="1">Astral Sea 10</content>
+  <content contentuid="he4e61025g28fdg4a72gbd1bgd940b97ee291" version="1">ASTRL Aboleth 01</content>
+  <content contentuid="h4f4731e1gcce0g45d0g90e1gfc94dc638db3" version="1">ASTRL Aboleth 02</content>
+  <content contentuid="h61d44ff3gbc17g452ag97e3g021a257f453b" version="1">ASTRL Aboleth 03</content>
+  <content contentuid="h9fad0854g16aag408bg87feg09eacab13281" version="1">ASTRL Aboleth 04</content>
+  <content contentuid="hd47818bcgd2bbg4da1g8830g3db474afed7b" version="1">ASTRL Aboleth 05</content>
+  <content contentuid="hbc308b9fg7abeg4e64g86ecg716b7567c32d" version="1">ASTRL Aboleth 06</content>
+  <content contentuid="h95270022gbd92g44a2gbe55gb6c9835f5552" version="1">ASTRL Aboleth 07</content>
+  <content contentuid="h6f30306dgeb0cg43dbga363g427a4ec11334" version="1">ASTRL Aboleth 08</content>
+  <content contentuid="h742bdf39g97f3g4b37gb3afg3cfdafa88720" version="1">ASTRL Aboleth 09</content>
+  <content contentuid="h6eafd662g4de6g449bg8492g8e3f97ace685" version="1">ASTRL Underdark 01</content>
+  <content contentuid="h286ed617gfc42g4e53ga4d8g7c027b325f1e" version="1">ASTRL Underdark 02</content>
+  <content contentuid="hc28e3a98g5768g43d2gab75g8b3174d63adc" version="1">ASTRL Underdark 03</content>
+  <content contentuid="hae1ea891g17c0g4ecbg8ae3ga25aa2ac216a" version="1">ASTRL Underdark 04</content>
+  <content contentuid="hccb8f1b0g17cag4c22g86dege14d05a39a1f" version="1">ASTRL Underdark 05</content>
+  <content contentuid="ha50b4921ga46fg4994ga669gd21791248e32" version="1">ASTRL Underdark 06</content>
+  <content contentuid="h7518c797gd45dg4056ga85cgfb259b2a6d4a" version="1">ASTRL Underdark 07</content>
+  <content contentuid="h1f4a0b9eg7b2dg463cgb245g8cfab80943e2" version="1">ASTRL Underdark 08</content>
+  <content contentuid="h0c199765g1b7cg489fgb733g2924364d101f" version="1">ASTRL Underdark 09</content>
+  <content contentuid="h7e5a8af0g47abg443agbec7gf287c535a5a6" version="1">ASTRL Underdark 10</content>
+  <content contentuid="hadcf5d40g2185g46b7ga9a1g42631adaa8c4" version="1">ASTRL Underdark 11</content>
+  <content contentuid="h4afbcd1dgf377g46e2ga44cg3f21e8e22c0d" version="1">ASTRL Underdark 12</content>
+  <content contentuid="h23638145g14ecg422dgb9f4gf2c66e3b5e27" version="1">ASTRL Underdark 13</content>
+  <content contentuid="hffb2c3a9gae61g434agac70gb8b2ddc6ff1b" version="1">ASTRL Underdark 14</content>
+  <content contentuid="h3b6bab0eg48ccg42cegb161g0b7a4a821f27" version="1">ASTRL Underdark 15</content>
+  <content contentuid="hf6246dc0ga495g4237gb821gc43d39f53a3e" version="1">ASTRL Spiderweb 01</content>
+  <content contentuid="h283a41a3g9f76g47e4ga967g4a2dd7b6db83" version="1">ASTRL Spiderweb 02</content>
+  <content contentuid="h28f1b668g3411g4949gb15cga7491f5f1c66" version="1">ASTRL Spiderweb 03</content>
+  <content contentuid="h575e89fcg6d4ag4662gabe7geb154fa9baf2" version="1">ASTRL Spiderweb 04</content>
+  <content contentuid="h8dc88ff7g0e6fg43bdg87dfgd212430cb7da" version="1">ASTRL Spiderweb 05</content>
+  <content contentuid="hbd8ddd17g315dg4a4agb25eg975d885d4803" version="1">ASTRL Spiderweb 06</content>
+  <content contentuid="h4006a576gac96g49eeg9890ge5a01a38ff19" version="1">ASTRL Lolth 01</content>
+  <content contentuid="haa796575g2b02g4313g9045gc4996d4878b6" version="1">ASTRL Lolth 02</content>
+  <content contentuid="h059ed44eg3ce5g4918g8053g2a9d36ecdfd0" version="1">ASTRL Lolth 03</content>
+  <content contentuid="h8826e735gd044g4100ga9abg373a7c05585e" version="1">ASTRL Lolth 04</content>
+  <content contentuid="h95696dcdgafd2g4778g8f28g30b22a3a4dc9" version="1">ASTRL Lolth 05</content>
+  <content contentuid="hc8f4997ag39c8g4605g8ecdg2c515ee08c4e" version="1">ASTRL Baalzebul 01</content>
+  <content contentuid="h461718efg8186g421bgbf92gf42b6e37cb71" version="1">ASTRL Baalzebul 02</content>
+  <content contentuid="h3db3c705g679cg4416gb253g4e62ccea17c6" version="1">ASTRL Baalzebul 03</content>
+  <content contentuid="h56f4a57bgc7e9g4fbfgafffgedcf8b2d0f5f" version="1">ASTRL Baalzebul 04</content>
+  <content contentuid="ha5e06571g582bg48f5ga9e0ge0429c9da64b" version="1">ASTRL Baalzebul 05</content>
+  <content contentuid="h9337ca65gd7abg4c95g82d3g28b29fc9a5d1" version="1">ASTRL Baalzebul 06</content>
+  <content contentuid="h12fec0e1g07c0g440cgb5a0gfbf8e11b7558" version="1">ASTRL Baalzebul 07</content>
+  <content contentuid="hd38bd890gb8c0g4d9fg8676gf33adbbf5d65" version="1">ASTRL Maladomini 01</content>
+  <content contentuid="ha7bb62f7g036eg4ed1ga3efg97fec1bae8b7" version="1">ASTRL Maladomini 02</content>
+  <content contentuid="h3b57daf3g6abag420egb427g87b350ccc46f" version="1">ASTRL Maladomini 03</content>
+  <content contentuid="h75cf5415g94bbg4598ga2b3gb438763e77b9" version="1">ASTRL Maladomini 04</content>
+  <content contentuid="hb2b3c95dg9fffg42d0gbf04g311a9f05283a" version="1">ASTRL Maladomini 05</content>
+  <content contentuid="h079c89fdg173ag4c05ga1d6gf1bfbd89912d" version="1">ASTRL Maladomini 06</content>
+  <content contentuid="h2fff1f6egc29ag4326g9ea5g9fe28b3d5147" version="1">ASTRL Dispater 01</content>
+  <content contentuid="h309a36c0g1172g4f4egb014ge2ae7b075964" version="1">ASTRL Dispater 02</content>
+  <content contentuid="hdd4f1b9agd5f3g47f5gb119g2266ea7fdb58" version="1">ASTRL Dispater 03</content>
+  <content contentuid="h5288fa60g9fbcg4c06g8aa6gc932a068d491" version="1">ASTRL Dispater 04</content>
+  <content contentuid="hc94a09bbg08e7g446aga03fgab0d205a7c03" version="1">ASTRL Dispater 05</content>
+  <content contentuid="h50eada66g4ec3g41c3gacd2g7b932a8ce980" version="1">ASTRL Dispater 06</content>
+  <content contentuid="h6fcc0019g3935g4ebcgb406g25e75a1a4df4" version="1">ASTRL Dispater 07</content>
+  <content contentuid="he91138bfg068eg40c4g921fg8a7f515d9f31" version="1">ASTRL Dispater 08</content>
+  <content contentuid="h3c40065fge4ceg44fega263g5550aecfccad" version="1">ASTRL Dispater 09</content>
+  <content contentuid="h3e66b686ge5acg415agbbadgaf05e3d324c2" version="1">ASTRL Dispater 10</content>
+  <content contentuid="hc21f4e7egd487g4ecbgb160gcb6bb5ad6dde" version="1">ASTRL Fierna 01</content>
+  <content contentuid="h15aea914g40d1g4046gb1d1g6d89c84a1481" version="1">ASTRL Fierna 02</content>
+  <content contentuid="h2c3899d0gb1e6g40f6g8ecdga2958abe211f" version="1">ASTRL Fierna 03</content>
+  <content contentuid="h04c91489g48b2g4822gb994g38ff6f7c8151" version="1">ASTRL Fierna 04</content>
+  <content contentuid="h5f7565feg2865g41ddg9739g50106a71a82a" version="1">ASTRL Fierna 05</content>
+  <content contentuid="h37c2eda1g6443g47e7gaadcgca35a778a390" version="1">ASTRL Fierna 06</content>
+  <content contentuid="h22fa35ffg8667g4491g8077g90b5915b6751" version="1">ASTRL Fierna 07</content>
+  <content contentuid="hd90f6282gae1ag4a1bg8849g436ce45a46f7" version="1">ASTRL Glasya 01</content>
+  <content contentuid="h18f43311ga7d9g4a39g8d64g4f33ec7de218" version="1">ASTRL Glasya 02</content>
+  <content contentuid="hd1c47860g13efg4e77g8443g3e2685aedc32" version="1">ASTRL Glasya 03</content>
+  <content contentuid="h55c3043fg7f90g474fg978dg26454c225ec3" version="1">ASTRL Glasya 04</content>
+  <content contentuid="h773204abg8e25g42abg915dg42a66f05ea41" version="1">ASTRL Glasya 05</content>
+  <content contentuid="h118d4b48gee3ag4b40g9a2cg3fa2cef6e410" version="1">ASTRL Glasya 06</content>
+  <content contentuid="h3fdd50fegd59eg48e0gbb7fga9ef3ce75070" version="1">ASTRL Glasya 07</content>
+  <content contentuid="he8b05d37g177bg4ba7g9778g46dbda3be55f" version="1">ASTRL Levistus 01</content>
+  <content contentuid="hc2874b92gebb2g4ad3ga222g1fa61bc64e49" version="1">ASTRL Levistus 02</content>
+  <content contentuid="h55ddb350ge390g44d9ga0b7gd59d0efbff74" version="1">ASTRL Levistus 03</content>
+  <content contentuid="hf6b014a8g161dg4288ga1e4gc73f6608a59e" version="1">ASTRL Levistus 04</content>
+  <content contentuid="h183fbda1g8396g4c07g930eg38d83e0a5ffc" version="1">ASTRL Levistus 05</content>
+  <content contentuid="hcbf2450fg6df4g4a1egb729g7fdafe947f1f" version="1">ASTRL Levistus 06</content>
+  <content contentuid="hcb78126cg9949g4c76gb243gd9964ab72ead" version="1">ASTRL Levistus 07</content>
+  <content contentuid="h802e4b82g0a91g4456g9a58ga16a6e0ac9ef" version="1">ASTRL Levistus 08</content>
+  <content contentuid="hd52d8ac5g80c8g488cg8d8dg659ea4c6df84" version="1">ASTRL Levistus 09</content>
+  <content contentuid="h74da1e17g3775g403fga00dgb94023b6b911" version="1">ASTRL Mammon 01</content>
+  <content contentuid="h996c5af2gea22g4949gb183gf2b43f717985" version="1">ASTRL Mammon 02</content>
+  <content contentuid="hdf928e6eg54a0g4642ga15dg4aafa73f86b2" version="1">ASTRL Mammon 03</content>
+  <content contentuid="h3ce9eea4g55cbg4969ga6ffge37eb3d63ebb" version="1">ASTRL Mammon 04</content>
+  <content contentuid="hbc269035ged33g44e1ga87fg15563f50d323" version="1">ASTRL Mammon 05</content>
+  <content contentuid="h11fc9cdbgb5b9g43eaga263gcec36cf6803e" version="1">ASTRL Mammon 06</content>
+  <content contentuid="h65194ae0ge8adg4a53gb143g14b61a3cc9a8" version="1">ASTRL Minauros 01</content>
+  <content contentuid="h5cc64f34g4c76g47e8gbff5gd158d1350519" version="1">ASTRL Minauros 02</content>
+  <content contentuid="h819988e0g42a4g4bc8ga14eg7ebb8f0441ca" version="1">ASTRL Minauros 03</content>
+  <content contentuid="h96204aa6g3a1eg435fg94aegdf1fda3edfc3" version="1">ASTRL Minauros 04</content>
+  <content contentuid="ha260b651g36a4g4c59g9bedgea8e7c5e593c" version="1">ASTRL Minauros 05</content>
+  <content contentuid="h245e0449g106eg4865ga454g4d8f7dc63eb8" version="1">ASTRL Minauros 06</content>
+  <content contentuid="he7988be6g7d14g40ceg8c3dge746834d42ab" version="1">ASTRL Devil's Tongue 01</content>
+  <content contentuid="h58982b20g10b2g4f86gb8d5gf42a745afadd" version="1">ASTRL Devil's Tongue 02</content>
+  <content contentuid="heb22044ag5069g4657g916cg262035953543" version="1">ASTRL Devil's Tongue 03</content>
+  <content contentuid="h5b8fd404gc3acg4187g976bg53577dbbbe2b" version="1">ASTRL Devil's Tongue 04</content>
+  <content contentuid="h20d9f9aeg2152g426egbc98gd73844cf4d8b" version="1">ASTRL Devil's Tongue 05</content>
+  <content contentuid="he00ed57eg379eg4927g830dgef663d4ece95" version="1">ASTRL Devil's Tongue 06</content>
+  <content contentuid="hb235c89ag5b54g4af3g8f8fgcf7a78bde121" version="1">ASTRL Devil's Tongue 07</content>
+  <content contentuid="hfa44b486g3a47g43c3g9c4eg29770e0454b8" version="1">ASTRL Devil's Tongue 08</content>
+  <content contentuid="he2b7bda8g7dc3g441fg9b3cg567aef58e331" version="1">ASTRL Devil's Tongue 09</content>
+  <content contentuid="he1ec42d3g55e4g4a06g97fdg0db4c0be466c" version="1">ASTRL Devil's Tongue 10</content>
+  <content contentuid="h2f24ff05g1239g48f3g884dgcf526d549b9c" version="1">ASTRL Feral 01</content>
+  <content contentuid="h51f12b8bgab9fg4c40gba45gb61a4ed038a7" version="1">ASTRL Feral 02</content>
+  <content contentuid="h5383cffbg075fg4da7ga3cfgaeea6d03e39e" version="1">ASTRL Feral 03</content>
+  <content contentuid="h171e80d5g69b6g493agba8agb6a5fb9b4bbe" version="1">ASTRL Feral 04</content>
+  <content contentuid="h9cb11b06ge543g435ag8868g5df34a935790" version="1">ASTRL Feral 05</content>
+  <content contentuid="h17c65097gcc9bg4447g9bf6g06e8a10bb476" version="1">ASTRL Feral 06</content>
+  <content contentuid="h9ca70c95gd3c8g48e3g98b8ga8836b1e0742" version="1">ASTRL Feral 07</content>
+  <content contentuid="h9afd500cg968dg4acag9dabg14fe8fe5ecd5" version="1">ASTRL Feral 08</content>
+  <content contentuid="h3d79ecd2gdb1eg44ebgb3acg6357333adebe" version="1">ASTRL Feral 09</content>
+  <content contentuid="h08d704ddg7c1eg4c2dg8f79gb17cea938f33" version="1">ASTRL Feral 10</content>
+  <content contentuid="h2dd24057gef45g4b56gb879g8ea9f4152621" version="1">ASTRL Feral 11</content>
+  <content contentuid="he22968edg05c9g4745g9b83gd5265d649c73" version="1">ASTRL Feral 12</content>
+  <content contentuid="hf3519e0ag84f0g4081gbbd4g2b7fbc96436f" version="1">ASTRL Feral 13</content>
+  <content contentuid="hc4bbc861g45f7g4adeg848bge7a348141d86" version="1">ASTRL Feral 14</content>
+  <content contentuid="h73b6268fg8b15g4044ga952g9d1d3bc643e2" version="1">ASTRL Feral 15</content>
+  <content contentuid="he4cff3bagdb55g46e8g882cga215795cf51c" version="1">ASTRL Hellfire 01</content>
+  <content contentuid="h9776afe7gdab3g492cg8a25g857b872f7c84" version="1">ASTRL Hellfire 02</content>
+  <content contentuid="h049a1b28gb4adg44ccgafefg071cc4f72b42" version="1">ASTRL Hellfire 03</content>
+  <content contentuid="heee59f92g14aag4b1fg8123g451b341ab1e8" version="1">ASTRL Hellfire 04</content>
+  <content contentuid="he81ae13ege46dg4aefg87e9g4bc1a3829294" version="1">ASTRL Hellfire 05</content>
+  <content contentuid="h2ed46e9fg7d47g4c44gb1dfg856f50a7f459" version="1">ASTRL Hellfire 06</content>
+  <content contentuid="h955dbc0cg1f16g41a2g9a90g247f057cd820" version="1">ASTRL Hellfire 07</content>
+  <content contentuid="h3ed0c51eg4224g45b5g861dga0166b35230c" version="1">ASTRL Hellfire 08</content>
+  <content contentuid="hd9c56817gc2c7g4016gaed0g956d09041f5f" version="1">ASTRL Hellfire 09</content>
+  <content contentuid="hf289e377g4f20g498egb4b3g05412a2fd1bd" version="1">ASTRL Hellfire 10</content>
+  <content contentuid="hbf4ecda8gd2ddg4942ga2bcgb76763dadc72" version="1">ASTRL Nightborn 01</content>
+  <content contentuid="hd228cff3gaa59g4644g962eg4601c264f627" version="1">ASTRL Nightborn 02</content>
+  <content contentuid="hebffb90dg52bcg4fcdgad95g32d8d4964b16" version="1">ASTRL Nightborn 03</content>
+  <content contentuid="hb9cc13a0g76ddg4f95g9be0g209f8d8aad90" version="1">ASTRL Nightborn 04</content>
+  <content contentuid="hbad5d914gdc4fg49a0g816bg10b15c3297c0" version="1">ASTRL Nightborn 05</content>
+  <content contentuid="h525fbe78gd3ccg4eecg982bgfcda3b557d18" version="1">ASTRL Nightborn 06</content>
+  <content contentuid="h61bffd8bg7f21g4039g87e2g2e304f2cac43" version="1">ASTRL Nightborn 07</content>
+  <content contentuid="h5e2ebe74ge2a5g4596g8942g74c5ce2e1279" version="1">ASTRL Nightborn 08</content>
+  <content contentuid="h838957f4g6992g4bf1gb89eg2e221ec78fcf" version="1">ASTRL Nightborn 09</content>
+  <content contentuid="h0169bd1egfa27g42ceg95d7gefe903327f29" version="1">ASTRL Nightborn 10</content>
+  <content contentuid="hb229ebe6g4b74g4a14gad6cg7529e0b365f4" version="1">ASTRL Fey'ri 01</content>
+  <content contentuid="h773a9124g8f2dg4640g99c3ge03406e303a5" version="1">ASTRL Fey'ri 02</content>
+  <content contentuid="h7eb4ab4fgd5d6g460dg8b0fgcc7689fab436" version="1">ASTRL Fey'ri 03</content>
+  <content contentuid="h2362f66dg4d2ag4bbfg9540g59899f8cf61b" version="1">ASTRL Fey'ri 04</content>
+  <content contentuid="h55bb9fa8ge9beg45e6gbb48g044f663fed00" version="1">ASTRL Fey'ri 05</content>
+  <content contentuid="h02b561c6gaa46g4237ga50agbef321ef471f" version="1">ASTRL Fey'ri 06</content>
+  <content contentuid="h05c7b507ge3bag4278gb85dgc757a7acde4e" version="1">ASTRL Fey'ri 07</content>
+  <content contentuid="h8c4136c4gbc77g4f05gb059ge81318235116" version="1">ASTRL Fey'ri 08</content>
+  <content contentuid="h28302f1egfcfbg4bdcga000gb7ce3dfb3e5b" version="1">ASTRL Fey'ri 09</content>
+  <content contentuid="h8a3d173egf3b1g456cgab10g18b4328e4f96" version="1">ASTRL Fey'ri 10</content>
+  <content contentuid="hbcf685bagc106g4432gbe6ag04a191f821a7" version="1">ASTRL Fey'ri 11</content>
+  <content contentuid="h1c8a908cg677fg437fg973bg199d73b0add4" version="1">ASTRL Fey'ri 12</content>
+  <content contentuid="h136f9593ga093g46bbgac48gc02b49737bcc" version="1">ASTRL Zariel 01</content>
+  <content contentuid="h5f7f911ag7e68g45bag9a60gabeae97d8f3e" version="1">ASTRL Zariel 02</content>
+  <content contentuid="h55ed325ag99e9g4b90ga045g3e7709f1a09e" version="1">ASTRL Zariel 03</content>
+  <content contentuid="hcc276859g2ba7g4165gb0deg30b62e2f9612" version="1">ASTRL Zariel 04</content>
+  <content contentuid="h7ecffa86ga84bg43ddgbfefgb0c1ea75d90e" version="1">ASTRL Zariel 05</content>
+  <content contentuid="hbacaf49fg56a0g41f3gaa58g8b3c5c2b5346" version="1">ASTRL Zariel 06</content>
+  <content contentuid="h673b273agcc8ag4523gb47ag9252c963cd33" version="1">ASTRL Zariel 07</content>
+  <content contentuid="hdde7ddc1g5041g4209g90a9g4780b58d9ef6" version="1">ASTRL Zariel 08</content>
+  <content contentuid="hb70416e0gb85eg4214g85beg9eaf52a9cdf7" version="1">ASTRL Zariel 09</content>
+  <content contentuid="hfa84830bga3b4g4068g89ccg9201669c1299" version="1">ASTRL Zariel 10</content>
+  <content contentuid="h0356f051g07a6g4276gb7e0ga45bf959b420" version="1">ASTRL Zariel 11</content>
+  <content contentuid="hca74b488g3307g4e33g91d4g8d4440e75e1d" version="1">ASTRL Zariel 12</content>
+  <content contentuid="h3dc2f1e8gb0eeg4f7aga0fcg439467910172" version="1">ASTRL Zariel 13</content>
+  <content contentuid="hff6abe18gd4edg40adga5c7gc698d573cac5" version="1">ASTRL Zariel 14</content>
+  <content contentuid="h741d4abfg05d4g47e0gb4deg1fdffbffc8b7" version="1">ASTRL Zariel 15</content>
+  <content contentuid="h386767d2g6b70g4e72ga432g18f5f20127dd" version="1">ASTRL Asmodeus 01</content>
+  <content contentuid="hbd2bbc8cga2cdg4be5ga236g1aab84555c74" version="1">ASTRL Asmodeus 02</content>
+  <content contentuid="h8b09ae06g369eg4773gbbbcgf1a2f7b26a98" version="1">ASTRL Asmodeus 03</content>
+  <content contentuid="hd9f7660ag28a2g43c9g9577gee4095b572cb" version="1">ASTRL Asmodeus 04</content>
+  <content contentuid="hb8ea8898gf958g44edg8134g492610446096" version="1">ASTRL Asmodeus 05</content>
+  <content contentuid="hdffa6257g0aadg4f40gb440gdcc6a8f0ced7" version="1">ASTRL Asmodeus 06</content>
+  <content contentuid="h5a9d6b9dg4a16g4be1gb2e3ga5cb9edff805" version="1">ASTRL Asmodeus 07</content>
+  <content contentuid="h994c435ag75c2g4a08gaf42g68733239eac7" version="1">ASTRL Asmodeus 08</content>
+  <content contentuid="h7a9090d6g8f3eg46acg9606g6b89387cb8d2" version="1">ASTRL Asmodeus 09</content>
+  <content contentuid="h899cee62ga1eeg42dfg8481g5f67a31b56e5" version="1">ASTRL Asmodeus 10</content>
+  <content contentuid="h7ad610a4gd650g4aa8g95afg4713a65eb55b" version="1">ASTRL Asmodeus 11</content>
+  <content contentuid="h9ae3dee1g87adg4d4eg9e21g24dc1df9a026" version="1">ASTRL Asmodeus 12</content>
+  <content contentuid="h943245f2g9af0g4815g9e6cgc51dbdfe8852" version="1">ASTRL Mephistopheles 01</content>
+  <content contentuid="hcf74f9d8gbba9g45c3g8ff0gbf62acf71b22" version="1">ASTRL Mephistopheles 02</content>
+  <content contentuid="h51454ee1ged5ag430eg880eg88525b621923" version="1">ASTRL Mephistopheles 03</content>
+  <content contentuid="h13a8543eg7489g47bfgbc76g3c4620f4dd52" version="1">ASTRL Mephistopheles 04</content>
+  <content contentuid="h0276b47dge4f3g4252gab6fge781aae3d980" version="1">ASTRL Mephistopheles 05</content>
+  <content contentuid="h7d2c55a0gf388g4e54g9179g37d5cc4eec00" version="1">ASTRL Mephistopheles 06</content>
+  <content contentuid="hd07bb1bagdf1eg4bebg92dcg18e6f2b4e18d" version="1">ASTRL Mephistopheles 07</content>
+  <content contentuid="he9f112cdg3814g4eb8g9cf4g6f1a230fe4be" version="1">ASTRL Mephistopheles 08</content>
+  <content contentuid="hd4a5cccbge947g41b9gb181g3b81280b842e" version="1">ASTRL Mephistopheles 09</content>
+  <content contentuid="h0dca1b5bg44c9g40a7g878bga26df58329a8" version="1">ASTRL Mephistopheles 10</content>
+  <content contentuid="hc90581bfgf940g44a5g9865g72caf43fcf97" version="1">ASTRL Mephistopheles 11</content>
+  <content contentuid="h1cd811c4gae9eg4493g8d68g66f522867e13" version="1">ASTRL Mephistopheles 12</content>
+
+</contentList>

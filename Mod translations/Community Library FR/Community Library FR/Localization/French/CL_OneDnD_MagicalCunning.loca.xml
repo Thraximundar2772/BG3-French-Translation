@@ -1,0 +1,10 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="he3994e0age8a9g4a2aga110gbd18834d2a86" version="1">Ruse magique</content>
+<content contentuid="h937f0745ge0c7g4551g92b6g296afa8d73a1" version="1">Réapprovisionnez la moitié de vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; (arrondi au supérieur) en dehors du combat. Si vous êtes un &lt;LSTag Type="Passive" Tooltip="CL_Passive_OneDnD_EldritchMaster"&gt;Maître Occultiste&lt;/LSTag&gt;, reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; à la place.</content>
+
+<content contentuid="hdaccd32fg87aeg485cgb693g4798f117dab1" version="1">Maitre Occultiste</content>
+<content contentuid="h2f3a6fcdgcd22g4a11ga776g220c277183c5" version="1">Lorsque vous utilisez votre &lt;LSTag Type="Spell" Tooltip="CL_Shout_OneDnD_MagicalCunning"&gt;Fonction de Ruse magique&lt;/LSTag&gt;, vous reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts de Occultiste&lt;/LSTag&gt;.</content>
+
+<content contentuid="h3447775cga1e3g40cdgbec2g82df09b818fd" version="1">Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
+<content contentuid="hb5964197g407eg4b94ga512g1ebc7258729c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
+</contentList>

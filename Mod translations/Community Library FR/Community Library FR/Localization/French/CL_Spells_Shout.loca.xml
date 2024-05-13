@@ -1,0 +1,30 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="h33ec3805gd9cdg4d79g8824gcbf93c268023" version="1">Aura Magique</content>
+<content contentuid="hb757e130g4e2cg4bcfga37eg2053773aae14" version="1">Une aura magique scintille le long de votre corps. La prochaine fois que vous lancerez un jet d’attaque magique, vous aurez l’avantage. Vous regagnez [1] Point de vie en soignant, et lorsque vous infligez des dégâts avec un sort, vous en infligez [2] supplémentaires.</content>
+<content contentuid="hcb9014eageaa1g44c5ga421g54b3fa04ad6d" version="1">Cette créature est entourée d'une aura magique. Lorsqu'il effectue des attaques de sorts, il a un avantage aux jets d'attaque. Lors de la guérison, il soigne +1 de vie supplémentaire. Lorsqu’il attaque, il inflige un [1] supplémentaire.</content>
+<content contentuid="hfcfa0bddg0b81g4fd2gaf53g6053c6032631" version="1">Bouclier de nuit</content>
+<content contentuid="hce02e907gb65dg4f69ga64bg1f441e3ed42f" version="1">Un champ protecteur d'énergie obscure enveloppe votre corps, vous protégeant des dégâts de Force et des Projectiles magiques, tout en accordant également un bonus à tous les Jets de Sauvegarde. Le sort prend fin si vous êtes exposé à la lumière directe du soleil.</content>
+<content contentuid="hb76ab008g2ab4g4fd2g8b99gb3573e3e7e33" version="1">Coup du Sort</content>
+<content contentuid="h532ebc21g0637g406fg8cebg44f4cf8ae9bd" version="1">Vous pouvez ajouter votre modificateur de Sagesse à toutes les attaques de mêlée ou à distance que vous effectuez. De plus, vos attaques infligent un [1] supplémentaire.</content>
+<content contentuid="h588da6a0gbe9ag4aa8g9faegfa7fe3d75014" version="1">Bouclier de feu</content>
+<content contentuid="h4711104bg909dg4fb3gaf30ge644fd97a364" version="1">Des flammes fines et vaporeuses enveloppent votre corps pendant toute la durée, projetant une lumière vive et vous offrant une résistance aux dégâts de feu. De plus, chaque fois qu'une créature à portée de mêlée vous attaque, le bouclier éclate en flammes, infligeant l'attaquant [1].</content>
+<content contentuid="he7e3eb29g7383g4012gb659gf77131d8e0fa" version="1">Vous pouvez mettre fin au sort plus tôt en utilisant une action pour le dissiper.</content>
+<content contentuid="h54b3b9d4gfa42g4825g9f8fg00d30a120328" version="1">Interrompre Bouclier de feu</content>
+<content contentuid="h36c2a13cg6ccbg4323gbd20gf4ed64fbbd2a" version="1">Vous mettez fin au Sort Bouclier de feu prématurément, mettant fin à l'effet de statut et canalisant la flamme dans le sol, enflammant les surfaces inflammables et faisant fondre la glace.</content>
+<content contentuid="h45049cbbgec84g4f72g8da6g253d56bda198" version="1">Barrière de Givre</content>
+<content contentuid="h46522b96g30a2g4d4bg8eb5gaf5af3cb8a3f" version="1">Des vrilles d’air glacial enveloppent votre corps pendant toute la durée, réfléchissant la lumière et vous offrant une résistance aux dégâts du froid. De plus, chaque fois qu'une créature à portée de mêlée vous attaque, la barrière projette des éclats de glace sur l'attaquant pour [1].</content>
+<content contentuid="h641cfb43g7eaeg4a8fg9817ga12cc9269617" version="1">Interrompre Barrière de Givre</content>
+<content contentuid="h8dad3361g84a3g4af7g9557ge5e6673a7ed1" version="1">Vous mettez fin au Sort Barrière de Givre prématurément, mettre fin à l'effet de statut et canaliser les courants glacials dans le sol.</content>
+<content contentuid="h15c00300gd39cg40a9g8182g756f1f4bec65" version="1">Bouclier de Foudre</content>
+<content contentuid="hfb5b91f6g4a58g46afgba0ag60b3096f4582" version="1">Des étincelles crépitantes entourent votre corps pendant toute la durée, émettant de la lumière et vous offrant une résistance aux dégâts de foudre. De plus, chaque fois qu'une créature à portée de mêlée vous attaque, le bouclier électrise votre attaquant pour [1].</content>
+<content contentuid="h6f55a97agf56fg4052g9f9dg1d28af4c7767" version="1">Vous pouvez mettre fin au sort plus tôt en utilisant une action pour le renvoyer.</content>
+<content contentuid="h4197a67dg94e0g4298gb3c8gdfd03cfc1199" version="1">Interrompre Bouclier de Foudre</content>
+<content contentuid="h24601bdbg1354g4206g8157g72e45f85275c" version="1">Vous mettez fin au Sort Bouclier de foudre, mettant fin prématurément à l'effet de statut, forçant le courant électrique à pénétrer dans le sol sous vous.</content>
+<content contentuid="h81113385g49d5g4d0ag9fd9g6b5e74f3abf4" version="1">Buveur de Sort</content>
+<content contentuid="h6547b6ddg3adeg408dgbc02g9f91bf2b03b2" version="1">Un symbole ancien brille sur cette créature. Chaque fois qu'une attaque magique est lancée sur cette créature, elle restaure un emplacement de sort de niveau 1.</content>
+<content contentuid="h6cc4593dg5c73g449ag9721g526ad738973c" version="1">L'espace d'un instant, une image fantasmatique du signe de l'Elementaire apparaît autour de vous. Pendant toute la durée du sort, chaque fois qu'un sort est lancé contre vous, restaurez un emplacement de sort de niveau 1.</content>
+<content contentuid="h51b94ed3g01bdg4706g9183gd64620e3b307" version="1">Guérison du foyer</content>
+<content contentuid="hdd618935g7de3g4420g9bdbg668fa51c06be" version="1">L'énergie de guérison vous entoure, restaurant votre santé de [1].</content>
+<content contentuid="h23c4a6degfb87g44b5ga366g06003a47830d" version="1">Hargne</content>
+<content contentuid="h8e1dde8eg0684g475cga8eeg0cad2f5abc48" version="1">Inflige des dégâts dans un rayon de 3 m égaux à votre modificateur de Sagesse et Aiguillonne les ennemis qui échouent à une Sauvegarde de sagesse.</content>
+</contentList>

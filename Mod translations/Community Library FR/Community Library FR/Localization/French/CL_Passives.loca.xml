@@ -1,0 +1,26 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="hd03949f2gf5ddg4995ga4b2ge6c19ada1cec" version="1">Aura Magique (Avantage)</content>
+<content contentuid="h4cd1b29bg2b68g4edag93eag17903dc2d060" version="1">Aura Magique (Soin)</content>
+<content contentuid="h3ac92584ga7afg46d7ga6fdg1c248c746966" version="1">Aura Magique (Dégâts)</content>
+<content contentuid="he617ad50g9705g4074gb9a5ge11b1fb04aec" version="1">Communication avec les animaux</content>
+<content contentuid="haa2a6bafg712dg477egb241gbcdcd360b364" version="1">Vous pouvez converser avec des animaux.</content>
+<!-- CL27 - NellsRelo Mod Data-->
+<content contentuid="h94ef940dg611bg41a8g84acgfcc9ccff1c7c" version="1">Cadre squelettique</content>
+<content contentuid="h2da4d06eg9f70g4d9bga1ebg40456caad359" version="1">En tant que squelette, le Poison n'a aucun effet sur vous, bien que vous soyez vulnérable aux dégâts contondants.</content>
+<content contentuid="h5bcb3c31gc511g4bc3gbf7bgde64d29ab296" version="1">Bénédiction de la Reine corneille</content>
+<content contentuid="h6dc6d54fgbbdeg4b6cgadc8g3922b34328e3" version="1">Vous gagnez une résistance à tous les dégâts jusqu'au début de votre prochain tour après avoir utilisé Bénédiction de la Reine corneille.</content>
+<content contentuid="h944f4b4fg2729g407eg938bg212cef76a9ea" version="1">Invocation immatérielle.</content><!-- CL_IndestructibleSummon_AI_Ignore -->
+<content contentuid="h8650857ag3b36g4bfdg8270g8b1ad613d9df" version="1">Coup de sort</content>
+<content contentuid="h310edba2gc8a3g4ed1g95f5g4dc2692eb452" version="1">Ce personnage est capable d'ajouter son modificateur de Sagesse pour les attaques avec des armes de mêlée et à distance, et inflige 1d4 dégâts de Force supplémentaires.</content>
+<content contentuid="h081b6aeag04c8g4b18gac40gc2d7dd3cb6c8" version="1">Manteau de Mort</content> 
+<content contentuid="hd6ca677dgac1dg44c8g8217g1991c20f616f" version="1">Votre aura nécrotique devient suffisamment épaisse pour blesser les ennemis qui vous frappent.</content>
+<content contentuid="haecff2fbgf630g478cga6d5g0fe1e73b03e1" version="1">Arme Maudite</content> 
+<content contentuid="hd22bba2egdc74g4118ga101g1176e4e6a351" version="1">Gagnez des dégâts nécrotiques égaux à votre modificateur de Sagesse sur vos attaques de mêlée.</content>
+<content contentuid="hcd3a67eag4adbg4153g9ce9g822e5cfd65d5" version="1">Nécrose</content> 
+<content contentuid="ha6656f5bg2442g4b02g96e0g650352b38d7f" version="1">Serment de la Couronne</content>
+<content contentuid="h66810eb1g38f3g40f4g8aedgecb83ad4cf7e" version="1">Le serment de la Couronne est prêté aux idéaux de la civilisation, qu'il s'agisse de l'esprit d'une nation ou de la fidélité à un souverain. Les Chevaliers qui prêtent ce serment se consacrent au service de la société, et en particulier des lois justes qui maintiennent la cohésion de la société.
+
+Ces Paladins sont les gardiens vigilants des murs, luttant contre les marées chaotiques de la barbarie qui menacent de détruire tout ce que la civilisation a construit, et sont communément appelés Gardiens, Exemplaires ou Sentinelles. Souvent, les Chevaliers qui prêtent ce serment sont membres d'un ordre de chevalerie au service d'une nation ou d'un souverain, et prêtent leur serment dans le cadre de leur admission dans les rangs de l'ordre.</content>  <content contentuid="hc8873c54gadb5g48edgb75dg400b616d6168" version="1">Oath of the Crown Tenets</content>
+<content contentuid="h684b40b3g24e0g4c7fg9860g975aef23dd36" version="1">Les principes du serment de la Couronne sont souvent fixés par le souverain auquel son serment est prêté, mais mettent généralement l'accent sur les principes suivants :&lt;br&gt;&lt;br&gt;Loi. La Loi est primordiale. C'est le mortier qui maintient ensemble les pierres de la civilisation, et il doit être respecté.&lt;br&gt;&lt;br&gt;Loyauté. Votre parole est votre lien. Sans loyauté, les serments et les lois n'ont aucun sens.&lt;br&gt;&lt;br&gt;Courage. Vous devez être prêt à faire ce qui doit être fait pour le bien de l’ordre, même face à des obstacles insurmontables. Si vous n’agissez pas, qui le fera ?&lt;br&gt;&lt;br&gt;Responsabilité. Vous devez faire face aux conséquences de vos actes et vous êtes responsable de remplir vos devoirs et obligations.</content>
+<content contentuid="h987c5b0dg7b16g4a07gacd4g5ac78e018cb7" version="2">Ne pas respecter leurs principes amènera le paladin à abandonner son serment et à devenir quelque chose de très différent.</content>
+</contentList>

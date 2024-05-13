@@ -1,0 +1,13 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="hcd5cccb7g2330g4adfgac7cgf88c65412f5c" version="1">Lame assoiffée</content>
+<content contentuid="h1c66f6c7g1fc1g49dbga0acg73b791c452e4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pacte de la Lame&lt;/LSTag&gt;.</content>
+<content contentuid="he3693681g2be7g4117g92f8g290682a9416e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pacte de la Lame&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Les détenteurs d'un pacte de lames bénéficient d'une &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;attaque supplémentaire&lt;/LSTag&gt; avec leur arme du pacte.</content>
+
+<content contentuid="h330420d0gbd92g47cfg8939gc2a20de25fb3" version="1">Investissement du Maitre des Chaîne</content>
+<content contentuid="h59dbc086g1ffcg4e32g93fcg6db5f2a25fa4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheChain"&gt;Pacte de la Chaîne&lt;/LSTag&gt;.</content>
+<content contentuid="hceeb919ege1f2g409ag84c2g7aa835491c62" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheChain"&gt;Pacte de la Chaîne&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Le &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;familié&lt;/LSTag&gt; du Pacte de la Chaîne gagne une attaque supplémentaire.</content>
+
+<content contentuid="h09b26c7cg193bg4905gb96cg63af57433292" version="1">Livre des Secrets insolites</content>
+<content contentuid="h70ab5407g40cdg48cdg9781ge522e40dd5f5" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheTome"&gt;Pacte du Tome&lt;/LSTag&gt;.</content>
+<content contentuid="hfdea0196gbbecg46b1gbfe9g810e214f5352" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite &lt;LSTag Type="Passive" Tooltip="PactOfTheTome"&gt;Pacte du Tome&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;L'Occultiste du Pacte du Tome peuvent lancer &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animer un Mort&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;Hâte&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_CallLightning"&gt;Appeler la Foudre&lt;/LSTag&gt; une fois par long repos.</content>
+</contentList>

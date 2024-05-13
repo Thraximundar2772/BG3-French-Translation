@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3aa4b4a4g0076g4635gb363g7891e8f2e666" version="1">Généralement présents dans les Enfers, les Cambions sont des entités mi-fiélon, mi-mortelles dotées d'un pouvoir immense.</content>
+	<content contentuid="h60fa88ecg49b2g402bg9c75g273cbaafd666" version="1">Cambion</content>
+	<content contentuid="Fireraycambion" version="1">Incinerer</content>
+	<content contentuid="h96f2227dg1949g4a40g8d05gc1c65f222666" version="1">Baiser drainant</content>
+	<content contentuid="h2fe669e2gf2feg4d0fg95f8g531fae537666" version="1">Déposez un baiser mortel sur un ennemi qui devient &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt; par votre &lt;LSTag Type="Spell" Tooltip="Target_FiendishCharm_Cambion"&gt;Charme diabolique&lt;/LSTag&gt;.</content>
+	<content contentuid="hf616d6d4gb25bg414fg9d30gf06cc7aee666" version="1">Charme Diabolique</content>
+	<content contentuid="coldresist" version="1">Résistance de Fiélon</content>
+	<content contentuid="coldresists" version="1">Le sang des anciens Fiélons qui coule dans vos veines est comme un feu qui coule. Vous êtes naturellement résistant aux dégâts du froid.</content>
+	<content contentuid="Lightningresist" version="1">Résistance de Fiélon</content>
+	<content contentuid="Lightningresists" version="1">Être né dans le feu des Enfers et les tempêtes de foudre vous rend naturellement résistant aux dégâts de la foudre.</content>
+	<content contentuid="exploit" version="1">Concentré</content>
+	<content contentuid="exploits" version="1">Vous avez appris à concentrer et à canaliser le feu dans vos veines. Ajoute 1d6 dégâts de feu et 1d4 dégâts de force à toutes vos attaques.</content>
+	<content contentuid="fireresistignore" version="1">Feu des Enfers</content>
+	<content contentuid="fireresistignores" version="1">Vous ignorez les résistances aux dégâts de Feu.</content>
+	<content contentuid="doombeam" version="1">Faisceau funeste</content>
+	<content contentuid="doombeams" version="1">Invoquez un rayon tiré des coins les plus profonds de l'Enfer. Ce faisceau se divise au contact et touche plusieurs ennemis en plus de votre cible initiale.</content>
+	<content contentuid="haa999686g6e2ag484bg9fb3g17eef400b666" version="1">Pouvoir absolu</content>
+	<content contentuid="h6ee94622gc529g4f32g9172g499ea23d4666" version="1">Une poussée d’énergie noire accompagne votre mouvement et repousse éventuellement la cible.</content>
+	<content contentuid="hc438efbcgedbag41e9gb01egade042468666" version="1">Contre-Sort</content>
+	<content contentuid="h4626b545gb292g41e2gac8dgedf05aa09666" version="1">Essayez d'arrêter le lancement d'un sort.</content>
+	<content contentuid="h777c571cge100g48e8g8765gdce1ecec3666" version="1">Annulez le sort d'une autre créature en réaction.</content>
+	<content contentuid="h48686e1eg13fdg4ee5g8b51gb3eb602d5666" version="1">Contre-Sort</content>
+	<content contentuid="haa58fc9dge729g49ccga2bdgb382c61b3666" version="1">Empêcher le lancement d'un sort.</content>
+	<content contentuid="hbcb4f19aga8cdg46b1g881bgd19d7bc78666" version="1">Vol</content>
+	<content contentuid="h5fbcf9edg1e2ag40eegbf04geb7e186d9666" version="1">Les Cambions apprennent à voler très jeunes et peuvent le faire sans effort.</content>
+	<content contentuid="he29ab168g8b3eg41eeg8cb0ga9820f1e7666" version="1">Généralement présents dans les Enfers, les Cambions sont des entités mi-fiélon, mi-mortelles dotées d'un immense pouvoir.</content>
+	<content contentuid="hf3839bceg15a2g4877gb463ga15e1e165666" version="1">Cambion</content>
+	<content contentuid="Rayofburning" version="1">Rayon de feu</content>
+	<content contentuid="Rayofburnings" version="1">Tirez un rayon de feu pur qui enflamme vos ennemis.</content>
+	<content contentuid="Apocalypse" version="1">Apocalypse</content>
+	<content contentuid="Apocalypses" version="1">Tire une énorme boule d'énergie sombre et ardente qui décime tout ce qui se trouve dans la zone d'effet (12 mètres). Portée de 48 mètres.</content>
+	<content contentuid="radiantresist" version="1">Résistance de Fiélon</content>
+	<content contentuid="blackmissile" version="1">Energie sombre</content>
+	<content contentuid="blackmissiles" version="1">Vous libérez 6 éclats d'énergie sombre qui recherchent et détruisent vos ennemis. Une fois fixés sur une cible, ils ne la ratent jamais.</content>
+	<content contentuid="devilform" version="1">Forme diabolique</content>
+	<content contentuid="devilforms" version="1">Libérez votre forme de diable héritée de votre lignée Fiélon..</content>
+	<content contentuid="RavagingInferno" version="1">Orbe des flammes infernales</content>
+	<content contentuid="RavagingInfernos" version="1">Lancez une boule explosive de feu infernal brûlant qui endommage toutes les créatures et objets à proximité.</content>
+	<content contentuid="PrimordialHell" version="1">Enfer primordial</content>
+	<content contentuid="PrimordialHells" version="1">Inflige des dégâts aux cibles principales lors de l'explosion, puis 6 flammes jaillissent de chaque cible.</content>
+	<content contentuid="cambionchains" version="1">Chaînes de Cambion</content>
+	<content contentuid="cambionchainss" version="1">Lancez des chaînes de magma et repoussez les cibles.</content>
+	<content contentuid="dancingFlame" version="1">Allumer une étincelle</content>
+	<content contentuid="dancingFlames" version="1">Lancez un grain de flamme infernale pour enflammer une cible et la faire brûler pendant 666 tours.</content>
+	<content contentuid="h9921d203g750fg4f88gaf9fg879926b76666" version="1">Forme diabolique de Cambion</content>
+	<content contentuid="cambiondevilform" version="1">Forme diabolique de Cambion</content>
+	<content contentuid="cambiondevilforms" version="1">Transformé en votre forme Diable héritée de votre lignée Fiélon, mais n'étant qu'à Demi-Fiélon, vous ne pouvez conserver cette forme que pendant de courtes périodes de temps.</content>
+	<content contentuid="devilsguise" version="1">Le déguisement du diable</content>
+	<content contentuid="devilsguises" version="1">Cache votre vraie forme lorsque vous sortez de votre royaume.</content>
+	<content contentuid="1ae11eb4-6cf7-40d0-bda1-ad9cc89e4bb9" version="1">Généralement présents dans les Enfers, les Cambions sont des entités mi-fiélon, mi-mortelles dotées d'un pouvoir immense.</content>
+	<content contentuid="a27cd2c4-d6a8-42be-80fc-8f744e4e85c9" version="1">Cambion</content>
+	<content contentuid="71cd486e-b23d-483a-a392-1762b3338ce7" version="1">Tête Femelle Cambion</content>
+	<content contentuid="76f3990c-385a-4c61-9a9d-9618d709a481" version="1">Cheveux Cambion</content>
+	<content contentuid="17dc0978-83ec-49af-9bd7-08fbace6de6c" version="1">Corne Femelle Cambion</content>
+	<content contentuid="7561d479-5491-4af0-85c3-ab000e782079" version="1">Tête Mâle Cambion</content>
+	<content contentuid="1278a315-f6a5-4b3f-9061-1cb2932f0c99" version="1">Cornes Mâle Cambion</content>
+</contentList>

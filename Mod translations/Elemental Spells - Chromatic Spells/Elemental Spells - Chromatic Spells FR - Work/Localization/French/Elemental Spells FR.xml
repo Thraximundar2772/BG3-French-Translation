@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h1d2c3b4a5f6e7g8h9i0j1k2l3m4n5o6p1q2r" version="1">Missiles Magique : Eclair</content>
+    <content contentuid="h2e3d4c5b6a7f8g9h0i1j2k3l4m5n6o7p2q3s" version="1">Missiles Magique : Feu</content>
+    <content contentuid="hfe56ff1cgca7fg438fg99b1ge7127c857d23" version="1">Missiles Magique : Glace</content>
+    <content contentuid="h724f701eg4821g4923ga1b1gb1d670f0f39c" version="1">Missiles Magique : Nécrotique</content>
+    <content contentuid="h3f4e5d6c7b8a9g0h1i2j3k4l5m6n7o8p3q4t" version="1">Missiles Magique : Force</content>
+    <content contentuid="h4g5f6e7d8c9b0a1h2i3j4k5l6m7n8o9p4q5u" version="1">Missiles Magique : Acide</content>
+    <content contentuid="h5h6g7f8e9d0c1b2a3i4j5k6l7m8n9o0p5q6v" version="1">Missiles Magique : Foudre</content>
+    <content contentuid="h6i7h8g9f0e1d2c3b4a5j6k7l8m9n0o1p6q7w" version="1">Missiles Magique : Psychique</content>
+    <content contentuid="h7j8i9h0g1f2e3d4c5b6a7k8l9m0n1o2p7q8x" version="1">Missiles Magique : Chaos</content>
+    <content contentuid="h8k9j0i1h2g3f4e5d6c7b8a9l0m1n2o3p8q9y" version="1">Lancez [1] Missiles chacun infligeant aléatoirement 1 dégât de foudre, de feu, de rayonnement et/ou de froid. Cela entraîne un total de 0-5 dégâts par missile. Chaque missile du chaos peut en déclencher un supplémentaire ciblant vos alliés de 20 %</content>
+    <content contentuid="h9l0k1j2i3h4g5f6e7d8c9b0m1n2o3p4q0r1z" version="1">Missiles Chromatique</content>
+    <content contentuid="h0m1l2k3j4i5h6g7f8e9d0c1n2o3p4q5r2s3a" version="1">Vous permet de choisir quel type de Missiles vous souhaitez lancer.</content>
+    <content contentuid="h1n2m3l4k5j6i7h8g9f0e1d2o3p4q5r6s7b34" version="1">Parchemin Missiles Magique Chromatique</content>
+    <content contentuid="h3d537b8dg2389g4754gb625g70dc712e7bac" version="1">Missiles Magique de soin</content>
+    <content contentuid="hf13c62d3g8396g47f7gb288gb75753a4358a" version="1">Tirez [2] fléchettes magiques, chacune soignant [1]. Ils atteignent toujours leur cible.</content>
+    <content contentuid="h1b2c3d4e5f6g7h8i9j0k1i2m3n4o5p6q7r8s" version="1">Rayon Chromatique</content>
+    <content contentuid="h1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s" version="1">Rayon Chromatique : Feu</content>
+    <content contentuid="h1n2o3p4q5r6s7t8u9v0w1x2y3z4a5b6c7d8e" version="1">Rayon Chromatique : Choc thermique</content>
+    <content contentuid="h1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t" version="1">Rayon Chromatique : Foudre</content>
+    <content contentuid="h1h2i3j4k5l6m7n8o9p0q1r2s3t4u5v6w7x8y" version="1">Rayon Chromatique : Gangrefeu</content>
+    <content contentuid="h1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z1a2b3c" version="1">Rayon Chromatique : Rayon solaire</content>
+    <content contentuid="h1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f" version="1">Rayon Chromatique : Chaos</content>
+    <content contentuid="h1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v" version="1">Lancez [7] rayons du chaos qui ont 75 % de chances d'infliger [1], [2], [3], [4], [5] ou de soigner [6]. Les rayons du chaos peuvent avoir une chance de déclencher un rayon erratique qui soigne vos ennemis.</content>
+    <content contentuid="hbfbfbe5fg3434g4e62gbfbfg327bfbfe7735" version="1">Lancez [3] rayons infligeant chacun [1] et [2]</content>
+    <content contentuid="h1p2q3r4s5t6u7v8w9x0y1z2a3b4c5d6e7f8u" version="1">Rayon Chromatique</content>
+    <content contentuid="h1f2g3h4i5j6k7l8m9n0o1p2q3r4s5t6u7v8w" version="1">Vous permet de choisir le type de Rayon que vous souhaitez lancer</content>
+    <content contentuid="h1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6f7g8h" version="1">Parchemin de Rayon Chromatique</content>
+    <content contentuid="h0bc0g361ce435745f1c6457da1272d1c88dg" version="1">Rayon Chromatique</content>
+    <content contentuid="h32657325c0d662c4750b89961dde4cc0f6e2" version="1">Boule de feu Chromatique: Dommage</content>
+    <content contentuid="h48161d48797d9f267bde17fac99gedfc68b6" version="1">Choisissez un élément pour lancer une Boule de feu. Le niveau du sort augmente ses Dommages</content>
+    <content contentuid="hb4f2237dg569bg4b26gaf40g8bc7d29b0c9a" version="1">Choisissez un élément pour lancer une Boule de feu. Le niveau du sort augmente sa Zone d'éffet</content>
+    <content contentuid="h93290g9f3fd05ac9c80efa2feeded1073d0b" version="1">Boule de feu Chromatique : Zone</content>
+    <content contentuid="h1gb64b3df1e53a56cdg7156676593ca5gd5d" version="1">Choisissez un élément pour lancer une Boule de feu, infligeant [1]. Le niveau du sort augmente ses dégâts. Zone affectée : [2]</content>
+    <content contentuid="h5c123cf65bcbgf809d6g072d2433d0dfeab3" version="1">Choisissez un élément pour lancer 1 ou 2 Boules de feu, infligeant [1]. Selon si vous utilisez le Niveau de sort 3 ou 6.</content>
+    <content contentuid="h0fadg31ff821c398922062c2cfdg562624bg" version="1">Boule de feu Chromatique : Feu</content>
+    <content contentuid="h1caa0d726e4a4bdg9g5226da64deg56844g9" version="1">Lancez une Boule de feu passionnante, infligeant [1].</content>
+    <content contentuid="h30f9g1e751b9e4cad249ffe9f8edeg4db0b7" version="1">Boule de feu Chromatique : Gangrefeu</content>
+    <content contentuid="h622b655bgb686g4522g8763g252da139ad73" version="1">Parchemin de Boule de feu Chromatique : Dommage</content>
+    <content contentuid="hd40f229bg3908g4083gabb3gcddafd7a21eb" version="1">Parchemin de Boule de feu Chromatique : Zone</content>
+    <content contentuid="h58d5c9575eg19cg1g01e147ea2f56927cg9c" version="1">Boule de feu Chromatique : Chaos</content>
+    <content contentuid="h2a596f64e03ge26880311515059ac0737b59" version="1">Lancez une Boule de Chaos, infligeant [1], [2], [3], [4], [5], [6], [7], [8], [9] et [10]. La magie du chaos est instable et dangereuse, il y a une chance que vous soyez submergé et que vous en souffriez également. Plus le niveau du sort est élevé, plus la Chance est élevée.</content>
+    <content contentuid="hf5bfae51g6ab1g4259g882fg3b311bb95b9a" version="1">Lancez une Boule de Chaos, infligeant [1], [2], [3], [4], [5], [6], [7], [8], [9] et [10]. La magie du chaos est instable et dangereuse, il y a une chance que vous soyez submergé et que vous en souffriez également. Plus le niveau du sort est élevé, plus la Chance est élevée. Zone affecté : [11]</content>
+    <content contentuid="h3fb53972g641cg4874ga1d1gfb195ed8cf37" version="1">Chaos Rampant</content>
+    <content contentuid="he4cb906dgdba5g4321g98aeg73c34cfe8ef1" version="1">Lancez une Boule de Gangrefeu, infligeant [1] et [2].</content>
+    <content contentuid="h79cac007gdd79g4ed3gae8bgf7b89f81a37d" version="1">Lancez une Boule de Gangrefeu, infligeant [1] et [2]. Zone affectée : [3]</content>
+    <content contentuid="hd9577a9eg6c3eg4b04gbc4bgd864ff03f22f" version="1">Boule de feu Chromatique: Choc de givre</content>
+    <content contentuid="hc0e6513dg3966g48c8g913fg1123a19b1dbd" version="1">Lancez une Boule de feu froide et choquante qui inflige [1] et [2].</content>
+    <content contentuid="hc9931796g56a6g4760g8844gbd8b451c29bb" version="1">Lancez une Boule de feu froide et choquante qui inflige [1] et [2]. Zone affectée : [3]</content>
+    <content contentuid="h31ed3c5dg599cg4fabg91f2g857abbff4d41" version="1">Boule de feu Chromatique: Vide</content>
+    <content contentuid="he301cb48g0e41g44d8gac76g5a806df300e1" version="1">Libérez le Vide pour lancer une Boule de Feu du Vide, qui inflige [1] et [2].</content>
+    <content contentuid="h90739350g3e2bg4e6bg9d3fgd5e784dd9249" version="1">Libérez le Vide pour lancer une Boule de Feu du Vide, qui inflige [1] et [2]. Zone affectée : [3]</content>
+    <content contentuid="hc95ad256gdc3dg42bbg99c0g66c0640a60bc" version="1">Boule de feu Chromatique: Lumière</content>
+    <content contentuid="hd27b9467g328ag435ag8a79g29deb52a45c2" version="1">Libérez la puissance concentrée du Soleil en les transformant en une énorme Boule de plasma, infligeant [1]</content>
+    <content contentuid="h54f24effg9ee1g48edga3aeg32cbff231c45" version="1">Libérez la puissance concentrée du Soleil en les transformant en une énorme Boule de plasma, infligeant [1]. Zone affectée : [2]</content>
+    <content contentuid="h67357e14g0f9cg4a2eg96efg6ab193b7d3c5" version="1">Parchemin d'Orage Chromatique</content>
+    <content contentuid="hcdf0b671g14a0g4f36g97edgf6b04278b6a5" version="1">Puissante tempête d'Eclair</content>
+    <content contentuid="hf07792cdgb0a7g469dgb78eg3ae475d4b216" version="1">Déclenchez une puissante tempête d'éclairs et de pluie depuis le ciel, inondant le sol et les ennemis et frappant tous les objets et créatures à portée.</content>
+    <content contentuid="h4b41b7fbg0afcg49d2gbeccg5a611a4bbc10" version="1">Puissante tempête de Chaos</content>
+    <content contentuid="hf0b66303g35b6g4cdag8f10ga10618d7e39f" version="1">Libérez le chaos sauvage sous la forme d'une tempête, infligeant [1], [2], [3], [4], [5], [6], [7], [8], [9] et [10]. La magie du chaos est instable et dangereuse, il y a une chance que vous soyez submergé et que vous souffriez également. Vous êtes également obligé de faire un Jet de Magie Sauvage. Plus le Niveau du sort est élevé, plus la Chance est élevée. Zone affectée : [11]</content>
+    <content contentuid="h7d5b1cdag667dg4ab0g9aa4g740295fa56a2" version="1">Puissante tempête de Chaleur</content>
+    <content contentuid="hed6f2efdgff3fg46dbgbc97g22c441f39fa1" version="1">Libérez le plasma pur en arcs formant une tempête réduisant tout en cendres, infligeant [1]. Zone affectée : [2]</content>
+    <content contentuid="h428acfa3gc67fg4ab1g947fg713a140e1f2a" version="1">Puissante tempête de Lumière</content>
+    <content contentuid="h240b64e4g414bg494eg9460g570744397d88" version="1">Forme une tempête de lumière, se déversant en arcs blancs de lumière concentrée, infligeant [1], laissant derrière elle une traînée de feu sacré. Zone affectée : [2]</content>
+    <content contentuid="he7299cfbgd2e7g4d9cgb991g8c44bf98adfc" version="1">Puissante tempête de Son</content>
+    <content contentuid="h7ec3823eg3d85g4770g9cd1gedf9a0086dc4" version="1">Concentrez-vous sur la compression du son dans une tempête si forte qu'elle inflige [1] et si insupportable qu'elle inflige également [2]. Même la Lumière évitera cette zone pendant un certain temps. Zone affectée : [3]</content>
+    <content contentuid="ha34e6375g47acg4652gb08bge77768b50724" version="1">Puissante tempête de Force</content>
+    <content contentuid="h28243886ge1efg4fbag9a52gd6bf9261c227" version="1">Concentrez-vous sur la compression des énergies autour de vous dans une tempête qui libère des forces gravitationnelles infligeant [1] et déplaçant les objets lâches, laissant derrière elles de l'eau perturbée. Zone affectée : [2]</content>
+    <content contentuid="hd1273c8cg9b6eg443dgb212g13d3427a5180" version="1">Puissante tempête de Pluie d'acide</content>
+    <content contentuid="hdb16eec3gf01bg4132gae68gfbe40817b49b" version="1">Libérez la pollution de l'environnement autour de vous, déclenchant une tempête mortelle d'acide dévorant infligeant [1] et [2]. Les restes resteront au sol pendant un certain temps. Zone affectée : [3]</content>
+    <content contentuid="h9db6a5fbg2ca5g40e8g890cg3642ba5897dc" version="1">Parchemin de Fléchette Chromatiques</content>
+    <content contentuid="hb57aeebcgd3c0g4e04g95cfgb4cd12abf6ca" version="1">Fléchette Chromatiques</content>
+    <content contentuid="h21fc297agcd60g4b84ga86bg0e0a048e1656" version="1">ancez une Fléchette Chromatique, si elle réussit un coup critique, tue une entité ou que vous souffrez de son Element, vous allez envoyer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h78a4190cg550dg489cg9970g93120066e9a3" version="1">Fléchette Chromatique Critique</content>
+    <content contentuid="hcb23998fg598dg41cbg84c1g73b15936a60c" version="1">Réduit Jet requis pour un Critique de 1</content>
+    <content contentuid="ha79e5a4ag23f5g40b5gba09g8d340bef3c25" version="1">Fléchette Chromatique Invoquée</content>
+    <content contentuid="ha592eff7gb31bg4665g9424g5747005d0deb" version="1">Fléchette Chromatique de Feu</content>
+    <content contentuid="h7863a579g13bdg47cbg81e6g3793b465161e" version="1">Lancez une Fléchette Chromatique de Feu, si elle réussit un coup critique, tue une entité ou que vous êtes Brulé, vous perdez 1 tour de Brulure et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h996138f6g2eb4g4af4gb77cg092ef6026a91" version="1">Invocation de Fléchette Chromatique de Feu</content>
+    <content contentuid="hbff639feg2d6bg46acgb679g97b9c32a0f4c" version="1">Fléchette Chromatique d'Eclair</content>
+    <content contentuid="heea715abg58b0g4982g8cfcg61271d8b45b3" version="1">Lancez une Fléchette Chromatique d'Eclair, si elle réussit un coup critique, tue une entité ou que vous êtes Paralysé, vous perdez 1 tour de Paralysie et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier.</content>
+    <content contentuid="h2d1c835fg32ebg4b16ga237g40cbdac728fd" version="1">Fléchette Chromatique de Force</content>
+    <content contentuid="hea52ddd6g4189g452dgb0b1gc26565af635e" version="1">Lancez une Fléchette Chromatique de Force, si elle réussit un coup critique, tue une entité ou que vous êtes Encombré, elle a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h7a8e7d64ge183g4591ga0f1ga7f82f31d633" version="1">Fléchette Chromatique d'Acide</content>
+    <content contentuid="h0146edc1g0cd7g490cg9509g3ec6af2f2ac7" version="1">Lancez une Fléchette Chromatique d'Acide, si elle réussit un coup critique, tue une entité ou que vous êtes Dissous, vous perdez 1 tour de Dissolution et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="hd6a9cc3bg34dbg4de1ga270g2bf672685512" version="1">Fléchette Chromatique de Froid</content>
+    <content contentuid="hdc750f00gbd51g45a1gb366g2813674d9698" version="1">Lancez une Fléchette Chromatique de Froid, si elle réussit un coup critique, tue une entité ou que vous êtes Gelé, vous perdez 1 tour de Gel et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h31fc4558g5014g4290gba10gb8200f592da2" version="1">Fléchette Chromatique Empoisonnée</content>
+    <content contentuid="h6a7d3678g1755g4858ga558ga63ebe4d33b2" version="1">Lancez une Fléchette Chromatique Empoisonnée, si elle réussit un coup critique, tue une entité ou que vous êtes Empoisonné, vous perdez 1 tour d'Empoisonnement et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h4a590d50gbcafg4ea8g93f3gdf9e49064160" version="1">Fléchette Chromatique Foudroyante</content>
+    <content contentuid="hb1ca12b6ge828g4e8cg93f1ge4adabefc67d" version="1">Lancez une Fléchette Chromatique Foudroyante, si elle réussit un coup critique, tue une entité ou que vous êtes Aveuglé, vous perdez 1 tour d'Aveuglement et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h87ac2740g25aag4e94gaf4fgf45a417a4165" version="1">Fléchette Chromatique Rayonnante</content>
+    <content contentuid="ha93332eegcac1g45fdgb1bbg0a31c683e304" version="1">Lancez une Fléchette Chromatique Rayonnante, si elle réussit un coup critique, tue une entité ou que vous êtes Béni, vous perdez 1 tour de Bénédiction et a de grandes chances de tirer un projectile supplémentaire. Maximum de 2 Projetiles supplémentaires par premier</content>
+    <content contentuid="h3da4b1f4g7212g40d2ga3e7gf8949920425d" version="1">Fléchette Chromatique de Chaos</content>
+    <content contentuid="h1ef3ae82g0013g4244gb554gde5a97bc642a" version="1">Lancez une Fléchette Chromatique de Chaos, si elle réussit un coup critique ou tue une entité elle a de grandes chances de tirer un projectile supplémentaire. It always fires a second Projectile. Chaos projectiles dont care about friend or foe. Maximum de 2 Projetiles supplémentaires par premier. Each havina a chance of 25% dealing [1], [2], [3], [4], [5], [6], [7] or [8]</content>
+    <content contentuid="h1311ff7fg81b1g7cacg2228g2993b8691a49" version="1">Décharge de Chaos Chromatique</content>
+    <content contentuid="h3bd8e3d2gce1bg13f5gc78eg530139a3873d" version="1">Émettez [1] Faisceau(s) d'énergies chaotiques avec la puissance de votre esprit, infligeant 1d6 d'un élément choisi, enchaînant encore 2 fois pour chaque 1d4 de l'élément choisi. </content>
+    <content contentuid="h75d1794bg82d5geeefgce40g6a81df649b2e" version="1">Décharge de Chaos : Force</content>
+    <content contentuid="h2cc8d0efg4bddg6567gb1fag591464663e8a" version="1">Décharge de Chaos : Froid</content>
+    <content contentuid="h9e4e4efdgf442gd33fge094g94c3ced0e88e" version="1">Décharge de Chaos : Feu</content>
+    <content contentuid="h795a840cg46a3g191ag2f1egdc2398fee43f" version="1">Décharge de Chaos : Eclair</content>
+    <content contentuid="h23d08eacg79cbgcfcdgc739gbc56a2b29277" version="1">Décharge de Chaos : Foudre</content>
+    <content contentuid="h0d4e957eg1056g47cbg211dg037b94cdb9ac" version="1">Décharge de Chaos : Poison</content>
+    <content contentuid="h79a71f44gbec8g4385gf7f7gb4775be4c3b2" version="1">Décharge de Chaos : Acide</content>
+    <content contentuid="hf9b4445cg5cf7g6843g2cc5gce6e40391a10" version="1">Décharge de Chaos : Rayonnant</content>
+    <content contentuid="hfcc99e7cg0dedg850ag72f3g5ada690d769a" version="1">Décharge de Chaos : Nécrotique</content>
+    <content contentuid="h30a725adg8465g1952gfbfdge5616323232a" version="1">Décharge de Chaos : Psychique</content>
+    <content contentuid="h4d443a6bgddacgfdfbgf690g31b78245c0c8" version="1">Décharge de Chaos : Chaos</content>
+    <content contentuid="hf0f289b8g36e3g825fgc179g0597f82ad393" version="1">Émettez [1] Faisceau(s) avec la puissance de votre esprit, en infligeant initialement [2], puis en enchaînant encore 2 fois pour chaque [3] sur une distance de 9 m. Le dernier faisceau a une chance de 5 % de relancer la chaîne.</content>
+    <content contentuid="hc661abdbgbbeag386cg5579g64d03606d88b" version="1">Émettez [1] Faisceau(s) avec la puissance de votre esprit, chacun ayant une chance de 10 % par type de dommage d'infliger 1d8 par déclenchement, puis doublez l'enchaînement 2 fois supplémentaires, chacun ayant à nouveau une chance de 10 % par type de dommage d'infliger 1d4 sur une distance. de 9m. Le dernier faisceau a une chance de 5 % de relancer la chaîne. Les explosions de chaos ne diffèrent pas entre les &lt;LSTag Tooltip="Targets"&gt;Ennemis&lt;/LSTag&gt;, &lt;LSTag Tooltip="Targets"&gt;Alliés&lt;/LSTag&gt; ou même &lt;LSTag Tooltip="Targets"&gt;Vous-même&lt;/LSTag&gt;.</content>
+    <content contentuid="h689183eag4350g0d6dga077g72eddb452bba" version="1">Parchemin de Décharge de Chaos Chromatique</content>
+    <content contentuid="h1e4c86d0gbb37g84aeg9d3bg29a9678f1c27" version="1"></content>
+    <content contentuid="h250ca594gb08cge176g0cb6gc9cb680f8bce" version="1"></content>
+    <content contentuid="h89493c83g3202g2b0eg4f89g6c603893bef0" version="1"></content>
+    <content contentuid="h7813cbf4g029dgaf75gb67agdcc18f229485" version="1"></content>
+    <content contentuid="h6bd4966bg87a9gd54bgf8c1g734d5227c96c" version="1"></content>
+    <content contentuid="h7b05c590g909bg6464gf8d4g1b767b79a08f" version="1"></content>
+    <content contentuid="hdb39d105g23acg5629g15a4g45efd7adaf5a" version="1"></content>
+    <content contentuid="h2f60f12cgdc7dgfb50g4e0cg37beb30d80fc" version="1"></content>
+    <content contentuid="h8f3c4616g24e3ge8eag9370g08bf2b9a2545" version="1"></content>
+    <content contentuid="h928251f8g69d9g11a3g3d06g049865cfae3b" version="1"></content>
+    <content contentuid="h6ee2d954g4de3g3a9bg2775gcbe9b0cd9ea2" version="1"></content>
+    <content contentuid="hcca4518fg4939g7c7ag8ae9g90ba06f9ea5d" version="1"></content>
+    <content contentuid="hfec9bc2cgbbd2ga2aag303ag0eefe55704fb" version="1"></content>
+    <content contentuid="h0bfe6d8dg4f4fg3167gf65bg718add0bd59f" version="1"></content>
+    <content contentuid="h84d78e61g96aeg99edg9fb5gfe836dbe110e" version="1"></content>
+    <content contentuid="h8298c575gb661g52ccg321dg605426fe81ce" version="1"></content>
+    <content contentuid="hcb39d89dg579ag7995g2996g4ea9ea4332e1" version="1"></content>
+    <content contentuid="h2cd0720bg5f90g6193gf417gcabf70f41e9d" version="1"></content>
+    <content contentuid="h08cca9d7gfe50gc5c0ga5d9g5782879dcf43" version="1"></content>
+    <content contentuid="he7017a28gcffeg25d3g62c6g7d6abf319c48" version="1"></content>
+    <content contentuid="h5ba87e23ga838g47efgaa0ege70f88f18a33" version="1"></content>
+    <content contentuid="h3f3ce425g8c59gcd31g839fg915dd3acdd17" version="1"></content>
+</contentList>

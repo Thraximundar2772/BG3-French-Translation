@@ -1,0 +1,13 @@
+<contentList date="4/28/2024 18:00">
+<content contentuid="he797db34g1067g4f6ag856fg724a79b73b3e" version="1">Saut d'un autre monde</content>
+<content contentuid="hee9d290bgffa7g44f3g88c1g22ff573c0248" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] en ne dépensant que [2] de mouvement. &lt;br&gt; &lt;br&gt;Au Niveau 5, un Occultiste lévitera à la place.</content>
+<content contentuid="h46b856cdg19c8g4078gbe8cg6479d200e086" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] long et [2] haut en ne dépensant que [3] de mouvement.</content>
+<content contentuid="hd0e2de34g392fg492bgb37egf64249b78fe8" version="1">Lévitation d'un autre monde</content>
+<content contentuid="hcc7fce92gf73eg4256g94e6g64df00712c41" version="1">Une fois à chacun de vos tours, vous pouvez léviter jusqu'à [1] fr distance et [2] de haut en ne dépensant que [3] de mouvement.</content>
+
+<content contentuid="h75ba11c8g2d28g4730gb95dg34d60aae3276" version="1">Leçons des Premières: Légèrement blindés</content>
+
+<content contentuid="h5c219d74gb398g48feg9f42g672b1ad54d56" version="1">Leçons des Premières: Musicien</content>  
+<content contentuid="hc90d87d7g7c2bg4f03g8291g72d38c20204c" version="1">Vous gagnez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt;, et pouvez &lt;LSTag Type="Spell" Tooltip="CL_Shout_Doot"&gt;invoquer par magie un instrument de votre choix&lt;/LSTag&gt;.</content>
+
+</contentList>
