@@ -179,7 +179,7 @@
   <content contentuid="hb63bac6bg7bd8g4ab1g912fgc6bedf9b6faf" version="1">You cannot use this ability while already under its effects.</content>
   <content contentuid="he350131bga4f6g4e14g867egaaf0dac15a3d" version="1">Master's Flourish</content>
   <content contentuid="h06702d9cg291eg4020gb8aag400f35e7951e" version="1">Whenever you use a Blade Flourish option, you can roll a [1] and use it instead of expending a &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; die.</content>
-  <content contentuid="h30b12a16gb3f7g49acg9150ge596f064f2ad" version="1">Blade Flourish options roll a [1] instead of expending &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt;.</content>
+  <content contentuid="h30b12a16gb3f7g49acg9150ge596f064f2ad" version="1">Blade Flourish options roll a [1] instead of expending &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; die.</content>
   <content contentuid="ha9224d4ag91c6g4844ga38dgfef58afb80c8" version="1">Battle Magic</content>
   <content contentuid="h2bf22ea4g7d9eg4b0dg8972g3b5f75851ac8" version="1">You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast spell, you can make one weapon attack as a bonus action.</content>
 
@@ -194,8 +194,8 @@
   <content contentuid="h2fa77493gdc93g4fcdga6acge4bc0470aebc" version="1">The fungal spores in your body alter you: you can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, Deafened, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;, and any &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; against you counts as a normal hit instead, unless you're &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
   <content contentuid="h25b356b7g0661g4bddga4a8g6a9d37a70b07" version="1">Fungal Body</content>
 
-  <content contentuid="h687ee4c8gdb37g47e6g8453g082736941606" version="1">Your mastery of ki grants you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in all &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Additionally, if you fail a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can spend a &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Point&lt;/LSTag&gt; to reroll it and take the second result.</content>
-  <content contentuid="h8374bdfbg27b6g4a36g8a09g509542010692" version="1">Diamond Soul</content>
+  <content contentuid="h687ee4c8gdb37g47e6g8453g082736941606" version="1">Votre maîtrise du ki vous accorde une &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; sur tous les &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;. De plus, si vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de ki&lt;/LSTag&gt; pour le relancer et prendre le deuxième résultat.</content>
+  <content contentuid="h8374bdfbg27b6g4a36g8a09g509542010692" version="1">Âme de diamant</content>
 
   <content contentuid="ha9587fc0g344eg484agbea4ge3c09dfbeb26" version="1">You can use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to end one spell on yourself or on one willing creature that you touch.</content>
   <content contentuid="h21f666f0g4981g47b5g8b11ga1d9f2045b01" version="1">Cleansing Touch</content>
@@ -206,29 +206,29 @@
   <content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">Vous pouvez changer votre Bénédiction du Pacte sélectionnée.</content>
   <content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Versatilité occulte : Bénédiction du Pacte</content>
 
-  <content contentuid="hda4c394fgdff1g4608ga23fgea7d49261ff8" version="1">Versatile Trickster</content>
-  <content contentuid="h8565f26ag2d69g46cfgbfdbg9abe32d82c3d" version="1">You gain the ability to distract targets with your Mage Hand.</content>
-  <content contentuid="had8bb189gdb77g4a61gbec2ge68e89a349ed" version="1">Distract a creature within [1] of your Mage Hand, giving you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the creature until the end of your turn.</content>
-  <content contentuid="h003593ceg87a5g43e7g9c80gd2d0d4a0e9de" version="1">The Mage Hand's summoner has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this entity.</content>
-  <content contentuid="h3f748822g9a5bg4f93g9666g99db39008783" version="1">Distract a creature, giving your summoner &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the creature.</content>
+  <content contentuid="hda4c394fgdff1g4608ga23fgea7d49261ff8" version="1">Filou polyvalent</content>
+  <content contentuid="h8565f26ag2d69g46cfgbfdbg9abe32d82c3d" version="1">Vous gagnez la capacité de distraire les cibles avec votre Main de Mage.</content>
+  <content contentuid="had8bb189gdb77g4a61gbec2ge68e89a349ed" version="1">Distrayez une créature à moins de [1] de votre Main de Mage, vous donnant un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; contre la créature jusqu'à la fin de votre tour.</content>
+  <content contentuid="h003593ceg87a5g43e7g9c80gd2d0d4a0e9de" version="1">L'invocateur de la Main du Mage a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre cette entité.</content>
+  <content contentuid="h3f748822g9a5bg4f93g9666g99db39008783" version="1">Distraire une créature, donnant à votre invocateur &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre la créature.</content>
 
   <content contentuid="hc0a69abag3e0eg4116g8c59g2faa3b9187dd" version="1">Disparition</content>
   <content contentuid="h7925794cgae23g4761g9f55g00fdf66539c9" version="1">Vous pouvez utiliser l'action &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;se cacher&lt;/LSTag&gt; en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
 
-  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Share Spells</content>
-  <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">When you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within [1] of you.</content>
-  <content contentuid="hf2dba260g1251g42abgb5d5g99ab578c1ab3" version="1">Can be affected by the same spell the ranger casts on their self.</content>
+  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Partage de sorts</content>
+  <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">Lorsque vous lancez un sort vous ciblant, vous pouvez également affecter votre compagnon bête avec le sort si la bête est à moins de [1] de vous.</content>
+  <content contentuid="hf2dba260g1251g42abgb5d5g99ab578c1ab3" version="1">Peut être affecté par le même sort que le rôdeur lance sur lui-même.</content>
 
-  <content contentuid="h1e9083f3gf720g46b7g8b3eg3d18baafc998" version="1">Blindsense</content>
-  <content contentuid="h2057d172g6880g4fcdg911cga9b411edab38" version="1">If you are able to hear, you are aware of the location of any hidden or &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creature within [1] of you, preventing them from making &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and preventing them from imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on your attacks against them.</content>
-  <content contentuid="h899d0539g6a43g419cg87f1ge7e2c0200c5b" version="1">Detected by an entity with Blindsense. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; cannot benefit from &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against the entity and cannot impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on attacks from the entity.</content>
-  <content contentuid="hb0c3e331gdee7g4b9fg90edg9d01df050704" version="1">Deafened</content>
+  <content contentuid="h1e9083f3gf720g46b7g8b3eg3d18baafc998" version="1">Perception aveugle</content>
+  <content contentuid="h2057d172g6880g4fcdg911cga9b411edab38" version="1">Si vous êtes capable d'entendre, vous connaissez l'emplacement de toute créature cachée ou &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; à moins de [1] de vous, l'empêchant d'effectuer des &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre vous avec &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; et l'empêchant d'imposer un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur vos attaques contre eux.</content>
+  <content contentuid="h899d0539g6a43g419cg87f1ge7e2c0200c5b" version="1">Détecté par une entité avec Perception aveugle. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; ne peut pas bénéficier d'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; contre l'entité et ne peut pas imposer un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les attaques de l'entité.</content>
+  <content contentuid="hb0c3e331gdee7g4b9fg90edg9d01df050704" version="1">Assourdie</content>
 
-  <content contentuid="h58d70f9fg05d8g4873gb23agf69063ad90f3" version="1">Dragon Wings</content>
-  <content contentuid="h9ec1fc85gbbd9g477bgbae5g31008fa1e648" version="1">A pair dragon wings sprout from your back, granting you the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
-  <content contentuid="hef16c252gc248g4642gbc14g73be522f2c7f" version="1">You gain the ability to sprout dragon wings sprout from your back, granting you the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
-  <content contentuid="h68472f6fg1f37g4c97gbcdfg8ae8f30601c0" version="1">Dragon Wings: Dismiss</content>
-  <content contentuid="h3b00f48dg236ag4b3dgb1f2g5b40ca919de7" version="1">Retract your draconic wings back into your body.</content>
+  <content contentuid="h58d70f9fg05d8g4873gb23agf69063ad90f3" version="1">Ailes de dragon</content>
+  <content contentuid="h9ec1fc85gbbd9g477bgbae5g31008fa1e648" version="1">Une paire d'ailes de dragon jaillit de votre dos, vous donnant la capacité de&lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Voler&lt;/LSTag&gt;.</content>
+  <content contentuid="hef16c252gc248g4642gbc14g73be522f2c7f" version="1">Vous obtenez la capacité de faire germer des ailes de dragon dans votre dos, vous accordant ainsi la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Voler&lt;/LSTag&gt;.</content>
+  <content contentuid="h68472f6fg1f37g4c97gbcdfg8ae8f30601c0" version="1">Ailes de dragon : Interrompre</content>
+  <content contentuid="h3b00f48dg236ag4b3dgb1f2g5b40ca919de7" version="1">Rétractez vos ailes draconiques dans votre corps.</content>
 
   <content contentuid="h5f3a69d6g8de4g4375g8703gec6bd9277df2" version="1">Traversée des enfers</content>
   <content contentuid="hbaffbf3ag41e1g4f07ga634g3b66504febda" version="1">Vous gagnez la capacité de transporter une créature que vous avez touchée avec une attaque à travers les plans inférieurs.</content>
@@ -238,8 +238,8 @@
   <content contentuid="h69ff7904gd23cg4cabg99fdgdbbd0077a59e" version="1">Cette entité a été transportée à travers les plans inférieurs et prend [1] à son retour.</content>
   <content contentuid="h8587aeb8g1fa6g4a23gac11g5bf4d3bc3840" version="1">Créer un serviteur</content>
   <content contentuid="hc64b67a9gb587g4d8fgb1a4gb9c727be5eb2" version="1">Touchez une créature humanoïde &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt; Incapacité&lt;/LSTag&gt;, la faisant tomber sous votre &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt;.</content>
-  <content contentuid="h4bec93fdgedffg4616gb475g5f71aaadb411" version="1">Le &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt; se dissipe si &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse&gt;Délivrance des malédictions&lt;/LSTag&gt; est utilisé sur la créature, la condition est retiré ou lorsque vous utilisez à nouveau cette action.</content>
-  <content contentuid="h84b21324g9f50g4224g8499g09f43423dba6" version="1">Vous obtenez la capacité d'infecter l'esprit d'un humanoïde avec la magie extraplanaire de votre patron, &lt;LSTag Type="Spell" Tooltip="Target_CreateThrall&gt;Créant un serviteur&lt;/LSTag&gt;.</content>
+  <content contentuid="h4bec93fdgedffg4616gb475g5f71aaadb411" version="1">Le &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt; se dissipe si &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse"&gt;Délivrance des malédictions&lt;/LSTag&gt; est utilisé sur la créature, la condition est retiré ou lorsque vous utilisez à nouveau cette action.</content>
+  <content contentuid="h84b21324g9f50g4224g8499g09f43423dba6" version="1">Vous obtenez la capacité d'infecter l'esprit d'un humanoïde avec la magie extraplanaire de votre patron, &lt;LSTag Type="Spell" Tooltip="Target_CreateThrall"&gt;Créant un serviteur&lt;/LSTag&gt;.</content>
 
   <content contentuid="h7524fe55ged66g4971g9e56g678ffd10ccc5" version="1">Résistance aux sorts</content>
   <content contentuid="h4ebceda9g8e24g439egafc2g819cf919319a" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts et vous avez une &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; contre les dégâts des sorts.</content>
@@ -261,10 +261,10 @@
   <content contentuid="h86bcb3c9g6f04g46d6gb029g8433630344b5" version="1">Charge arcanique</content>
   <content contentuid="h6cab21dfg3fb6g4374gb188gd43361dc823b" version="1">Vous obtenez la possibilité de vous téléporter jusqu'à [1] après avoir utilisé Fougue.</content>
   <content contentuid="h4485faafgbfbdg4ed5g983cg75768e14b31d" version="1">Corps intemporel</content>
-  <content contentuid="hc38f1555g3210g4becga13bgc31c590d6bb7" version="1">Vous ne subissez plus les effets négatifs de fin du sort &lt;LSTag Type="Spell" Tooltip="Target_Haste&gt;Hâte&lt;/LSTag&gt;.</content>
+  <content contentuid="hc38f1555g3210g4becga13bgc31c590d6bb7" version="1">Vous ne subissez plus les effets négatifs de fin du sort &lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;Hâte&lt;/LSTag&gt;.</content>
   <content contentuid="h7f781143ge8ceg44f1g9ca9g017bc7075d84" version="1">Âme de vengeance</content>
-  <content contentuid="h3d599ae2g05fag4d86gbfc0g2949a00410cb" version="1">L'autorité avec laquelle vous prononcez votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Voeu d'inimitié&lt;/LSTag&gt; vous donne un plus grand pouvoir sur votre ennemi. Lorsqu'une créature sous l'effet de votre Voeu d'inimitié effectue une attaque, vous pouvez utiliser votre réaction pour lancer une attaque au corps à corps contre cette créature si elle est à portée.</content>
-  <content contentuid="hce57670fgc111g49a5g835bgbacf5be1716f" version="1">Lancez une attaque au corps à corps avec une arme contre une créature qui effectue une attaque alors qu'elle est sous les effets de votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity&gt;Voeu d'inimitié&lt;/LSTag&gt;.</content>
+  <content contentuid="h3d599ae2g05fag4d86gbfc0g2949a00410cb" version="1">L'autorité avec laquelle vous prononcez votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity"&gt;Voeu d'inimitié&lt;/LSTag&gt; vous donne un plus grand pouvoir sur votre ennemi. Lorsqu'une créature sous l'effet de votre Voeu d'inimitié effectue une attaque, vous pouvez utiliser votre réaction pour lancer une attaque au corps à corps contre cette créature si elle est à portée.</content>
+  <content contentuid="hce57670fgc111g49a5g835bgbacf5be1716f" version="1">Lancez une attaque au corps à corps avec une arme contre une créature qui effectue une attaque alors qu'elle est sous les effets de votre &lt;LSTag Type="Spell" Tooltip="Target_VowOfEnmity"&gt;Voeu d'inimitié&lt;/LSTag&gt;.</content>
   <content contentuid="h8c263eb2g696ag4a86g8bd9gc26ce00d4c94" version="1">Souffle de l'hiver</content>
   <content contentuid="h1f31c024g90bfg404eg8a63gd8d646110b6a" version="1">Défense de la montagne éternelle</content>
   <content contentuid="h52a789d9g991dg47edg9772g2257fb90acb6" version="1">Rivière de flammes affamées</content>
@@ -440,8 +440,8 @@
   <content contentuid="he600f123gb195g4bb6gba44g6eefeadc11d8" version="1">Choisissez le sort Secousse sismique. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h10a0afc2g6eddg42ebg8940g0d02f9ba4abb" version="1">Maîtrise de Sort : Repli expéditif</content>
   <content contentuid="h1d549a3eg6548g471fga44dgbe8319b9757d" version="1">Choisissez le sort Repli expéditif. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
-  <content contentuid="hb2ffcdb8g69dbg4045g888cgb55130252e7a" version="1">Maîtrise de Sort : Simulacre de vie</content>
-  <content contentuid="h1e20b060ge0c0g4e26g9da7g2447f696025e" version="1">Choisissez le sort Simulacre de vie. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
+  <content contentuid="he5a73bafg582ag4f00gad42g9bd0d19efcae" version="1">Maîtrise de Sort : Simulacre de vie</content>
+  <content contentuid="h8dc17302ga928g48f6g967bg02fd20f26b43" version="1">Choisissez le sort Simulacre de vie. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h1e1da24eg8508g42c0g98d4g2b3f7503371e" version="1">Maîtrise de Sort : Feuille morte</content>
   <content contentuid="h73833d74g725cg4a06g8acbgca0b0acc6a7e" version="1">Choisissez le sort Feuille morte. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h0524fe7fg56d7g4a35gb14cge995b241d14c" version="1">Maîtrise de Sort : Appel de familier</content>
@@ -526,8 +526,6 @@
   <content contentuid="h92309965g0e17g4a70g9c9fgc59da525c9e5" version="1">Choisissez le sort Escapade cinétique. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h3f651ac5g2978g40cag808dg2efc17766f44" version="1">Maîtrise de Sort : Déblocage</content>
   <content contentuid="hac09546ag6213g4cb1g93e7g3f6f3bcc141e" version="1">Choisissez le sort Déblocage. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
-  <content contentuid="h3f651ac5g2978g40cag808dg2efc17766f44" version="1">Maîtrise de Sort : Déblocage</content>
-  <content contentuid="hac09546ag6213g4cb1g93e7g3f6f3bcc141e" version="1">Choisissez le sort Déblocage. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h72ae80aeg0fbbg4c9bg8353g652c03ebad06" version="1">Maîtrise de Sort : Levitation</content>
   <content contentuid="h0b017e59g927cg4e8dga8aag53897ca5d958" version="1">Choisissez le sort Levitation. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h7d748c7dgedceg4efbg9e57geadcefd3cefd" version="1">Maîtrise de Sort : Arme magique</content>
@@ -593,8 +591,6 @@
   <content contentuid="h6c7b4187g2ca4g4fa2gb274gba72d4ff438d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Zone_Fear"&gt;Peur&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hc57495c0g90fdg4d10gb7f1g3c13a8d053d7" version="1">Mort simulée</content>
   <content contentuid="hf7ecb35dgbe54g486dg99a9ged06bbaa0d0c" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Target_FeignDeath"&gt;Mort simulée&lt;/LSTag&gt; comme Sort de prédilection.</content>
-  <content contentuid="hf4a9ebd9gb059g4c26ga1dfgc530f9096125" version="1">Boule de feu</content>
-  <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Boule de feu&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="hf4a9ebd9gb059g4c26ga1dfgc530f9096125" version="1">Boule de feu</content>
   <content contentuid="hf206507eg8d65g4e86g8dc6g4011d4a50d4d" version="1">Choisissez &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Boule de feu&lt;/LSTag&gt; comme Sort de prédilection.</content>
   <content contentuid="h1498809fg3f0dg4d0bgbaa4gbecff6975a30" version="1">Flèches enflammées</content>
@@ -670,8 +666,6 @@
   <content contentuid="h2e08f465g6894g4988g9b51gb56b9502e3ed" version="1">Absorption des éléments : Maîtrise de Sort </content>
   <content contentuid="h392cd547g6401g4385ga6a3gaacad4b4a0b9" version="1">Bouclier : Maîtrise de Sort </content>
   <content contentuid="hcfcbe207gb8eeg4c66ga111g6c625ca26e52" version="1">Contresort : Maîtrise de Sort </content>
-  <content contentuid="h996980d1ga2bbg4f2cg8738g5681aad63a93" version="1">Vous pouvez modifier votre sélection de style de combat.</content>
-  <content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Versatilité martiale</content>
   <content contentuid="hc08958d6g4695g43d8g9f88gca62ed683dcb" version="1">Vous gagnez la capacité d’imprégner vos frappes d’armes d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez faire en sorte que l'attaque inflige [1] supplémentaire à la cible. Lorsque vous atteignez le niveau 14 dans la classe Clerc, elle inflige [2] supplémentaire.</content>
   <content contentuid="h2ac03398ga868g47bdgbd33g57f28cb1e74c" version="1">Vous gagnez la capacité d’imprégner vos frappes d’armes d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez faire en sorte que l'attaque inflige [1], [2] ou [3] supplémentaire à la cible. Lorsque vous atteignez le niveau 14 dans la classe Clerc, elle inflige [4], [5] ou [6] supplémentaire.</content>
   <content contentuid="hb3b0a6a8g76e7g4f19gaddeg76773e5fe74f" version="1">Infligez un [1] supplémentaire avec une attaque avec une arme ou [2] lorsque vous avez atteint le niveau 14 dans la classe Clerc.</content>
