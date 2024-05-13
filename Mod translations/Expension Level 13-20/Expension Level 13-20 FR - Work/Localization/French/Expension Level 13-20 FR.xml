@@ -172,36 +172,36 @@
   <content contentuid="hd96e424age144g404fg8e4cg2c739f92a276" version="1">Lorsque vous subissez des dégâts d'une créature située à moins de [1] de vous, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour effectuer une attaque au corps à corps avec une arme contre cette créature.</content>
   <content contentuid="h0c9fac88g374dg4be4g8ff0g38da1562349d" version="1">Lorsque vous subissez des dégâts d'une créature située à moins de [1] de vous, vous pouvez effectuer une attaque de mêlée avec une arme contre cette créature.</content>
 
-  <content contentuid="h43e38d7bgb4bcg48b3g90f9g43ad2b8c1bca" version="1">When you make an &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;, you can expend one use of your &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt;. Roll a Bardic Inspiration die and add the number rolled to your &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
-  <content contentuid="h9fe47639gea70g4a94g8728gda379d0e5794" version="1">Peerless Skill</content>
-  <content contentuid="h15722390g6ca3g47deg93e3gb07c6a83e409" version="1">Inspire yourself to add a +[1] bonus to your next &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
-  <content contentuid="h6263ea28gda28g45c4g87d3gc7affe404c96" version="1">Can use Bardic Inspiration to add a +[1] bonus to the next &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
-  <content contentuid="hb63bac6bg7bd8g4ab1g912fgc6bedf9b6faf" version="1">You cannot use this ability while already under its effects.</content>
-  <content contentuid="he350131bga4f6g4e14g867egaaf0dac15a3d" version="1">Master's Flourish</content>
-  <content contentuid="h06702d9cg291eg4020gb8aag400f35e7951e" version="1">Whenever you use a Blade Flourish option, you can roll a [1] and use it instead of expending a &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; die.</content>
-  <content contentuid="h30b12a16gb3f7g49acg9150ge596f064f2ad" version="1">Blade Flourish options roll a [1] instead of expending &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; die.</content>
-  <content contentuid="ha9224d4ag91c6g4844ga38dgfef58afb80c8" version="1">Battle Magic</content>
-  <content contentuid="h2bf22ea4g7d9eg4b0dg8972g3b5f75851ac8" version="1">You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast spell, you can make one weapon attack as a bonus action.</content>
+  <content contentuid="h43e38d7bgb4bcg48b3g90f9g43ad2b8c1bca" version="1">Quand vous faites un &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;, vous pouvez dépenser un point d'&lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration bardique&lt;/LSTag&gt;. Lancez un dé d'Inspiration bardique et ajoutez le chiffre obtenu à votre &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;.</content>
+  <content contentuid="h9fe47639gea70g4a94g8728gda379d0e5794" version="1">Compétence inégalée</content>
+  <content contentuid="h15722390g6ca3g47deg93e3gb07c6a83e409" version="1">Inspirez-vous pour ajouter un bonus de +[1] à votre prochain &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;.</content>
+  <content contentuid="h6263ea28gda28g45c4g87d3gc7affe404c96" version="1">Peut utiliser l'Inspiration bardique pour ajouter un bonus de +[1] au prochain &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;.</content>
+  <content contentuid="hb63bac6bg7bd8g4ab1g912fgc6bedf9b6faf" version="1">Vous ne pouvez pas utiliser cette capacité tant que vous êtes déjà sous ses effets.</content>
+  <content contentuid="he350131bga4f6g4e14g867egaaf0dac15a3d" version="1">Épanouissement du maitre</content>
+  <content contentuid="h06702d9cg291eg4020gb8aag400f35e7951e" version="1">Quand vous utilisez une option d'Épanouissement de la lame, vous pouvez lancer un [1] et l'utiliser au lieu de dépenser un dé d'&lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration bardique&lt;/LSTag&gt;.</content>
+  <content contentuid="h30b12a16gb3f7g49acg9150ge596f064f2ad" version="1">Les Jets d'option d'Épanouissement de la lame donnent [1] au lieu de dépenser un dé d'&lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration bardique&lt;/LSTag&gt;.</content>
+  <content contentuid="ha9224d4ag91c6g4844ga38dgfef58afb80c8" version="1">Magie de combat</content>
+  <content contentuid="h2bf22ea4g7d9eg4b0dg8972g3b5f75851ac8" version="1">Vous maîtrisez l’art de combiner le lancement de sorts et l’utilisation d’armes en un seul acte harmonieux. Lorsque vous utilisez votre action pour lancer un sort, vous pouvez effectuer une attaque avec une arme en tant qu'action bonus.</content>
 
-  <content contentuid="h7869538bg7640g497fgaa06g86b5b517abe7" version="1">Nature's Sanctuary</content>
-  <content contentuid="hef132e7dg28a8g4a9dgbe12g2001cf3dea2f" version="1">Creatures of the natural world sense your connection to nature and become hesitant to attack you.</content>
-  <content contentuid="h3326643ag1dc9g43b9ga711g478f30cf278e" version="1">When a beast or plant attacks you, you can possibly force them to choose a different target for the attack on a failed Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
-  <content contentuid="hca525c2bg9f1fg42e1ga542gf6ed474e499a" version="1">On a successful save, the beast or plant is immune to the effect until the next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
-  <content contentuid="h4de66af3gf5f3g4e40ga835g626f3dc60bcf" version="1">Cannot attack the source.</content>
-  <content contentuid="h29e19254g9bfcg48a0gb7ceg2b44e0c89768" version="1">Immune to Nature's Sanctuary.</content>
-  <content contentuid="h33f8e219g3c7fg4c25g8e5fg5fde0bcb7e6d" version="1">You can cast the &lt;LSTag Type="Spell" Tooltip="Shout_AlterSelf"&gt;Hide&lt;/LSTag&gt; spell without using a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
-  <content contentuid="h08f12d62g3937g4d53ga10age5d3b720c89b" version="1">Thousand Forms</content>
-  <content contentuid="h2fa77493gdc93g4fcdga6acge4bc0470aebc" version="1">The fungal spores in your body alter you: you can't be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, Deafened, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;, and any &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; against you counts as a normal hit instead, unless you're &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
-  <content contentuid="h25b356b7g0661g4bddga4a8g6a9d37a70b07" version="1">Fungal Body</content>
+  <content contentuid="h7869538bg7640g497fgaa06g86b5b517abe7" version="1">Sanctuaire de dame Nature</content>
+  <content contentuid="hef132e7dg28a8g4a9dgbe12g2001cf3dea2f" version="1">Les créatures du monde naturel sentent votre lien avec la nature et hésitent à vous attaquer.</content>
+  <content contentuid="h3326643ag1dc9g43b9ga711g478f30cf278e" version="1">Lorsqu'une bête ou une plante vous attaque, vous pouvez éventuellement la forcer à choisir une cible différente pour l'attaque sur un échec de &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; de Sagesse.</content>
+  <content contentuid="hca525c2bg9f1fg42e1ga542gf6ed474e499a" version="1">En cas de sauvegarde réussie, la bête ou la plante est immunisée contre l'effet jusqu'au prochain &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="h4de66af3gf5f3g4e40ga835g626f3dc60bcf" version="1">Impossible d'attaquer la source.</content>
+  <content contentuid="h29e19254g9bfcg48a0gb7ceg2b44e0c89768" version="1">Immunisé contre Sanctuaire de dame Nature.</content>
+  <content contentuid="h33f8e219g3c7fg4c25g8e5fg5fde0bcb7e6d" version="1">Vous pouvez lancer le sort &lt;LSTag Type="Spell" Tooltip="Shout_AlterSelf"&gt;Modification d'apparence&lt;/LSTag&gt; sans utiliser un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h08f12d62g3937g4d53ga10age5d3b720c89b" version="1">Mille formes</content>
+  <content contentuid="h2fa77493gdc93g4fcdga6acge4bc0470aebc" version="1">Les spores fongiques présentes dans votre corps vous altèrent : vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt;, assourdi, &lt;LSTag Type="Status" Tooltip="EFFRIGHTENED" &gt;Effrayé&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt;, et tout &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; contre vous compte comme un coup normal, sauf si vous êtes &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacité&lt;/LSTag&gt;.</content>
+  <content contentuid="h25b356b7g0661g4bddga4a8g6a9d37a70b07" version="1">Corps fongique</content>
 
   <content contentuid="h687ee4c8gdb37g47e6g8453g082736941606" version="1">Votre maîtrise du ki vous accorde une &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; sur tous les &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;. De plus, si vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de ki&lt;/LSTag&gt; pour le relancer et prendre le deuxième résultat.</content>
   <content contentuid="h8374bdfbg27b6g4a36g8a09g509542010692" version="1">Âme de diamant</content>
 
-  <content contentuid="ha9587fc0g344eg484agbea4ge3c09dfbeb26" version="1">You can use your &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to end one spell on yourself or on one willing creature that you touch.</content>
-  <content contentuid="h21f666f0g4981g47b5g8b11ga1d9f2045b01" version="1">Cleansing Touch</content>
-  <content contentuid="hdd07271dgf860g40c1g91f4g3fc1518c01ac" version="1">End a spell on yourself or an ally through your touch.</content>
-  <content contentuid="h0816336fgf084g485fgba86g5c93d3cbe487" version="1">The number of times you can end spell effects.</content>
-  <content contentuid="h43b7a2bfgb84dg451eg8a08g4c57232ac72f" version="1">Cleansing Touch Charge</content>
+  <content contentuid="ha9587fc0g344eg484agbea4ge3c09dfbeb26" version="1">Vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pour mettre fin à un sort sur vous-même ou sur une créature volontaire que vous touchez.</content>
+  <content contentuid="h21f666f0g4981g47b5g8b11ga1d9f2045b01" version="1">Contact purifiant</content>
+  <content contentuid="hdd07271dgf860g40c1g91f4g3fc1518c01ac" version="1">Mettez fin à un sort sur vous-même ou sur un allié par votre contact.</content>
+  <content contentuid="h0816336fgf084g485fgba86g5c93d3cbe487" version="1">Le nombre de fois où vous pouvez mettre fin aux effets des sorts.</content>
+  <content contentuid="h43b7a2bfgb84dg451eg8a08g4c57232ac72f" version="1">Charge de Contact purifiant</content>
 
   <content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">Vous pouvez changer votre Bénédiction du Pacte sélectionnée.</content>
   <content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Versatilité occulte : Bénédiction du Pacte</content>
@@ -335,20 +335,20 @@
   <content contentuid="he13a6d71g5552g497eg828bgcca124765ae4" version="1">Apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Polymorph"&gt;Métamorphose&lt;/LSTag&gt;</content>
   <content contentuid="h3df0dec5gb010g495dg849ega57b0c218ffa" version="1">Apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_ResilientSphere"&gt;Sphère résiliente&lt;/LSTag&gt;</content>
   <content contentuid="h7b6ba5bfg6760g4fc2ga96cg371f5ef4b265" version="1">Apprenez le sort &lt;LSTag Type="Spell" Tooltip="Wall_WallOfFire"&gt;Mur de feu&lt;/LSTag&gt;</content>
-  <content contentuid="h45b1e542gdf8fg4b96g9047g10b3db8233c5" version="1">Indomitale Might</content>
-  <content contentuid="hbfc1315fge42fg4889gab05g11f66424f694" version="1">When you make a Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, you can roll twice and use the higher result.</content>
-  <content contentuid="hd2e38a04ge59eg476egbdcag67e9101da9a7" version="1">Primal Champion</content>
-  <content contentuid="h4d302c77g4d16g47eeg9899gee8cb0ee8ba2" version="1">Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</content>
-  <content contentuid="h857397adg6bc5g4592gb6cdg85d9d56b7df0" version="1">Superior Inspiration</content>
-  <content contentuid="h3034f4b3g48b1g4f63g8333g60fd62145f2c" version="1">When you roll initiative and have no uses of &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; left, you regain one use.</content>
-  <content contentuid="h7ac5b48fge8acg426bg8b8eg1f43a55589b5" version="1">Supreme Healing</content>
-  <content contentuid="hbb540523g3773g4816g9630gd3a17e1242a7" version="1">When you would normally roll one or more dice to restore &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; with a spell, you instead use the highest number possible for each die.</content>
-  <content contentuid="h5fd84ea6g9ebeg4754g9178g3b47e0c3d3fa" version="1">Corona of Light</content>
-  <content contentuid="hf6e725efg91ccg494cg9bdcg99812b32cc9c" version="1">As an action, you can use &lt;LSTag Type="Spell" Tooltip="Shout_CoronaOfLight"&gt;Corona of Light&lt;/LSTag&gt;.</content>
-  <content contentuid="h9b08ddcfgafe4g446fg8d6ag1baefaecba02" version="1">Emit an [1] radius aura of sunlight around you. Hostile creatures within the aura have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells that deal Fire or Radiant damage.</content>
-  <content contentuid="h4d90bd0ege7c8g4c98g8d79gd6f6c4b53189" version="1">This entity emits an [1] radius aura of sunlight.</content>
-  <content contentuid="hf264b38fgf2eeg4572g99dcg9f0ed6f37c0f" version="1">Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells that deal Fire or Radiant damage.</content>
-  <content contentuid="h4e79d344g6a5cg4a0fga194ge2962ed1408b" version="1">Stormborn</content>
+  <content contentuid="h45b1e542gdf8fg4b96g9047g10b3db8233c5" version="1">Puissance indomptable</content>
+  <content contentuid="hbfc1315fge42fg4889gab05g11f66424f694" version="1">Lorsque vous effectuez un &lt;LSTag Tooltip="AbilityCheck"&gt;Jet&lt;/LSTag&gt; de Force, vous pouvez lancer deux fois et utiliser le résultat le plus élevé.</content>
+  <content contentuid="hd2e38a04ge59eg476egbdcag67e9101da9a7" version="1">Champion primitif</content>
+  <content contentuid="h4d302c77g4d16g47eeg9899gee8cb0ee8ba2" version="1">Vos scores de Force et de Constitution augmentent de 4. Votre maximum pour ces scores est désormais de 24.</content>
+  <content contentuid="h857397adg6bc5g4592gb6cdg85d9d56b7df0" version="1">Inspiration supérieure</content>
+  <content contentuid="h3034f4b3g48b1g4f63g8333g60fd62145f2c" version="1">Lorsque vous lancez un jet d'initiative et que vous n'utilisez plus d'&lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration bardique&lt;/LSTag&gt;, vous récupérez une utilisation.</content>
+  <content contentuid="h7ac5b48fge8acg426bg8b8eg1f43a55589b5" version="1">Guérison Suprême</content>
+  <content contentuid="hbb540523g3773g4816g9630gd3a17e1242a7" version="1">Lorsque vous lanceriez normalement un ou plusieurs dés pour restaurer des &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; avec un sort, vous utilisez plutôt le nombre le plus élevé possible pour chaque dé.</content>
+  <content contentuid="h5fd84ea6g9ebeg4754g9178g3b47e0c3d3fa" version="1">Couronne de Lumière</content>
+  <content contentuid="hf6e725efg91ccg494cg9bdcg99812b32cc9c" version="1">En tant qu'action, vous pouvez utiliser &lt;LSTag Type="Spell" Tooltip="Shout_CoronaOfLight"&gt;Couronne de Lumière&lt;/LSTag&gt;.</content>
+  <content contentuid="h9b08ddcfgafe4g446fg8d6ag1baefaecba02" version="1">Émettez une aura solaire d’un rayon de [1] autour de vous. Les créatures hostiles dans l'aura ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts qui infligent des dégâts de Feu ou Radiant.</content>
+  <content contentuid="h4d90bd0ege7c8g4c98g8d79gd6f6c4b53189" version="1">Cette entité émet une aura solaire de rayon de [1].</content>
+  <content contentuid="hf264b38fgf2eeg4572g99dcg9f0ed6f37c0f" version="1">A un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts qui infligent des dégâts de Feu ou Radiant.</content>
+  <content contentuid="h4e79d344g6a5cg4a0fga194ge2962ed1408b" version="1">Né de la tempête</content>
   <content contentuid="hb9d09447g6414g448bg93fagd55ea6d80bb9" version="1">You gain the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt;.</content>
   <content contentuid="hc88d8c3cg3ca9g443fg8d7cg2f3863cdd611" version="1">Improved Duplicity</content>
   <content contentuid="hde8dabe0g866dg48e5g96deg66998a7ba0e1" version="1">You can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can command any number of them to move up to [1].</content>
