@@ -203,8 +203,8 @@
   <content contentuid="h0816336fgf084g485fgba86g5c93d3cbe487" version="1">The number of times you can end spell effects.</content>
   <content contentuid="h43b7a2bfgb84dg451eg8a08g4c57232ac72f" version="1">Cleansing Touch Charge</content>
 
-  <content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">You can change your Pact Boon selection.</content>
-  <content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Eldritch Versatility: Pact Boon</content>
+  <content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">Vous pouvez changer votre Bénédiction du Pacte sélectionnée.</content>
+  <content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Versatilité occulte : Bénédiction du Pacte</content>
 
   <content contentuid="hda4c394fgdff1g4608ga23fgea7d49261ff8" version="1">Versatile Trickster</content>
   <content contentuid="h8565f26ag2d69g46cfgbfdbg9abe32d82c3d" version="1">You gain the ability to distract targets with your Mage Hand.</content>
@@ -212,8 +212,8 @@
   <content contentuid="h003593ceg87a5g43e7g9c80gd2d0d4a0e9de" version="1">The Mage Hand's summoner has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this entity.</content>
   <content contentuid="h3f748822g9a5bg4f93g9666g99db39008783" version="1">Distract a creature, giving your summoner &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the creature.</content>
 
-  <content contentuid="hc0a69abag3e0eg4116g8c59g2faa3b9187dd" version="1">Vanish</content>
-  <content contentuid="h7925794cgae23g4761g9f55g00fdf66539c9" version="1">You can use the &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Hide&lt;/LSTag&gt; action as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt;.</content>
+  <content contentuid="hc0a69abag3e0eg4116g8c59g2faa3b9187dd" version="1">Disparition</content>
+  <content contentuid="h7925794cgae23g4761g9f55g00fdf66539c9" version="1">Vous pouvez utiliser l'action &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;se cacher&lt;/LSTag&gt; en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
 
   <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Share Spells</content>
   <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">When you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within [1] of you.</content>
@@ -230,16 +230,16 @@
   <content contentuid="h68472f6fg1f37g4c97gbcdfg8ae8f30601c0" version="1">Dragon Wings: Dismiss</content>
   <content contentuid="h3b00f48dg236ag4b3dgb1f2g5b40ca919de7" version="1">Retract your draconic wings back into your body.</content>
 
-  <content contentuid="h5f3a69d6g8de4g4375g8703gec6bd9277df2" version="1">Hurl Through Hell</content>
-  <content contentuid="hbaffbf3ag41e1g4f07ga634g3b66504febda" version="1">You gain the ability to transport a creature you've hit with an attack through the lower planes.</content>
-  <content contentuid="h4f936f97ga43ag4198gb445g5f5a008255f2" version="1">When you hit a creature with an attack, you can instantly transport the target through the lower planes, causing the creature to disappear and hurtle through a nightmare landscape.</content>
-  <content contentuid="h384f96aag6b7ag40f7gae1ag49db98d6b7cf" version="1">The target returns to the space it previously occupied at the end of your next turn and takes [1] if it is not a fiend.</content>
-  <content contentuid="h3028ab5egfbbfg44f1g9fdagb83cd5942481" version="1">This entity has been transported through the lower planes.</content>
-  <content contentuid="h69ff7904gd23cg4cabg99fdgdbbd0077a59e" version="1">This entity has been transported through the lower planes and takes [1] upon returning.</content>
+  <content contentuid="h5f3a69d6g8de4g4375g8703gec6bd9277df2" version="1">Traversée des enfers</content>
+  <content contentuid="hbaffbf3ag41e1g4f07ga634g3b66504febda" version="1">Vous gagnez la capacité de transporter une créature que vous avez touchée avec une attaque à travers les plans inférieurs.</content>
+  <content contentuid="h4f936f97ga43ag4198gb445g5f5a008255f2" version="1">Lorsque vous touchez une créature avec une attaque, vous pouvez instantanément transporter la cible à travers les plans inférieurs, faisant disparaître la créature et se précipitant à travers un paysage cauchemardesque.</content>
+  <content contentuid="h384f96aag6b7ag40f7gae1ag49db98d6b7cf" version="1">La cible retourne dans l'espace qu'elle occupait précédemment à la fin de votre prochain tour et prend [1] si ce n'est pas un fiélon.</content>
+  <content contentuid="h3028ab5egfbbfg44f1g9fdagb83cd5942481" version="1">Cette entité a été transportée à travers les plans inférieurs.</content>
+  <content contentuid="h69ff7904gd23cg4cabg99fdgdbbd0077a59e" version="1">Cette entité a été transportée à travers les plans inférieurs et prend [1] à son retour.</content>
   <content contentuid="h8587aeb8g1fa6g4a23gac11g5bf4d3bc3840" version="1">Créer un serviteur</content>
-  <content contentuid="hc64b67a9gb587g4d8fgb1a4gb9c727be5eb2" version="1">Touch an &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; humanoid creature, causing it to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you.</content>
-  <content contentuid="h4bec93fdgedffg4616gb475g5f71aaadb411" version="1">The &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; condition is removed when &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse&gt;Délivrance des malédictions&lt;/LSTag&gt; is used on the creature, the condition is removed or when you use this action again.</content>
-  <content contentuid="h84b21324g9f50g4224g8499g09f43423dba6" version="1">You gain the ability to infect a humanoid's mind with the alien magic of your patron, &lt;LSTag Type="Spell" Tooltip="Target_CreateThrall&gt;creating a thrall&lt;/LSTag&gt;.</content>
+  <content contentuid="hc64b67a9gb587g4d8fgb1a4gb9c727be5eb2" version="1">Touchez une créature humanoïde &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt; Incapacité&lt;/LSTag&gt;, la faisant tomber sous votre &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt;.</content>
+  <content contentuid="h4bec93fdgedffg4616gb475g5f71aaadb411" version="1">Le &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charme&lt;/LSTag&gt; se dissipe si &lt;LSTag Type="Spell" Tooltip="Target_RemoveCurse&gt;Délivrance des malédictions&lt;/LSTag&gt; est utilisé sur la créature, la condition est retiré ou lorsque vous utilisez à nouveau cette action.</content>
+  <content contentuid="h84b21324g9f50g4224g8499g09f43423dba6" version="1">Vous obtenez la capacité d'infecter l'esprit d'un humanoïde avec la magie extraplanaire de votre patron, &lt;LSTag Type="Spell" Tooltip="Target_CreateThrall&gt;Créant un serviteur&lt;/LSTag&gt;.</content>
 
   <content contentuid="h7524fe55ged66g4971g9e56g678ffd10ccc5" version="1">Résistance aux sorts</content>
   <content contentuid="h4ebceda9g8e24g439egafc2g819cf919319a" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre les sorts et vous avez une &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; contre les dégâts des sorts.</content>
@@ -415,9 +415,9 @@
   <content contentuid="hdaabb98fg9f69g4cb3g8c61g641cfd422efa" version="1">Vous maîtrisez tellement certains sorts que vous pouvez les lancer à volonté.</content>
   <content contentuid="h5b1df13eg1653g4c55g92c5gd46fef2b3491" version="1">Activez-le pour vous permettre de changer vos choix de maîtrise des sorts de Niveaux 1 et 2 après avoir terminé une &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
   <content contentuid="h9e299ea2gb81fg4fd9g87e0g07fa34427356" version="1">Maîtrise de Sort : Niveau 1</content>
-  <content contentuid="hf5ccf444g0dd4g402dg9b9egc34e39267114" version="1">Choisissez un sort de Niveau 1 dans votre livre de Sort. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
+  <content contentuid="hf5ccf444g0dd4g402dg9b9egc34e39267114" version="1">Choisissez un sort de Niveau 1 dans votre Grimoire. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h1db56622g73a8g4970ga11dgb2caedc99d2e" version="1">Maîtrise de Sort : Niveau 2</content>
-  <content contentuid="h226a1469g173dg4cb0gac46gf189a5e06d4d" version="1">Choisissez un sort de Niveau 2 dans votre livre de Sort. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h226a1469g173dg4cb0gac46gf189a5e06d4d" version="1">Choisissez un sort de Niveau 2 dans votre Grimoire. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h3973c19fga17fg4020g87feg4f3ac8210f61" version="1">Maîtrise de Sort : Absorption des éléments</content>
   <content contentuid="h22153db2ga90fg428cg90c9g986f3b9c8d29" version="1">Choisissez le sort Absorption des éléments. Vous pouvez lancer ce Sort à sont plus bas niveau sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de Sort&lt;/LSTag&gt;.</content>
   <content contentuid="h71c1534cg877ag4082g88cfg33d026803f1a" version="1">Maîtrise de Sort : Mains brûlantes</content>
@@ -654,29 +654,29 @@
   <content contentuid="h7ba5eddcg13beg49c4ga5fdg4b1f191f3bc6" version="1">Devient possiblement &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt; par la source de la Présence draconique.</content>
   <content contentuid="h845f9d19ge1bdg4ac4gb429g0388d0417291" version="1">Présence draconique : Immunisé</content>
   <content contentuid="h6a45748egf64fg4c5agb270g35c154f69e57" version="1">Cette entité est immunisée à la Présence draconique.</content>
-  <content contentuid="hc8a5d9beg19bcg4830g8bbeg88ab5c9267d3" version="1">Dedicated Weapon</content>
-  <content contentuid="h9e3002c1g5532g457bgac9fge7ca7dde8862" version="1">You train yourself to use a variety of weapons as monk weapons as long as you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with it and it lacks the heavy and special properties.</content>
-  <content contentuid="h34fd6f98g8e28g4707g8f4bgce766492acdb" version="1">Touch one weapon that you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with and lacks the heavy property, focusing your ki on it to treat it as a monk weapon.</content>
-  <content contentuid="h2362bebegbe52g40f9g8217gf46d6124c877" version="1">Treated as a monk weapon.</content>
-  <content contentuid="h0166820ag96e8g4faaga8c8g1d1fd524d7ca" version="1">Elusive</content>
-  <content contentuid="h8f3c1c2dgc40ag404fga637g5007a40451f4" version="1">You are so evasive that attackers rarely gain the upper hand against you. No &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against you while you aren't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
-  <content contentuid="h7476cff2gd661g4379g94d3g54f256385e68" version="1">Stroke of Luck</content>
-  <content contentuid="h133e6166gd5a9g4432gb6dcgd4d5e942551b" version="1">You have an uncanny knack for succeeding when you need to. When you make an &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, you can guaranteed succeed on the roll once per &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
-  <content contentuid="h5a15ec6cg9155g41fegae33gc856e3f94f57" version="1">Activate to automatically succeed on your next &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
-  <content contentuid="h65f034f5gc104g4157g83a2ge325f9a92b7f" version="1">This entity will guaranteed succeed on the next &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
-  <content contentuid="ha546b5e2g3199g46f7g9707gcab1f02fa4c2" version="1">Once used, this ability cannot be used again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
-  <content contentuid="hc827edcdg601cg4ffcgaf5fg520a9f359914" version="1">The number of times you can use the &lt;LSTag Type="Passive" Tooltip="StrokeOfLuck"&gt;Stroke of Luck&lt;/LSTag&gt; feature.</content>
-  <content contentuid="hd9d9389bg721eg480bg9232g7393b1262cce" version="1">When you make an attack, you can make it automatically succeed regardless of the result.</content>
+  <content contentuid="hc8a5d9beg19bcg4830g8bbeg88ab5c9267d3" version="1">Arme dédiée</content>
+  <content contentuid="h9e3002c1g5532g457bgac9fge7ca7dde8862" version="1">Vous vous entraînez à utiliser une variété d'armes comme armes de moine tant que vous en avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; et qu'elle n'estpas lourde et qu'elle n'a pas de propriétés spéciales.</content>
+  <content contentuid="h34fd6f98g8e28g4707g8f4bgce766492acdb" version="1">Touchez une arme que vous &lt;LSTag Tooltip="Proficiency"&gt;Maîtrisez&lt;/LSTag&gt; et sans la propriété lourde, concentrez votre ki dessus pour la traiter comme une arme de moine.</content>
+  <content contentuid="h2362bebegbe52g40f9g8217gf46d6124c877" version="1">Traité comme une arme de moine.</content>
+  <content contentuid="h0166820ag96e8g4faaga8c8g1d1fd524d7ca" version="1">Insaisissable</content>
+  <content contentuid="h8f3c1c2dgc40ag404fga637g5007a40451f4" version="1">Vous êtes si insaisissable que les attaquants prennent rarement le dessus sur vous. Aucun &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; n'a d'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; contre vous alors que vous n'êtes pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacité&lt;/LSTag&gt;.</content>
+  <content contentuid="h7476cff2gd661g4379g94d3g54f256385e68" version="1">Coup de chance</content>
+  <content contentuid="h133e6166gd5a9g4432gb6dcgd4d5e942551b" version="1">Vous avez un don étrange pour réussir lorsque vous en avez besoin. Lorsque vous effectuez un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;, vous pouvez garantir la réussite du jet une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+  <content contentuid="h5a15ec6cg9155g41fegae33gc856e3f94f57" version="1">Activer pour réussir automatiquement votre prochain &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;.</content>
+  <content contentuid="h65f034f5gc104g4157g83a2ge325f9a92b7f" version="1">L'entité réussira automatiquement son prochain &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt;.</content>
+  <content contentuid="ha546b5e2g3199g46f7g9707gcab1f02fa4c2" version="1">Une fois utilisée, cette capacité ne peut plus être utilisée tant que vous n'avez pas terminé un &lt;LSTag Tooltip="ShortRest"&gt;Court&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+  <content contentuid="hc827edcdg601cg4ffcgaf5fg520a9f359914" version="1">Le nombre de fois où vous pouvez utiliser la capacité &lt;LSTag Type="Passive" Tooltip="StrokeOfLuck"&gt;Coup de chance&lt;/LSTag&gt;.</content>
+  <content contentuid="hd9d9389bg721eg480bg9232g7393b1262cce" version="1">Lorsque vous effectuez une attaque, vous pouvez la faire réussir automatiquement quel que soit le résultat.</content>
   <content contentuid="h2e08f465g6894g4988g9b51gb56b9502e3ed" version="1">Absorption des éléments : Maîtrise de Sort </content>
   <content contentuid="h392cd547g6401g4385ga6a3gaacad4b4a0b9" version="1">Bouclier : Maîtrise de Sort </content>
   <content contentuid="hcfcbe207gb8eeg4c66ga111g6c625ca26e52" version="1">Contresort : Maîtrise de Sort </content>
-  <content contentuid="h996980d1ga2bbg4f2cg8738g5681aad63a93" version="1">You can change your Fighting Style selection.</content>
-  <content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Martial Versatility</content>
-  <content contentuid="hc08958d6g4695g43d8g9f88gca62ed683dcb" version="1">You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [1] to the target. When you reach 14th level in the Cleric class, it deals an extra [2].</content>
-  <content contentuid="h2ac03398ga868g47bdgbd33g57f28cb1e74c" version="1">You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [1], [2] or [3] to the target. When you reach 14th level in the Cleric class, it deals an extra [4], [5] or [6].</content>
-  <content contentuid="hb3b0a6a8g76e7g4f19gaddeg76773e5fe74f" version="1">Deal an additional [1] with a weapon attack or [2] when you've reached 14th level in the Cleric class.</content>
-  <content contentuid="hd7b7817bg70b3g48edgbb39g7c34bebc7ac5" version="1">Indomitable (2)</content>
-  <content contentuid="hb17703fagd1d5g45b9gb8e3ge1e62a497003" version="1">You have become as durable as an iron golem. Whenever you fail a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can roll again, using the new result instead. You can do so twice until you next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
-  <content contentuid="hfa39cf81gc3f9g4336ga1e6g45e3c9848996" version="1">Indomitable (3)</content>
-  <content contentuid="h5df5a2bbgb871g4b67g9c47g3160173f8ef7" version="1">You have become as durable as an iron golem. Whenever you fail a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can roll again, using the new result instead. You can do so thrice until you next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h996980d1ga2bbg4f2cg8738g5681aad63a93" version="1">Vous pouvez modifier votre sélection de style de combat.</content>
+  <content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Versatilité martiale</content>
+  <content contentuid="hc08958d6g4695g43d8g9f88gca62ed683dcb" version="1">Vous gagnez la capacité d’imprégner vos frappes d’armes d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez faire en sorte que l'attaque inflige [1] supplémentaire à la cible. Lorsque vous atteignez le niveau 14 dans la classe Clerc, elle inflige [2] supplémentaire.</content>
+  <content contentuid="h2ac03398ga868g47bdgbd33g57f28cb1e74c" version="1">Vous gagnez la capacité d’imprégner vos frappes d’armes d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez faire en sorte que l'attaque inflige [1], [2] ou [3] supplémentaire à la cible. Lorsque vous atteignez le niveau 14 dans la classe Clerc, elle inflige [4], [5] ou [6] supplémentaire.</content>
+  <content contentuid="hb3b0a6a8g76e7g4f19gaddeg76773e5fe74f" version="1">Infligez un [1] supplémentaire avec une attaque avec une arme ou [2] lorsque vous avez atteint le niveau 14 dans la classe Clerc.</content>
+  <content contentuid="hd7b7817bg70b3g48edgbb39g7c34bebc7ac5" version="1">Indomptable (2)</content>
+  <content contentuid="hb17703fagd1d5g45b9gb8e3ge1e62a497003" version="1">Vous êtes devenu aussi résistant qu’un golem de fer. Chaque fois que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez lancer à nouveau, en utilisant le nouveau résultat à la place. Vous pouvez le faire deux fois jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+  <content contentuid="hfa39cf81gc3f9g4336ga1e6g45e3c9848996" version="1">Indomptable (3)</content>
+  <content contentuid="h5df5a2bbgb871g4b67g9c47g3160173f8ef7" version="1">Vous êtes devenu aussi résistant qu’un golem de fer. Chaque fois que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez lancer à nouveau, en utilisant le nouveau résultat à la place. Vous pouvez le faire trois fois jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
 </contentList>
