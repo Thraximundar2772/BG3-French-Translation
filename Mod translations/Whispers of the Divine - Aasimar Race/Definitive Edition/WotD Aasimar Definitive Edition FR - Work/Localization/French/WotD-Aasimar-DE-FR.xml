@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3b50a476g26b0g46ffgb876g239463c0367a" version="1">Descendants des êtres célestes des plans supérieurs, les Aasimars sont une espèce rare souvent considérée comme une figure messianique dans tout Faerûn. Confrontés aux attentes élevées de la société et aux interférences divines avec leurs pensées et leurs sentiments, les Aasimars doivent souvent se battre pour contrôler leur propre vie.</content>
+	<content contentuid="haf93d995g7905g4663g9f14g1b95579af9f2" version="1">Aasimar</content>
+	<content contentuid="h52d7266cg2c25g4c08g9104geb6f29877847" version="1">Descendants d'anges croisés, les Aasimars du Fléau héritent d'une haine brûlante pour les forces du mal et sont poussés à les détruire où qu'elles se trouvent. Ils peuvent puiser dans leur lignée angélique pour brûler leurs ennemis dans le feu sacré.</content>
+	<content contentuid="h91a77d44gefbeg4cd4g82b4g4ef0a77fc0f9" version="1">Aasimar du Fléau</content>
+	<content contentuid="h0e98342agff55g4afaga2fbg5e6251ae267a" version="1">Descendant des anges gardiens, les Aasimars Protecteurs accordent une grande importance à la vie des mortels et se sentent obligés de protéger ceux qui les entourent. Ils peuvent puiser dans leur lignée angélique pour protéger et guérir les autres.</content>
+	<content contentuid="hbd053ca5g5678g4239g9abdg4b08e63e676c" version="1">Aasimar Protecteur</content>
+	<content contentuid="h784431d2g3a49g4f43g81a2g1333eb183a8e" version="1">Descendants d'anges déchus ou ayant eux-mêmes chuté, les Aasimars Déchus ont rompu leurs liens avec le Divin et éprouvent des pulsions qui les poussent à détruire le bien plutôt qu'à le protéger. Leurs capacités divines les transforment en des entités liées au Mal.</content>
+	<content contentuid="h7c6af3a5ge868g45b8gac01g509380877d9f" version="1">Aasimar Déchu</content>
+	<content contentuid="h8097cf13gaef2g48e4gb34ag7e301ae95f25" version="1">Descendants des anges les plus pieux et élevés dans la plus grande rigueur, les Hérauts Aasimars ont renforcé leur détermination et leur piété en faisant pénitence pour les péchés de l'ensemble de la population. Portant les fardeaux du monde sur leur dos, ils font preuve d'un patronage sans faille.</content>
+	<content contentuid="hbc2c7eb3g8231g4acfga0dfgc41c6479a222" version="1">Héraut Aasimar</content>
+	<content contentuid="h18f631efgdfeeg4683gac99g72a7dff7e657" version="1">Vision dans le noir</content>
+	<content contentuid="hb1c0e0d5g1cbag401agb788gc5a4fa133bac" version="1">Vous pouvez voir dans l'obscurité jusqu'à une distance de [1].</content>
+	<content contentuid="hfcf2eb88g90aeg4562gb506g2df739217cc0" version="1">Vous pouvez voler.</content>
+	<content contentuid="h8cae7f98g879dg4967g9a22ge121f7804c56" version="1">Envol</content>
+	<content contentuid="h7965fc46g770bg420cg9dbeg3a3e1b7c240d" version="3">Brise-jour Cressa</content>
+	<content contentuid="h65026c46g2f79g4f35g94f0gbd880e695230" version="3">Fête-lune Cressa</content>
+	<content contentuid="hcd11fdefg5b27g44a3g99b6g2fde6935890c" version="3">Élevée pour devenir un Héraut du Mal absolu, cet Aasimar a résisté au lavage de cerveau d'un groupe de cultistes silencieux. Il a parcouru les terres à la recherche d'une rédemption qu'il finit par trouver, renaissant sous la forme d'une Vigile et retrouvant sa voix céleste.</content>  
+	<content contentuid="h7c91999fg5943g4198gb37egb1251ba2891c" version="1">★ Lueur Aasimar: Gold ★</content>
+	<content contentuid="h536ebaddge9c8g43c4g9807ge391a3abc08b" version="1">★ Lueur Aasimar: Dark Violet ★</content>
+	<content contentuid="hee101682ga217g4351ga647g1b312a00ccb9" version="1">★ Lueur Aasimar: Orange ★</content>
+	<content contentuid="hdb670335g93f2g4ea9g8e12g21b1742973ff" version="1">★ Lueur Aasimar: Dark Green ★</content>
+	<content contentuid="h93da3fffgcec5g450dg8351gab48189e5f09" version="1">★ Lueur Aasimar: Seagreen ★</content>
+	<content contentuid="h7e0d7428g8f13g4f7cg904dg190bfc03fef2" version="1">★ Lueur Aasimar: Light Green ★</content>
+	<content contentuid="h7ab90dbcg17f2g4dcagbb2fged42d22c9566" version="1">★ Lueur Aasimar: Brown ★</content>
+	<content contentuid="hc4d1c551g69f3g47acg8961g64cf754f1a08" version="1">★ Lueur Aasimar: Purple ★</content>
+	<content contentuid="h2b13a4d9g194eg4ccdgafb3g70146289cd33" version="1">★ Lueur Aasimar: White ★</content>
+	<content contentuid="h4e723639g177dg439dga1d2g26c82c56cf0b" version="1">★ Lueur Aasimar: Fallen Green ★</content>
+	<content contentuid="h678d49f1g62a7g404cgb622gfe8a5087fd85" version="1">★ Lueur Aasimar: Scourge Yellow ★</content>
+	<content contentuid="h43eb0385gead8g4166ga7f7ga6a0a74aa8e5" version="1">★ Lueur Aasimar: Pink ★</content>
+	<content contentuid="h8fd1036eg926dg435fga0dagcfba1e0b8783" version="1">★ Lueur Aasimar: Egg White ★</content>
+	<content contentuid="h0551e995g6712g4fe6ga3cegc8628db2cc1b" version="1">★ Lueur Aasimar: Dark Blue ★</content>
+	<content contentuid="ha6973d70g8086g4b81g8ec9g25c7abf7d036" version="1">★ Lueur Aasimar: Protector Blue ★</content>
+	<content contentuid="h12045cbag26c8g4d39g8718gd22740963c44" version="1">★ Lueur Aasimar: Black ★</content>
+	<content contentuid="hff77c78fg24ecg4068g97cfga512bb5d2bf7" version="1">★ Lueur Aasimar: Harbinger Red ★</content>
+	<content contentuid="h7cc3fb57g7f27g43c9ga752gb59c12e12c6c" version="1">★ Lueur Aasimar: Gray ★</content>
+	<content contentuid="hc99a7861g27e8g47dcgb863gf590ff7cc031" version="1">★ Lueur Aasimar: Light Seagreen ★</content>
+	<content contentuid="h2bb13e05ge956g4e26gb8d8ga7e6cce0593e" version="1">Ailes</content>
+	<content contentuid="hb10a7437g34b3g429ag92d2g041cdab3c8e3" version="1">Sélectionnez les ailes que vous allez manifester.</content>
+	<content contentuid="h908d9876g961ag42c1ga492gfa0fa91a6627" version="1">Ailes blindées (Protecteur)</content>
+	<content contentuid="hbaaa22f4g7b2cg4d00g9b75g6e90ba560e41" version="1">Ailes de cristal (Fléau)</content>
+	<content contentuid="h83425655g1bcdg412cgaba6g3c5bbd3d8b41" version="1">Ailes Pourries (Déchu)</content>
+	<content contentuid="hb199bd42g378bg46b5ga096gd4ffa0a4d5bf" version="1">Ailes enchainées (Présage)</content>
+	<content contentuid="hb2afbedfg0f71g4ef1gbb63g5799e305aafe" version="1">Des ailes blindées pour repousser toute blessure et tout mal.</content>
+	<content contentuid="h66e74765g11adg4b44g89d6g71e7088defad" version="1">Fait de lumière pure, cristallisée sous forme solide.</content>
+	<content contentuid="hc8c1b5b7ga21ag4a4fg8ea6gc892b79f6398" version="1">Ailes fétides et horribles.</content>
+	<content contentuid="h89e6b561gb69dg406cg908cg5de4450bcdde" version="1">L'oiseau d'Hermès est mon nom, mange mes ailes pour m'apprivoiser...</content>
+	<content contentuid="hd9a61c4egcc01g4417g81bbg6827607db3da" version="1">Ailes blanches immaculées (ancienne)</content>
+	<content contentuid="h685ea2f9gb62dg4dcbg8dbdg97ab19d88794" version="1">Audacieux, un bastion du pur.</content>
+	<content contentuid="h76d38a78g72dbg42a1g806bg56747b109e93" version="1">Ailes de l'Ombre (ancienne)</content>
+	<content contentuid="h6c50432agf3a2g4cacga36ag6eaed946d75b" version="1">Déchu, avant que les ailes ne pourrissent...</content>
+	<content contentuid="h584313fbgd9ceg4a71gac9age7d3ca3ccc22" version="1">Ailes luminescentes (ancienne)</content>
+	<content contentuid="h00ffbfabgafe0g45f3g85dbg3dbdbe48e679" version="1">Plus brillant que le soleil.</content>
+	<content contentuid="hdb731d16g0bd7g415agbb1bgb9ca52a0bfef" version="1">Ailes honnêtes doubles (Séraphin)</content>
+	<content contentuid="h6836e1edge050g44fbga42bg10d8cf0c6dfc" version="1">N'ai pas peur...</content>    
+	<content contentuid="he6777d7f5a1d41589cd316dfb87cc59cge08" version="1">Montrer les ailes pendant les cinématiques</content>
+	<content contentuid="h5c33ee2876664b0598815d0ac175cf73a6a8" version="1">Active ou non l'affichage des ailes dans les cinématiques.</content>
+	<content contentuid="hd4f4bedeg45ceg4f35gad01ga40aa0365d1a" version="1">Niveau des ailes</content>
+	<content contentuid="hb0239388g634ag4518ga1d3g18a3ebd6a5e5" version="1">Sélectionnez quand vous optiendrez de vos ailes permanentes.</content>
+	<content contentuid="h84b0be6bgc107g4a48gbf03g8f2e544632fc" version="1">Niveau 1</content>
+	<content contentuid="h91523410gff81g4e6cg9d13g1672e5bd6ead" version="1">Vous débloquez la possibilité de récupérer vos ailes permanente plus tôt qu'en temps normal.</content>
+	<content contentuid="hd712da8ag425fg4e0ag8349g6942953c551f" version="1">Niveau 10 (Standard)</content>
+	<content contentuid="h9407f71fgfc96g4b89g823ag78276513b6cd" version="1">Vous suivez la progression Standard.</content>
+	<content contentuid="hb27968f0g364ag4a4fgaadag253a32f2e24d" version="1">Couronne Divine</content>
+	<content contentuid="h0dcda976gb52fg44d6g80a3gfe41621bdfc6" version="1">Lumière des étoiles</content>
+	<content contentuid="h548e4fcfg99f8g48cdg8b4fg294669e3990c" version="1">Jamais vu - Brillant</content>
+	<content contentuid="h478c625eg59eeg4467ga0c6gb5d15a95a8b8" version="1">Jamais vu - Fléau</content>
+	<content contentuid="h8dad7039g3b15g46eaga1c9g2e4f822984e4" version="1">Jamais vu - Déchu</content>
+	<content contentuid="hfdf2f328gd1e2g4dbfga801g9ea68aeeb741" version="1">Jamais vu - Harbinger</content>
+	<content contentuid="h0ed0e90eg8f21g43ddga7e4gf0388dadf1c2" version="1">Heritage</content>
+	<content contentuid="hc6d45875g5285g47e2gb6b4g9b248dd2ab28" version="1">Méridien du mangeur de péchés - by Dissidia</content>
+	<content contentuid="h30beb732g114bg44ccgab6bgcf1fc8b4c72d" version="1">Apex d'Exanimate - by Dissidia</content>
+	<content contentuid="h116aac52g5bafg4474g8f35g0bcbbc4eb340" version="1">Gloire de Lathandre</content>
+	<content contentuid="h91c77b28g130fg46d8g806ag05f230b564aa" version="1">Ailes Niveau 10: DEBUG</content>
+	<content contentuid="h7ec2e0c1ga04cg4f5bg8616g3d33aa16eded" version="1">HARBINGER TECHNICAL: DEBUG</content>
+	<content contentuid="h2194c3acg41cag4667gb7cbgbe2683b5d44e" version="1">HARBINGER CREATURE: DEBUG</content>
+	<content contentuid="h7d700342gb5c6g4cdfg8c0ag520aeb8b4a49" version="1">HARBINGER DEBUFF: DEBUG</content>
+	<content contentuid="h5c44181cga722g495fgb5c6g7eb7176ad5b0" version="1">HARBINGER FLAGGELANT WOUNDS 1: DEBUG</content>
+	<content contentuid="h8d8c6bb7g7ebeg4521ga545gb90438274953" version="1">HARBINGER VULN 2: DEBUG</content>
+	<content contentuid="h2ee15314gb35eg4225g9c97g243ec5d0b3cc" version="1">FLAGGELANT: DEBUG</content>
+	<content contentuid="hd9e16e71gcc98g40f7g8a5fg7701452ea08d" version="1">WING ABILITIES: DEBUG</content>
+	<content contentuid="h21a956d9gd655g4936g9540g61b251f7c6ac" version="1">Résistance radiante</content>
+	<content contentuid="h6bbb9fe2g905cg4ef2ga543g1b6cbae1696d" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts radiants.</content>
+	<content contentuid="hdd002048ge382g467aga7feg473c03ebaa8a" version="1">Résistance nécrotique</content>
+	<content contentuid="h0a8879b2gd333g457dg888fg7f34a5af4788" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts nécrotiques.</content>
+	<content contentuid="hdf85bcb4gf35dg4e18gbe7agc9b5ec28c6dc" version="1">Résistance aux dégâts perforants</content>
+	<content contentuid="h81ffe134g7d8ag401agba37gd5ea7fb9ed28" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts perforants.</content>
+	<content contentuid="h5b712fcdg285dg4077g800dg91447da2f552" version="1">Ailes du Protecteur</content>
+	<content contentuid="h117b0532gb0f1g4fefg89c8g931e23013963" version="1">L'ardent bouclier...</content>
+	<content contentuid="h56d3999fg5af0g49fbgac25g0950ced60a5f" version="1">Ailes du Fléau</content>
+	<content contentuid="h60ee6f28gd0d4g411bg9babg73a83f814365" version="1">...et la lame du juste.</content>
+	<content contentuid="hfbcc0df1g829dg489fga7a1g19e7a45b9521" version="1">Ailes du Déchu</content>
+	<content contentuid="hff7d712eg7428g47eeg9e96gd46aaacb513a" version="1">... font cauchemarder les adultes.</content>
+	<content contentuid="he7b798c6g8b46g4806g8472gd9b7912f7e6c" version="1">Ailes du Héraut</content>
+	<content contentuid="hf969b80bge4a6g48f4gba52gc45f4861a1f7" version="1">Le Purificateur assombrit votre porte...</content>
+	<content contentuid="h4efdee8bg80c1g4facg96f2g38fe55cbfa96" version="1">Révoquer la manifestation</content>
+	<content contentuid="h443a44b2ge90ag411dg8a55g797715a13836" version="1">Vous révoquez votre forme céleste.</content>
+	<content contentuid="h794e5c6fg17d0g4b7eg894dgad4573a18d8a" version="1">Charge d'Âme radieuse</content>
+	<content contentuid="h40b7ecf5g8c44g4839g8725g2765a68414bb" version="1">Une fois par tour, vous pouvez faire appel à votre puissance céleste pour infliger des dégâts supplémentaires lors d'une attaque réussie.</content>
+	<content contentuid="h095f9fbeg7213g4ee2ga944g2b25d36b82d7" version="1">Charge de Marque</content>
+	<content contentuid="h32d42a8fg2f00g4c7eg8f6bgefdf60a2b9fe" version="1">Le nombre de fois où vous pouvez placer une Marque.</content>
+	<content contentuid="hc63dd4b1g50f6g4064gad21gb2a5c8e0b84e" version="1">Marque du Protecteur</content>
+	<content contentuid="hb67cf8d2g0323g483fg81aeg46461c2211ba" version="1">Vous pouvez vous bénir ou bénir une cible pour que les dégâts subis soient réduits de [3] la prochaine fois qu'elle sera blessée.</content>
+	<content contentuid="hb6b05e7cgcdbeg425fg9b85g2ea5e38dce5b" version="1">Une Vigile vous bénit et réduit les dégâts subis de [3] la prochaine fois que vous serez blessé.</content>
+	<content contentuid="he0025637gff81g4533gbf11ge84057fcce0d" version="1">Manteau du Protecteur</content>
+	<content contentuid="h9ea2caadgf8bag4269ga137gdc14e611491b" version="1">Votre besoin de protéger les autres se manifeste sous la forme d'un pouvoir divin. Vous gagnez la capacité de voler et, à la fin de chaque tour, vous et vos alliés visibles dans un rayon de 10m gagnez [2]. Une fois par tour, vous infligez [1] supplémentaires à une cible lorsque vous la touchez avec une attaque ou un sort.</content>
+	<content contentuid="hecf071a6g399dg4a6cgbf4eg422d9bc3473f" version="1">Aura du Manteau du Protecteur</content>
+	<content contentuid="h9ea2caadgf8bag4269ga137gdc14e611491b" version="1">À la fin de chaque tour, vous et vos alliés visibles dans un rayon de 10m gagnez [2].</content>
+	<content contentuid="h989f2ecage565g4e72ga2c5g81e1d3f265dc" version="1">Marque du Fléau</content>
+	<content contentuid="h0babd2c7gea14g4b2egb138g9079abe86152" version="1">Vous pouvez vous infuser ou infuser une cible avec du feu divin, ajoutant un [1] supplémentaires à leur prochaine attaque ou sort réussi.</content>
+	<content contentuid="h058b0fb2g82ecg4967gbcbcgbc9702464e72" version="1">Un Fléau de la lumière vous insuffle une ire divine qui ajoute [1] à votre prochaine attaque réussie ou à votre prochain sort réussi.</content>
+	<content contentuid="hcfd55c57g688dg43bdg8f72gfb20137f1c3b" version="1">Fureur du Fléau</content>
+	<content contentuid="hd64be7f7g8461g4eabg8a46g81eefbbfb8e5" version="1">Votre courroux vertueux se déchaîne. Vous prenez votre envol, vous projetez une lumière vive dans un rayon de 3m et, à la fin de votre tour, vous et chaque créature ennemie située à moins de 10m de vous subissez [1]. Une fois par tour, vous infligez [1] supplémentaires à une cible lorsque vous la touchez avec une attaque ou un sort.</content>
+	<content contentuid="h491254c1ge5c9g47adgab07gf3af7a8c4067" version="1">Aura de la Fureur du Fléau</content>
+	<content contentuid="h68e765e7gc069g42cega77cg394a0ee9569f" version="1">À la fin de votre tour, vous et chaque créature ennemie située à moins de 10m de vous subissez [1]. Vous diffusez également une lumière vive dans un rayon de 10m.</content>
+	<content contentuid="h828c4101g6508g4daag9055g394f13f47b7d" version="1">Marque du Déchu</content>
+	<content contentuid="h20926a3bga055g47f5gae22g6eacb2522321" version="1">Vous pouvez vous protéger ou protéger un allié avec vos ténèbres intérieures, forçant le prochain ennemi qui effectue une attaque de mêlée sur la créature affectée, à faire un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Charisme, ou à devenir &lt;LSTag Type="Status" Tooltip="FEARED"&gt;terrorisé&lt;/LSTag&gt; pendant [3] tours.</content>
+	<content contentuid="hcf2d0a4dgd447g4012ga1f8gc2040b90bf12" version="1">Vous êtes protégé par les ténèbres intérieures d'un Aasimar Déchu, forçant le prochain ennemi qui vous attaque en mêlée à faire un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Charisme, ou à devenir &lt;LSTag Type="Status" Tooltip="FEARED"&gt;terrorisé&lt;/LSTag&gt; pendant [4] tours.</content>
+	<content contentuid="h42b96546g51ffg453bg9930g4692f957113b" version="1">Étreinte du Déchu</content>
+	<content contentuid="hb9cf9239g6903g4805g9078g991396c2a9b6" version="1">Vous libérez les ténèbres qui sont en vous. Vous gagnez la capacité à voler et, à la fin de chaque tour, les autres créatures situées à moins de 10m de vous et qui peuvent vous voir doivent chacune réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Charisme ou être &lt;LSTag Type="Status" Tooltip="FEARED"&gt;terrorisée&lt;/LSTag&gt; par vous jusqu'à la fin de votre prochain tour. Une fois par tour, vous infligez [1] supplémentaires à une cible lorsque vous lui infligez des dégâts avec une attaque ou un sort.</content>
+	<content contentuid="h112918e9g580fg4ea8g8aecg172048c86aa0" version="1">Aura de l'Étreinte du Déchu</content>
+	<content contentuid="h56721999gf8ffg41e7g87c1g4f8e5c5b577b" version="1">À la fin de chaque tour, les autres créatures situées à moins de 10m de vous et qui peuvent vous voir doivent chacune réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Charisme ou être &lt;LSTag Type="Status" Tooltip="FEARED"&gt;terrorisé&lt;/LSTag&gt; par vous jusqu'au début de votre prochain tour.</content>
+	<content contentuid="h6316b9a1ga8c3g46e0gb652g1b21eefb8015" version="1">Marque du Héraut</content>
+	<content contentuid="h4ef10c0fgfb8bg48bfgb7b5g6912cfa35da9" version="1">Vous pouvez subir [1] pour vous protéger ou protéger un allié. Lorsque les &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de la cible protégée sont réduits à leur moitié, elle gagne &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;Gloire de l'Exanimé&lt;/LSTag&gt; pendant deux tours.</content>
+	<content contentuid="hac53a6a1gf295g489eg942ag2b7d28e39f36" version="1">Vous êtes protégé par la pénitence sanglante d'un Adorateur du péché, si vous descendez en dessous de la moitié de vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; maximums, vous gagnez &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;Gloire de l'Exanimé&lt;/LSTag&gt; pendant deux tours.</content>
+	<content contentuid="h4db9db53gebfcg4044g990ag62ec73dae466" version="1">Gloire de l'Exanimé</content>
+	<content contentuid="h37b630dag3cc7g481fgbbeeg67d7f5770b36" version="1">Les attaques et les sorts infligent [1] supplémentaires, mais vous subissez la moitié de [1] lorsque vous utilisez cette capacité. Lorsque cet effet disparaît, vous récupérez [2] points de vie.</content>
+	<content contentuid="he3757c2bgdce5g4092gabb2ge7f2da4df8b9" version="1">Pénitence du Purificateur</content>
+	<content contentuid="h94a37e95g1d56g4ccag959cg884a36fdb57f" version="1">Vous embrassez les profondeurs du péché. Vous gagnez la capacité à vol, et à la fin de chaque tour, vous et chaque ennemi que vous pouvez voir devez réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Constitution ou recevoir &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Plaies du pénitent&lt;/LSTag&gt; pendant deux tours. Une fois par tour, vous infligez [2] supplémentaires lorsque vous infligez des dégâts avec une attaque ou un sort, mais subissez [3] en retour.</content>
+	<content contentuid="h37ea89aag4aefg499fgb700g76fa359e3e1e" version="1">Aura de la Pénitence du Purificateur</content>
+	<content contentuid="haf344699gf5efg436dg804dg5e5d45868813" version="1">À la fin de chaque tour, les autres créatures situées à moins de 10m de vous et qui peuvent vous voir doivent chacune réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Constitution sous peine de recevoir &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Plaies du pénitent&lt;/LSTag&gt; pendant deux tours.</content>
+	<content contentuid="h94806a6bgd3e9g45a1gaa29ga6425178049f" version="1">Plaies du pénitent</content>
+	<content contentuid="h020df2abg03beg4e5dg93c4g598e00223472" version="1">Subit [3] à cause du saignement, une fois par tour.</content>
+	<content contentuid="h7bda13eageb63g4469g8867g0872665bc52d" version="1">Exaltation du flagellant</content>
+	<content contentuid="h4a683e1fgf9bag4f3cg8028gbc85c8be0f22" version="1">Vous prenez [1] et faites un [1] supplémentaire lorsque vous frappez ceux qui sont affecté par&lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Blessure du flagellant&lt;/LSTag&gt;.</content>
+	<content contentuid="h5e334490g76cag4206ga9aage6f926169526" version="1">La faiblesse du flagellant</content>
+	<content contentuid="h392e18deg8ee0g422dg980dgca8c21ac5577" version="1">Vous êtes blessé plus profondément par les attaques.</content>
+	<content contentuid="hf8b8bb2ag9e5fg4e20g81d8gb580df138c0c" version="1">Saignement</content>
+	<content contentuid="hf56e0913g958dg4440ga621geb78d06cc2bd" version="1">Vous saignez.</content>
+	<content contentuid="h9e096080g26fbg47a4ga4a2gdca471643942" version="1">Soit-même: DEBUG</content>
+	<content contentuid="h2b6ea711g322ag4652g9229g8e4e86cb26fc" version="1">Cible: DEBUG</content> 
+	<content contentuid="h62a92649ge35dg480egba44gb984f394e6bf" version="1">Lien puissant</content>
+	<content contentuid="he98de66e8eb84a6997327245384035532beg" version="1">Lien puissant - Niveau 1</content>
+	<content contentuid="hbed6bfddg8353g4199gb7e1g02cd8f65c7df" version="1">Un lien plus fort avec vos ancêtres vous a permis de manifester vos ailes à volonté.</content>
+	<content contentuid="h4e4a1f8eg8be5g4914g8a89g709e30a87c8d" version="1">Révélation céleste</content>
+	<content contentuid="h3ac27425g6e0cg402fga27eg09972025d4ff" version="1">Vous vous êtes transformé en une manifestation de votre ascendance céleste.</content>
+	<content contentuid="h400cd27bg695ag47f5ga336gf3e53beb2641" version="1">Durée des Ailes</content>
+	<content contentuid="ha6002a5fg21adg4fadg9b4cg716fe81edb7f" version="1">Ailes</content>
+	<content contentuid="h150ca34cg2f46g4b96gb94dga19ac9438efa" version="1">Vous avez manifesté des ailes à travers votre ascendance céleste.</content>
+	<content contentuid="h285fbd86gc4d6g40e6gaa1dg55ebed3c4e18" version="1">Âme radieuse</content>
+	<content contentuid="hd02a1981gf6adg4cd9gaf8dgba586ab1d878" version="1">Une fois par tour, vous pouvez faire appel à votre puissance céleste pour infliger un [1] supplémentaires sur une attaque réussie.</content>
+	<content contentuid="hdd751efdg7b9ag49a7g9ce3g23eba4d17245" version="1">Âme nécrotique</content>
+	<content contentuid="h6455bc6fgd4b1g4b89g8ab9g2541a7df15f4" version="1">Une fois par tour, vous pouvez faire appel à votre puissance céleste pour infliger un [1] supplémentaires sur une attaque réussie.</content>
+	<content contentuid="hdd751efdg7b9ag49a7g9ce3g23eba4d17245" version="1">Âme exanimée</content>
+	<content contentuid="h6455bc6fgd4b1g4b89g8ab9g2541a7df15f4" version="1">Une fois par tour, vous pouvez faire appel à vos pouvoirs de pénitence pour infliger [1] supplémentaires sur une attaque réussie. Vous vous infligez également [3].</content>
+	<content contentuid="hc5c99132g9689g4c2cg96dfg637821a92343" version="1">Origine Aasimar</content>
+	<content contentuid="h01f119a1g7a48g4e48ga58fg469555cbe690" version="1">Les Aasimar se réveillent de nombreux horizons différents, choisissez les origines qui s'appliquent le plus à votre personnage.</content>
+	<content contentuid="hc6c0ff98g22ddg42fega326g916b051f4292" version="1">Humain</content>
+	<content contentuid="hc532cd44g9d67g4353g9e00g2a0f365a091a" version="1">Vous êtes un Humain.</content>
+	<content contentuid="h4ec8cc29gace1g45b9g9fbbg07a6f571d272" version="1">Haut-Elfe</content>
+	<content contentuid="h36763cafg53c8g4187gb89fgb7b7123ce4ef" version="1">Vous êtes un Haut-Elfe.</content>
+	<content contentuid="h753a983cg709cg43f0g815cg63c03f0e588f" version="1">Elfe des Bois</content>
+	<content contentuid="hce99a233g8b66g440fgbe4dg9af6832fed99" version="1">Vous êtes un Elfe des Bois.</content>
+	<content contentuid="h191ca130g29eeg4a88ga485g037351a85e8f" version="1">Drow Lolth-sworn</content>
+	<content contentuid="h111223f0g2f34g4f8cgb63cg7d494b086afa" version="1">Vous êtes un Drow Lolth-sworn.</content>
+	<content contentuid="h9c3b126fg253fg45f3g8fadg55c373c90062" version="1">Drow Seldarine</content>
+	<content contentuid="h35529508g49e7g4d5dgb1e6ga78d328d8d1e" version="1">Vous êtes un Drow Seldarine.</content>
+	<content contentuid="h66b827f7gfb29g4375gb7edg9febd019cbad" version="1">Haut-Elfe</content>
+	<content contentuid="h86248c82g1cfcg4cccgb43dgfed8b9e57251" version="1">Vous êtes un Haut-Elfe.</content>
+	<content contentuid="h33275fb7gfdb2g4bceg85deg6a1c2f6f4dd3" version="1">Demi-elfe des Bois</content>
+	<content contentuid="hf0e51193gbe5bg437dg856bgbbbaefad5aa5" version="1">Vous êtes un Demi-elfe des Bois.</content>
+	<content contentuid="h47031152g6076g4d29g9257g4826547b5f07" version="1">Demi-elfe Drow</content>
+	<content contentuid="h43c9ba38gddcbg4aa4g9c45gcf432fa5ab97" version="1">Vous êtes un Demi-elfe Drow.</content>
+	<content contentuid="h7ee602ddgb883g4a7fg83bag292b41a23ea9" version="1">Tieffelin d'Asmodeus</content>
+	<content contentuid="h9ad091baga205g44afgb49dg26aa743f215f" version="1">Vous êtes un Tieffelin d'Asmodeus.</content>
+	<content contentuid="h2365dd3dg200dg455cga7ecgf5ae8a4be255" version="1">Tieffelin de Mephistopheles </content>
+	<content contentuid="hb5356683gcce8g4cc2gae98g402ff028bc09" version="1">Vous êtes un Tieffelin de Mephistopheles .</content>
+	<content contentuid="hc40a07c0g5d38g43a8g8915g80c4376b6c2f" version="1">Tieffelin de Zariel </content>
+	<content contentuid="hd1149647g2ba7g48f5g83acg0afb2cd2334e" version="1">Vous êtes un Tieffelin de Zariel .</content>
+	<content contentuid="h31fbe248g3266g45f6g93aag4343ba85619a" version="1">Githyanki</content>
+	<content contentuid="h81a0b681g7462g4fe6ga71bg3e3511285279" version="1">Vous êtes un Githyanki.</content>
+	<content contentuid="h9f52298cg422dg42f8gba1aga6e7998ee2d8" version="1">Demi-orc</content>
+	<content contentuid="h9679b22dga6edg4058g92d8g866a6528dec2" version="1">Vous êtes un Demi-orc.</content>
+	<content contentuid="h29fe4064g8cecg41b9gaa12g1d2204f9489e" version="1">Gnome des roches</content>
+	<content contentuid="h57b0fee0g9426g42f7ga74fgb82be37fdb10" version="1">Vous êtes un Gnome des roches.</content>
+	<content contentuid="h49470d31g1f4ag4191gbc6agb506816ff4a0" version="1">Gnome des forets</content>
+	<content contentuid="hdb77487fg8c87g44d5gaed9gc8589800da28" version="1">Vous êtes un Gnome des forets.</content>
+	<content contentuid="h3dfe725dgbf73g4339gb3d6g1d1eb47db36d" version="1">Gnome des profondeurs</content>
+	<content contentuid="h2e6b16a8g8059g4a4egaa45g3cf88ae37f2e" version="1">Vous êtes un Gnome des profondeurs.</content>
+	<content contentuid="h6a42bf08g3015g4f2bg8e2eg17349a87bf67" version="1">Nain d'or</content>
+	<content contentuid="h7d207a61g3691g4f1cgbe39gade20706f5eb" version="1">Vous êtes un Nain d'or.</content>
+	<content contentuid="h30d738b5gd06ag4147g93a7g62b2f79cd2b7" version="1">Nain bouclier</content>
+	<content contentuid="ha99b4072gdbf4g47bcgb562g6ac197f4b206" version="1">Vous êtes un Nain bouclier.</content>
+	<content contentuid="hfe0541f5gb8b1g4c31gab47g14d37ba44b53" version="1">Duergar</content>
+	<content contentuid="hebebd08ag2915g46feg8e60gc713bb2a5a20" version="1">Vous êtes un Duergar.</content>
+	<content contentuid="h4de11dd0g6b34g4311g86b7gf2bb0e0781e9" version="1">Halfelin pied-léger</content>
+	<content contentuid="ha1939ab7g6f6dg4737gb8c5g1499a80f9a84" version="1">Vous êtes un Halfelin pied-léger.</content>
+	<content contentuid="hc3c8bbf6gc4a4g43f0g96a0g817541fe24c0" version="1">Halfelin robuste</content>
+	<content contentuid="h45317b7ag340fg4cc5g83c3g1e55fbfc7ac6" version="1">Vous êtes un Halfelin robuste.</content>
+	<content contentuid="h9bddd57cg9523g41cfg9e5dga95267e2bc72" version="1">Sans origine (Aasimar pur)</content>
+	<content contentuid="h9b9e92f6gd283g4451ga181gb1c142bc326f" version="1">Qui que vous étiez autrefois, vous l'avez oublié depuis longtemps.</content>
+	<content contentuid="h2b1cc186g04b7g49edga7c6gac1c997f5e93" version="1">Craquelure Aasimar 01</content>
+	<content contentuid="h253e0d9dgcb71g4b13g9639ga608fb6cbe67" version="1">Craquelure Aasimar 02</content>
+	<content contentuid="h6508367ag8bb9g4fa4ga92egc201bd8ad897" version="1">Craquelure Aasimar 03</content>
+	<content contentuid="h24629ff1gcba5g40edg92e5gfe654be9a233" version="1">Craquelure Aasimar 04</content>
+	<content contentuid="hd5d4b206g3e60g4409g89b3gf427a7e953ba" version="1">Craquelure Aasimar 05</content>
+	<content contentuid="haf43243cge15ag4922g9e83ga0652f9a4d86" version="1">Craquelure Aasimar by Engels</content>
+	<content contentuid="h8b9f12ba67c2453db79e28d9230359e19606" version="1">Craquelure Elfe 01</content>
+	<content contentuid="h43f6e970dc51496f811d0f0275744f3b241f" version="1">Craquelure Elfe 02</content>
+	<content contentuid="hccaf2091ff364e1994711545bd99bd2dfc33" version="1">Craquelure Elfe 03</content>
+	<content contentuid="h828c0b53a0d84c208de10ef2262f156f2f6a" version="1">Craquelure Elfe 04</content>
+	<content contentuid="h56f8c2dc1d1a4fed86c9527b64231f1cbg6b" version="1">Craquelure Elfe 05</content>
+	<content contentuid="h055b066e90a8432ab452f820f6798b4f2c41" version="1">Craquelure Elfe 06</content>
+	<content contentuid="h901b617982bb47ea9810ed0c75ca16e62ac4" version="1">Craquelure Elfe 07</content>
+	<content contentuid="h69445d079a984aa198b3df8323460076411b" version="1">Craquelure Elfe 08</content>
+	<content contentuid="hf6a8594d7a3f4468a19bdace66e3fd06aggd" version="1">Craquelure Demi-elfe 01</content>
+	<content contentuid="h985e4cd32535409f87852cc1bcf56d08708c" version="1">Craquelure Demi-elfe 02</content>
+	<content contentuid="h1c88316026624452a193e5f28322cf4efd26" version="1">Craquelure Demi-elfe 03</content>
+	<content contentuid="h67e6b8cd95c04f0898b56b809a3d777c80e0" version="1">Craquelure Demi-elfe 04</content>
+	<content contentuid="hdb63e36142004bdca68531b36530f7464a0d" version="1">Craquelure Demi-elfe 05</content>
+	<content contentuid="hf081f0ce9d3448cca5ea85fe4bcd4a1d7de5" version="1">Craquelure Demi-elfe 06</content>
+	<content contentuid="hc79c59f3067d477488b990254f84b85de747" version="1">Craquelure Demi-elfe 07</content>
+	<content contentuid="h2440644ba2f541e2b878b351cdf382aab8ca" version="1">Craquelure Demi-elfe 08</content>
+	<content contentuid="hb2edfdbe72ed4586aa55f98070cb5446e8d9" version="1">Craquelure Demi-orc 01</content>
+	<content contentuid="hb656c50b05214a2d8eeef29008f61a25cfg1" version="1">Craquelure Demi-orc 02</content>
+</contentList>

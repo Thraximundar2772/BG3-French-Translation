@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h6d0e3164g14b2g44dcg91abgb0d4c11a9afb" version="1">Satyre</content>
+  <content contentuid="h788c880dg0129g4187g9872gfe7edb138fc8" version="1">Les satyres sont des fées bruyantes qui ressemblent à des humains corpulents, mais dont les membres inférieurs sont couverts de fourrure et les pieds sont des sabots fendus comme ceux d'une chèvre. Ils batifolent au sein des forêts sauvages, conduits par la curiosité et l'hédonisme à parts égales.</content>
+  <content contentuid="h25b0708cg72a1g447bg8ecfgf71fe45094a6" version="1">Percuter</content>
+  <content contentuid="h67beb623g4cd9g47b6g876cg454e653932a2" version="1">Frappez une cible à l'aide de votre tête et de vos cornes.</content>
+  <content contentuid="h542e6c8bgb275g4739g8e73g421fd37ffaad" version="1">Sauts joyeux</content>
+  <content contentuid="h944a96dbg31adg438bgb613g508d3bdc8ae5" version="1">Votre distance de saut est augmenté de 50%.</content>
+  <content contentuid="h0c260276g43ddg4cadg9cfdgc2b68b2d4f78" version="1">Fêtard</content>
+  <content contentuid="h5ef9bc6cg54cfg4a9aga934gd2522cc4aa1d" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="Performance"&gt;Représentation&lt;/LSTag&gt;, &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; et avec des instruments musicaux.</content>
+	<content contentuid="h6bd68217gaf1cg4ee0gb358ge40619a966ff" version="1">Invocation d'instrument</content>
+	<content contentuid="hc8e16cdcg1725g4a5dgb078g562a17d4ccad" version="1">Permet d'invoquer l'un des instruments suivants : lyre, tambour, luth, flûte ou violon.</content>
+	<content contentuid="h5b3bd13bg5a18g41b6g9e0cgc10f9f3457a9" version="1">Recul de bélier</content>
+	<content contentuid="hae204ddcg29d6g4ae9gb789gb9242cc22f44" version="1">Lorsque vous touchez une créature avec &lt;LSTag Type="Spell" Tooltip="Target_RamAttack"&gt;Bélier&lt;/LSTag&gt;, vous pouvez repousser la créature jusqu'à [1] de vous.</content>
+	<content contentuid="CC: HEADS" version="1"></content>
+	<content contentuid="hc41d3134ged0ag4644gb8b3g535f3c64d4cf" version="1">Tête 1</content>
+	<content contentuid="hf487906ege1b4g4a63g9166g027c92c6abd8" version="1">Tête 2</content>
+	<content contentuid="h1011cf7bg4f2fg4ebfga180gf9273a864f32" version="1">Tête 3</content>
+	<content contentuid="ha732fd31g5889g4881g9822gb235030e86ea" version="1">Tête 4</content>
+	<content contentuid="h9fbd9ac6geb7eg46c1ga131gf9fa795644ad" version="1">Tête 5</content>
+	<content contentuid="h287ae13bged45g47c6g811fg6b33bbc4dbf0" version="1">Tête 6</content>
+	<content contentuid="h1dbe6112gff9dg4e15gbc0bgd69655091ed6" version="1">Tête 1 (Demi-Elfe)</content>
+	<content contentuid="hf73562e6g8bfeg4f93g82ecg4bc0705be140" version="1">Tête 2 (Demi-Elfe)</content>
+	<content contentuid="hcc62992bgbdddg459cgae28gfd8d07732aef" version="1">Tête 3 (Demi-Elfe)</content>
+	<content contentuid="hd6a37f5dgb442g481fg9b8ag1bba84f54a2e" version="1">Tête 4 (Demi-Elfe)</content>
+	<content contentuid="he5f42517g8252g4dadg9b78g5ffdb758f18a" version="1">Tête 5 (Demi-Elfe)</content>
+	<content contentuid="h7bd0eea7gc4d9g4b5fg877agfa741ccf7e62" version="1">Tête 6 (Demi-Elfe)</content>
+	<content contentuid="h429d3bd2gbe3eg4ba3g8524gcda7eed358ce" version="1">Tête 7 (Demi-Elfe)</content>
+  <content contentuid="CC: EARS" version="1"></content>
+  <content contentuid="h161c2f66g2850g4341ga2ecg2c064bb64534" version="1">Oreilles 1</content>
+	<content contentuid="hd63c9691g5c69g40aega7ddgd0145ad63dc7" version="1">Oreilles 1 (Fourrure)</content>
+  <content contentuid="hd6d5ba9cgfdabg4bf1gad76g74425ca98dd7" version="1">Oreilles 2</content>
+	<content contentuid="h1dd0d911g227dg47f9ga551g9d8831f3ebb9" version="1">Oreilles 2 (Fourrure)</content>
+  <content contentuid="h4a46eabcgbf02g41e3g9d19g7c842d489687" version="1">Oreilles 3 (Original)</content>
+  <content contentuid="CC: LOINCLOTH" version="1"></content>
+	<content contentuid="hcc5b3d77gac39g4464ga001g0887a62d663a" version="1">Pagne (Jambe)</content>
+	<content contentuid="he5af5318g78e5g491fgb424g4250bc7790e0" version="1">Pagne (Cape)</content>
+  <content contentuid="h8e02139bgb1eag4ceegbd4ag78fc4d51e16e" version="1">Pagne (Camp)</content>
+	<content contentuid="h4e38e201g232cg40ddg9843g2c3c92604ba4" version="1">Pagne - Invisible (Jambe)</content>
+	<content contentuid="h70ae6dc7gadfeg4babgb957g7b8fc0018e92" version="1">Pagne - Invisible (Cape)</content>
+	<content contentuid="h650c3857g1733g410dga054g470e2eee7f0e" version="1">Pagne - Invisible (Camp)</content>
+  <content contentuid="h25300445g9402g4c7dga6a6gf6892e694a47" version="1">Pour au moins un peu de décence.</content>
+	<content contentuid="ha0df916cg642ag4c54gb317gb7c89764022d" version="1">Version invisible pour cacher uniquement les sous-vêtements.</content>
+	<content contentuid="h04e14723g06d3g4b8cga31bge0917f417f15" version="1">Sac à Pagne</content>
+	<content contentuid="h7a5c9ba7gde2fg4e8bg8076g3a6e47d2bf42" version="1">Peut contenir divers pagnes exclusivement pour les satyres.</content>
+	<content contentuid="CC: TATOOS/FACEPAINT" version="1"></content>
+	<content contentuid="hb0e0fe25ge0c4g4406g9fc7geb9cb8df0b65" version="1">Pas de nez/points</content>
+	<content contentuid="h519e1288gc0a2g438cg9d4eg87c835315294" version="1">Nez 1</content>
+	<content contentuid="h4a17ded8ge337g416bg969dge3212c5c1ca4" version="1">Nez 2</content>
+	<content contentuid="h9a52d9abgf50fg4e0ag9596g5476abe36ff6" version="1">Nez 3</content>
+	<content contentuid="h00f82522g22cag4d22gbbd5g1172f7067e8b" version="1">Nez 4</content>
+	<content contentuid="h945cabffg4cdeg4b7dg8016g4b61c863071c" version="1">Points 1</content>
+	<content contentuid="h65e56c14g6e0cg4237gb514g0e26dbd1c87c" version="1">Points 2 (Noir)</content>
+	<content contentuid="h849c697agbf31g42f9gbf25g4a0382dac662" version="1">Points 2 (Blanc)</content>
+	<content contentuid="h4f150c52g7c7eg402cg826dg732c546e1e58" version="1">Points 3 (Noir)</content>
+	<content contentuid="h9c8592degb34cg47e3gbf37g6c74c062be7a" version="1">Points 3 (Blanc)</content>
+	<content contentuid="CC: TAILS" version="1"></content>
+	<content contentuid="ha3f92d81gea84g43c1ga0dcg41f802f615b3" version="1">Pas de queue</content>
+	<content contentuid="h35c51462ge71bg422fg83f0g0405f2791580" version="1">Biche</content>
+	<content contentuid="hdae0b99dg05a1g4158g9145g3fca33da4a4a" version="1">Ane 1</content>
+	<content contentuid="hf0fc9860g74bbg49ffga1eeg14dd2ac27002" version="1">Ane 1 (Alt)</content>
+	<content contentuid="he2325476g1990g4fe3gbc8eg36a238f03f6f" version="1">Ane 2</content>
+	<content contentuid="ha839f4a1g9e23g436cgb68dge5b935ba32a5" version="1">Ane 2 (Alt)</content>
+	<content contentuid="h4b8196c5g6314g46fega302g9f37b57aff41" version="1">Cheval 1</content>
+	<content contentuid="h2725deeagb516g48e8gb4c7g6bde72d266cf" version="1">Cheval 2</content>
+	<content contentuid="he4cfe0feg2899g47a0g89b2g1dff26a701c5" version="1">Cheval 3</content>
+	<content contentuid="h9382dbb5g4965g46a4g9856gf75c7fea79a7" version="1">Cheval 3 (Alt)</content>
+	<content contentuid="haa77ef91g35f9g4437g93ffg45575c53d35a" version="1">Cheval 4</content>
+	<content contentuid="h44a9371fg2162g455eg92c9g990f47b9f1e1" version="1">Cheval 4 (Alt)</content>
+	<content contentuid="CC: HORNS" version="1"></content>
+	<content contentuid="h2f9be593g6939g437aga083g7074d57c9e80" version="1">Cornes de bélier Alternatif</content>
+	<content contentuid="h466b7bd0g4c49g47d0g803bgd653194df1b4" version="1">Spirale Alternatif</content>
+	<content contentuid="HIRELING" version="1"></content>
+	<content contentuid="h21cbc9f9gba09g4ae1g89e3gb0a30a47ab63" version="1">Myra</content>
+	<content contentuid="hd95c0901gcd76g42ecga8fcgf655c4e0c1473" version="1">Un esprit gentil mais têtu, contrairement à la plupart de ses parents – Myra préférait laisser ses cornes et ses sabots parler. C'est quelque chose que les cultistes de l'Absolus ont appris à leurs dépens lorsqu'ils ont essayé de la forcer à rejoindre leurs rangs.</content>
+	<content contentuid="h2d5fbe23ga6c6g4334g8ebbg882df4d4a5c5" version="1">Déguisement : Satyre mâle</content>
+	<content contentuid="h4e83a5f8g13ffg4118g834eg2896fb2b116e" version="1">Déguisez-vous en satyre avec une morphologie masculine.</content>
+	<content contentuid="hee7038adg04b8g451fgb04egb57012870165" version="1">Déguisement : Satyre femelle</content>
+	<content contentuid="heb806a88g3a4ag48adg9cf5gb44e8762ac99" version="1">Déguisez-vous en satyre avec une morphologie féminine.</content>
+</contentList>
