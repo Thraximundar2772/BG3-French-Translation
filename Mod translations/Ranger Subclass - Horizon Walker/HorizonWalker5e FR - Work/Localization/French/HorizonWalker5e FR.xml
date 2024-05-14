@@ -1,0 +1,70 @@
+<contentList>
+	<content contentuid="horizonwalker5e" version="1">Arpenteur de l'horizon</content>  
+	<content contentuid="horizonwalker5edescript" version="1">Les Arpenteurs de l'horizon protègent le monde contre les menaces provenant d'autres plans ou qui cherchent à ravager le royaume des mortels avec une magie d'un autre monde.</content>
+<!-- Detect Portal -->
+	<content contentuid="he8adc63ag3367g4393gbd30g9fd8a492c4dd" version="1">Connaissance des portails</content>  
+	<content contentuid="h4784937bgefb1g48cdga27dg95d6aad48706" version="1">Vous gagnez la capacité de ressentir par magie la présence d'un portail planaire, vous accordant ainsi un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de Perception pendant [1] minute. Une fois que vous utilisez cette capacité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un &lt;LSTag Tooltip="ShortRest"&gt;Repos court&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt;.</content>
+	<content contentuid="he1a660c6gfce3g4e8dgaf32gf708525ee483" version="1">Gagnez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de Perception pendant [1] minute.</content>
+	<content contentuid="he9dac748g056fg44acg990dg770efdbc0c97" version="1">Possède un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de Perception.</content>
+<!-- Planar Warrior -->
+	<content contentuid="h47cb591ag4dbag44ccg81dfg1f3439e8a2ea" version="1">Guerrier planaire</content>  
+	<content contentuid="had8ad625gec00g4f31g945cg775bb508b03b" version="1">Vous apprenez à puiser dans l'énergie du multivers pour augmenter vos attaques, vous permettant de marquer une créature que vous pouvez voir à [1] de vous et d'infliger des dégâts de force lors de votre prochain attaque contre elle.</content>
+<!-- Planar Warrior Mark -->
+	<content contentuid="hfc8851d6g3476g4f62gafdegd467eb84524d" version="1">Marque du Guerrier planaire</content>
+	<content contentuid="h8c765919gc6a8g448cg9f79g17730b3a2217" version="1">Choisissez une créature que vous pouvez voir à [1] de vous. La prochaine fois que vous toucherez cette créature ce tour-ci avec une attaque avec une arme, tous les dégâts infligés par l'attaque deviennent des dégâts de force, et la créature subit un [2] supplémentaire de l'attaque.</content>
+	<content contentuid="h6d057719gd472g4b36ga4acg8cbf776f65d3" version="1">Lorsque vous attaquez votre proie, tous les dégâts infligés par l'attaque deviennent des dégâts de force, et la créature subit un [1] supplémentaire.</content>
+	<content contentuid="hac1c4d16gc453g49acg9ce0g1f6e350bfdb5" version="1">Poseur de la marque Guerrier planaire</content>  	
+	<content contentuid="h430a4eebg4c64g4db1gb01fg13e6fae18917" version="1">L'entité infligera tous les dégâts d'attaque avec une arme sous forme de dégâts de force plus [1] dégâts de force supplémentaires à sa &lt;LSTag Type="Status" Tooltip="PLANAR_WARRIORS_MARK"&gt;cible marquée&lt;/LSTag&gt; lors de sa prochaine attaque avec une arme ce tour-ci.</content>
+	<content contentuid="he3d818a2g6621g4f3egad1egdd21b601ab98" version="1">Cible de la marque du Guerrier planaire</content>  		
+	<content contentuid="hebca2993g97ddg4fe4g82c3g623562b84b1d" version="1">L'entité recevra tous les dégâts sous forme de dégâts de force en plus de dégâts de force supplémentaires de la prochaine attaque avec arme effectuée par son &lt;LSTag Type="Spell" Tooltip="Target_Planar_Warriors_Mark"&gt;Poseur de Marque&lt; /LSTag&gt;.</content>
+<!-- Etherealness -->
+	<content contentuid="h5842e0f7g990bg42c4g80fag72bfa7886b25" version="1">Pas éthéré</content>
+	<content contentuid="h0009385cgc581g4ba2g8dcfg677a113b935a" version="1">Forme éthérée</content>	
+	<content contentuid="hfad900a6ga542g455dga904g70b5f6624e41" version="1">Éthéré</content>
+	<content contentuid="h3204c1e0gdb97g43a2gaac9g66eb3108b424" version="1">Charge éthérée</content>	
+	<content contentuid="h328d4f6agf544g4aa3g9024g0ba55928cc62" version="1">Saut éthéré</content>		
+	<content contentuid="hf2f1f610g5959g4236gba6agb3f9c1d01562" version="1">Vous apprenez à parcourir le plan Éthéré. À votre tour, vous pouvez lancer le &lt;LSTag Type="Spell" Tooltip="Shout_HW_Etherealness"&gt;Etherealness&lt;/LSTag&gt; sort sans dépenser d’emplacement de sort, mais le sort se termine à la fin du tour en cours. Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé une &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt;.</content>
+	<content contentuid="h7308d612g5b4cg4e84ga33fgba8e75f7b92b" version="1">Entrez dans le plan éthéré pendant [1] tour. Lorsque vous êtes sur le plan Éthéré, vous ne pouvez affecter et être affecté que par d'autres créatures sur ce plan. Les créatures qui ne sont pas sur le plan Éthéré ne peuvent pas vous percevoir et ne peuvent pas interagir avec vous, et vous ignorez tous les objets et effets qui ne sont pas sur le plan Éthéré.</content>
+	<content contentuid="h2f04b757gcd70g44b8gbf29gba2c0ed8e95c" version="1">Vous êtes entré dans les régions frontalières du plan Éthéré, dans la zone où il chevauche votre plan actuel.</content>
+	<content contentuid="h2ad8e061g7aabg4120ga6b2gf80fd553eaff" version="1">Revenir sur le plan matériel</content>
+	<content contentuid="hc4bd8c58g8760g4b6cga0a9geb640be60992" version="1">Quitter le plan éthéré pour revenir dans le plan matériel.</content>
+<!-- Distant Strike -->
+	<content contentuid="h0e09891egc8c0g4ebdg818fg3f81797c5447" version="1">Frappe lointaine</content>
+	<content contentuid="h8b691c7agff06g4cecgb484gf5c5646da35c" version="1">Frappe lointaine Extra Attack</content>
+	<content contentuid="h54fb2da4g9349g4448gac3bg009316ddba08" version="1">Lorsque vous utilisez l'action Attaque, vous pouvez vous &lt;LSTag Type="Spell" Tooltip="Target_Distant_Strike_Teleport"&gt;téléporter&lt;/LSTag&gt; jusqu'à [1] avant chaque attaque sur un espace inoccupé que vous pouvez voir. Si vous attaquez au moins deux créatures différentes avec l'action, vous pouvez effectuer une attaque supplémentaire avec la même action contre une troisième créature.</content>
+	<content contentuid="h7a3feed9gd9fag42d4gb9fbgbe5eb3a0e1a8" version="1">Vous pouvez effectuer une attaque supplémentaire contre une troisième créature différente.</content>
+	<content contentuid="h3047c268gacc1g49c0ga69cg3009da1bf68b" version="1">Première cible Frappe lointaine</content>	
+	<content contentuid="h3dd2183ag0405g493fg9fc7g1209a8ecfcc3" version="1">Cette entité est la première cible attaquée pendant la phase d'attaque de l'Arpenteur de l'Horizon.</content>
+	<content contentuid="h30e01b51g9767g48b0g8b75gc32f60d11a12" version="1">Deuxième cible Frappe lointaine</content>
+	<content contentuid="h15ad15b4g0148g47ebg89afg841416c86231" version="1">Cette entité est la deuxième cible attaquée pendant la phase d'attaque de l'Arpenteur de l'Horizon.</content>
+	<content contentuid="hdb516bcbg43e2g4111g87d5geebecefb9a5f" version="1">A attaquer sa première cible</content>	
+	<content contentuid="hf6ec2dd3gcf37g4904g9b19geaa5a582dca8" version="1">A attaquer sa deuxième cible</content>
+	<content contentuid="h14fc9c57g3ed2g4db3ga857g2ddeaf170f27" version="1">A attaquer sa troisième cible</content>	
+	<content contentuid="hfae68172g8c59g4f8dga317g2da29a6c8742" version="1">Téléportation de la Frappe lointaine</content>
+	<content contentuid="h0591284fgfee0g4541ga203ga30ee60fa380" version="1">Dans le cadre de votre action d'attaque, téléportez jusqu'à [1] vers un espace inoccupé que vous pouvez voir avant d'attaquer.</content>
+	<content contentuid="hbc2d5919ge58fg4d64gbe03g2e84769d82bd" version="1">⚠ La téléportation lance votre action d'attaque, elle doit donc être immédiatement suivie d'une attaque, d'un mouvement ou d'une combinaison des deux. Vous ne pourrez pas dépenser d’autres ressources d’action tant que cette opération n’est pas terminée. ⚠</content>
+	<content contentuid="h3bb57719gdc99g4003gb5efg41f3dc82f827" version="1">Action d'attaque incomplète</content>
+	<content contentuid="hbcf08fb3gbdb1g466agbb70g6c62b37f1097" version="1">Vous Téléportez avec &lt;LSTag Type="Spell" Tooltip="Target_Distant_Strike_Teleport"&gt;Frappe lointaine&lt;/LSTag&gt; se suit par une attaque.</content>	
+	<content contentuid="hdea7e606g6b37g45fbgbf5bg068061265c7e" version="1">Attaque supplémentaire à ce tour de la Frappe lointaine</content>
+	<content contentuid="ha327cf5bgfe66g48fdg8d9ag3dc3dcee3781" version="1">Attaque spéciale supplémentaire de la Frappe lointaine</content>
+	<content contentuid="h0b289bdbg8a37g4460gaaebgaa9d95f822a5" version="1">Faites une attaque bonus contre une troisième créature.</content> 
+	<content contentuid="h4b2ce86agecc2g4f6ag9dc2g6b730cf08e7d" version="1">Attaque bonus avec arme principale de la Frappe lointaine</content>
+	<content contentuid="hcaf77dfcg839ag46ebga3cfg11de978941db" version="1">Attaque bonus à distance de la Frappe lointaine</content>
+	<content contentuid="h1447874eg269fg4bbcgad44g1b843e34d87a" version="1">Attaque bonus à main nue de la Frappe lointaine</content> 
+	<content contentuid="hb7f14cceg67eeg4249gb790g19a760dd190c" version="1">Lancé bonus de la Frappe lointaine</content> 
+	<content contentuid="h44a0adddgf525g4164gbda4g1b2390960f59" version="1">Attaque bonus avec arme improvisée de la Frappe lointaine</content> 
+	<content contentuid="h390721cag1999g406cg873cgd5f2a7f41efa" version="1">Repousser bonus de la Frappe lointaine</content> 
+	<content contentuid="h26178cddg8b21g4e08gbe39g4dc1911a8ccd" version="1">Mise à terre bonus de la Frappe lointaine</content> 
+	<content contentuid="h0cec6fdag5f28g4873gabd2gd055ed0f2b3f" version="1">Frappe lointaine Extra Grapple</content> 
+	<content contentuid="h3284d4ceg3959g4b75g865fg3c6cf60ff48b" version="1">L'entité a attaquée une créature.</content> 
+	<content contentuid="h4f715658ge092g4ca3ga738g85bd6a4a36d3" version="1">L'entité a attaquée deux créatures différentes.</content> 
+	<content contentuid="h85949077g188dg4578g89d3g681d86f6de95" version="7">Essayez de pousser une cible à terre. Vos chances dépendent de votre Athlétisme et sont plus élevées si vous êtes caché ou invisible. </content>
+<!-- Spectral Defense -->
+	<content contentuid="h7217a351ge16dg4f74g8aa4g204c37a7064a" version="1">Défense spectrale</content> 
+	<content contentuid="hdc2f9c8egdbfbg4ff9gbc43gb959e668754d" version="1">Lorsque vous subissez des dégâts suite à une attaque, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; pour vous donner une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; à tous les dégâts de cette attaque pendant ce tour.</content>
+	<content contentuid="he84b70b3gcddag4b48g906cg6d5d08ded9f7" version="1">Votre capacité à vous déplacer entre les plans vous permet de vous faufiler à travers les limites planaires pour réduire les dégâts qui vous sont causés pendant la bataille.</content>
+<!-- Teleportation Circle -->
+	<content contentuid="h1962f217g7fa2g45b8g9c94ga8f4dafcdef9" version="1">Cercle de Téléportation</content> 
+	<content contentuid="h390b0f72g5032g4dacg9ccfg787e12bd2fac" version="1">Créez deux cercles interconnectés au sol portant des sceaux. Les portails de téléportation ouverts dans les cercles restent ouverts jusqu'à la fin de votre prochain tour. Toute créature qui entre dans le portail source apparaît instantanément à moins de [1] du portail de destination.</content>
+	<content contentuid="hec619facgd929g4b04ga0aagd98d050d5768" version="1">Connecté à la magie de téléportation de son double, ce portail permet à ceux qui le traversent d'émerger de son portail jumeau.</content>
+</contentList>
