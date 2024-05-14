@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="17/07/2023 12:47">
+  <content contentuid="h465248deg4fe7g4381g962cgf9420c242bd0" version="1">Sacrifice Vitalesque</content>
+  <content contentuid="h031cca1dg0e71g43fdgb28fg036060638ad6" version="1">Sacrifice Vitalesque (10 minutes)</content>
+  <content contentuid="hbb7d90e7gcbe2g4a6dg8ac7gda666cd595d6" version="1">Sacrifice Vitalesque (Repos long)</content>
+  <content contentuid="hc4b522e1gc883g435fgaba4g822e558359ce" version="1">Vous avez appris les secrets de la manipulation du sang ce qui vous confère des pouvoirs esotériques au prix de votre propre force vitale.
+
+Pour une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;, vous pouvez choisir de subir 1d6 de dégâts pour gagner une &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt;. Vous pouvez utiliser votre bénédiction pour augmenter votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt;, infliger des dégâts supplémentaires ou réduire le &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; d'un ennemi.</content>
+  <content contentuid="haffbc84egf74dg4ed7gab43gb4decfcc6a68" version="1">Pour une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;, vous pouvez choisir de subir [1] pour gagner une &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt;.
+
+Vous pouvez utiliser votre bénédiction pour augmenter votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt;, infliger des dégâts supplémentaires lorsque vous toucher ou réduire le &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; d'un ennemi.</content>
+  <content contentuid="h98c5e8dfgf8adg4c8bg95ebg5ce315a1f4d0" version="1">Bénédiction ensanglantée</content>
+  <content contentuid="h8cdb870ag5208g40dbg8b5eg614a60ef2e3f" version="1">Le pouvoir qui provient de votre sang peut être utiliser pour augmenter votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt;, infliger des dégâts supplémentaires lorsque vous toucher ou réduire le &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; d'un ennemi.</content>
+  <content contentuid="hb95168f4g4ee6g4c14gbcd2g6379c93f606d" version="1">Sacrifice Vitalesque</content>
+  <content contentuid="hc17b14eage638g444fgb4a0g225f2c4955ed" version="1">Utilisez le pouvoir provenant de votre propre sang pour gagner une &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt;.</content>
+  <content contentuid="he90aac46gc0abg4544gbd86gf7241689002d" version="1">Sang: Accélération</content>
+  <content contentuid="h895ccfddga4d9g4de0gb8f1gdefb2ab23864" version="1">Votre prochaine attaque obtiendra un bonus de [1] sur votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt;.</content>
+  <content contentuid="hcd13d381g60aag4d92gac87gcffe0d483254" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt; pour obtenir un bonus de [1] à votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt;.</content>
+  <content contentuid="h08e14dc3g01acg4a10g834ag487628a18583" version="1">Sang: Blessure</content>
+  <content contentuid="hc5d24009g0956g4399gbfd3g839e77f25e14" version="1">Sang: Blessure(Coup critique)</content>
+  <content contentuid="hc5189d1cga3d1g4f1ag9177g42e85f6f14a6" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt; pour infliger [1] à une cible qui est touchée par votre attaque d'arme.</content>
+  <content contentuid="h30b864d4g62f4g49d1ga5cege1570ee42eb2" version="1">Sang: Blessure (Sort)</content>
+  <content contentuid="hede24b09gc9ebg4c00gb4c5ga4d95cd2caaa" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt; pour infliger [1] à une cible qui est touchée par votre sort.</content>
+  <content contentuid="hddb13e44g1aa3g40bagbc67g332727a81719" version="1">Sang: Caillot</content>
+  <content contentuid="he68e67efg9d2cg49c2g9e91gfcf6450a1609" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="DWE_BloodBoon"&gt;Bénédiction ensanglantée&lt;/LSTag&gt; pour réduire de [1] le &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; en &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; ou &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;.</content>
+</contentList>
