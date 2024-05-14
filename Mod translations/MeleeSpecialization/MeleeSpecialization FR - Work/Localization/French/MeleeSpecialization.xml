@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="he92bd93ag9dfdg4850g9c7cgedd98c99e036" version="1">Specialisation en Mêlée</content>
+  <content contentuid="hdb3a6474ge0aeg49dcg8ba4gbd98f5faec2c" version="3">Vos attaques ignorent &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; et &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; à un type de dégâts de votre choix.</content>
+  <content contentuid="h2732b535g84afg4bceg807fge4969866b5c8" version="1">Specialisation en Mêlée: Tranchant</content>
+  <content contentuid="h6bba7cfegfc50g47d0gb53ag860bd73d817d" version="1">Vos attaques au corps à corps ignorent &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; et &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; de type tranchant.</content>
+  <content contentuid="hec5af40eg0732g4652g906cgca10840ee6db" version="1">Specialisation en Mêlée: Perçant</content>
+  <content contentuid="ha4059136g1c3cg4167g9eb0g1a670ad8a14b" version="1">Vos attaques au corps à corps ignorent &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; et &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; de type perçant.</content>
+  <content contentuid="h252cb470g3feeg4cfdg8864g467385fdb8f5" version="1">Specialisation en Mêlée: Contondant</content>
+ 	<content contentuid="he8a20b2cgf5a4g47f5ga268g0c5946109a45" version="1">Vos attaques au corps à corps ignorent &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; et &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; de type contondant.</content>
+</contentList>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h51e451b0gd15ag4494g89cbg68e0e4ec9ecf" version="2">Tir à bout portant</content>
+	<content contentuid="hdc4fdb3dg3839g4362g9b97g2ba2b76d200e" version="4">Vous ne bénéficiez pas de désavantage avec vos attaques à distance lorsque vous êtes au corps à corps.</content>
+	<content contentuid="hcb93de12g9ffcg4f34g8074ge4ff1af4cce0" version="2">Maître archer</content>
+	<content contentuid="hc2d711fbgb343g403ag95dcgbca6a7f2491a" version="4">Votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; augmente de 1, jusqu'à un maximum de 20.&lt;br&gt;&lt;br&gt;Lorsque vous effectuez une attaque à l'arc/arbalète en étant au corps à corps, votre &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; ne subit pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Votre &lt;LSTag Type="Spell" Tooltip="Projectile_PiercingShot"&gt;Tir Perçant&lt;/LSTag&gt; inflige également &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Blessures Béantes&lt;/LSTag&gt; deux fois plus longtemps.</content>
+</contentList>
