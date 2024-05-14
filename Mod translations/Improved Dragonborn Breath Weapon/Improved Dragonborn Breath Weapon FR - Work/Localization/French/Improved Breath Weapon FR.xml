@@ -1,0 +1,77 @@
+﻿<contentList>
+  <content contentuid="h4797afc7g4d10g4183ga5d9gd34a4ad674a6" version="1">Drakéide d'Améthyste</content>
+  <content contentuid="ha229f980ge401g471fg5daag07599658ded1" version="1">Drakéide de Cristal</content>
+  <content contentuid="h0410c551ga37dg499ag8488g19e7145d1674" version="1">Drakéide d'Emeraude</content>
+  <content contentuid="hf60dfc0eg868eg417cged10g1cc788849b18" version="1">Drakéide de Saphir</content>
+  <content contentuid="h81697f0eg5a59g43d1g7c29g1e4fa51d981c" version="1">Drakéide de Topaze</content>
+  <content contentuid="h62da2820gbb30g46d9g0419ga636e12aeac4" version="1">Charge de Souffle</content>
+  <content contentuid="hc23b6d2cgdbc8g4013g734cgbea945df26f1" version="1">Le nombre de fois que vous pouvez expirer votre élément draconique.</content>
+  <content contentuid="hfac98019g0456g4bdbg307fg73c97d9b58c7" version="1">A court de Charge de Souffle</content>
+  <content contentuid="hd099d27fg79e6g41a1ga059gb92864080ce7" version="1">Souffle Drakéide</content>
+  <content contentuid="h55c95687gc6bdg4d3fge4cfg5bd6e245f03d" version="1">Les Drakéides peuvent canaliser leur ascendance draconique dans un puissant souffle élémentaire.</content>
+  <content contentuid="hfa41a21dgb640g414dg3048g43b3f6be4c8e" version="1">Le sang des dragons anciens coule dans vos veines. Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de Force.</content>
+  <content contentuid="hdb0ad20cgbbe9g4b3ag6ee1ga1fb5c73f5d6" version="1">Le sang des dragons anciens coule dans vos veines. Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts Radiant.</content>
+  <content contentuid="h7894f0bfg25a2g46d7gc488gd31e5b9cf029" version="1">Le sang des dragons anciens coule dans vos veines. Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts Psychique.</content>
+  <content contentuid="h26f30b81g2c95g44eegf37fgfb807812ae4e" version="1">Le sang des dragons anciens coule dans vos veines. Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de Tonnerre.</content>
+  <content contentuid="hafa21eefgf5c3g4c66g7b8bg84ed7f609dc9" version="1">Le sang des dragons anciens coule dans vos veines. Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts Nécrotique.</content>
+  <content contentuid="h50b61f92ge80dg4756g8457ga7593d32d787" version="1">Vol Cristallin</content>
+  <content contentuid="haf83c890gc72bg4c50g7af5gcc17746c388e" version="1">Manifestez des ailes spectrales, acquérant la capacité de voler pendant 1 minute.</content>
+  <content contentuid="hf3ddeaccg8965g4584gc714ge78b84e128a6" version="1">Souffle de singularité</content>
+  <content contentuid="hc5ef0bffg3b96g42degf97ag1ddac7ff4407" version="1">Libérez une explosion de force gravitationnelle.</content>
+  <content contentuid="ha2f4c8e7ge668g41d7g65deg424d79bdafc2" version="1">Souffle scintillant</content>
+  <content contentuid="h1b2e9a25gd484g4d83g4bd5ge3335d7d0eb3" version="1">Expirez un faisceau d'énergie rayonnante.</content>
+  <content contentuid="hde3eba02g01e9g4569g8119gece7e27830c1" version="1">Souffle psionique</content>
+  <content contentuid="h9986c0f8g3579g495eg4efbg289fbde39b02" version="1">Expirez une vague de dissonance psychique.</content>
+  <content contentuid="hbce666a8ga45bg492bg4920ged89a712b554" version="1">Souffle Sonique</content>
+  <content contentuid="haa81511bgc29fg4bf4g7cb7g0ea71e008f30" version="1">Expirez une impulsion d'énergie sonique.</content>
+  <content contentuid="h76d60c01g8159g4548gc347ge5bead8bf933" version="1">Souffle desséchant</content>
+  <content contentuid="hc236a5cdgec6eg466age0bage5ebe56f9ecb" version="1">Expirez un cône d'énergie nécrotique.</content>
+  <content contentuid="h60540120gbcdfg4aadga8e1g8bded92823b7" version="1">Ces Drakéides partagent le riche visage violet et le souffle manipulateur de gravité des dragons d'Améthystes..</content>
+  <content contentuid="h514663dfg60beg4c1egc722g48227541bfb9" version="1">Ces Drakéides partagent les écailles blanches réfringentes et le souffle chatoyant des dragons de Cristal.</content>
+  <content contentuid="h42de1620g2921g4705g11f3g4c0486768006" version="1">Ces Drakéides partagent les écailles veridiennes vibrantes et le souffle psionique des dragons d'Émeraude.</content>
+  <content contentuid="h54a4928ag0ac2g4228g355cg128a1e34b213" version="1">Ces Drakéides partagent les écailles cristallines d'azur et le souffle sonore tonitruant des dragons de Saphir.</content>
+  <content contentuid="h961beb6cgea19g4d5dg4f21g2ebbc7426b3b" version="1">Ces Drakéides partagent les écailles ambrées facettées et le souffle desséchant des dragons de Topazes.</content>
+  <content contentuid="h80396e85g1babg450bg2c07g643d07fe42e7" version="1">Peut &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_GemFlight"&gt;voler&lt;/LSTag&gt; jusqu'à la destination ciblée.</content>
+  <content contentuid="hd853ddafgfd4ag4bd4g81f0g7a21a3b2438d" version="1">Garde chromatique</content>
+  <content contentuid="h0d0868adg6f25g4265g778ag664c6953f868" version="1">Canalisez votre énergie draconique pour devenir &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; aux dégâts d'Acide pendant 1 minute.</content>
+  <content contentuid="hd5cec17cg292eg4601g5f2dg0aecf2f8a540" version="1">Canalisez votre énergie draconique pour devenir &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; aux dégâts de Froid pendant 1 minute.</content>
+  <content contentuid="h63df662cg244bg46f8g94ceg36f29afb0c22" version="1">Canalisez votre énergie draconique pour devenir &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; aux dégâts de Feu pendant 1 minute.</content>
+  <content contentuid="hc96226e0g197fg4410gd727g1a2d30af6faf" version="1">Canalisez votre énergie draconique pour devenir &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; aux dégâts de Foudre pendant 1 minute.</content>
+  <content contentuid="h707601dfgce7eg4d84gfccag1a83bee627aa" version="1">Canalisez votre énergie draconique pour devenir &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; aux dégâts de Poison pendant 1 minute.</content>
+  <content contentuid="h39496865gfe2ag4ad6g0d53g6d031a044d63" version="1">&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts d'Acide.</content>
+  <content contentuid="hab59da09g2c07g4b0agd106g909585d2ac85" version="1">&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts de Froid.</content>
+  <content contentuid="ha56b6331g8c15g4926g4e3cg812846ecda02" version="1">&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts de Feu.</content>
+  <content contentuid="h5defdb6bg2c3eg4645gc315gdcc0dc2de5c1" version="1">&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts de Foudre.</content>
+  <content contentuid="h0793d487ga3c5g41bbgd12fgfb7c6c01146b" version="1">&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts de Poison.</content>
+  <content contentuid="hb3e4e9b8g6565g4fd5gaf85g24e44ef20ff5" version="1">Souffle métalique</content>
+  <content contentuid="hb61f7a10g5a24g4091g9cfeg89bcfc581c7b" version="1">Expirez l'un de vos souffles métalliques spéciaux pour drainer ou repousser vos ennemis..</content>
+  <content contentuid="h42774cc1g117dg4dc0ga650g49ee777e978e" version="1">Souffle énervant</content>
+  <content contentuid="h086ceb74g24e2g4ec0g1fc6g819b8d9bd354" version="1">Expirez un cône d'énergie affaiblissante jusqu'à &lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;l'incapacitation&lt;/LSTag&gt; vos cibles.</content>
+  <content contentuid="h763928c8gd5b6g4478g70dbgdb731f50b546" version="1">Souffle de répulsion</content>
+  <content contentuid="hf1d11553ge300g4d94g78e4gda8bcfde777e" version="1">Expirez un cône de force répulsive pour repousser vos cibles et les mettre &lt;LSTag Type="Status" Tooltip="PRONE"&gt;au sol&lt;/LSTag&gt;.</content>
+  <content contentuid="h62043c64g741eg4e54gc1f4g527742e25783" version="1">Incapacité</content>
+  <content contentuid="h55ce1324g10adg4497g71bag82bf0230f6cf" version="1">Concentration brisée. Ne peut pas bouger ni entreprendre d'actions, d'actions bonus ou de réactions.</content>
+  <content contentuid="ha7dfa1c3g61ffg483cg23bag3cd35d7a7391" version="1">Souffle Drakéide</content>
+  <content contentuid="hafcb47aeg0539g4a53gadb1g3923e3841b37" version="1">Les Drakéides peuvent canaliser leur ascendance draconique en un puissant souffle élémentaire.
+Vous pouvez le faire un nombre de fois égal à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; par repos long.</content>
+  <content contentuid="h88a4da10g50e7g43a2g29bfga9fbbeac4611" version="1">Améthyste 1</content>
+  <content contentuid="hd35cf7f3gc81cg42a9g441fgeb887bf7fedc" version="1">Améthyste 2</content>
+  <content contentuid="hb2d48663g80b3g4ddfg2ce9gb89603ca5dec" version="1">Améthyste 3</content>
+  <content contentuid="h076672a9g4d68g418fgcda8gc2566ab101f8" version="1">Cristal 1</content>
+  <content contentuid="h134df468g170fg4e1dgd9e3g88e5766abb58" version="1">Cristal 2</content>
+  <content contentuid="h07a6b318g1f00g4a39gadbbg0ce2ba006e1c" version="1">Cristal 3</content>
+  <content contentuid="h34aa9072g080bg4cdag2e3fgda17ebb7f4b1" version="1">Emeraude 1</content>
+  <content contentuid="h005e7d40g4e3ag4456g4ac3gf2873be343c6" version="1">Emeraude 2</content>
+  <content contentuid="h12c7a0d4gb614g47abgc3feg4d732884f639" version="1">Emeraude 3</content>
+  <content contentuid="hb9ce3a47g4bf4g458dg3d6cg415301a5b0e4" version="1">Saphir 1</content>
+  <content contentuid="hb8abe1d9ga416g4590g06eagf17c0d3a0ae7" version="1">Saphir 2</content>
+  <content contentuid="hae8e3150g3a43g4d5agcb11gbff0d35c6e86" version="1">Saphir 3</content>
+  <content contentuid="hb667d2b5g8b53g4e12g8487g541cc38bb075" version="1">Topaze 1</content>
+  <content contentuid="h0d030893gac0cg49ffgfaa4gda036359941b" version="1">Topaze 2</content>
+  <content contentuid="h89706cb9gcf30g4d3cg783fg96bb2d5b6606" version="1">Topaze 3</content>
+  <content contentuid="h3f87da5agadc1g4d73gd099gf3e1d77d67fa" version="1">Améthyste</content>
+  <content contentuid="h46eb5a13g802dg4755g74cbgeb26bdbb5cc8" version="1">Cristal</content>
+  <content contentuid="h99ab364eg5332g4505gb60bg63ad16ce41d2" version="1">Emeraude</content>
+  <content contentuid="hbb627349g7365g41c3g5297g8319cb4d25a7" version="1">Saphir</content>
+  <content contentuid="h4abbcd9bg68cag425cg7bdfg3acbb790d35f" version="1">Topaze</content>
+</contentList>
