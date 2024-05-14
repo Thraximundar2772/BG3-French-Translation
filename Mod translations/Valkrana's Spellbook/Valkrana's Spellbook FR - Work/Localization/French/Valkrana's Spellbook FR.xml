@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="06/08/2023 16:00">
+	<!--Skeletal Lemming-->
+	<content contentuid="f11b3e16-3bb9-42bb-9fa7-06aca6d549f0" version="1">Squelettes phosphorescents de Valkrana</content>
+	<content contentuid="81b1f2c9-449b-4be6-bc4f-8dbbcabd7c17" version="1">Créer 3 squelettes miniatures.</content>
+	<content contentuid="9affd421-7d5b-4266-911a-ecbaf4de932c" version="1">Créer 6 squelettes miniatures.</content>
+	<content contentuid="5a413a26-82f1-44e1-a358-f2ed134403d1" version="1">Créer 9 squelettes miniatures.</content>
+	<content contentuid="dd1baff5-7fdc-472a-8f22-d90bfc902d5a" version="1">Créer 12 squelettes miniatures.</content>
+	<content contentuid="110b2d36-e841-46d3-ae1b-e4299861446a" version="1">Créer 15 squelettes miniatures.</content>
+	<content contentuid="de050e08-d05b-44f0-8b30-e0f1d659ac79" version="1">Créer 18 squelettes miniatures.</content>
+	<content contentuid="0ec80fa3-ff9a-4845-bdf6-407165ae06af" version="1">Phosphorescents dans le noir</content>
+	<content contentuid="c8253ebc-eb2b-48f5-9013-00e6581d3800" version="1">Turbulent</content>
+	<content contentuid="16b3a93e-5021-4b21-b0cb-fba0479b4cad" version="1">Chomp</content>
+	<content contentuid="dcd2db00-dd3b-445f-9419-a4096ef6852a" version="1">Squelettes phosphorescents dans le noir</content>
+	<!--Lesser Skeleport-->
+	<content contentuid="f0ad3641-238e-4b40-b497-c7a456a0d768" version="1">Skeleport de Walkrana</content>
+	<content contentuid="55f8f821-4e5e-4f26-bc24-e7966bc8952d" version="1">Échangez les squelettes avec le cadavre de la cible ou les morts-vivants alliés à portée, même si vous ne pouvez pas voir votre cible. Ensuite, échangez le reste. Peut être lancé à nouveau pour une action bonus tant que le sort reste actif.</content>
+	<content contentuid="0e497a59-7bf6-43cc-a3b3-4c6dbf3c7fbe" version="1">Doit cibler un cadavre ou un mort-vivant ami.</content>
+	<content contentuid="27aa9e8d-0adc-4906-acfe-69427717b367" version="1">Téléportation de Valkrana</content>
+	<content contentuid="ea1e531e-fa7a-4cd6-89d7-5fde5cf758c1" version="1">Vous pouvez utiliser votre action bonus pour relancer la Téléportation de Valkrana sans dépenser d'emplacement de sort.</content>
+	<!--Negative Energy Field-->
+	<content contentuid="40b22273-389c-48dc-ba3d-44c556d42fb2" version="1">Champ d'énergie négative de Walkrana</content>
+	<content contentuid="f5eace91-19c1-44f3-914d-2695c53b1ad0" version="1">Canaliser un champ épais de nécromancie qui nuit aux vivants et donne du pouvoir aux morts-vivants. &lt;br&gt;&lt;br&gt;Lorsqu'un allié mort-vivant entre dans la zone pour la première fois lors d'un tour ou y commence son tour, il reçoit [2] soins, ajoute [1] à ses attaques, gagne l'immunité au tour et voit sa vitesse de déplacement augmenter ; un ennemi vivant subira au contraire [1].&lt;br&gt;&lt;br&gt;De nombreux sorts de réanimation ne nécessitent pas de cadavre en raison de l'abondance d'énergie négative dans sa zone.</content>
+	<content contentuid="0805a107-9062-47bc-b516-2dde6827fc9d" version="1">Zone d'énergie négative</content>
+	<content contentuid="60d36730-abcc-4614-baf5-fbe375467405" version="1">De nombreux sorts de réanimation ne nécessitent pas de cadavres en raison de l'abondance d'énergie négative autour de vous.</content>
+	<content contentuid="30ffd911-1a66-4723-abde-098724309cfe" version="1">Infusé d'énergie négative. Régénère [2] par tour, ajoute [1] aux attaques, immunisé contre Turn Undead, et a une vitesse de mouvement accrue.</content>
+	<content contentuid="f7bdb3da-80ac-4bbd-816c-6dbc97ffd729" version="1">Affaibli par l'énergie négative. Prend [1] par tour.</content>
+	<!--Dread Skeleton-->
+	<content contentuid="ecf9b13d-c221-48ed-bb0d-2d77b63b0c74" version="1">Squelette redoutable de Valkrana</content>
+	<content contentuid="e6ad6342-1f31-4e3c-b60f-758780a6da87" version="1">Squelette redoutable</content>
+	<content contentuid="ValkranaSpellbook_DreadMarksman_Name" version="1">Buteur redoutable</content>
+	<content contentuid="ValkranaSpellbook_DreadSkeleton_Desc" version="1">Créez un squelette imposant qui remplit les ennemis proches d'effroi et d'acier, ou de boulons trempés dans des poisons pernicieux à distance.</content>
+	<content contentuid="4213964e1e8-4aab-a382-14f0f3792b4d" version="1">Créez un squelette imposant qui se spécialise dans le combat de mêlée et qui remplit d'effroi les ennemis proches.</content>
+	<content contentuid="71f43698-c926-46e4-a4ca-dc34739a75f7" version="1">Créer [1] squelettes imposants qui se spécialisent dans le combat en mêlée et qui remplissent les ennemis proches d'effroi.</content>
+	<content contentuid="ValkranaSpellbook_DreadMarksman_Desc" version="1">Créez un squelette imposant qui se spécialise dans l'utilisation d'un poison mortel.</content>
+	<content contentuid="ValkranaSpellbook_DreadMarksman_High" version="1">Créer [1] squelettes imposants qui se spécialisent dans le combat l'utilisation d'un poison mortel.</content>
+	<content contentuid="5bb153d8-1373-4bc6-8b44-239f6b41618a" version="1">Aura de terreur</content>
+	<content contentuid="65110903-dbc8-4f46-9602-9868fe67c962" version="1">Les ennemis proches ont une réduction de -1 à &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="55efab77-4585-44b6-8187-886a4af3801a" version="1">&lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; réduit de 1.</content>
+	<content contentuid="ValkranaSpellbook_PerniciousMark_Name" version="1">Marque pernicieuse</content>
+	<content contentuid="ValkranaSpellbook_PerniciousMark_Desc" version="1">Marquez une cible pour la rendre &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de poison.</content>
+	<content contentuid="ValkranaSpellbook_PerniciousMark_Stat" version="1">Marqué par les morts. L'entité concernée est &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de Poison, ou perd sa &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; au Poison.</content>
+	<!--Corpse Grenade-->
+	<content contentuid="bcb7de9d-07c3-4bca-bb9a-ae5eafd9e837" version="1">Grenade de cadavre de Walkrana</content>
+	<content contentuid="e04b0ee2-b960-488d-8870-bb73f6907167" version="1">Surchargez un cadavre ou un mort-vivant allié avec de l'énergie négative, le faisant exploser et endommageant toutes les créatures à proximité immédiate.</content>
+	<!--Arc Vivisector-->
+	<content contentuid="6d90d65a-7b98-4fe4-9f60-d7d062b0e58c" version="1">Arc vivisecteur de Valkrana</content>
+	<content contentuid="9453becd-d655-4e4d-95a7-b692417ff452" version="1">Décharge un souffle galvanisé d'énergie nécrotique qui frappe toutes les créatures sur une ligne. Si un humanoïde meurt sous l'effet de ce sort, sa chair se détache proprement de son squelette et il est réanimé sous la forme d'un squelette de sang sous votre contrôle.</content>
+	<!--Impart Undeath-->
+	<content contentuid="7a19f3d0-7f70-48f2-b107-5e9fd7e0aadd" version="1">Transmission de la mort de Valkrana</content>
+	<content contentuid="39f28f79-2ef3-4e47-8230-c70048f6afee" version="1">Infusez de façon permanente une créature alliée dans la mort-vivante. La nature de la mort non-vivante signifie que de nombreux sorts et effets interagissent avec eux différemment, ou pas du tout. Ils ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur la Mort &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;, sont &lt;LSTag Tooltip="Immune"&gt;Immunisés&lt;/LSTag&gt; à la Maladie et au Poison, et sont soignés par les dégâts nécrotiques. Une fois par repos long, ils gagnent immédiatement des points de vie lorsqu'ils sont à terre.</content>
+	<content contentuid="81207607-fcd9-42ae-ab3c-de82584fd67c" version="1">Mort-vivant</content>
+	<content contentuid="b900731d-93e6-4f51-bdfb-4edb63367d98" version="1">Calibrage de l'énergie négative...</content>
+	<content contentuid="aba22b8f-f8a2-415d-a894-1df0f6b089ac" version="1">Réanimation...</content>
+	<content contentuid="703db1e5-60d9-4d37-9417-0b78d48b4ebb" version="1">Les nécromanciens ont des amis à la pelle.</content>
+	<content contentuid="ba8b4d89-90de-4d95-9a22-7f60d5028f8f" version="1">Absorption d'énergie négative</content>
+	<content contentuid="8bd48253-bd15-4019-ac8e-f186b76d9389" version="1">Cicatrisé par les sources de dégâts nécrotiques.</content>
+	<content contentuid="cd12c032-6879-485e-b449-878db34eb42c" version="1">Votre nature de mort-vivant signifie que de nombreux sorts et effets interagissent avec vous différemment, ou pas du tout. Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur la Mort &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;, êtes &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; à la Maladie et au Poison, et êtes soigné par les dégâts Nécrotiques. Une fois par repos long, vous gagnez immédiatement des points de vie lorsque vous êtes à terre.</content>
+    <content contentuid="2b81e475-6fa4-414d-93d8-193c1986c6e2" version="1">Ferveur Indéfectible</content>
+    <content contentuid="69c11227-728e-439a-a9b9-4e15a968411c" version="1">Si vous atteignez 0 &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;, vous regagnez [1] au lieu de devenir &lt;LSTag Tooltip="Downed"&gt;Mort&lt;/LSTag&gt;. Se rafraîchit après un long repos.</content>
+	<!--Shadowfell Salvo-->
+	<content contentuid="20838551-ee63-40e9-a670-14878d2cb2a7" version="1">Salve de l'Ombre de Valkrana</content>
+	<content contentuid="71cc0a59-7c7f-4a77-b8a8-bff5a6b02be9" version="1">Lancez [2] projectiles directement depuis l'Ombre portée. Chaque projectile inflige [1]. Avantage contre les cibles fortement obscurcies ou dans un champ d'énergie négative.</content>
+	<!--Unsealed Soul-->
+	<content contentuid="adf43d85-b12a-4479-9f1c-6b7b1f98a910" version="1">L'âme scellée de Valkrana</content>
+	<content contentuid="1d962d3b-4ea4-4fda-8d33-50e881a94738" version="1">Lâchez les sceaux de votre âme pour infliger de lourds dégâts de Force à une créature. Chaque sceau libéré réduit votre maximum de HP de 33% et augmente votre &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Classe de difficulté des sorts&lt;/LSTag&gt; de 1.</content>.
+	<content contentuid="8ad9b940-4608-4c97-a623-e24d8330cfd6" version="1">Libération du scellé mineur</content>
+	<content contentuid="e6c466d4-58f2-4f28-8fc8-4c4e300d3b5a" version="1">Libérer un sceau d'âme. La créature ciblée subit des dégâts de Force égaux à vos PV actuels. Vos PV sont réduits à 1.</content>
+	<content contentuid="31d6edc9-8d1b-4468-8752-f64acf2236f5" version="1">Libération d'un sceau majeur</content>
+	<content contentuid="1303ac0d-de1d-41f4-95ec-165c2cac38fb" version="1">Libérer deux sceaux d'âme. La créature ciblée subit des dégâts de Force égaux à deux fois vos HP actuels. Vous mourez.</content>
+	<content contentuid="ValkranaSpellbook_Seal1" version="1">1er sceau d'âme libéré</content>
+	<content contentuid="ValkranaSpellbook_Seal2" version="1">2ème Sceau de l'Âme Libéré</content>
+	<content contentuid="ValkranaSpellbook_Seal3" version="1">3ème Sceau de l'Âme Libéré</content>
+	<content contentuid="ValkranaSpellbook_Seal_Desc" version="1">[1] sceaux d'âme libérés. HP maximum réduit de [2]%. &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Classe de difficulté des sorts&lt;/LSTag&gt; augmenté de [1]. Les sceaux d'âme sont restaurés après un long repos.</content>
+	<content contentuid="ValkranaSpellbook_SealBoost" version="1">Briser le sceau...</content>
+	<!--Bone Emperor-->
+	<content contentuid="182aff6a-bc1d-4840-8bdd-6773582d1b56" version="1">Trône d'os de Valkrana</content>
+	<content contentuid="e1d6da68-6980-42af-abba-b0b7c6bb91ce" version="1">Assumez le trône de l'Empereur d'Os pour prendre sa forme pendant 5 tours, pendant lesquels vous gagnez une fraction de sa puissance squelettique et un pool de santé supplémentaire. &lt;br&gt;&lt;br&gt;A la fin de la transformation, vous devez réussir un DC 17 d'Intelligence &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; ou devenir un squelette phosphorescent pendant un tour.</content>
+	<content contentuid="146ce6ce-a659-48cd-8fa8-fe57c9c23709" version="1">Absorber les morts-vivants</content>
+	<content contentuid="dd497448-16da-4e51-8e7e-356909dda866" version="1">Consommez un mort-vivant ami pour exploiter son énergie négative latente et débloquer l'activation de la chevalière. La cible doit avoir un maximum de HP supérieur à 1.</content>
+	<content contentuid="0ddc99ea-69b2-464c-87d0-365a3ff4dc49" version="1">Activer la chevalière</content>
+	<content contentuid="aad4482a-615b-4101-8303-accc91084552" version="1">Convoquer la cour de l'Empereur d'Os. Attirez toutes les créatures proches vers vous, et punissez celles qui sont hostiles au Trône.</content>
+	<content contentuid="578e019a-4cea-4d9d-8e22-7bdb68528ed4" version="1">Laisser le Trône d'Os</content>
+	<content contentuid="f763ed5f-077b-461f-8df7-2fd5ba2d64e7" version="1">Retrait du trône pour mettre fin à la forme de l'Empereur d'Os. &lt;br&gt;&lt;br&gt;Vous devez réussir un DC 17 d'Intelligence &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; ou devenir un squelette phosphorescent pendant un tour.</content>
+	<content contentuid="c557b9ff-3aac-4b2f-b5dc-cdd3eea5dd2e" version="1">Vous avez trébuché en abdiquant le Trône d'Os. Maintenant, vous devez survivre en tant que péon squelettique... ou périr!</content>
+	<!--Bone Liquefaction-->
+	<content contentuid="ValkranaSpellbook_BoneLiquefaction_Name" version="1">Liquéfaction osseuse de Valkrana</content>
+	<content contentuid="ValkranaSpellbook_BoneLiquefaction_Desc" version="1">Vous transformez en arme la nécromancie fondamentale pour l'acide gastrique caustique d'un greffon.&lt;br&gt;&lt;br&gt;La créature ciblée à portée doit réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Constitution ou subissez une liquéfaction osseuse pendant une minute. Jusqu'à la fin du sort, la cible subit [1] au début de son tour, à chaque fois qu'elle effectue une attaque, ou lorsqu'elle subit des dégâts nécrotiques. Ces dégâts augmentent de 1 par tour pendant toute la durée.</content>
+	<content contentuid="ValkranaSpellbook_BoneLiquefaction_Status_Desc" version="1">Les os de cette créature sont en train d'être dissous. Elle subit des dégâts d'acide à chaque fois qu'elle effectue une action sans mouvement ou qu'elle subit des dégâts nécrotiques.</content>
+	<!--Potion-->
+	<content contentuid="1d3bd849-be41-42b1-8d89-7c40edb0501e" version="1">Jus d'apprentissage osseux de Valkrana</content>
+	<content contentuid="6b5534bb-a0e5-4204-ac20-55906d12acb3" version="1">Boire pour apprendre tous les sorts de nécromancie créés par le nécromancien le plus maladroit du monde, Valkrana. Attention : Apprendre des sorts de cette manière vous empêchera de les ajouter à votre livre de sorts plus tard, et d'utiliser des emplacements de sorts pour les lancer à un niveau supérieur.</content>
+	<!--Scrolls-->
+	<content contentuid="3b44a126-2baa-4a61-85aa-33ae70610d96" version="1">Parchemin des squelettes phosphorescents de Valkrana</content>
+	<content contentuid="cd9a4451-4cd3-43d8-9ea0-42f0cfb5d371" version="1">Parchemin de la Salve de l'Ombre de Valkrana</content>
+	<content contentuid="9eb82a39-f0a2-4ecf-8eab-2ea39865d3f9" version="1">Parchemin de Grenade de cadavre de Valkrana</content>
+	<content contentuid="ValkranaSpellbook_BoneLiquefaction_Scroll" version="1">Parchemin de liquéfaction osseuse de Valkrana</content>
+	<content contentuid="ef162024-e5b1-4899-a2f0-af0635cc6384" version="1">Parchemin de Skeleport de Valkrana</content>
+	<content contentuid="3ab9a0d9-21e8-4e1b-b22c-c5116d073be8" version="1">Parchemin de la transmission la mort de Valkrana</content>
+	<content contentuid="107e85b3-e9bd-4e0a-ae7c-99784938604c" version="1">Parchemin de Champ d'énergie négative de Valkrana</content>
+	<content contentuid="b3a6890c-8db2-4ee7-a812-23e55e655a07" version="1">Parchemin de l'âme scellée de Valkrana</content>
+	<content contentuid="0fc9bc86-dfa8-450d-8a5b-c679b466cefc" version="1">Parchemin du squelette redoutable de Valkrana</content>
+	<content contentuid="f557c027-dc7c-44ea-ac0c-acad1ca8bf17" version="1">Parchemin de l'Arc vivisecteur de Valkrana</content>
+	<content contentuid="3eec1a4a-37b8-4695-b4e8-a23a488db7c4" version="1">Parchemin du Trône d'os de Valkrana</content>
+	<!--Tooltips-->
+	<content contentuid="aec342b1-9899-4991-bfb3-f3d2e2ac53b6" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; La cible doit être un cadavre.</content>
+	<content contentuid="802922ed-550f-4c9c-bbed-0147913d771f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; La cible doit être un cadavre ou un mort-vivant ami.</content>
+	<content contentuid="c5512251-4ca5-4fca-8d35-4164fc00c384" version="1">Durée accrue par niveau d'emplacement du sort.</content>
+	<content contentuid="210fe084-6fd9-4489-9073-23f4dfb10081" version="1">Créer 3 squelettes supplémentaires par niveau d'emplacement de sort.</content>
+	<content contentuid="d5acafce-2a1e-412e-9d57-4b97a54b179c" version="1">Créer 1 squelette supplémentaire par niveau d'emplacement de sort.</content>
+	<content contentuid="c4ff3974-8ea4-47c4-aa7e-9df67c11df30" version="1">Augmentation de la durée par niveau d'emplacement de sort, des dégâts et des soins si l'on utilise un emplacement de 6ème niveau.</content>
+	<content contentuid="29e88e56-8970-4bc4-b181-24a6fd399138" version="1">Lancer un projectile supplémentaire par niveau.</content>
+	<content contentuid="10869f95-eaf9-45e9-bb4b-44ce539ae069" version="1">Il n'est pas possible de libérer votre 3ème sceau d'âme.</content>
+	<content contentuid="2ba11dcc-c4dd-4355-810b-3590ed7470b8" version="1">Il n'est pas possible d'avoir libéré votre 2ème ou 3ème sceau de l'âme.</content>
+	<content contentuid="2ebe9ac6-5b5f-4766-804f-cc8a55172f87" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; La cible doit être un squelette.</content>
+</contentList>
