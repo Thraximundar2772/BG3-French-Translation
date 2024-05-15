@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="26/10/2020 01:10">
+  <content contentuid="pathofgiantname" version="1">Voie du Géant</content>
+  <content contentuid="pathofgiantdesc" version="1">Votre rage déborde grâce aux puissances primitives et vous fait grandir, vous transformant en un avatar de la puissance primordiale.</content>
+  <content contentuid="giantragename" version="1">Sang de Géant</content>
+  <content contentuid="giantragedesc" version="1">Lorsque vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enragé&lt;/LSTag&gt;, votre taille augmente, votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de 3m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;.</content>
+  <content contentuid="giantrageshoutname" version="1">Rage de Géant</content>
+  <content contentuid="giantrageshoutdesc" version="1">Entrez dans une &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; qui augmente votre taille, votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de 3m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;.</content>
+  <content contentuid="giantrageboostname" version="1">Rage de Géant</content>
+  <content contentuid="giantrageboostdesc" version="1">La &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; augmente également votre taille, votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de 3m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;.</content>
+  <content contentuid="giantthrowname" version="1">Lancer Fracassant</content>
+  <content contentuid="giantthrowdesc" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pour ramasser un objet ou une créature et la lancer sur votre cible, infligeant ainsi des dégâts contondants supplémentaires basés sur votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et la faisant &lt;LSTag Tooltip="Prone"&gt;chuter&lt;/LSTag&gt;. </content>
+  <content contentuid="elecleavername" version="1">Imprégnation Élémentaire</content>
+  <content contentuid="elecleaverdesc" version="1">Infuse l'arme principale avec la puissance élémentaire. L'arme gagne [1] points de dégâts élémentaires, &lt;LSTag Tooltip="Thrown"&gt;Lancé(e)&lt;/LSTag&gt; et retourne à son propriétaire après avoir été lancée.</content>
+  <content contentuid="elecleaverthundername" version="1">Imprégnation Élémentaire: Tonnerre</content>
+  <content contentuid="elecleavercoldname" version="1">Imprégnation Élémentaire: Froid</content>
+  <content contentuid="elecleaverfirename" version="1">Imprégnation Élémentaire: Feu</content>
+  <content contentuid="elecleaverlightningname" version="1">Imprégnation Élémentaire: Foudre</content>
+  <content contentuid="elecleaveracidname" version="1">Imprégnation Élémentaire: Acide</content>
+  <content contentuid="elecleavershoutdesc" version="1">Infuse l'arme principale avec la puissance élémentaire. L'arme gagne [1] points de dégâts élémentaires, &lt;LSTag Tooltip="Thrown"&gt;Lancé(e)&lt;/LSTag&gt; et retourne à son propriétaire après avoir été lancée.</content>
+  <content contentuid="elecleaverboostname" version="1">Imprégnation Élémentaire</content>
+  <content contentuid="elecleaverboostdesc" version="1">L'arme gagne [1] points de dégâts élémentaires, &lt;LSTag Tooltip="Thrown"&gt;Lancé(e)&lt;/LSTag&gt; et retourne à son propriétaire après avoir été lancée.</content>
+  <content contentuid="giantreachname" version="1">Portée de Géant</content>
+  <content contentuid="giantreachdesc" version="1">La Rage de Géant augmente la portée de l'arme</content>
+  <content contentuid="gianthavocname" version="1">Les Ravages du Géant</content>
+  <content contentuid="gianthavocdesc" version="1">Ajoute des dégâts de rage supplémentaires à tous les lancers.</content>
+  <content contentuid="giantmightythrowname" version="1">Impulsion Vigoureuse</content>
+  <content contentuid="giantmightythrowndesc" version="1">Utilisez votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pour pousser votre corps à ramasser des objets ou des créatures beaucoup plus lourdes pour les lancer sur votre cible, infligeant ainsi des dégâts contondants supplémentaires basés sur votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;. 
+Il vous est possible de lancer des créatures bien plus lourdes qu'en temps normal.</content>
+  <content contentuid="giantprimalragename" version="1">Sang de Géant Primal</content>
+  <content contentuid="giantprimalragedesc" version="1">Lorsque vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enragé&lt;/LSTag&gt;, votre taille double, votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de 6m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;. 
+&lt;LSTag Type="Spell" Tooltip="Throw_GiantMightyThrow"&gt;Impulsion Vigoureuse&lt;/LSTag&gt; peut être utilisée sur des créatures ou objets plus grands.</content>
+  <content contentuid="giantprimalrageshoutname" version="1">Rage de Géant Primal</content>
+  <content contentuid="giantprimalrageshoutdesc" version="1">Entrez dans une &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; qui double votre taille, augmente votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de 6m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;. 
+&lt;LSTag Type="Spell" Tooltip="Throw_GiantMightyThrow"&gt;Impulsion Vigoureuse&lt;/LSTag&gt; peut être utilisée sur des créatures ou objets plus grands.</content>
+  <content contentuid="giantprimalrageboostname" version="1">Rage de Géant Primal</content>
+  <content contentuid="giantprimalrageboostdesc" version="1">La &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; double votre taille, augmente votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de 6m, votre allonge également ainsi que tous vos dégâts de lancer de par l'ajout de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;. 
+&lt;LSTag Type="Spell" Tooltip="Throw_GiantMightyThrow"&gt;Impulsion Vigoureuse&lt;/LSTag&gt; peut être utilisée sur des créatures ou objets plus grands.</content>
+  <content contentuid="giantpathtavernfeat" version="1">Lorsque vous effectuez une attaque à mains nues, avec une arme improvisée ou avec une arme de lancer, votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; est ajouté deux fois à vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts.</content>
+</contentList>
