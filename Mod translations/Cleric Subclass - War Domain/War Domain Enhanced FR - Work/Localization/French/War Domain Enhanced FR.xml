@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_War_WarPriestCharge_Description" version="1">Utilisé pour obtenir une attaque supplémentaire, une fois par tour.</content>
+	<content contentuid="LHB_War_Bonus_MeleeAttack_Name" version="1">Prêtre de guerre : Attaque au corps à corps</content>
+	<content contentuid="LHB_War_Bonus_RangedAttack_Name" version="1">Prêtre de guerre : Attaque à distance</content>
+	<content contentuid="LHB_War_Bonus_MeleeAttack_Description" version="1">Utilisez une Charge de prêtre de guerre pour effectuer une attaque supplémentaire au corps à corps.</content>
+	<content contentuid="LHB_War_Bonus_RangedAttack_Description" version="1">Utilisez une Charge de prêtre de guerre pour effectuer une attaque supplémentaire à distance.</content>
+	<content contentuid="LHB_War_CasusBelli_Name" version="1">Casus Belli</content>
+	<content contentuid="LHB_War_Challenge_Name" version="1">Challenge</content>
+
+<!-- War Aura of the Warmonger -->
+	<content contentuid="LHB_War_AuraOfTheWarmonger_Name" version="1">Aura du Belliqueux</content>
+	<content contentuid="LHB_War_AuraOfTheWarmonger_Description" version="1">Le Clerc et les alliés dans un rayon de 3 mètres réduisent leur seuil de coup critique de 1.</content>
+	<content contentuid="LHB_War_AuraOfTheWarmonger_UpgradeDescription" version="1">Le Clerc et ses alliés dans un rayon de 9 mètres (30 pieds) réduisent leur seuil de coup critique de 1.</content>
+	<content contentuid="LHB_War_AuraOfTheWarmonger_Status_Description" version="1">En étant dans un rayon de 3 mètres du Clerc, votre seuil de coup critique est réduit de 1.</content>
+	<content contentuid="LHB_War_AuraOfTheWarmonger_Status_UpgradeDescription" version="1">Tant que vous êtes à moins de 9 mètres (30 pieds) du clerc, votre seuil de Coup critique est réduit de 1.</content>
+	<content contentuid="LHB_War_AuraOfTheWarmonger_Note" version="1">Cet effet peut s'accumuler.</content>
+
+<!-- War Gods Favour -->
+	<content contentuid="LHB_War_WarGodsFavour_Name" version="1">Faveur des Dieux de la Guerre</content>
+	<content contentuid="LHB_War_WarGodsFavour_Description" version="1">La radiance divine renforce vos armes.</content>
+
+<!-- AvatarOfBattle -->
+	<content contentuid="LHB_War_AvatarOfBattle_Name" version="1">Avatar de bataille</content>
+	<content contentuid="LHB_War_AvatarOfBattle_Description" version="1">Vous gagnez une résistance aux dégâts Contondants, Perçants et Tranchants.</content>
+	
+<!-- Aura Of Life -->
+	<content contentuid="LHB_AuraOfLife_Name" version="1">Aura de Vie</content>
+	<content contentuid="LHB_AuraOfLife_Description" version="1">L’énergie vitale rayonne de vous dans une Aura. Chaque créature non hostile dans l'Aura a une Résistance aux dégâts Nécrotiques et son Maximum de points de vie ne peut pas être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle commence son tour dans l'aura avec 0 point de vie.</content>
+	<content contentuid="LHB_AuraOfLife_Status_Description" version="1">A une Résistance aux dégâts Nécrotiques, le Maximum de points de vie ne peut pas être réduit. Récupère 1 point de vie au début du tour s'il est Mis à Terre.</content>
+
+<!-- Aura Of Purity -->
+	<content contentuid="LHB_AuraOfPurity_Name" version="1">Aura de Pureté</content>
+	<content contentuid="LHB_AuraOfPurity_Description" version="1">Une énergie purificatrice rayonne de vous dans une Aura. Chaque créature non hostile dans l'Aura ne peut pas tomber malade, a une Résistance aux dégâts de Poison et a un Avantage aux Jets de Sauvegarde pour ne pas être Charmée, Effrayée, Paralysée ou Empoisonnée.</content>
+	<content contentuid="LHB_AuraOfPurity_Status_Description" version="1">Ne peut pas tomber malade, a une Résistance aux dégâts de Poison et a un avantage aux Jets de Sauvegarde contre le fait d'être Charmé, Effrayé, Paralysé ou Empoisonné.</content>
+
+<!-- Circle Of Power -->
+	<content contentuid="LHB_CircleOfPower_Name" version="1">Cercle de Pouvoir</content>
+	<content contentuid="LHB_CircleOfPower_Description" version="1">L'énergie divine rayonne de vous, déformant et diffusant l'énergie magique dans une Aura. Chaque créature Allée dans la zone a un Avantage aux Jets de Sauvegarde contre les sorts et autres effets magiques.</content>
+	<content contentuid="LHB_CircleOfPower_ExtraDescription" version="1">De plus, un sort ou un effet magique inflige la moitié des dégâts et il n'inflige aucun dégât lors d'un Jet de Sauvegarde de Dextérité réussi.</content>
+	<content contentuid="LHB_CircleOfPower_Status_Description" version="1">A un Avantage aux Jets de Sauvegarde contre les sorts et autres effets magiques. Un sort ou un effet magique inflige la moitié des dégâts et il n'inflige aucun dégât lors d'un Jet de Sauvegarde de Dextérité réussi.</content>
+
+<!-- Holy Weapon -->
+	<content contentuid="LHB_HolyWeapon_Name" version="1">Arme sacrée</content>
+	<content contentuid="LHB_HolyWeapon_Description" version="1">Vous imprégnez une arme que vous touchez d’un pouvoir sacré. Il inflige 2d8 dégâts Radiants supplémentaires et devient une arme magique si ce n'est pas déjà le cas. De plus, l'arme émet une lumière vive dans un rayon de 9 mètres (30 pieds).</content>
+	<content contentuid="LHB_HolyWeapon_ExtraDescription" version="1">Vous pouvez annuler ce sort et faire en sorte que l'arme émette un éclat de rayonnement. Les ennemis à moins de 9 mètres (30 pieds) de l'arme doivent réussir un Jet de Sauvegarde de Constitution ou être Aveuglés..</content>
+	<content contentuid="LHB_HolyWeapon_StatusDescription" version="1">Imprégné d'un pouvoir sacré. Inflige 2d8 dégâts Radiants supplémentaires et projette une lumière vive dans un rayon de 9 mètres (30 pieds).</content>
+	<content contentuid="LHB_HolyWeapon_Activate_Name" version="1">Arme sacrée : Désactiver</content>
+	<content contentuid="LHB_HolyWeapon_Activate_Description" version="1">Annulez le sort et faites émettre à l'arme un éclat de rayonnement. Les ennemis à moins de 9 mètres (30 pieds) de l'arme doivent réussir un Jet de Sauvegarde de Constitution ou être Aveuglés.</content>
+
+</contentList>
