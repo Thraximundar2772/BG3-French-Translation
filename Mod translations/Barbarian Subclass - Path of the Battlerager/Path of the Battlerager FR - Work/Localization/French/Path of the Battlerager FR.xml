@@ -15,7 +15,6 @@
 	<content contentuid="h4bb051cfgec19g4166g8c22gbccb1cb12369" version="1">Vous êtes un véritable idiot de la hache. Bien que certains tentent de copier le style presque suicidaire du combat nain, aucun ne peut vraiment reproduire votre immense force, votre durabilité et votre agressivité.</content>
 	<content contentuid="h0cabe01ag5373g4e9dgb171gae81248370ff" version="1">Une fois au combat, vous devenez presque animal, vos yeux sont exorbités, vos dents grincent et de la bave s'échappe de votre bouche et de votre barbe. On vous a appris à utiliser tout votre corps au combat, en incorporant votre armure à pointes, qui vous permet de porter des coups fatals avec une barge, un coup de pied, ou même un coup de tête.</content>
 	<content contentuid="h2e1920b2g0538g4014g9e7cg51589e32f5f3" version="1">Alors que vous portez une armure métallique moyenne et que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;enragé&lt;/LSTag&gt;, vous pouvez utiliser une &lt; LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour faire une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque à l'arme de mêlée&lt;/LSTag&gt; avec vos pointes d'armure contre une cible à moins de [1] de vous. &lt;br&gt;&lt;br&gt;De plus, lorsque vous utilisez l'action d'attaque pour saisir ou lancer une créature, la cible subit [2] dégâts perforants si vous réussissez votre test.</content>
-
 	<content contentuid="h9e2e6a28gcdcag43c4gbb78g6f68a947bdd3" version="1">Lorsque vous utilisez l'action d'attaque pour saisir ou lancer une créature, la cible subit [1] dégâts perforants si votre test est réussi.</content>
 	<content contentuid="hb5c4079dg5e1bg487eg9ba2g12e3c617fd8f" version="1">Lorsque vous utilisez l'action d'attaque pour agripper une créature, la cible subit [1] dégâts perforants si votre test d'agrippement réussit.</content>
 	<content contentuid="h7afeb636ga82bg429dg8d31g50f0d43d6e5f" version="1">Lorsque vous utilisez l'action d'attaque pour lancer une créature, la cible subit [1] dégâts perforants si votre lancer réussit.</content>
@@ -26,4 +25,6 @@
 	<content contentuid="h4beb30dfgab5eg4919gba17g2ce4f973360f" version="1">Lorsqu'une créature à moins de [1] de vous vous touche avec une Attaque en mêlée, l'attaquant prend [2] si vous êtes &lt; LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, n'êtes pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;, et portez une armure moyenne métallique.</content>
 	<content contentuid="h4a1ccf74g3f7bg4192ga739g729cf72571b9" version="1">Armure à Pointe</content>
 	<content contentuid="h59a1b929ged8ag4a6eg93f2g4366ff64d341" version="1">L'entité a attaché des pointes à son armure qui peut être utilisée comme une arme.</content>
+
+
 </contentList>
