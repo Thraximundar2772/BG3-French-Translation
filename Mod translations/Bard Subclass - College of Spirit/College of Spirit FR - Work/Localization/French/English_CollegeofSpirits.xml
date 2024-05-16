@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hfbecbd94g3d29g4e4cg978ag2ce88b979df6" version="1">Collège des Esprits</content>
+  <content contentuid="hd28935e0ga4e9g4215g8554g5d901be617ff" version="1">Les histoires du passé sont puissantes; elles racontent des leçons d'histoire, de philosophie et de magie. Les bardes du collège des esprits recherchent des récits à propos de ce qui se trouve au-delà du plan matériel. À l'aide de jeux ou d'accessoires, ils réussissent à entendre ces histoires, mais ils n'ont aucun contrôle sur ce qu'ils y apprennent.</content>
+  <content contentuid="hdcf10f71g76cfg4645g9fb6g0d7a229003b2" version="1">Murmures conseillants</content>
+  <content contentuid="h6456314cgac31g4b2cga2b8gcab720e323d3" version="1">Vous tendez la main aux esprits pour être guidé, accordant à la cible un bonus de +1d4 aux &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétence&lt;/LSTag&gt;.</content>
+  <content contentuid="h8a165d68g5f97g4544g83c9gc85a2baf61a7" version="1">Gagne un bonus de +1d4 aux &lt;LSTag Tooltip="AbilityCheck"&gt;tests d'aptitude&lt;/LSTag&gt;.</content>
+  <content contentuid="hd50091f1g47e1g4a2bg8469gc47cf0370bf6" version="1">Invoquer un Focaliseur spirituel</content>
+  <content contentuid="hdaf560f1g9909g4f4egaa5dg67b8ae48c012" version="1">Invoque un Focaliseur spirituel pour vous aider à canaliser les esprits. Vous pouvez l"équiper dans l’emplacement Instruments.</content>
+  <content contentuid="h0bd829c3g01a3g4e78g85efg02c3727f45a2" version="1">Focaliseur spirituel : Bonus de soins et de dégâts</content>
+  <content contentuid="h6f4aca64g1879g4bbdg9853g4eaee4768e4a" version="1">Focaliseur spirituel : Bonus Damage</content>
+  <content contentuid="h5bd058fdg1541g4b20ga40egf774ecca1763" version="1">Vous bénéficiez d'un bonus de 1d6 à un jet de dégâts ou de soins lorsque vous lancez un sort qui inflige des dégâts ou restaure des points de vie en utilisant votre Focaliseur spirituel.</content>
+  <content contentuid="hfa0f6fb1g18a7g4d24gb4d6g1a6643d72e05" version="1">Focaliseur spirituel</content>
+  <content contentuid="h144ceea3gddcdg4f7ega444g7185094e9517" version="1">Un vieux crâne usé par le temps qui vous aide à canaliser les esprits, qu'il s'agisse de personnages historiques ou d'archétypes fictifs. Lorsqu'il est équipé, il augmente les effets de vos sorts de dégâts et de soins.</content>
+  <content contentuid="h9db5d2cfg2899g4ee1gb46bg375605e6d8fa" version="1">Séance de spiritisme</content>
+  <content contentuid="hc0dafda6gde3dg4254ga36eg020ef0ca96d1" version="1">Vous accomplissez un rituel, en canalisant les esprits pour qu'ils vous fournissent des informations surnaturelles. À la fin du rituel, vous gagnez l'accès à un sort de Divination ou de Nécromancie de votre choix jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="he32b855cgb208g4da5ga7b7g084b178ab5fb" version="1">Séance de spiritisme : Communication avec les animaux</content>
+  <content contentuid="hbb41adf6g17e9g43b7g9ec9gd7a70ef12689" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Communication avec les animaux&lt;/LSTag&gt;.</content>
+  <content contentuid="h839e5351g8c99g4de5ga89bgd6d91e639183" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Communication avec les animaux&lt;/LSTag&gt;.</content>
+  <content contentuid="hea69ab82g9441g4a7fg91b0gcf992fc046e2" version="1">Séance de spiritisme : Marque du chasseur</content>
+  <content contentuid="h78886be7g417cg48d3ga52cg5e75b846bc1e" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_HuntersMark"&gt;Marque du chasseur&lt;/LSTag&gt;.</content>
+  <content contentuid="he89b2c09g9368g44e6ga32dg72ae4a061f6b" version="1">Séance de spiritisme : Marque du chasseur</content>
+  <content contentuid="h3c5b9b64g9329g430dg9823gf54a067ae26b" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_HuntersMark"&gt;Marque du chasseur&lt;/LSTag&gt;.</content>
+  <content contentuid="h634f5bf8gacefg4b57g8124gef70c5905b24" version="1">Séance de spiritisme : Détection des pensées</content>
+  <content contentuid="h88c397e7gf580g4719g813bga3d5ce50893a" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Shout_DetectThoughts"&gt;Détection des pensées&lt;/LSTag&gt;.</content>
+  <content contentuid="hc987f2dcgbdd4g4a2cg96e9g26d69a5914f9" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Shout_DetectThoughts"&gt;Détection des pensées&lt;/LSTag&gt;.</content>
+  <content contentuid="h36c59180gadcag41c7g8727g68dda7877984" version="1">Séance de spiritisme : Détection de l'invisibilité</content>
+  <content contentuid="h70c6bd56gd5cfg4169gbc4cga9af12fe88e7" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility"&gt;Détection de l'invisibilité&lt;/LSTag&gt;.</content>
+  <content contentuid="hc5124d5dg06a7g4c8dgbbceg6b2c27d7892b" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility"&gt;Détection de l'invisibilité&lt;/LSTag&gt;.</content>
+  <content contentuid="h948de208g37dcg4ccdgb0d6g7289f5f6f5f1" version="1">Séance de spiritisme : Animation des morts</content>
+  <content contentuid="hbe461f93g1416g4aaagab53gbfe4ee3e83f1" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animation des morts&lt;/LSTag&gt;.</content>
+  <content contentuid="h37c2f8cbgd5d4g4147g9b6egf3d0a9e8da10" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animation des morts&lt;/LSTag&gt;.</content>
+  <content contentuid="h13c84267gede4g4676g80c1gf3255e7da61a" version="1">Séance de spiritisme : Malédiction</content>
+  <content contentuid="hb5b927e0gd322g4c49ga1d3gebcc8c9939ba" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Malédiction&lt;/LSTag&gt;.</content>
+  <content contentuid="hca90d6b4gb148g447dg8a8dg671ce23b35c1" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Malédiction&lt;/LSTag&gt;.</content>
+  <content contentuid="hac009d11g8971g4390g8f02g5b691ed78bf6" version="1">Séance de spiritisme : Simulacre de vie</content>
+  <content contentuid="h5ea761c9g865cg457ag9deagbe7bbf89ab77" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Shout_FalseLife""&gt;Simulacre de vie&lt;/LSTag&gt;.</content>
+  <content contentuid="hae44e670g1953g464dg9e5cgae8c3a525608" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Shout_FalseLife""&gt;Simulacre de vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h9fadbf01g243cg43f4g9667gded6c13b07b4" version="1">Séance de spiritisme : Cécité</content>
+  <content contentuid="h4dcb7e75gda8ag44c7g8d31g0a737ed943ff" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_Blindness""&gt;Cécité&lt;/LSTag&gt;.</content>
+  <content contentuid="hf6ac5592g2665g402ag966ag22d8e44f438a" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;Cécité&lt;/LSTag&gt;.</content>
+  <content contentuid="h1526acccgfe50g43bag8348g98512fdc5ba8" version="1">Séance de spiritisme : Blessure</content>
+  <content contentuid="h2c94d3e4gab4dg4044gaceeg4a2369731625" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_InflictWounds""&gt;Blessure&lt;/LSTag&gt;.</content>
+  <content contentuid="hafdb3853g694fg4859ga583gea368c6af4db" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_InflictWounds""&gt;Blessure&lt;/LSTag&gt;.</content>
+  <content contentuid="h7821add0g8d69g4402g8721ga5b3f9cc743e" version="1">Séance de spiritisme : Rayon affaiblissant</content>
+  <content contentuid="hbd936fb3gdd72g4fbbgbae9gad2191013c20" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfEnfeeblement""&gt;Rayon affaiblissant&lt;/LSTag&gt;.</content>
+  <content contentuid="h318a3a71gc5c4g4dcfg8ba0g224f1affbecc" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfEnfeeblement""&gt;Rayon affaiblissant&lt;/LSTag&gt;.</content>
+  <content contentuid="h13823623g384dg409agb486g21016071ccd3" version="1">Séance de spiritisme : Simuler la mort</content>
+  <content contentuid="h298e804eg4b54g49d6ga12cg90564eb526b8" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_FeignDeath"&gt;Simuler la mort&lt;/LSTag&gt;.</content>
+  <content contentuid="hdad7522dgaf76g48dagbabbg2e46adec64c9" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_FeignDeath"&gt;Simuler la mort&lt;/LSTag&gt;.</content>
+  <content contentuid="h6019181fgdf9fg45a8gbb96g167a0e2517a0" version="1">Séance de spiritisme : Rayon empoisonné</content>
+  <content contentuid="h91da638eg4df8g4bf7gb1f4g595e084f8cb2" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfSickness"&gt;Rayon empoisonné&lt;/LSTag&gt;.</content>
+  <content contentuid="h76916cdag9b05g42d5gbb45g47657009b04f" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfSickness"&gt;Rayon empoisonné&lt;/LSTag&gt;.</content>
+  <content contentuid="ha7a272d3g13a9g4471gab94gc476e0650708" version="1">Séance de spiritisme : Retour à la vie</content>
+  <content contentuid="hb8016f3bg2afag4ba2g85c6g5252ed943aa1" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_Revivify"&gt;Retour à la vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h460b0296g863cg4b7cg9e09g125627fcd64a" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_Revivify"&gt;Retour à la vie&lt;/LSTag&gt;.</content>
+  <content contentuid="hce15d73eg3643g4166ga333gb0b3328619de" version="1">Séance de spiritisme : Communication avec les morts</content>
+  <content contentuid="hfa369502ga093g4c88gb208g03795cac4e68" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Communication avec les morts&lt;/LSTag&gt;.</content>
+  <content contentuid="hc3811092g51f2g4e01gb06fg0a6aba977565" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Communication avec les morts&lt;/LSTag&gt;.</content>
+  <content contentuid="h227268c4gcf63g4416ga94eg0b65a03a4b16" version="1">Séance de spiritisme : Baiser du vampire</content>
+  <content contentuid="h613ac6b7gfb34g4e22g9ab1gc9f8794b67c0" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch""&gt;Baiser du vampire&lt;/LSTag&gt;.</content>
+  <content contentuid="h62a2723cg40f5g4e26g9462g371a6b6761d8" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;Baiser du vampire&lt;/LSTag&gt;.</content>
+  <content contentuid="h48ea9c66g17dag4700ga4b9g425e5137122f" version="1">Séance de spiritisme : Flétrissement</content>
+  <content contentuid="h10bea150g70c9g48dcg8fdeg9173087ec2d2" version="1">Vous canalisez les esprits pour vous donner temporairement accès à &lt;LSTag Type="Spell" Tooltip="Target_Blight"&gt;Flétrissement&lt;/LSTag&gt;.</content>
+  <content contentuid="h264ad0b2g372ag4e5fgbf94gb1570e34e42a" version="1">Cette entité a un accès temporaire au sort &lt;LSTag Type="Spell" Tooltip="Target_Blight"&gt;Flétrissement&lt;/LSTag&gt;.</content>
+  <content contentuid="h62904966ga0cbg41fbgba40g77c37ebf6ade" version="1">Contes de l'au-delà</content>
+  <content contentuid="h06adcfd8gd919g413aga5abgac426919f1d3" version="1">Vous tendez la main aux esprits qui racontent leurs histoires à travers vous. Les esprits vous demandent de raconter une histoire d'esprit au hasard, dont vous pouvez conférer les effets à vous-même ou à une créature proche.</content>
+  <content contentuid="hdd2e5129ga709g405dg8451g3ad8c3d373fd" version="1">Vous ne pouvez garder qu'un seul esprit issu d'un de ces contes à la fois, et vous avez accès à de nouveaux contes chaque fois que votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; est amélioré.</content>
+  <content contentuid="hb0ddcea2g24b2g4f7bg943bg9ce7080ce9c1" version="1">Conte de l'Animal futé</content>
+  <content contentuid="hf0ec1b0bg637dg4175gba94g11e486059810" version="1">Chaque fois que la cible effectue un test d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;, elle peut ajouter un bonus de [1] au résultat de son jet.</content>
+  <content contentuid="h59b6f990gcdc4g4a89g9ebbg8d922a80dd89" version="1">Ajoute un bonus de [1] à ses tests d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;, ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h344753d4g708bg480bg8096g98eae96badf5" version="1">Chaque fois que cette créature fait un test d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;, elle peut ajouter un bonus de [1] au résultat de son jet.</content>
+  <content contentuid="hce869de4g4c3bg4856ga1a7g85faf8e8d08f" version="1">Les esprits ont contacté le barde, lui donnant accès à &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheCleverAnimal"&gt;Conte de l'Animal futé&lt;/LSTag&gt;.</content>
+  <content contentuid="h2c63990fg96a8g4297gbd9ag0214ff2dd7bc" version="1">Conte du Célèbre Duelliste</content>
+  <content contentuid="hd4544deag41f6g4639g8479g92cea3ae88a6" version="1">Vous canalisez l'esprit d'un maître duelliste pour effectuer une attaque de sort en mêlée, infligeant des dégâts de Force égaux à deux jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="he66b5a02gbb1dg4dedg9197g00b66012938a" version="1">Vous canalisez l'esprit d'un maître duelliste pour infliger des dégâts de Force à une cible à portée de mêlée.</content>
+  <content contentuid="h2f2fbda1ge60cg4494g80bcg0873512eedc9" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRenownedDuelist"&gt;Conte du Célèbre Duelliste&lt;/LSTag&gt;.</content>
+  <content contentuid="he506016cg10edg4508gb567gaf55934d6f37" version="1">Conte des Amis bien-aimés</content>
+  <content contentuid="h4b03864cgeb62g4308gae0dge9f154a6433a" version="1">La cible et une autre créature à moins de [1] d'elle gagne des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h6c10bb9dg6848g478bgb9c4gd580f8333b2b" version="1">Cette créature gagne des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h333c88d5g410fg4b17ga663g13920a375688" version="1">Accorde des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; à deux alliés situés à moins de [1] l'un de l'autre.</content>
+  <content contentuid="h77b0cc37g4fb7g4d22g8dfag91fd384d0a30" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBelovedFriends"&gt;Conte des Amis bien-aimés&lt;/LSTag&gt;.</content>
+  <content contentuid="h85b18ee8gedadg4d93g8220g17161148a982" version="1">Conte du Fugitif</content>
+  <content contentuid="h691a7841g6bfcg4a40g9036g03b79492545c" version="1">La cible peut utiliser sa &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour se téléporter jusqu'à [1] de distance. Lorsque la cible se téléporte, les alliés situés à moins de [1] d'elle peuvent également utiliser la même réaction.</content>
+  <content contentuid="hacac3aaegec66g43cdgba5cg0d2ea8a84504" version="1">Cette créature peut utiliser sa &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour se téléporter jusqu'à [1] de distance. Lorsqu'elle se téléporte, les alliés situés à moins de [1] d'elle peuvent également utiliser la même réaction.</content>
+  <content contentuid="hbcbe0d9cg4edag4264g91c5gfd4c6cee18a8" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRunaway"&gt;Conte du Fugitif&lt;/LSTag&gt;.</content>
+  <content contentuid="he6f9db73gc463g40bcga7f1gbec5077cd15b" version="1">Conte du fugitif : Téléportation</content>
+  <content contentuid="hfb3bfd78g2887g4a3cg8f6cgdad47b9f0c59" version="1">Se téléporte à une distance maximale de [1]. Lorsqu'ils se téléportent, les alliés situés dans un rayon de [1] peuvent également utiliser la même réaction.</content>
+  <content contentuid="h61797c75g60b4g41f5gb13fgc9697da8daaa" version="1">Cette créature peut utiliser sa &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour se téléporter jusqu'à [1] de distance.</content>
+  <content contentuid="h88e6e089g4cd2g4435g8015gf04040e55ed7" version="1">Conte du Vengeur</content>
+  <content contentuid="h9e5b3923ge840g4082g8c3egdc3062dda090" version="1">Toute créature qui touche la cible avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Attaque de mêlée&lt;/LSTag&gt; subit des dégâts de Force égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt;.</content>
+  <content contentuid="h7d15d37ag7c81g49c0ga2degaf645df9d523" version="1">Toute créature qui frappe cette créature avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Attaque de mêlée&lt;/LSTag&gt; subit des dégâts de Force égaux à un jet de dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt;.</content>
+  <content contentuid="h6496c31cgb9dcg4900ga5f2g16dd0b79f36a" version="1">Inflige des dégâts de Force à toute personne qui vous attaque.</content>
+  <content contentuid="h600442cfg7b50g4b75g8469g1db2909c26e5" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheAvenger"&gt;Conte du Vengeur&lt;/LSTag&gt;.</content>
+  <content contentuid="ha416d490g9492g41c1gb799gcd5672f22d39" version="1">Conte du Voyageur</content>
+  <content contentuid="h05e70669g3decg4c18gac9fg90cf95298ebf" version="1">La cible gagne des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; + son niveau. Tant qu'il a ces points de vie temporaires, sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de [1] et il gagne un bonus de +1 à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+  <content contentuid="h7d32f434g8e7eg4543g9864g2e19a98cfe81" version="1">Cette créature a des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à un jet de dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; + son niveau. Tant qu'il dispose de ces points de vie temporaires, sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de [1] et il gagne un bonus de +1 à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+  <content contentuid="h30c560cbg229fg42c2g868egd4da64548234" version="1">A des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; et sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; et sa &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; sont augmentées tant que vous en disposez.</content>
+  <content contentuid="h9d7aacfcg5902g4311ga1a1g47b399bcd694" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheTraveler"&gt;Conte du Voyageur&lt;/LSTag&gt;.</content>
+  <content contentuid="h74ca7a62g5e7eg4271gbc46gd96ed9732a75" version="1">Conte du Trompeur</content>
+  <content contentuid="h59208959g1ec7g4e14gb2e5gbf2e8589b62a" version="1">La cible est susceptible de subir des dégâts psychiques égaux à deux jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; ainsi que d'être &lt;LSTag Type="Status" Tooltip="TALE_OF_THE_BEGUILER_INCAPACITATED"&gt;incapable d'agir&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+  <content contentuid="h8bbd2999g0299g40edg855ag15d0767c1f7c" version="1">Vous infligez des dégâts psychiques égaux à deux jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; à une cible et la rendez &lt;LSTag Type="Status" Tooltip="TALE_OF_THE_BEGUILER_INCAPACITATED"&gt;incapable d'agir&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+  <content contentuid="h176b4193g767eg40d5gb12dge174e6bfd57b" version="1">Inflige des dégâts psychiques à la cible et la rend &lt;LSTag Type="Status" Tooltip="TALE_OF_THE_BEGUILER_INCAPACITATED"&gt;incapable d'agir&lt;/LSTag&gt; pendant un tour.</content>
+  <content contentuid="hd439031fga053g43a1g9447gcc5259724c19" version="1">Trompé</content>
+  <content contentuid="hcc13a0f5g4a2ag43e7g93d5gf4a97a06ff57" version="1">Cette cible a été victime des esprits séduisants d'un barde. Il ne peut pas bouger ni prendre effectuer d'&lt;LSTag Tooltip="Action"&gt;Actions&lt;/LSTag&gt;, d'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Actions bonus&lt;/LSTag&gt; ou de &lt;LSTag Type ="ActionResource" Tooltip="ReactionActionPoint"&gt;Réactions&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+  <content contentuid="h8a67d6c7g7031g4646gb9eeg7d8ef903987b" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBeguiler"&gt;Conte du Trompeur&lt;/LSTag&gt;.</content>
+  <content contentuid="h4ffbd82fgdcc5g4140g8307gb8c5972e57ab" version="1">Conte du Phantôme</content>
+  <content contentuid="h73a081c6g67dag40eegaecagb68252a274a0" version="1">La cible devient &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; jusqu'à la fin de son prochain tour ou jusqu'à ce qu'elle touche une créature avec une attaque. Si elle touche une créature avec une attaque alors qu'elle est invisible, la créature touchée subit des dégâts nécrotiques égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; et vous l'&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;effrayez&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+  <content contentuid="h25d0493agf7ddg4163g94e6gb3a706f0e4c4" version="1">Cette créature est &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; jusqu'à la fin de son prochain tour ou jusqu'à ce qu'elle touche une créature avec une attaque. Si elle touche une créature avec une attaque alors qu'elle est invisible, la cible subit des dégâts nécrotiques supplémentaires égaux à un jet de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; et est &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;effrayée&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+  <content contentuid="ha44770eag60a5g4d03g96d0g28543082b6a7" version="1">Vous frappez depuis les ombres, infligeant des dégâts nécrotiques supplémentaires tout en &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;effrayant&lt;/LSTag&gt; la victime de votre attaque.</content>
+  <content contentuid="hf9885383g2e64g40d2g8f45gecba8ab702e2" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleofthePhantom"&gt;Conte du Phantôme&lt;/LSTag&gt;.</content>
+  <content contentuid="haff80685gefacg4434gab60g656c2a73c293" version="1">Conte de la Brute</content>
+  <content contentuid="hfa623a79gde2ag460ag9b47g6ad7e01322f7" version="1">Chaque ennemi à moins de [1] de la cible peut subir des dégâts de tonnerre égaux à trois jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; et être mis &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;.</content>
+  <content contentuid="hfa623a79gde2ag460ag9b47g6ad7e01322f7" version="1">La cible peut subir 3d10 points de dégâts de tonnerre.</content>
+  <content contentuid="h70f4f354g1103g4096gb657gead25a070849" version="1">Vous vous déchaînez sur tous les ennemis à portée, leur infligeant des dégâts de tonnerre égaux à trois jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; et les faites &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt;.</content>
+  <content contentuid="h38a76250gb311g4619ga4ecg943b11ba68c0" version="1">Vous conférez à la cible la capacité de se déchaîner sur tous les ennemis à portée, leur infligeant des dégâts de tonnerre égaux à trois jets du dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; et les faisant &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt;.</content>
+  <content contentuid="hc4982b4aga348g4671ga279g42839efb9917" version="1">Inflige d'énormes dégâts de tonnerre aux ennemis à portée et les fait &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt;.</content>
+  <content contentuid="hf03a9562g8209g45ddgac63g172c0e6df1c2" version="1">Les cibles subissent tout de même la moitié des dégâts mais ne &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chutent&lt;/LSTag&gt; pas.</content>
+  <content contentuid="hc9095631gb003g476egbbc5g3168104f8bd0" version="1">Cette créature peut déclencher une attaque qui inflige des dégâts de tonnerre égaux à trois jets de dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt;, faisant également &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt; ses cibles par la même occasion.</content>
+  <content contentuid="h5145ca5dg121eg4a14g9dfdg01012448631a" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBrute"&gt;Conte de la Brute&lt;/LSTag&gt;.</content>
+  <content contentuid="h003b39f5g8117g4194g8b7dgdf9abc4ffc7b" version="1">Conte du Dragon</content>
+  <content contentuid="h31c008d8g059fg4ef5g9394g1fa4b68931f3" version="1">La cible peut cracher du feu, submergeant toute créature dans la zone et infligeant des dégâts de feu égaux à quatre jets de dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; du barde ayant lancé le sort.</content>
+  <content contentuid="h1990a36dg62ddg4e78g9e50gd50b3067dba4" version="1">La cible peut cracher du feu, infligeant des dégâts de feu égaux à quatre jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; à tous ceux qui sont pris dans les flammes.</content>
+  <content contentuid="hd99cf4f3g6cb1g425dg9102gd19610a06469" version="1">Vous crachez du feu qui submerge toute créature dans la zone enflammée et inflige ainsi des dégâts de feu égaux à quatre jets de votre dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt;.</content>
+  <content contentuid="h1ad91a30g5ef8g43ccgb4a2g286cc978775d" version="1">Crache du feu, infligeant des dégâts de feu importants à chaque créature prise dans les flammes.</content>
+  <content contentuid="h57fa3a5age8e2g466fgbb6eg665f3462822b" version="1">Cette créature peut déclencher une attaque qui inflige des dégâts de feu égaux à quatre jets du dé d'&lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Inspiration de barde&lt;/LSTag&gt; du barde ayant lancé ce sort.</content>
+  <content contentuid="hc1010562gb8aag4d6cgba63ge14b0151971a" version="1">Les esprits ont contacté le barde, leur donnant accès au &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheDragon"&gt;Conte du Dragon&lt;/LSTag&gt;.</content>
+  <content contentuid="h5a4a8658g4202g42c0g993cg6d8f494d7458" version="1">Tels sont les sorts vous étant accordés grâce à votre connexion avec les esprits des morts.
+
+Lorsque vous lancez &lt;LSTag Type="Spell" Tooltip="Shout_TalesFromBeyond"&gt;Contes de l'au-delà&lt;/LSTag&gt;, vous avez une chance d'obtenir les effets d'un Conte présenté ci-dessous.
+
+À partir du niveau 3 : 
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheCleverAnimal"&gt;Conte de l'Animal futé&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRenownedDuelist"&gt;Conte du Célèbre Duelliste&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBelovedFriends"&gt;Conte des Amis bien-aimés&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRunaway"&gt;Conte du Fugitif&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheAvenger"&gt;Conte du Vengeur&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheTraveler"&gt;Conte du Voyageur&lt;/LSTag&gt;
+
+
+À partir du niveau 5 :
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBeguiler"&gt;Conte du Trompeur&lt;/LSTag&gt; 
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleofthePhantom"&gt;Conte du Phantôme&lt;/LSTag&gt;
+
+
+À partir du niveau 10 :
+- &lt;LSTag Type="Spell" Tooltip="Shout_TaleoftheBrute"&gt;Conte de la Brute&lt;/LSTag&gt; 
+- &lt;LSTag Type="Spell" Tooltip="Zone_TaleoftheDragon"&gt;Conte du Dragon&lt;/LSTag&gt;.</content>
+  <content contentuid="he815bf7bg6b8fg4a7eg8ff4g5cf91a1cac5f" version="1">Lorsque vous lancez &lt;LSTag Type="Spell" Tooltip="Shout_TalesFromBeyond"&gt;Contes de l'au-delà&lt;/LSTag&gt;, vous avez une chance d'obtenir les effets d'un Conte présenté ci-dessous.
+
+À partir du niveau 3 : 
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheCleverAnimal"&gt;Conte de l'Animal futé&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRenownedDuelist"&gt;Conte du Célèbre Duelliste&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBelovedFriends"&gt;Conte des Amis bien-aimés&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheRunaway"&gt;Conte du Fugitif&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheAvenger"&gt;Conte du Vengeur&lt;/LSTag&gt;
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheTraveler"&gt;Conte du Voyageur&lt;/LSTag&gt;
+
+
+À partir du niveau 5 :
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleoftheBeguiler"&gt;Conte du Trompeur&lt;/LSTag&gt; 
+- &lt;LSTag Type="Spell" Tooltip="Target_TaleofthePhantom"&gt;Conte du Phantôme&lt;/LSTag&gt;
+
+
+À partir du niveau 10 :
+- &lt;LSTag Type="Spell" Tooltip="Shout_TaleoftheBrute"&gt;Conte de la Brute&lt;/LSTag&gt; 
+- &lt;LSTag Type="Spell" Tooltip="Zone_TaleoftheDragon"&gt;Conte du Dragon&lt;/LSTag&gt;.</content>
+  <content contentuid="habe31dadg9964g4358g9f39g072d2549f8a9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Un tel rituel de communion avec les morts requiert une concentration constante pendant une longue période et ne peut être accompli qu'à l'abri de votre campement.</content>
+</contentList>
