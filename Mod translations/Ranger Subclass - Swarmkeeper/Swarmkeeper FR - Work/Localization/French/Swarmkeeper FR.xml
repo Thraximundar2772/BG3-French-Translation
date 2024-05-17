@@ -1,0 +1,48 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h7551575cg4962g4544gb195g031abf8e1b9e" version="1">Gardien des nuées</content>
+  <content contentuid="hd6714f64g6d7dg48f1g8379g5e2a5de99863" version="1">Ressentant un lien profond avec l'environnement qui les entoure, certains gardes forestiers utilisent leur lien magique avec le monde et se lient avec un nuée d'esprits de la nature.</content>
+  <content contentuid="h11ac8a63g66f7g45f7g8768g6d615ece8ad5" version="1">Une nuée d'insectes s'est liée à vous et peut vous aider au combat. Une fois à chacun de vos tours, après avoir touché une créature avec un &lt;LSTag Tooltip="AttackRoll"&gt;Jet D'Attaque&lt;/LSTag&gt;, vous pouvez faire en sorte que la nuée vous aide de l'une des façons suivantes : la cible de l'attaque prend [1] supplémentaire de votre nuée ou est déplacée par la nuée jusqu'à [2] vers vous ou loin de vous, ou la nuée vous déplace jusqu'à [3] vers l'avant ou vers l'arrière.</content>
+  <content contentuid="h1b6a23d4g2949g4921ga99fg2c40c83587e3" version="1">La cible de l'attaque peut être déplacée par la nuée jusqu'à [1] de vous.</content>
+  <content contentuid="h1da8fd43g1a1ag4c0bg997cg0c1b23f925d6" version="1">La cible de l'attaque peut être déplacée par la nuée jusqu'à [1] vers vous.</content>
+  <content contentuid="he6ff8248gd03dg4987gacfeg614c4ae17521" version="1">Vous pouvez condenser une partie de votre nuée en une masse concentrée qui vous soulève. Vous gagnez une &lt;LSTag Type="Spell" Tooltip="Projectile_WrithingTide"&gt;Vitesse de Vol&lt;/LSTag&gt; de [1] et pouvez planer. Cet effet dure 1 minute ou jusqu'à ce que vous soyez &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacité&lt;/LSTag&gt;.</content>
+  <content contentuid="hea43c09cg59b3g4d8fg87e8g2b5f83e09613" version="1">Votre &lt;LSTag Type="Passive" Tooltip="Gathered_Swarm"&gt;Nuée groupée&lt;/LSTag&gt; devient plus puissante de la façon suivante : &lt;br&gt;&lt;br&gt;Les dégâts de la Nuée groupée augmentent à [1], une créature qui rate son &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; contre le déplacement par la Nuée groupée est également assommée &lt; LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; et quand vous êtes déplacé par la Nuée groupée, elle vous donne &lt;LSTag Type="Status" Tooltip="MIGHTY_SWARM_HALFCOVER"&gt;Semi couvert&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="h51a531cdg9cebg4270gb61dgd284de7821f9" version="1">La cible de l'attaque peut être déplacée par la nuée jusqu'à [1] de vous, la mettant &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Au sol&lt;/LSTag&gt; au passage.</content>
+  <content contentuid="ha18adf4dg6b4bg4928ga228g634898795017" version="1">La cible de l'attaque peut être déplacée par la nuée jusqu'à [1] vers vous, la mettant &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Au sol&lt;/LSTag&gt; au passage.</content>
+  <content contentuid="h237f257bg0e4eg4fe3gad6ege377a71682d6" version="1">Votre nuée vous fait avancer jusqu'à [1] et vous accorde les avantages de &lt;LSTag Type="Status" Tooltip="MIGHTY_SWARM_HALFCOVER"&gt;Semi couvert&lt;/LSTag&gt;.</content>
+  <content contentuid="h6e85a4ffg1f3dg4703g8a12ga3b919f130d9" version="1">Votre nuée vous fait reculer jusqu'à [1] et vous accorde les avantages de &lt;LSTag Type="Status" Tooltip="MIGHTY_SWARM_HALFCOVER"&gt;Semi couvert&lt;/LSTag&gt;.</content>
+  <content contentuid="hcd75d9b2g18c6g4086g9de8gf2e4a110fae8" version="1">Votre nuée recouvre votre corps, vous protégeant de tout danger. Pendant un round, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; augmente de 2 et vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt;.</content>
+  <content contentuid="hc5b58e00g9253g425fg9ee5g48a77deacb74" version="1">Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour vous donner une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; à ces dégâts et vous discorporer en votre nuée. Lors de votre prochain tour, vous pouvez réapparaître avec la nuée dans un espace inoccupé que vous pouvez voir à moins de [1] de vous.</content>
+  <content contentuid="h20544610gf506g4704g9a5fg03c84a369243" version="1">Accorde une &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; aux dégâts du dernier coup reçu.</content>
+  <content contentuid="he766e31bg3197g47ebga0e2g9e3fbe683976" version="1">Charge de la Nuée groupée</content>
+  <content contentuid="h204c6c29gf39ag4150g8dd6g0ef081c10461" version="1">Vous pouvez utiliser votre capacité Nuée groupée une fois par tour. Cette charge est partagée entre les trois capacités.</content>
+  <content contentuid="hc18941a7gcc3bg4290g810eg485770d51f52" version="1">Charge de Nuée puissante</content>
+  <content contentuid="hcdde6f2dg8fddg4427g8558gec89844135f2" version="1">Vous pouvez utiliser votre capacité nuée puissant une fois par tour. Cette charge est partagée entre les trois capacités.</content>
+  <content contentuid="h0f6a05b8gb8b5g4af9ga353gc5f15b909369" version="1">Charge de Marée grouillante</content>
+  <content contentuid="hee06ccd2g8b1fg4083gbd1dga8b1504d3184" version="1">Vous pouvez utiliser votre capacité Marée Frémissante un nombre de fois égal à votre bonus de compétence.</content>
+  <content contentuid="h4da26da3gd4c4g4c1bg9d70g48a760eb9dde" version="1">Charge de Dispersion de nuée</content>
+  <content contentuid="h06d42b5fg7017g4e7cg81dcgebf7c63e417c" version="1">Vous pouvez utiliser votre capacité de dispersion des nuées un nombre de fois égal à votre bonus de compétence.</content>
+  <content contentuid="hc8c41127g6bd3g46b9g9ac1gefc3ff6647d1" version="1">Nuée groupée</content>
+  <content contentuid="hd7149e06g1a2dg4a02g910cg3f5f7a168452" version="1">Une nuée d'insectes s'est lié à vous et peut vous aider au combat.</content>
+  <content contentuid="ha2faf90bgf056g45c2g891bg85a08a3915bd" version="1">Nuée groupée : Attaque</content>
+  <content contentuid="h3eb28f27gf275g426ag80a7gd019da242485" version="1">Nuée groupée : Éloigner la cible</content>
+  <content contentuid="hfb16c2c4g1364g4899g8342ge40b48569f68" version="1">Nuée groupée : Rapprocher la cible</content>
+  <content contentuid="h9866572cg3229g4288g9f9cgbe4a07e03c62" version="1">Nuée groupée : Se déplacer en avant</content>
+  <content contentuid="hf1ac3c30ge3b7g4d4cga8cbg6e09a7f64d9c" version="1">Nuée groupée : Se déplacer en arrière</content>
+  <content contentuid="h335e5185g732eg477egac3ag47d9bf99681e" version="1">Votre nuée inflige des dégâts perforants supplémentaires à la cible de l'attaque.</content>
+  <content contentuid="h60b1dc57g5cbdg4c1fg93ffg78882b3f4ec9" version="1">Votre nuée vous fait avancer jusqu'à [1].</content>
+  <content contentuid="h40ec2221g61edg4cc3g8a1eg355d03e49786" version="1">Votre nuée vous fait reculer jusqu'à [1].</content>
+  <content contentuid="hce47870ag8cbeg4c39gacb1g7c05040ec7d1" version="1">Main de mage du Gardien des nuées</content>
+  <content contentuid="hf7b5979bgbc5bg4584g8005gf307aebcceda" version="1">Lorsque vous la lancez, la main prend la forme de votre nuée d'insectes.</content>
+  <content contentuid="h2d5f66beg034bg4bd9g9d33g15af8f65ad95" version="1">La main prend la forme de la nuée d'insectes du Gardien des nuées.</content>
+  <content contentuid="h8d4ddbcfg74e9g4ce5g9f63ga9a67c0e37d8" version="1">Marée grouillante</content>
+  <content contentuid="h905cbcbdg7d1ag4a05ga97fgcbade19d2587" version="1">Nuée puissante</content>
+  <content contentuid="h2bc16085g2cfbg4dadga831g01fa4b4e1670" version="1">Nuée puissante : Attaque</content>
+  <content contentuid="h12a749d7gb96cg46bfga770g0be03e1b6da4" version="1">Nuée puissante : Éloigner la cible</content>
+  <content contentuid="hc21617acg0429g4fd8g90d9g6f9103fc6c7a" version="1">Nuée puissante : Rapproche la cible</content>
+  <content contentuid="had5f248dgbdbcg4710g8ce1ga22c43bfee33" version="1">Nuée puissante : Se déplacer en Avant</content>
+  <content contentuid="hfe2823dcge507g417ag9eddgd729521406d2" version="1">Nuée puissante : Se déplacer en Arrière</content>
+  <content contentuid="headca4efg2458g415cg8a02g558170f387d4" version="1">Nuée puissante : Semi couvert</content>
+  <content contentuid="hc7aca9bcgaa2eg4896g87f2g7c3c0cd72c6d" version="1">Dispersion de la nuée</content>
+  <content contentuid="h27ce257fg044dg4197ga881g2b3ea70e2908" version="1">Dispersion de la nuée : Teleporter</content>
+  <content contentuid="h85c73efcg1c29g4a09g9c58g10adcf3a1bde" version="1">Dispersion de la nuée : Résistance aux dégâts</content>
+ </contentList>
