@@ -1,0 +1,42 @@
+{
+  "GR2": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 1,
+    "ConformPath": null
+  },
+  "PAK": {
+    "ExtractInputPath": "",
+    "ExtractOutputPath": "",
+    "CreateInputPath": "",
+    "CreateOutputPath": "",
+    "CreatePackageVersion": 0,
+    "CreatePackageCompression": 4
+  },
+  "Resources": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 0
+  },
+  "VirtualTextures": {
+    "GTSPath": "",
+    "DestinationPath": ""
+  },
+  "Story": {
+    "InputPath": "",
+    "OutputPath": "",
+    "FilterText": "",
+    "FilterMatchCase": false
+  },
+  "Debugging": {
+    "SavePath": ""
+  },
+  "SelectedGame": 4,
+  "Version": "1.19.3"
+}
