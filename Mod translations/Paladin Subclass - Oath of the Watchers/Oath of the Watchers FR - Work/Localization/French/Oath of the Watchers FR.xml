@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h9fabb7fagae06g4ee1ga258gb2afcf8194d3" version="1">Serment des Guetteurs</content>
+  <content contentuid="hd4e55b37g55f1g4fa5g8d3cg50314ee59fc9" version="1">Un paladin qui adopte le serment des guetteurs jure de protéger le royaume des mortels des menaces d'Outremonde.
+
+Vigilance. Les menaces auxquelles vous êtes confronté sont rusées, puissantes et subversives. Soyez toujours vigilant face à leur corruption.
+Fidélité. N'acceptez jamais de cadeaux ou de faveurs de la part de fiélons ou de ceux qui les accompagnent. Restez fidèle à votre ordre, à vos camarades et à votre devoir.
+Discipline. Vous êtes le bouclier contre les terreurs sans fin qui viennent d'au-delà des étoiles. Votre lame doit toujours être affûtée et votre esprit soucieux de survivre à l'au-delà.</content>
+  <content contentuid="hd10da68dg88e5g4f91gba23ge4181e15bf1f" version="1">Regard Inébranlable</content>
+  <content contentuid="h9b13e8adge9b0g4074ga453ged1c698a07ea" version="1">Durant 3 tours, gagnez &lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;Vision dans le noir&lt;/LSTag&gt; jusqu'à 24m et un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;. Vos attaques infligent 1d4 de dégâts de Force sur les créatures se trouvant dans une zone à visibilité réduite ou nulle. </content>
+  <content contentuid="h7b7df2edgfcbeg47b1g8937g0a100dbefe4d" version="1">Volonté du Guetteur</content>
+  <content contentuid="hda6160f5g0baag4048g879ege2f400705f09" version="1">Vous pouvez utiliser votre Conduit Divin pour investir votre présence du pouvoir protecteur de votre foi. Par une action, vous pouvez choisir jusqu'à 3 créatures alliées que vous pouvez voir dans un rayon de 9 mètres autour de vous et pour 10 tours. Toutes les créatures choisies ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; et de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h843dbaa7gcb9ag432egb78dge0292e1b402e" version="1">Conspuer l'Extraplanaire</content>
+  <content contentuid="hd20c5a46g3e9dg46faga254g0805a4ff272c" version="1">Vous pouvez utiliser votre Conduit divin pour châtier des êtres surnaturels. Par une action, vous présentez votre symbole sacré et tout élémentaire, fée, fiélon ou aberration à 9 mètres ou moins de vous qui peut vous entendre doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;. En cas d'échec, la créature est repoussée durant 3 tours ou jusqu'à ce qu'elle subisse des dégâts.
+
+Une créature repoussée doit passer ses tours à essayer de s'éloigner le plus loin possible de vous. En ce qui concerne son action, elle ne peut utiliser que l'action Foncer ou essayer d'échapper à un effet qui l'empêche de bouger. Si elle n'a nulle part où aller, la créature peut utiliser l'action Esquiver.</content>
+  <content contentuid="h9cabd813g66dag4f45g9b01gad819722e73e" version="1">Aura de la Sentinelle</content>
+  <content contentuid="habcef88ag000ag4372gb4b1g56b7c922bc77" version="1">Tant que vous n'êtes pas incapable d'agir, vous émettez une aura de vigilance. Lorsque vous et vos alliés à 3 mètres ou moins de vous, vous gagnez chacun un bonus d'initiative de +3 lors de votre jet d'initiative.</content>
+  <content contentuid="h9cb23421ge18fg4670g94dbg9d6ee9330df8" version="1">Représailles attentives</content>
+  <content contentuid="hae80e306ged99g48afg90bbgc2fb98f10309" version="1">Vous avez appris à châtier magiquement quiconque ose lancer des sorts indésirables contre vous et vos protégés. Chaque fois que vous ou une créature que vous pouvez voir à 9 mètres ou moins de vous réussit un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;, ou &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; contre un sort, vous pouvez utiliser votre réaction pour infliger au lanceur de sorts des dégâts de force égaux à 2d8 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h353c9aecgb910g4b06ga37cg3b01c6f1a89c" version="1">Rempart mortel</content>
+  <content contentuid="hd486cb7bg64eag4215gbdf7ge5e8df72eedf" version="1">Une étincelle du pouvoir de votre divinité naît en vous pour défendre votre serment sacré. Par une action bonus, vous bénéficiez des avantages suivants pendant 10 tours : 
+
+- Vous êtes immunisez à l'Aveuglement et pouvez voir dans l'obscurité magique et non magique.
+- Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; contre les élémentaires, les fées, les fiélons et les aberrations. fey, and fiend
+- Lorsque vous touchez une créature lors d'une attaque et lui infligez des blessures, vous pouvez également la forcer à effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;. En cas d'échec, la créature est magiquement bannie et renvoyée sur son plan natal d'existence.</content>
+  <content contentuid="ha64c4249ga030g4016gb81fg4fb14ad459f8" version="1">Serment des Guetteurs</content>
+  <content contentuid="hd670021dg86beg4803gbb4eg5d3d093419ea" version="1">Les paladins qui prêtent le serment des guetteurs cherchent à protéger le royaume des mortels des prédations de créatures extraplanaires, dont beaucoup sont capables de ravages contre des soldats mortels. Ainsi, les guetteurs affinent leur esprit et leur corps pour se convertir en l'arme ultime contre de telles menaces.
+
+Pour un guetteurs, avoir une saine suspicion et une conscience de son environnement est aussi naturel que de porter une armure au combat.</content>
+</contentList>
