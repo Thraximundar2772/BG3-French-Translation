@@ -91,7 +91,7 @@
   <content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">Le nombre de fois que vous pouvez utiliser la capacité Ennemi juré.</content>
   <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">Vous pouvez augmenter les dégâts que vous infligez de [1] une fois par tour tout en marquant une créature..</content>
   <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Infligez [1] suplémentaire à un Ennemi juré.</content>
-  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Faites appel à votre lien mystique avec la nature pour marquer une créature comme votre Ennemi juré.</content>
+  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Cette créature est votre Ennemi juré et subit des dégâts supplémentaire du Rôdeur.</content>
   <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Explorateur des profondeurs : Prudent</content>
   <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choisissez l'une de vos compétences. Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est doublé pour tout &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt; que vous effetuez en utilisant la compétence choisie.</content>
   <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Explorateur des profondeurs : Nomade</content>
@@ -673,4 +673,7 @@
   <content contentuid="hb17703fagd1d5g45b9gb8e3ge1e62a497003" version="1">Vous êtes devenu aussi résistant qu’un golem de fer. Chaque fois que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez lancer à nouveau, en utilisant le nouveau résultat à la place. Vous pouvez le faire deux fois jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
   <content contentuid="hfa39cf81gc3f9g4336ga1e6g45e3c9848996" version="1">Indomptable (3)</content>
   <content contentuid="h5df5a2bbgb871g4b67g9c47g3160173f8ef7" version="1">Vous êtes devenu aussi résistant qu’un golem de fer. Chaque fois que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez lancer à nouveau, en utilisant le nouveau résultat à la place. Vous pouvez le faire trois fois jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+  <content contentuid="h6344e5b9gfca8g4897g871fgc3ecbe12e560" version="2">Sélectionnez l'in de vos sort de Niveau 7. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; Vous pouvez lancer ce sort sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h38a2e405g98d0g4a9bg87d8g56c554a33bd4" version="2">Sélectionnez l'in de vos sort de Niveau 8. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; Vous pouvez lancer ce sort sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="he9864abbgcd39g433ag8a9bgf2a7c2fde4e4" version="2">Sélectionnez l'in de vos sort de Niveau 9. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; Vous pouvez lancer ce sort sans dépencer d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
 </contentList>
