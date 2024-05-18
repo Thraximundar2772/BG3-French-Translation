@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h6661e1acg2b5fg447agb3begc8f54b588a15" version="1">Lutteur</content>
+  <content contentuid="h8749f53cg349eg49ecg8599gf37706840f57" version="1">Vous tentez d'agripper une créature en faisant un &lt;LSTag Tooltip="AbilityCheck"&gt;Test&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; opposé au test d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; ou d'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; de la cible.</content>
+  <content contentuid="h52b3c132g4634g472cg9f97g6f81e30f1d95" version="1">Relâcher l'agrippement</content>
+  <content contentuid="hd0077d67g6655g4fcbgbb67g441d902c1bc5" version="1">Relâchez la cible agrippée.</content>
+  <content contentuid="h0eea139dgfa21g4b4bg9f68gb42c25c67d42" version="1">Porter</content>
+  <content contentuid="h0f605fddg1b03g444fgb705g8d9c377766b0" version="1">Porter la cible jusqu'à une nouvelle position.</content>
+  <content contentuid="h1bacca8cg28f0g482agb897ge457adc6f39e" version="1">Défaire l'agrippement</content>
+  <content contentuid="he5675308g65e6g4ac7gbe33g8ab8198b0bef" version="1">Vous tentez un &lt;LSTag Tooltip="AbilityCheck"&gt;Test&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; ou d'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; pour éviter d'être agrippé.</content>
+  <content contentuid="h7e16ae91g00f6g4c89gb827g723c0f6321b4" version="1">Agripper</content>
+  <content contentuid="hb1175f34g9c7ag47acga2a1g13da5cf256fd" version="1">Vitesse réduite lors de l'agrippement. Vous pouvez libérer la cible avec une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; gratuite.</content>
+  <content contentuid="h1904b1ebg290eg4d39ga116g1ae6405a8e35" version="1">Agrippé</content>
+  <content contentuid="h42a708c6g4f84g4ed4ga144g117a3b4634eb" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; réduite à 0.</content>
+  <content contentuid="hea057202g6deag4ab2g928fg461a36421d52" version="1">Repositionné</content>
+  <content contentuid="h0ae0817cgd262g4216g9c4eg5413b6b101c9" version="1">Coincer</content>
+  <content contentuid="h9a564365g3575g4470g84b8geb63a8b79e6c" version="1">Vous tentez de coincer une cible agrippée.</content>
+  <content contentuid="h993c74cag9ebbg433dg9e88gf2cdf7d79b53" version="1">Coincé</content>
+  <content contentuid="h50b82f7agfeebg49e0gb93ag5050a673c8b4" version="1">Retenu (Coincer)</content>
+	<content contentuid="ha85790dbgbfe4g4807g8dd7gd5245703f192" version="1">Nécessite une main libre.</content>
+</contentList>
