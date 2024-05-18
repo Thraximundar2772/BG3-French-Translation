@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!--Alert-->
+  <content contentuid="h1b409fdeg5b14g4b5dg80fcg5aa2997263dc" version="1">Vous gagnez un bonus de +5 à l'Initiative et ne pouvez pas être &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surpris&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Lors de votre premier tour de combat, vous disposez d'un nombre de points de vie temporaires égal à votre niveau actuel, et vous avez &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Liberté de mouvement&lt;/LSTag&gt;.</content>
+  <content contentuid="h37be07e8ga4ceg4a69gb59bg1c60e1274d5c" version="1">Vous gagnez un bonus de +[1] à l'Initiative et ne pouvez pas être &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surpris&lt;/LSTag&gt;.</content>
+  <content contentuid="hb3ae4576gbc4fg404bg8ee9g8b652d8a79df" version="1">Vigilant: Prêt à tout</content>
+  <content contentuid="h09be7e60g74deg455bga130g8be32255aa2d" version="1">Lors de votre premier tour de combat, vous disposez d'un nombre de points de vie temporaires égal à votre niveau actuel, et vous avez &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Liberté de mouvement&lt;/LSTag&gt;.</content>
+  <content contentuid="h49e9fb01g8a2bg4139g9118ge6d50162bb73" version="1">Vigilant: Prêt à tout</content>
+  <content contentuid="h0cd26bebg40aag41d4ga22bg47a2bffb8a6d" version="1">Vous disposez de points de vie temporaires égaux à votre niveau actuel.</content>
+</contentList>
