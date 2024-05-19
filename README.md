@@ -1,3 +1,5 @@
+![La Communauté des Traducteurs Francophones a besoin de vous](https://i.imgur.com/g6Shbij.png)
+
 ### BG3 French Translation Community
 # BG3 - Communauté des Traducteurs Francophone
 
