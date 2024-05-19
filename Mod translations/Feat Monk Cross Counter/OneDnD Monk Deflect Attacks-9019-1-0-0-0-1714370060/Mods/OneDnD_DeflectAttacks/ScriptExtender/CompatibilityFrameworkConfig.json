@@ -1,0 +1,25 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk 3",
+      "UUID": "296468cb-3640-4460-9f44-b30ee820a9ed",
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "DeflectMissiles"
+          ]
+        },
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "CL_Passive_OneDnD_DeflectAttacks"
+          ]
+        }
+      ]
+    }
+  ]
+}
