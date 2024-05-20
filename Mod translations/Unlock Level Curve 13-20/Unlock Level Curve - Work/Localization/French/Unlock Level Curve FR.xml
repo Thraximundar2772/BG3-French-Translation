@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="6b8a96ba40ba4ec68a4da65d9609eac7" version="1">Représailles</content>
+  <content contentuid="3bbf849c9eca45959f430e7cef354aff" version="1">Lorsqu'une créature vous frappe avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque au corps-à-corps&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour effectuer une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque avec une arme de mêlée&lt;/LSTag&gt; contre cette créature.</content>
+  <content contentuid="a6d238b221e7446fb71fe110900b6e7d" version="1">Champion Primal</content>
+  <content contentuid="f15dd1489bbb40ee843c4b1406d73f81" version="1">Votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et votre &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; augmentent de 4. Votre maximum pour ces &lt;LSTag Tooltip="Abilities"&gt;caractéristiques&lt;/LSTag&gt; est désormais de 24.</content>
+  <content contentuid="0c807efe9e244dd882a616f607ebfc71" version="1">Esprit Fuyant</content>
+  <content contentuid="cf5586d9d8b94f7fbb37ce988934ce0b" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; pour les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;.</content>
+  <content contentuid="34ab3d558e7e496ca96f457138255a2b" version="1">Coup Critique Brutal (2)</content>
+  <content contentuid="e9964c62bb6c4a178478bb1000f62078" version="1">Vous pouvez lancer deux dés de dégâts supplémentaires pour déterminer les dégâts supplémentaires d'un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque à l'arme de mêlée&lt;/LSTag&gt;.</content>
+  <content contentuid="823e5c282a8c42c2968183b950fc839e" version="1">Coup Critique Brutal (3)</content>
+  <content contentuid="7c80ee07009e451ca9c374540cdb8ffb" version="1">Vous pouvez lancer trois dés de dégâts supplémentaires pour déterminer les dégâts supplémentaires d'un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaque à l'arme de mêlée&lt;/LSTag&gt;.</content>
+  <content contentuid="8de1e3f1fb9747bd92608660d62c9e65" version="1">Rage Persistante</content>
+  <content contentuid="6b773af75dc04f068c3befde5f770183" version="1">Votre rage est si féroce qu'elle ne s'arrête prématurément que si vous perdez connaissance ou décidez d'y mettre fin.</content>
+  <content contentuid="3612257a74f14480b51dd479e7133b2c" version="1">Attaque supplémentaire (3)</content>
+  <content contentuid="4fa99875b34d49e3a20eb54bbe9e8779" version="1">Le nombre d'attaques supplémentaires passe à trois.</content>
+  <content contentuid="87f3c3361da54b52b86a505e3615deef" version="1">Aura de Protection (2)</content>
+  <content contentuid="bbd8a7b04097434eb851444f6a5b62f3" version="1">Lorsque vous ou une créature amie située à moins de [10] de vous devez effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt;, la créature bénéficie d'un bonus au &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; égal à votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; (avec un bonus minimum de +1).</content>
+  <content contentuid="2ce09f9d31494158b36fe023ccd922de" version="1">Aura de Courage (2)</content>
+  <content contentuid="fe74d3903632455da78c0c1442959f95" version="1">Vous et les créatures amies situées à moins de [10] de vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="FEARED"&gt;effrayés&lt;/LSTag&gt;.</content>
+  <content contentuid="e948d8759e5a4f22a7c1fc5ef9140980" version="1">Magie de Guerre</content>
+  <content contentuid="9ddccb9af7de47ddababd7dec44e5969" version="1">Lorsque vous utilisez votre &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; pour lancer un sort de barde, vous pouvez effectuer une attaque d'arme en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="2f7e7feca1384101a5d3d9f5ff870f33" version="1">Magie de Guerre améliorée</content>
+  <content contentuid="add086de71af463399062aa5c7c9e7d3" version="1">Lorsque vous utilisez votre &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; pour lancer un sort, vous pouvez effectuer une attaque d'arme en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="e650375353a64888812cbf9c0aca4414" version="1">Mille Formes</content>
+  <content contentuid="43289841774d49d2b13801e928ed122d" version="1">Au niveau 14, vous avez appris à utiliser la magie pour modifier votre forme physique de façon plus subtile. Vous pouvez lancer le sort Altération de soi à volonté.</content>
+  <content contentuid="d1ba43c7d7e542f6ba4395d90a8b0a71" version="1">Habileté sans pareille</content>
+  <content contentuid="6b48ee09829c4d568d0dd21995400419" version="1">Lorsque vous faites un &lt;LSTag Tooltip="AbilityCheck"&gt;Test de Compétence&lt;/LSTag&gt;, vous pouvez dépenser une &lt;LSTag Type="Spell" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration Bardique&lt;/LSTag&gt; et ajouter le nombre obtenu à ce &lt;LSTag Tooltip="AbilityCheck"&gt;test&lt;/LSTag&gt;.</content>
+  <content contentuid="e38b2d08b8024ecf96079ef36ff78e3f" version="1">Couronne de Lumière</content>
+  <content contentuid="ce362b63587d4bcf9e312e5a1a01d22a" version="1">Vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; pour activer une aura de lumière solaire qui dure 10 tours ou jusqu'à ce que vous la dissipiez en utilisant une autre action. Vous émettez une lumière vive dans un rayon de [15]m.</content>
+  <content contentuid="22d55f406f304500a679097d41f4f3ac" version="1">Révocation: Couronne de Lumière</content>
+  <content contentuid="be4197b074a54587bcc1bbaa969c509e" version="1">Révoquez votre aura de lumière solaire.</content>
+  <content contentuid="313c53c5deeb48b0b9ce6099fb477026" version="1">Né dans la Tempête</content>
+  <content contentuid="38c61953140b4aa395ca95c1b7b61069" version="1">Vous avez une vitesse de vol égale à votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; actuelle.</content>
+  <content contentuid="8eae387391c04c34bc4dcaf5ec2a4292" version="1">Avatar de Bataille</content>
+  <content contentuid="887304f12c4b4eb08abd29f34b2f0632" version="1">Vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts contondants, perforants et tranchants provenant d'attaques non-magiques.</content>
+  <content contentuid="649ab2dea9304b1ca6f1f79dfe71c601" version="1">Indomptable (2)</content>
+  <content contentuid="26ae0688782c4f16ac3d8040d5259fa5" version="1">Indomptable (3)</content>
+  <content contentuid="892fe858b25e416eb0d6c4d414c29f21" version="1">Implacable</content>
+  <content contentuid="3932c83f097b4edc87936d6a72cb565e" version="1">Lorsque vous obtenez un jet d'initiative et qu'il ne vous reste plus de dé de supériorité, vous regagnez 1 dé de supériorité.</content>
+  <content contentuid="15643419b75b498aa4b8e4caf8b298cf" version="1">Perfection de Soi</content>
+  <content contentuid="feb1ac2bcc34472ab897c47cf5cbda82" version="1">Lorsque vous effectuez un jet d'initiative et qu'il ne vous reste plus de dé de supériorité, vous regagnez 1 dé de supériorité.</content>
+  <content contentuid="893631ada03c4888aee5c3c8a13c0453" version="1">Langue du Soleil et de la Lune</content>
+  <content contentuid="52e471b36368474a9037a886546051a1" version="1">Vous apprenez à toucher le Ki des autres esprits afin de comprendre toutes les langues parlées.</content>
+  <content contentuid="64d752202b2f45228128c1e6629f8b2f" version="1">Coup Critique Supérieur</content>
+  <content contentuid="d084d90944904f4095b029a57e8a79f2" version="1">Vos attaques d'arme obtiennent un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; sur un jet de 18-20.</content>
+  <content contentuid="61edf69f55d04fbd81943069fb8ea17a" version="1">Survivant</content>
+  <content contentuid="7715fa53659c45d29724a16ca4754c51" version="1">Au début de chacun de vos tours, vous regagnez un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; égal à 5 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; s'il ne vous reste plus que la moitié de vos points de vie. Vous ne bénéficiez pas de cet avantage si vos points de vie ont été réduits à 0.</content>
+  <content contentuid="f43e3e44edcc4915ba8ab93589f1198b" version="1">Restauration par la Sorcellerie</content>
+  <content contentuid="65aa51398fb649e39e3302438f8f0e2a" version="1">Vous regagnez 4 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;points de sorcellerie&lt;/LSTag&gt; dépensés à chaque fois que vous effectuez un &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="91a2d36b7e8a4f658b00176cd3a8a658" version="1">Âme du Vent</content>
+  <content contentuid="887983247b3a4347a58fa893fe55bd31" version="1">Vous gagnez une &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; contre les dégâts de Foudre et de Tonnerre. Vous bénéficiez également d'une vitesse de vol magique de 20 mètres.</content>
+  <content contentuid="8cc8bff7f1a14100abd3cb165eb19aea" version="1">Résistance aux sorts</content>
+  <content contentuid="531837d85061467aa2a508cacb4b4813" version="1">Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; contre les sorts. De plus, vous avez une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts des sorts.</content>
+  <content contentuid="c98287a86fc24910b6ae913841887cf2" version="1">Inspiration supérieure</content>
+  <content contentuid="020cc208f09d41d9a304c6b2c701d8fd" version="1">Lorsque vous entrez en combat et n'avez plus de charges d'&lt;LSTag Type="Spell" Tooltip="BARDIC_INSPIRATION"&gt;Inspiration Bardique&lt;/LSTag&gt;, vous en regagnez une.</content>
+  <content contentuid="e4b7bec15804456db530fcd17d5c1514" version="1">Corps fongique</content>
+  <content contentuid="456055affedb4b78b0b01d7b5e96356e" version="1">Les spores fongiques ont altéré votre corps. Ainsi, vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;aveuglé&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;effrayé&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonné&lt;/LSTag&gt; et tout &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; contre vous compte comme un coup normal, à moins que vous ne soyez &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapacité&lt;/LSTag&gt;.</content>
+	<content contentuid="e9654b090993480485e94722f3d9a266" version="1">Maître de l'occulte </content>
+	<content contentuid="8aec314f95bf4f178670b449f1fc4829" version="1">Lorsque vous n'êtes pas en combat, vous pouvez puiser dans votre réserve intérieure de pouvoir mystique tout en suppliant votre patron de récupérer tous vos emplacements de sorts dépensés. Une fois que vous avez récupéré des emplacements de sorts avec cette capacité, vous devez terminer un long repos avant de pouvoir le faire à nouveau.</content>
+	<content contentuid="796304e3ef07499983c269176fa984bd" version="1">Ouïe fine</content>
+	<content contentuid="5443040359d24f23a880bf981628fee7" version="1">Vous connaissez l'emplacement de toute créature cachée ou invisible à proximité.</content>
+	<content contentuid="6ea2920575f7436d9dc944db30a01e51" version="1">Insaisissable</content>
+	<content contentuid="2cad5e973c974662acb04296ebd24bcf" version="1">Vous êtes si Insaisissable que les attaquants prennent rarement le dessus sur vous. Aucun jet d'attaque n'a d'avantage contre vous tant que vous n'êtes pas incapable d'agir. (actuellement non fonctionnel)</content>
+	<content contentuid="9ddfc6410b2d4d2bb19311306f26cd10" version="1">Sorts de prédilection</content>
+	<content contentuid="4281493f24904909b75b1885ef148bf9" version="1">Choisissez deux sorts de sorcier de niveau 3 dans votre Grimoire comme sorts de signature. Vous avez toujours ces sorts préparés, ils ne comptent pas dans le nombre de sorts que vous avez préparés, et vous pouvez lancer chacun d'eux une fois au niveau 3 sans dépenser d'emplacement de sort. Lorsque vous le faites, vous ne pouvez plus le faire avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="ae6d133612814ed5a93a2c0ca64e3c20" version="1">Aura de courage (10m)</content>
+	<content contentuid="3406fc6ed9ee42b28b2d3cbc63c13b26" version="1">Aura de dévotion (10m)</content>
+	<content contentuid="0d43ed676ef04b5a8f89084ba9efc3ce" version="1">Aura de haine (10m)</content>
+	<content contentuid="e02065004fdf4bbdb2e82c03fa02e95c" version="1">Aura de protection (10m)</content>
+	<content contentuid="f055d98ed78d4baba96fa35d25e4f7fb" version="1">Aura de résistance (10m)</content>
+</contentList>
