@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">Au combat, un Chantelame utilise une série de manœuvres complexes et élégantes qui repoussent les dégâts et lui permettent de canaliser la magie vers des attaques dévastatrices et une défense astucieuse.
-	
+
 	Niveau 2 - &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Entrainement à la guerre et au chant&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Chant-de-lame&lt;/LSTag&gt;
 	Niveau 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Attaque supplémentaire&lt;/LSTag&gt;
 	Niveau 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Chant de Défense&lt;/LSTag&gt;
@@ -88,10 +88,14 @@
   <content contentuid="hfe43f72ega3edg4a06gb98bgd84f9d43eded" version="1">Augmentez votre &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; par +[1].</content>
 
   <content contentuid="h8fd95bb3g31e8g41a2ga5c4g7715586f6dde" version="1">Ennemi juré</content>
+  <content contentuid="h9c8193b8gec26g41d7gafd5g853f30e84b08" version="1">Ennemi juré : Attaques avec une arme</content>
   <content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">Le nombre de fois que vous pouvez utiliser la capacité Ennemi juré.</content>
   <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">Vous pouvez augmenter les dégâts que vous infligez de [1] une fois par tour tout en marquant une créature..</content>
-  <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Infligez [1] suplémentaire à un Ennemi juré.</content>
-  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Cette créature est votre Ennemi juré et subit des dégâts supplémentaire du Rôdeur.</content>
+  <content contentuid="hcbd415f8gf024g4f3fgb26eg3747bba2fadb" version="1">Ennemi juré : Attaque de sort</content>
+  <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Cette créature est l'Ennemi juré et subit des dégâts supplémentaire du Rôdeu.</content>
+  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Faites appel à votre lien mystique avec la nature pour marquer une créature comme votre ennemi juré.</content>
+  <content contentuid="hb5e5db7cgd41ag4226gad30g508156414d16" version="1">La prochaine attaque contre un ennemi juré inflige [1] dégâts supplémentaires.</content>
+  <content contentuid="he62ee9a9g8bbeg4610g93dbg3e21abc53d5c" version="1">Ennemi juré : Compagnon</content>
   <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Explorateur des profondeurs : Prudent</content>
   <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choisissez l'une de vos compétences. Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est doublé pour tout &lt;LSTag Tooltip="AbilityCheck"&gt;Jet de caractéristique&lt;/LSTag&gt; que vous effetuez en utilisant la compétence choisie.</content>
   <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Explorateur des profondeurs : Nomade</content>
@@ -215,8 +219,35 @@
   <content contentuid="hc0a69abag3e0eg4116g8c59g2faa3b9187dd" version="1">Disparition</content>
   <content contentuid="h7925794cgae23g4761g9f55g00fdf66539c9" version="1">Vous pouvez utiliser l'action &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;se cacher&lt;/LSTag&gt; en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
 
-  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Partage de sorts</content>
-  <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">Lorsque vous lancez un sort vous ciblant, vous pouvez également affecter votre compagnon bête avec le sort si la bête est à moins de [1] de vous.</content>
+  <content contentuid="hd8623728gc004g4aeeg87f6g23e8a8df7fc6" version="1">Augmentation du lien du compagnon</content>
+  <content contentuid="h1faaa23bgb253g4d91g8764ga87e2413fce8" version="1">Compagnon panthère</content>
+  <content contentuid="h58d250c6gbf1eg44abg8455gb1cceac250d1" version="1">Invoquez une panthère qui peut bondir sur les créatures, les rendant vulnérables à ses attaques.</content>
+  <content contentuid="h7b1c49b6ge259g4d46g815agd15a03ec7314" version="1">Bond</content>
+  <content contentuid="h3d0c37b1g6cf7g4cadg9533g4d442ea60d4e" version="1">Peut utiliser cette attaque comme une action bonus contre une créature que vous avez mise à terre.</content>
+  <content contentuid="h73501c98gbbb9g40ebgbdc9g1707eff44d57" version="1">Cette entité s'est déplacée d'un nombre de mètres égal à la durée du statut et peut mettre une créature. &lt;LSTag Type="Status" Tooltip="PRONE"&gt;A terre&lt;/LSTag&gt; avec ses &lt;LSTag Type="Spell" Tooltip="Target_Claws_Panther"&gt;Griffes&lt;/LSTag&gt;après avoir parcouru 6m.</content>
+  <content contentuid="h416df3f4g6e3fg41c1g83afg989b97807388" version="1">Mettez la créature &lt;LSTag Type="Status" Tooltip="PRONE"&gt;A terre&lt;/LSTag&gt; avec vos &lt;LSTag Type="Spell" Tooltip="Target_Claws_Panther"&gt;Griffes&lt;/LSTag&gt;. </content>
+  <content contentuid="hf17f1c85gef9eg46dbg8289gd24eb3e00cb5" version="1">Après avoir bougé d'au moins [1] et ensuite touché une créature avec vos &lt;LSTag Type="Spell" Tooltip="Target_Claws_Panther"&gt;Griffes&lt;/LSTag&gt; dans le même tour, la cible est peut-être mise &lt;LSTag Type="Status" Tooltip="PRONE"&gt;A terre&lt;/LSTag&gt;. Si la cible est &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Mise à terre&lt;/LSTag&gt;, vous pouvez la &lt;LSTag Type="Spell" Tooltip="Target_Bite_Panther_Companion"&gt;Mordre&lt;/LSTag&gt; comme Action bonus.</content>
+  <content contentuid="hc2400a11g3536g4791gbf56g86c33f3254a7" version="1">Préparez-vous à bondir sur une créature, ce qui vous permettra éventuellement de la mettre &lt;LSTag Type="Status" Tooltip="PRONE"&gt;A terre&lt;/LSTag&gt; après l'avoir frappé avec vos &lt;LSTag Type="Spell" Tooltip="Target_Claws_Panther"&gt;Griffes&lt;/LSTag&gt;.</content>
+  <content contentuid="haf111f6bgd720g43dag8466G7a7307788577" version="1">Peut éventuellement mettre à terre lorsque vous l'utilisez contre une cible sur laquelle vous avez bondit.</content>
+  <content contentuid="h8afa6ae0g105eg4614g973dge3ac59c06f1e" version="1">Bondi dessus</content>
+  <content contentuid="he673972fg02a6g4145g9e7bg6cbc7f8433aa" version="1">Cette entité est susceptible d'être mise à terre par la panthère..</content>
+  <content contentuid="hac1a03f5gffa3g4698ga298ge0a692808697" version="1">Amélioration de caractéristiques </content>
+  <content contentuid="h08e5a232ge049g49ceg8b6dgc91b7eaf64ee" version="1">You can increase one ability score of your choice by 2 or increase two ability scores of your choice by 1.</content>
+  <content contentuid="haa928e84g13beg4e59g9ca2gd0587bb7cb45" version="1">Amélioration de caractéristiques : Force</content>
+  <content contentuid="h033f9637g7665g4c9ag8846gd6be97fbb803" version="1">Augmente votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="h7c1dd90eg3783g4968g825cgb2cbdb58fb76" version="1">Amélioration de caractéristiques : Dextérité</content>
+  <content contentuid="hc48ada5cg59cfg430egafc2gff9396ea5cde" version="1">Augmente votre &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="h9963d433gb7a1g4976gb746gf1c062d374e3" version="1">Amélioration de caractéristiques : Constitution</content>
+  <content contentuid="h7ead7b56g4e5eg4ab3g9adagb840d72b4ff5" version="1">Augmente votre &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="hd1da87degb127g4146gac97ge0415ca0cb49" version="1">Amélioration de caractéristiques : Intelligence</content>
+  <content contentuid="h9ca310f5ge9d9g4391gb8b7g4a3b22587b3e" version="1">Augmente votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="h78592271g17a1g48edg89deg951ccc40d3b8" version="1">Amélioration de caractéristiques : Sagesse</content>
+  <content contentuid="h18939696gdc06g4c32ga946g9909bcc79118" version="1">Augmente votre &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="hd718cd3dg0a68g4d2egbd64g62c790b8294b" version="1">Amélioration de caractéristiques : Charisme</content>
+  <content contentuid="h9b382a8agef7bg4a78g9739gd1545c8c7cb9" version="1">Augmente votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="h7832b016g3a99g4fe0gaf54gf063a71b519c" version="1">Panthèra</content>
+  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Partage des sorts</content>
+  <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">WLorsque vous lancez un sort vous ciblant, vous pouvez également affecter votre compagnon bête avec le sort si la bête est à moins de [1] de vous..</content>
   <content contentuid="hf2dba260g1251g42abgb5d5g99ab578c1ab3" version="1">Peut être affecté par le même sort que le rôdeur lance sur lui-même.</content>
 
   <content contentuid="h1e9083f3gf720g46b7g8b3eg3d18baafc998" version="1">Perception aveugle</content>
