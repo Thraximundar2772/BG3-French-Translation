@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6e30f89fgc874g4eebg875cg576aee7505df" version="1">Une créature au sol a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les jets d'attaque.&lt;br&gt;&lt;br&gt;Les attaques contre les créatures au sol ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; si elles sont faites dans un rayon de [1] de la créature; sinon, elles ont un désavantage.&lt;br&gt;&lt;br&gt;Une créature au sol doit dépenser la moitié de sa &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de mouvement&lt;/LSTag&gt; pour se relever.</content>
+	<content contentuid="hc4508eadgeea1g4fdag818dg572ab4aca910" version="1">ëtre mis à terre brise la concentration</content>
+	<content contentuid="hd3311352ga9a5g4306g8d3eg0a7da64027c8" version="1">Se relever</content>
+	<content contentuid="h972289a8g0885g425bgbf6cg8528bdb5668c" version="1">Se relever et rester sur place.</content>
+</contentList>
