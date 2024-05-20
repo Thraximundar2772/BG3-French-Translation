@@ -1,0 +1,114 @@
+<contentList date="26/10/2020 01:10">
+    <content contentuid="h101a88a6gcbeeg4865g850eg67c3f450d887" version="1">Fadette</content>
+    <content contentuid="h0d0b630bg7f4cg48e9g816ag892a92814f4c" version="1">Originaires du royaume enchanté de Féérie, les Fadettes sont des êtres scintillants qui incarnent la magie et la fantaisie, caractérisés par leurs ailes scintillantes d'irisation. Profondément liées à la magie de Féérie, elles imprègnent les vies d'un émerveillement perpétuel et d'un charme surnaturel.</content>
+
+    <content contentuid="SPELL: FLIGHT" version="1" />
+    <content contentuid="h617af73bga8a7g48dbg9708gbd6fb29213ff" version="1">Papillonner</content>
+    <content contentuid="h2f20972eg500fg487egad36ga6951430aee6" version="1">Grace à vos ailes, vous gagnez la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_Fairy_LongRest"&gt;Voler&lt;/LSTag&gt; une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+    <content contentuid="hac9a9ec3g9aa6g4092gb5eeg0db9c344d1ea" version="1">Grace à vos ailes, vous gagnez la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_Fairy_ShortRest"&gt;Voler&lt;/LSTag&gt; une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court repos&lt;/LSTag&gt;.</content>
+    <content contentuid="h5b461e6cga7c7g47ecga5cdgbfd21c9ffb0b" version="1">Grace à vos ailes, vous gagnez la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_Fairy"&gt;Voler&lt;/LSTag&gt;.</content>
+    <content contentuid="h1e47e293g8897g4758ga755gde058efe3514" version="1">Voler</content>
+    <content contentuid="h5b53961dg350eg42f5gb603g29cbebdfca2e" version="1">Volez vers une position ciblé. Peut être utilisé une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+    <content contentuid="h20bc3f07gd613g4d72gb848g54712c2741ba" version="1">Volez vers une position ciblé. Peut être utilisé une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court repos&lt;/LSTag&gt;.</content>
+    <content contentuid="h53e96cbagc789g41e8gada1g92d9f39e1010" version="1">Voler (Petit)</content>
+    <content contentuid="h059e558eg6af5g4579ga31fg236204f3372f" version="1">Volez vers une position ciblé.</content>
+
+    <content contentuid="SPELL: TINIFY" version="1" />
+    <content contentuid="hba47f2deg82d3g4ab8gb7e7g1110acf4a6de" version="1">Rapetissement</content>
+    <content contentuid="h51c7c47bg21c5g49cagb208g7641d3a4e099" version="1">En utilisant votre connexion inhérente avec la Féérie, vous pouvez comme par magie vous réduire à une fraction de votre taille une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Sous cette petite forme, vous bénéficiez d'un usage illimité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_Fairy_Tiny"&gt;Vol&lt;/LSTag&gt;, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; est augmentée, et vous avez la capacité de vous faufiler dans les petits espaces. Le lancement de sorts est bloqué et les jets de dégâts sont réduits à un maximum de 1.</content>
+    <content contentuid="h4f0039bcg7bc0g4571ga933g2397c7d01cca" version="1">Petit</content>
+    <content contentuid="h3643d03bg42d4g4596g82a2g7b02c80a673f" version="1">Sa taille est réduite, l'entité concernée peut &lt;LSTag Type="Spell" Tooltip="Projectile_Fly_Fairy"&gt;Voler&lt;/LSTag&gt; sans limite, sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; est augmentée,et elle peut se glisser dans les petits espaces. Le lancement de sorts est bloqué et les jets de dégâts sont réduits à un maximum de 1..</content>
+    <content contentuid="h2412f842gec79g469fg876ag225004d79e53" version="1">Désactiver Rapetissement</content>
+    <content contentuid="hec99f5e6g09e0g404cg9c59gff484a9453d9" version="1">Disperce les effets de &lt;LSTag Type="Spell" Tooltip="Shout_Tinify"&gt;Rapetissement&lt;/LSTag&gt; plus tôt.</content>
+    
+    <content contentuid="SPELL: DRUIDCRAFT" version="1" />
+    <content contentuid="he17aef27g2ca6g488eg9085g9b70d28501bc" version="1">Druidisme</content>
+    <content contentuid="h71045f03g299fg44b8g85bcg9809292e3f1a" version="1">En murmurant aux esprits de la nature, vous pouvez créer quelques effets à portée.</content>
+    <content contentuid="h536d535ag19beg478bg8eacg9a305e2178f4" version="1">Paillettes</content>
+    <content contentuid="hf1e7156dg49f5g4ff5gbdc9g3afe8a614526" version="1">Invoque une bouffée de paillettes inoffensive qui oblige les créatures proches à enquêter.</content>
+    <content contentuid="h35fa7264gf2e8g4801ga54egff173fb1e633" version="1">Floraison</content>
+    <content contentuid="haae1f3b9g8563g4946ga213gbac5fda566ec" version="1">Faites germer une parcelle de flore dans un rayon de [1].&lt;br&gt;&lt;br&gt;Les spores font que les entités qui se trouvent à l'intérieur deviennent&lt;LSTag Type="Status" Tooltip="BLOOM_SPORES"&gt;Loopy&lt;/LSTag&gt;. Elles gagnent 3 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt;, mais les entitées non-féerique ont aussi un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Sagesse.</content>
+    <content contentuid="h9c8ae3fdg7ed2g4fd3g972dg8e7266f61a4e" version="1">Loopy</content>
+    <content contentuid="hb2519f51ge237g4ebbg9e19g9033681e4950" version="1">Sous l'effet des spores de Féérie. Gagne 3 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaire&lt;/LSTag&gt;. Les entitées non-Féérique ont aussi un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Sagesse.</content>
+    <content contentuid="ha1e1e8ebgf593g4350g855dga46877a8c8cd" version="1">Flore de la Féérie</content>
+    <content contentuid="h0fcacf0dgbcebg42fbg8e1dge196d92ec7ea" version="1">Allumer/Eteidre</content>
+    <content contentuid="h117f982fgefb4g4fd3g902fge59d846735ed" version="1">Allumez ou éteignez instantanément une source de lumière, comme une bougie ou une torche..</content>
+
+    <content contentuid="CC: HEADS" version="1" />
+    <content contentuid="haf42251ag30cdg4b4ega0d1gaa1eaf5b85ab" version="1">Tête 1</content>
+    <content contentuid="hcc978a45g384bg4cf9g8ee6g80b5e0ecd3b5" version="1">Tête 2</content>
+    <content contentuid="h2a0d39cdg4054g4f25gb3fegfed162a6644b" version="1">Tête 3</content>
+    <content contentuid="h51042321g340cg46f8gb9adgdb666f489319" version="1">Tête 1 (Demi-Elfe)</content>
+    <content contentuid="hef6dfa31g75c7g4fc5gad99g168eb87854cf" version="1">Tête 2 (Demi-Elfe)</content>
+    <content contentuid="h3e584a52g5e50g4fd4g88c9g4c126f9ae83e" version="1">Tête 3 (Demi-Elfe)</content>
+    <content contentuid="h2790e953gc4f4g40c6gbd59g8fb605a02fc6" version="1">Tête 4 (Demi-Elfe)</content>
+    <content contentuid="h92c7632fgd0c7g4756g81cfg93f7a59f2a3b" version="1">Tête 5 (Demi-Elfe)</content>
+    <content contentuid="h77d0e1c2g0310g4585ga09fg5995a60bd2e3" version="1">Tête 6 (Demi-Elfe)</content>
+    <content contentuid="h5e2af2d7gc9f1g4058g85adg004f53cda03d" version="1">Tête 7 (Demi-Elfe)</content>
+
+    <content contentuid="CC: WINGS" version="1" />
+    <content contentuid="hfee95a59g8e39g4952g8fcdg9ffddf79ed6f" version="1">Sans ailes</content>
+    <content contentuid="haf474208g13b1g4225g8fb2g56830fecabb5" version="1">Fée</content>
+    <content contentuid="h9de34355gdd3ag4be2g90b6g000aa66109e4" version="1">Papillon (Monarque)</content>
+    <content contentuid="ha3ad7c6ag9b0ag44fdgb460g86adca43bf44" version="1">Papillon de nuit (Érable rosé)</content>
+    <content contentuid="he3932b50g7e0bg4cafg8a32g5736269b04ed" version="1">Cigale</content>
+    <content contentuid="h2e3ca3aag9cb5g42a2g9cd4g0b55a9d8d657" version="1">Libellule</content>
+
+    <content contentuid="CC: HAIR" version="1" />
+    <content contentuid="h38643aadg39f8g4616ga966g05ebfa88aca3" version="1">Tinker</content>
+
+    <content contentuid="CC: HORNCOLORS" version="1" />
+    <content contentuid="h9e46dd28g2381g4ecegbfb5g3da702ec91d7" version="1">Marron 1</content>
+    <content contentuid="h1702b467geb99g44adg840eg4644c6d54b86" version="1">Marron 2</content>
+    <content contentuid="h003279degb189g4f69g9218gb7d2c3ff0089" version="1">Marron 3</content>
+    <content contentuid="hcab5dbc7g6151g4974gb0e0g86c4b6ed3fa3" version="1">Marron 4</content>
+    <content contentuid="h3b79910fg37f2g4d36gbf3bg32b464b6bc96" version="1">Marron 5</content>
+    <content contentuid="h8f081525gd398g4c81g9edag410f39c11f59" version="1">Or 1</content>
+    <content contentuid="h2091f844geeddg431eg8eecg7d6f9f371be9" version="1">Or 2</content>
+    <content contentuid="hc5154356gca7fg4192g9ae2ge63dd682b3b7" version="1">Or 3</content>
+    <content contentuid="h2781ba17gb6f2g4b67gb9d8g3d256faee46a" version="1">Or 4</content>
+    <content contentuid="h6cd1f73bgcfd3g48eag8d7egf518e9237754" version="1">Or 5</content>
+    <content contentuid="hed73efbeg866eg442cg99e9g40cad539e3c9" version="1">Vert jade 1</content>
+    <content contentuid="h815ab59eg893cg4725g9b78g32eed03b77c4" version="1">Vert jade 2</content>
+    <content contentuid="h57a392d3g502cg496eg8f75gebe3c20e7a9b" version="1">Vert jade 3</content>
+    <content contentuid="h8257216bgab06g4d13ga97fgb9da55ae3722" version="1">Vert jade 4</content>
+    <content contentuid="ha04e70c6gfb9bg42adga307gecaabf480514" version="1">Vert jade 5</content>
+    <content contentuid="hea5b69cege33ag4244gaa05gfea543d7ea3c" version="1">Bleu profond 1</content>
+    <content contentuid="h0dced4c4gb71cg4eb2ga6a7gfe9a99b8cf4e" version="1">Bleu profond 2</content>
+    <content contentuid="h48d4cc69ge830g48d3g9ee9g362f0caf8760" version="1">Bleu profond 3</content>
+    <content contentuid="h70ad1e97g25a5g4649g821bg5906319e36ff" version="1">Bleu profond 4</content>
+    <content contentuid="h28a06bf9gd498g40fegb3e9g499bf2353189" version="1">Bleu profond 5</content>
+    <content contentuid="h7cc89c48g64ddg497aga10egf98476a819e3" version="1">Violet 1</content>
+    <content contentuid="h6e4fc947ga80ag4297g9d29g54999ec24318" version="1">Violet 2</content>
+    <content contentuid="h4f7c2b43g67fcg44c2gb0ddg4d8385cd0fd2" version="1">Violet 3</content>
+    <content contentuid="h8109b447g69cbg4bb3ga9a3g3bd5e5d4fc74" version="1">Violet 4</content>
+    <content contentuid="h6717595agca6fg448eg9f8bg5591a46df3bc" version="1">Violet 5</content>
+    <content contentuid="h09dc7181g4910g4e9fgab24gcf46f0140dad" version="1">Rose 1</content>
+    <content contentuid="h54d96d7bg7d06g4f00g9506g7046cad7136a" version="1">Rose 2</content>
+    <content contentuid="h483b03f6g98b7g4b37g9989g61a4e4a5b17e" version="1">Rose 3</content>
+    <content contentuid="h72045971gb9e4g4fe4g90c2g02db12a0a541" version="1">Rose 4</content>
+    <content contentuid="h8174a2e1gc439g4d32g9593gde7e805a0925" version="1">Rose 5</content>
+    <content contentuid="h42cdb6efg7c92g45b7g8cf2gafdd81656be0" version="1">Unseelie 1</content>
+    <content contentuid="hb29894e3g40a1g4cf6g86e3g6dc287f96d6f" version="1">Unseelie 2</content>
+    <content contentuid="h07d15b7bg7feeg4c78gb1c3ga753f4030052" version="1">Unseelie 3</content>
+    <content contentuid="hfde1fc6eg1a6ag43f0gafa2g15f6097c914f" version="1">Unseelie 4</content>
+    <content contentuid="h09117d8bg27feg404bg8920gea97781c8b0d" version="1">Unseelie 5</content>
+
+    <content contentuid="CC: EYECOLORS" version="1" />
+    <content contentuid="hf7a4ed49g60deg4507gbd80g107cc6b392fc" version="1">Coquelicot 1</content>
+    <content contentuid="h00da4165g40d2g4c0fg816fgeb35c1d63285" version="1">Coquelicot 2</content>
+    <content contentuid="h2425e564gddadg4624gbe7bg4977391908da" version="1">Coquelicot 3</content>
+    <content contentuid="he75a9764g8720g434dga81dg5e2d19d3811a" version="1">Coquelicot 4</content>
+    <content contentuid="hf727fb76g36aag4a59gb65fgc4c816889e00" version="1">Jade 1</content>
+    <content contentuid="h27d08c5egb7f6g4cf9g83cdgd351a5302fdc" version="1">Jade 2</content>
+    <content contentuid="h90d33361g5d13g4516gaaffg779c3d22ca35" version="1">Jade 3</content>
+    <content contentuid="hb9dfdf20ga1cag4931ga2b6g9502c60f8985" version="1">Jade 4</content>
+    <content contentuid="hac770382gc4c8g46f4g8489g551235e84580" version="1">Lavande 1</content>
+    <content contentuid="h45d18014g58b3g45e6g87ceg4966cb4c8a33" version="1">Lavande 2</content>
+    <content contentuid="h0491f43bgd5aag40adg8bccgb13b7478e92a" version="1">Lavande 3</content>
+    <content contentuid="h821db86agd241g4f67g803ag7580c74961ad" version="1">Lavande 4</content>
+
+    <content contentuid="HIRELING" version="1" />
+    <content contentuid="h61535ecbgdfa8g4725ga624g5aa01bff3df6" version="1">Tinker</content>
+    <content contentuid="hb3e3a8e2g3453g4aa2gbcddgf222d688692a" version="1">//description here</content>
+</contentList>
