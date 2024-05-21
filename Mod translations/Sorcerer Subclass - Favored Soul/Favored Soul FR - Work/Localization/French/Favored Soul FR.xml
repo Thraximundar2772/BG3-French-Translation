@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_FavoredSoul_Name" version="1">Élu divin</content>
+	<content contentuid="LHB_FavoredSoul_Description" version="1">Les Élus divin, avec leur magnétisme naturel et leur forte personnalité, sont souvent considérées comme des menaces par les hiérarchies religieuses traditionnelles. En tant qu'étrangers qui contrôlent le pouvoir des dieux, ces sorciers peuvent saper l'ordre existant et revendiquer un lien direct avec le divin.</content>
+	<content contentuid="LHB_FavoredSoul_Proficiencies_Name" version="1">Bonus de maîtrise</content>
+	<content contentuid="LHB_FavoredSoul_Proficiencies_Description" version="1">Vous maîtrisez les armures légères, les armures moyennes, les boucliers et les armes simples..</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Name" version="1">Elu des Dieux</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Description" version="1">Choisissez l’un des domaines divins de la classe clerc. Vous ajoutez les sorts de ce domaine à vos sorts connus. Ces sorts ne comptent pas dans le nombre de sorts que vous connaissez et sont considérés pour vous comme des sorts de sorcier. Des sorts de niveau supérieur deviendront disponibles lorsque vous atteindrez le niveau approprié.</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Arcana_Name" version="1">Elu des Dieux : Domaine des Arcanes</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Arcana_Description" version="1">Vous gagnez l'accès à des sorts du Domaine des Arcanes:
+- Projectile magique
+- Bouclier
+- Déblocage
+- Arme magique
+- Protection contre une énergie
+- Délivrance des malédictions
+- Porte dimensionnelle
+- Invisibilité supérieure
+- Contrat
+- Télékinésie</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Death_Name" version="1">Elu des Dieux : Domaine de la Mort</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Death_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Mort :
+- Simulacre de vie
+- Rayon empoisonné
+- Cécité
+- Rayon affaiblissant
+- Animation des morts
+- Toucher du vampire
+- Flétrissement
+- Protection contre la mort
+- Brume mortelle
+- Contagion</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Forge_Name" version="1">Elu des Dieux : Domaine de la Forge</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Forge_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Forge :
+- Armure du mage
+- Châtiment calcinant
+- Métal brûlant
+- Arme magique
+- Arme élémentaire
+- Protection contre une énergie
+- Bouclier de feu
+- Mur de feu
+- Immolation
+- Mur de pierre</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Grave_Name" version="1">Elu des Dieux : Domaine de la Tombe</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Grave_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Tombe :
+- Fléau
+- Simulacre de vie
+- Prière de guérison
+- Rayon affaiblissant
+- Retour à la vie
+- Toucher du vampire
+- Flétrissement
+- Protection contre la mort
+- Contagion
+- Rappel à la vie</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Knowledge_Name" version="1">Elu des Dieux : Domaine du Savoir</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Knowledge_Description" version="1">Vous gagnez l'accès à des sorts du Domaine du Savoir :
+- Injonction
+- Armure du mage
+- Détection des pensées
+- Discours captivant
+- Forteresse d'intellect
+- Communication avec les morts
+- Confusion
+- Invisibilité supérieure
+- Cercle de pouvoir
+- Dissipation du mal et du bien</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Life_Name" version="1">Elu des Dieux : Domaine de la Vie</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Life_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Vie :
+- Bénédiction
+- Soins
+- Restauration partielle
+- Arme spirituelle
+- Lueur d'espoir
+- Retour à la vie
+- Protection contre la mort
+- Gardien de la foi
+- Mass Soins
+- Rappel à la vie</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Light_Name" version="1">Elu des Dieux : Domaine de la Lumière</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Light_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Lumière :
+- Mains brûlantes
+- Lueurs féeriques
+- Sphère de feu
+- Rayon ardent
+- Lumière du jour
+- Boule de feu
+- Gardien de la foi
+- Mur de feu
+- Dissipation du mal et du bien
+- Colonne de flamme</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Nature_Name" version="1">Elu des Dieux : Domaine de la Nature</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Nature_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Nature :
+- Amitié avec les animaux
+- Communication avec les animaux
+- Peau d'écorce
+- Croissance d'épines
+- Croissance végétale
+- Tempête de neige
+- Domination de bête
+- Liane avide
+- Fléau d'insectes
+- Mur de pierre</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Order_Name" version="1">Elu des Dieux : Domaine de l'Ordre</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Order_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de l'Ordre :
+- Injonction
+- Héroïsme
+- Détection des pensées
+- Immobilisation de personne
+- Mot de guérison de groupe
+- Lenteur
+- Bannissement
+- Lance d'arçon psychique de Raulothim
+- Domination de personne
+- Contrat</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Peace_Name" version="1">Elu des Dieux : Domaine de la Paix</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Peace_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Paix :
+- Héroïsme
+- Sanctuaire
+- Aide
+- Lien de protection
+- Lueur d'espoir
+- Lumière du jour
+- Aura de pureté
+- Sphère résiliente d'Otiluke
+- Restauration supérieure
+- Mass Soins</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Tempest_Name" version="1">Elu des Dieux : Domaine de la Tempête</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Tempest_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Tempête :
+- Nappe de brouillard
+- Vague tonnante
+- Bourrasque
+- Fracassement
+- Appel de la foudre
+- Tempête de neige
+- Liberté de mouvement
+- Tempête de grêle
+- Vague destructrice
+- Fléau d'insectes</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Trickery_Name" version="1">Elu des Dieux : Domaine de la Duperie</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Trickery_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Duperie :
+- Charme-personne
+- Déguisement
+- Image miroir
+- Passage sans trace
+- Clignotement
+- Délivrance des malédictions
+- Porte dimensionnelle
+- Métamorphose
+- Domination de personne
+- Immobilisation de monstre</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Twilight_Name" version="1">Elu des Dieux : Domaine du Crépuscule</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_Twilight_Description" version="1">Vous gagnez l'accès à des sorts du Domaine du Crépuscule :
+- Lueurs féeriques
+- Sommeil
+- Rayon de lune
+- Voir l'invisible
+- Lumière du jour
+- Gardien de la vitalité
+- Aura de vie
+- Invisibilité supérieure
+- Cercle de pouvoir
+- Apparence trompeuse</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_War_Name" version="1">Elu des Dieux : Domaine de War Domain</content>
+	<content contentuid="LHB_FavoredSoul_ChosenOfTheGods_War_Description" version="1">Vous gagnez l'accès à des sorts du Domaine de la Guerre :
+- Faveur divine
+- Bouclier de la foi
+- Arme magique
+- Arme spirituelle
+- Aura du croisé
+- Esprits gardiens
+- Liberté de mouvement
+- Peau de pierre
+- Colonne de flamme
+- Immobilisation de monstre</content>
+	<content contentuid="LHB_FavoredSoul_UnearthlyRecovery_Name" version="1">Récupération surnaturelle</content>
+	<content contentuid="LHB_FavoredSoul_UnearthlyRecovery_Description" version="1">Lorsqu'il vous reste moins de la moitié de vos points de vie, vous pouvez récupérer un nombre de points de vie égal à la moitié de votre maximum de points de vie.
+
+Une fois que vous utilisez cette fonctionnalité, vous ne pouvez plus l’utiliser tant que vous n’avez pas terminé un long repos.</content>
+	<content contentuid="LHB_FavoredSoul_UnearthlyRecovery_PassiveDescription" version="1">Vous gagnez la capacité de surmonter des blessures graves. Par une action bonus, lorsqu'il vous reste moins de la moitié de vos points de vie, vous pouvez récupérer un nombre de points de vie égal à la moitié de votre maximum de points de vie.
+
+Une fois que vous utilisez cette fonctionnalité, vous ne pouvez plus l’utiliser tant que vous n’avez pas terminé un long repos.</content>
+	<content contentuid="LHB_IntellectFortress_Name" version="1">Forteresse d'intellect</content>
+	<content contentuid="LHB_IntellectFortress_Description" version="1">Pendant toute la durée du sort, vous ou une créature volontaire que vous pouvez voir à portée avez une résistance aux dégâts psychiques, ainsi qu'un avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.</content>
+	<content contentuid="LHB_IntellectFortress_StatusDescription" version="1">Possède une résistance aux dégâts psychiques, ainsi qu'un avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.</content>
+	<content contentuid="LHB_AuraOfLife_Name" version="1">Aura de vie</content>
+	<content contentuid="LHB_AuraOfLife_Description" version="1">L’énergie vitale rayonne de vous dans une aura. Chaque créature non hostile dans l'aura a une résistance aux dégâts nécrotiques et son maximum de points de vie ne peut pas être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle commence son tour dans l'aura avec 0 point de vie.</content>
+	<content contentuid="LHB_AuraOfLife_Status_Description" version="1">A une résistance aux dégâts nécrotiques, le maximum de points de vie ne peut pas être réduit. Récupère 1 point de vie au début du tour s'il est abattu.</content>
+	<content contentuid="LHB_AuraOfPurity_Name" version="1">Aura de pureté</content>
+	<content contentuid="LHB_AuraOfPurity_Description" version="1">Une énergie purificatrice rayonne de vous dans une aura. Chaque créature non hostile dans l'aura ne peut pas tomber malade, a une résistance aux dégâts de poison et a un avantage aux jets de sauvegarde pour ne pas être charmée, effrayée, paralysée ou empoisonnée.</content>
+	<content contentuid="LHB_AuraOfPurity_Status_Description" version="1">Ne peut pas tomber malade, a une résistance aux dégâts de poison et a un avantage aux jets de sauvegarde contre le fait d'être charmé, effrayé, paralysé ou empoisonné.</content>
+	<content contentuid="LHB_RaulothimsPsychicLance_Name" version="1">Lance d'arçon psychique de Raulothim</content>
+	<content contentuid="LHB_RaulothimsPsychicLance_Description" version="1">Vous lancez une lance scintillante de pouvoir psychique sur une créature à portée.</content>
+	<content contentuid="LHB_RaulothimsPsychicLance_StatusDescription" version="1">Stricken by Lance d'arçon psychique de Raulothim: Incapacitated until the start of the caster's next turn.</content>
+	<content contentuid="LHB_CircleOfPower_Name" version="1">Cercle de pouvoir</content>
+	<content contentuid="LHB_CircleOfPower_Description" version="1">L'énergie divine rayonne de vous, déformant et diffusant l'énergie magique dans une aura. Chaque créature amie dans la zone a un avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</content>
+	<content contentuid="LHB_CircleOfPower_ExtraDescription" version="1">De plus, lorsqu'un sort ou un effet magique devrait infliger la moitié des dégâts lors d'un jet de sauvegarde de Dextérité réussi, il n'inflige aucun dégât.</content>
+	<content contentuid="LHB_CircleOfPower_Status_Description" version="1">A un avantage aux jets de sauvegarde contre les sorts et autres effets magiques. Lorsqu'un sort ou un effet magique devrait infliger la moitié des dégâts lors d'un jet de sauvegarde de Dextérité réussi, il n'inflige aucun dégât.</content>
+	<content contentuid="LHB_Immolation_Name" version="1">Immolation</content>
+	<content contentuid="LHB_Immolation_Description" version="1">Les flammes enveloppent une créature que vous pouvez voir à portée. En cas d'échec, la cible brûle également pendant toute la durée du sort et émet de la lumière dans un rayon de 9 mètres (30 pieds). A chacun de ses tours, la cible renouvelle le jet de sauvegarde. Il subit 3d6 dégâts de feu en cas d'échec et le sort se termine en cas de réussite.</content>
+	<content contentuid="LHB_Immolation_StatusDescription" version="1">Entouré de flammes, il éclaire dans un rayon de 9 mètres (30 pieds). A chacun de ses tours, la cible renouvelle le jet de sauvegarde. Il subit 3d6 dégâts de feu en cas d'échec et le sort se termine en cas de réussite.</content>
+	<content contentuid="LHB_RaiseDead_Name" version="1">Rappel à la vie</content>
+</contentList>
