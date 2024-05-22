@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="longdeath5e" version="1">Voie de la longue mort</content>
+	<content contentuid="longdeath5edescript" version="1">Les moines de la Voie de la Longue Mort sont obsédés par le sens et les mécanismes de la mort. Ils capturent des créatures et préparent des expériences élaborées pour capturer, enregistrer et comprendre les moments de leur disparition. Ils utilisent ensuite ces connaissances pour guider leur compréhension des arts martiaux, créant ainsi un style de combat mortel..</content>
+	<content contentuid="h00cffdb6gb129g4232gafd3gbf657530a804" version="1">Toucher de mort</content>
+	<content contentuid="h968c95abgba71g4104g96c2gdab3c239c640" version="1">Lorsque vous réduisez à 0 les &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; d'une créature à moins de [1] de vous, vous gagnez [2].</content>
+	<content contentuid="h8aa3dd7bg8907g4b24gaca0gb27147bf436a" version="1">L'heure de la Fauche</content>
+	<content contentuid="h2f578095gb662g4839ga282g29879e6aa0a4" version="1">Les créatures qui peuvent vous voir deviennent &lt;LSTag Type="Status" Tooltip="HOUR_OF_REAPING_FRIGHTENED"&gt;Effrayées&lt;/LSTag&gt;: et ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets de caractéristique&lt;/LSTag&gt; et les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt;, et ne peuvent pas de rapprocher de vous.</content>
+	<content contentuid="h7b2d25b7gab97g43b8g84a5g98cb09685c7f" version="1">Effrayé</content>
+	<content contentuid="h151e2c66g6aa8g43f0gbbb6g7c9df1f96b63" version="1">Impossible de se rapprocher de la source de sa peur. Les entités effrayées ont également un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets de caractéristique&lt;/LSTag&gt; et les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h5539db5fgc86eg4f1bga072gc832ae312a9a" version="1">Maîtrise de la mort</content>
+	<content contentuid="h52922e91ge54cg43b3gbdabg434577d396ff" version="1">Si vous tombez à [1] &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; tant que vous avez un &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Point de Ki&lt;/LSTag&gt;, vous regagnez [2] au lieu de tomber &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;Inconscient&lt;/LSTag&gt;.</content>
+	<content contentuid="h5552bbbega0a3g431aga872g79d7eb137e1d" version="1">Toucher de la longue mort</content>
+	<content contentuid="h3128e91dg91f8g40e0gbf1bg8db830a6a96a" version="1">Canalisez l'énergie de la mort vers une créature que vous touchez. Les dégâts augmentent avec le nombre de &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; que vous dépensez.</content>
+
+	
+</contentList>
+

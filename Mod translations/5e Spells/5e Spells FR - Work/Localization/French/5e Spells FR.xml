@@ -874,4 +874,13 @@
 	<content contentuid="h167dc145g985ag4706g8d69gc0ffea454275" version="1">Lors d'un échec &lt;LSTag Tooltip="SavingThrow"&gt; Jet de sauvegarde&lt;/LSTag&gt; d'Intelligence, l'ennemi reçoit 5d10 dégâts psychiques. Réduit sa vision et subit des dégâts 10d10 dégâts psychiques s'il bouge, est poussé ou attaque.</content>
 	<content contentuid="hc1f5f72bg133cg4978g84c8gd6ce81a78568" version="1">Prisonnier mental</content>
 	<content contentuid="hb64747beg4177g4030gacebgf6b16a5480bb" version="1">Reçoit des dégâts psychiques si il attaque, est poussé ou se déplace.</content>
+  <content contentuid="h837f921cg9835g4e6dg808dg6d1325d63e4c" version="1">Convocation d'artificiel</content>
+  <content contentuid="h0e322e16g9878g4872g9e6eg085ecadc5ecf" version="1">Invoquez un artificiel métallique pour combattre à vos côtés. Il peut &lt;LSTag Type="Spell" Tooltip="Target_Construct_Slam"&gt;Frapper&lt;/LSTag&gt; ses cibles et &lt;LSTag Type="Passive" Tooltip="HeatedBody"&gt;bruler&lt;/LSTag&gt; les créatures qui le frappent avec une attaque de mêlée.</content>
+  <content contentuid="hd59e8132g35edg4f22g8e8egee5dd3d7f54e" version="1">La &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt;, les dégâts infligés et les &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; de l'artificiel sont augmentés pour chaque &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; au dessus du niveau 4.</content>
+  <content contentuid="h6032e9b3gc49cg4c0fgb7e0g4878b370686e" version="1">Convocation d'artificiel : Metal</content>
+  <content contentuid="hd00cbad9g6753g4b07g9f45g8bc3f78f8d75" version="1">Convocation d'artificiel : Multiattack</content>
+  <content contentuid="hfc35e4e5g40a5g4a10gb289gdedd6a48880e" version="1">Peut effectuer un nombre d'attaques égal au niveau du sort utilisé pour invoquer l'artificiel, arrondi à l'inférieur.</content>
+  <content contentuid="hd76c0315g1c6eg4c1fg8ab2gbc1dabf1fe86" version="1">Frappez votre cible avec un poing métallique.</content>
+  <content contentuid="ha050ed24g7b7dg4bf7g98b7g37b661c426d3" version="1">Corps brûlant</content>
+  <content contentuid="h53a2c3d6g36a4g43d4gb627gd818cff1c5b8" version="1">Une créature qui frappe la construction avec une attaque de mêlée subit [1].</content>
 </contentList>
