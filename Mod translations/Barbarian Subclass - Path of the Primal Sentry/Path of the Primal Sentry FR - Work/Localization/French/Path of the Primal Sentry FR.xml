@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_Primal_Name" version="1">Voie de la Sentinelle Primordiale</content>
+	<content contentuid="LHB_Primal_Description" version="1">Il faut une belle sorte de folie pour s’aligner avec empathie sur un orage.</content>
+	<content contentuid="LHB_Primal_PrimalRage_Name" version="1">Rage : Magie Primordiale</content>
+	<content contentuid="LHB_Primal_PrimalMagic_Name" version="1">Magie Primordiale</content>
+	<content contentuid="LHB_Primal_PrimalMagic_Description" version="1">Lancer des sorts primordiaux ignore les restrictions de rage sur le lancement de sorts. Vous pouvez lancer des sorts primordiaux pendant votre rage, et une fois par rage, vous pouvez lancer 1 sort primordial. Cette magie entretiendra votre rage comme si vous aviez attaqué</content>
+	<content contentuid="LHB_Primal_PrimalMagic_Charge_Name" version="1">Charge de Magie Primordiale</content>
+	<content contentuid="LHB_Primal_PrimalMagic_Charge_Description" version="1">Une fois par rage, vous pouvez utiliser cette charge pour lancer un sort. La charge disparaît si elle n'est pas utilisée avant la fin de votre rage.</content>
+	<content contentuid="LHB_Primal_RecklessCharge_Name" version="1">Charge Téméraire</content>
+	<content contentuid="LHB_Primal_RecklessCasting_Name" version="1">Incantation Téméraire</content>
+	<content contentuid="LHB_Primal_RecklessCasting_Description" version="1">Bénéficiez d'un avantage aux jets d'attaque des sorts et choisissez une cible qui aura un désavantage aux jets de sauvegarde contre vos sorts.</content>
+	<content contentuid="LHB_Primal_RecklessCasting_ExtraDescription" version="1">Vous ne pouvez pas lancer un sort imprudemment au cours du même tour où vous attaquez imprudemment, ou vice versa.</content>
+	<content contentuid="LHB_Primal_RecklessCasting_Target_Name" version="1">Incantation Téméraire : Impose un désavantage</content>
+	<content contentuid="LHB_Primal_SavageSpells_Name" version="1">Sorts sauvages</content>
+	<content contentuid="LHB_Primal_SavageSpells_Description" version="1">Votre Rage renforce votre magie. En rage, vos sorts infligent des dégâts de Force supplémentaires égaux à votre bonus de dégâts de rage.</content>
+	<content contentuid="LHB_Primal_UnstoppableMight_Name" version="1">Puissance imparable</content>
+	<content contentuid="LHB_Primal_UnstoppableMight_Description" version="1">Votre instinct vous a rendu aussi imparable qu’une tempête déchaînée au combat. Tant que vous êtes conscient, la magie ne peut pas réduire votre vitesse, vous paralyser ou vous restreindre.</content>
+	<content contentuid="LHB_Thunderclap_Description" version="1">Vous créez une explosion de son tonitruant, blessant toutes les créatures à moins de 1,5 mètre (5 pieds)..</content>
+	<content contentuid="LHB_Frostbite_Description" version="1">Vous provoquez la formation d'un givre engourdissant sur une créature que vous pouvez voir à portée, la cible est désavantagée au prochain jet d'attaque avec une arme qu'elle effectue avant la fin de son prochain tour.</content>
+	<content contentuid="LHB_Frostbite_Status_Description" version="1">Engourdi par le gel, a un désavantage lors de son prochain jet d'attaque avec une arme.</content>
+	<content contentuid="LHB_PrimalSavagery_Name" version="1">Sauvagerie primordiale</content>
+	<content contentuid="LHB_PrimalSavagery_Description" version="1">Vous canalisez la Magie Primordiale pour aiguiser vos ongles, prêts à lancer une attaque corrosive.</content>
+</contentList>
