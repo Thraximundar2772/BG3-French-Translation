@@ -246,7 +246,8 @@
   <content contentuid="hd718cd3dg0a68g4d2egbd64g62c790b8294b" version="1">Amélioration de caractéristiques : Charisme</content>
   <content contentuid="h9b382a8agef7bg4a78g9739gd1545c8c7cb9" version="1">Augmente votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.</content>
   <content contentuid="h7832b016g3a99g4fe0gaf54gf063a71b519c" version="1">Panthèra</content>
-  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Partage des sorts</content>
+  <content contentuid="hc52509deg2ed6g400egada5gd59e627f5eb1" version="3">Votre animal de compagnie peut &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Foncer&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;se désengager&lt;/LSTag&gt;, et &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Aider&lt;/LSTag&gt; en action bonus. De plus, ses attaques sont considérées comme magiques dans le but de palier à la &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; et &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dégâts non magiques.</content>
+  <content contentuid="he2e66df4gaf57g47d3gad60g087570657a62" version="1">Sorts partagés</content>
   <content contentuid="hd03845e6g285ag43cbgbc09g188731e9bb02" version="1">WLorsque vous lancez un sort vous ciblant, vous pouvez également affecter votre compagnon bête avec le sort si la bête est à moins de [1] de vous..</content>
   <content contentuid="hf2dba260g1251g42abgb5d5g99ab578c1ab3" version="1">Peut être affecté par le même sort que le rôdeur lance sur lui-même.</content>
 
