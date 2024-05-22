@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf7969d5dg5decg400fg8f46g47aeded2a178" version="1">Circle of the Shepherd</content>
+	<content contentuid="hb76d95dcgfad1g4860g8c31g25dfa2900248" version="1">Druids of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid.</content>
+	<content contentuid="hf7f56f3agde21g4b18g85dfg80e11af63ac3" version="1">Speech of the Woods</content>
+	<content contentuid="h38f6e558g9de2g4411g8a06g5402b12b3489" version="1">You have the ability to comprehend and communicate with animals.</content>
+	<content contentuid="h91f716f5g66b9g495bgaf63g724d871a86bc" version="1">The Druid has the ability to comprehend and communicate with animals.</content>
+	<content contentuid="hb0ec963cg7271g47a7g8d0bg80cb1c26b532" version="1">Summon Spirit Totem</content>
+	<content contentuid="hbeffc6c8g51d8g405dgba9dgbfc458b0c27a" version="1">Summon an incorporeal spirit totem that takes the shape of a &lt;LSTag Type="Spell" Tooltip="Target_SpiritTotemBear"&gt;Bear&lt;/LSTag&gt;, a &lt;LSTag Type="Spell" Tooltip="Target_SpiritTotemHawk"&gt;Hawk&lt;/LSTag&gt;, or a &lt;LSTag Type="Spell" Tooltip="Target_SpiritTotemStag"&gt;Stag&lt;/LSTag&gt;, and grants you and your allies benefits depending on the type of totem you summon.</content>
+	<content contentuid="h477a6b7cgaad7g472bgac2dg30b7c3874802" version="1">Spirit Totem: Bear</content>
+	<content contentuid="h10b5642bg2f7cg490cgb465g458cf368496b" version="1">Summon an incorporeal bear totem that grants you and your allies its might and endurance. The spirit grants allies [1] within [2] of where it appears, and you and your allies gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; while in the spirit totem's aura.</content>
+	<content contentuid="h225df0c5g5064g4bdbgb95eg41fc4f60f465" version="1">Aura of the Mighty Bear</content>
+	<content contentuid="hec2ec31aged47g4363g9237g6e70574d7253" version="1">The bear spirit grants the Druid and its allies gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; while in the spirit totem's aura.</content>
+	<content contentuid="h9a6bccd5gee34g4af6gac93g69735f629be5" version="1">Bear's Might</content>
+	<content contentuid="hec731835gd90cg4693g8b69gde68231643bb" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; while in the spirit totem's aura.</content>
+	<content contentuid="hd8dbc523gb0b5g489bg9a19g3ba7999f2dda" version="1">Bear's Fortitude</content>
+	<content contentuid="hb9038acfg519bg44f5g95f3g3c202d33690e" version="1">A Shepherd Druid's Bear Spirit totem has gifted this entity with &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to 5 + the Druid's level.</content>
+	<content contentuid="h2518a568g1992g44b2g9a0cg8597d433a40a" version="1">Move Spirit Totem: Bear Spirit</content>
+	<content contentuid="h120a94f2g5f6ag442egbcfcgf947a688af0f" version="1">Move the Bear Spirit Totem up to [1].</content>
+	<content contentuid="hcaecda4ag2096g4688gaf37ge81e24e3230c" version="1">Spirit Totem: Hawk</content>
+	<content contentuid="h26b2e75dg3780g4188g8498g4ccf703153bf" version="1">Summon an incorporeal hawk totem that aids you and your allies with its keen sight. The spirit grants allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; while in the spirit totem's aura, and you can grant yourself or an ally &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a target standing in the aura.</content>
+	<content contentuid="h51bfc566g3809g413bg86d1g8f20ccaf2653" version="1">Aura of the Consummate Hawk</content>
+	<content contentuid="h73b49baagef84g4b55gbbeeg6f13387b1b17" version="1">The hawk spirit grants the Druid and its allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; while in the spirit totem's aura, and allows the Druid to grant themselves or an ally &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a target standing in the aura.</content>
+	<content contentuid="he65c369ag3126g43e1gbf0bg4f16ed527576" version="1">Hawk's Sight</content>
+	<content contentuid="h882ee1aegac08g44f5g8e8fg812e67dc8f14" version="1">Whenever an ally of the Shepherd Druid makes an attack against an enemy within the aura, the Druid can grant &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;. Also has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h18957e11g4764g45cdgb3a6g43ba853d7f8d" version="1">Hawk's Piercing Gaze</content>
+	<content contentuid="hc7a46730g6bcdg4f05g88bcg1aad876dcffd" version="1">Whenever the Shepherd Druid or their ally makes an attack against this enemy, the Druid may grant &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h5c6ef071g2aa8g45e0g9349g9f7c93d2e955" version="1">Grant &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against an enemy within the spirit totem's aura.</content>
+	<content contentuid="h6cd31302gf3efg43cfgb621g8d946114512f" version="1">Spirit Totem: Hawk: Advantage on Attack</content>
+	<content contentuid="he404d959gc5a7g43c8ga10bg649bb9e56a29" version="1">Spirit Totem: Stag</content>
+	<content contentuid="h4655fc2ag3578g4ed9ga4e0g85c447e3840a" version="1">Summon an incorporeal stag spirit totem that lends it protection to you and your allies, granting the ability to &lt;LSTag Type="Status" Tooltip="SPIRIT_TOTEM_STAG_SEE_INVISIBILITY"&gt;sense hidden creatures&lt;/LSTag&gt; and objects while within the spirit totem's aura. In addition, if you cast a spell using a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; that restores &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you may cause all allies in the aura to regain hit points equal to your Druid level.</content>
+	<content contentuid="hf6e4d5a0g9fb1g426ag82d2g9154fae0fd81" version="1">You can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; to move the spirit up to [1].</content>
+	<content contentuid="h33d59536g0417g45b0g8212gfaffbd2aa97b" version="1">Aura of the Guardian Stag</content>
+	<content contentuid="hce8d4850g7e0cg4036g8aacg11064fe6df40" version="1">The stag spirit grants the Druid and its allies the ability to &lt;LSTag Type="Status" Tooltip="SPIRIT_TOTEM_STAG_SEE_INVISIBILITY"&gt;see invisible creatures&lt;/LSTag&gt; and objects in the spirit totem's aura. Furthermore, whenever the Druid casts a healing spell, the Druid may cause each of its allies within the aura to regain health equal to the Druid's level.</content>
+	<content contentuid="he698cdfagfa3eg4d3dgb81cgf3aceae5ad04" version="1">Spirit Totem: Stag: See Invisibility</content>
+	<content contentuid="hf69374b5g2546g4561g96ffg14b8f614c68b" version="1">The Shepherd's stag spirit blesses this this entity with the ability to see invisible creatures and objects.</content>
+	<content contentuid="h586a2c22g3797g4463gb642gdcb66631a0ee" version="1">Spirit Totem: Stag: Bonus Heal</content>
+	<content contentuid="hf75e84cfgf8d2g4637gae10ga1caceb3cc40" version="1">Whenever the Shepherd Druid heals a target, they may cause each ally within the spirit totem's aura to regain &lt;LSTag Tooltip="HitPoints"&gt;health&lt;/LSTag&gt; equal to the Druid's level.</content>
+	<content contentuid="hcd65a3cbg63a0g402fg91e3gc21bdda702a2" version="1">Heal each ally within the Spirit Totem: Stag's aura for an amount equal to your Druid level.</content>
+	<content contentuid="hd302581fgf5f5g4ffbg9d64gb43ec0f750d5" version="1">You may heal each ally within the Spirit Totem: Stag's aura for an amount equal to your Druid level.</content>
+	<content contentuid="h82cafcf8g1f49g48e0g9d95ge87382f323e7" version="1">Can only be used after casting a spell using a spell slot that restores hit points.</content>
+	<content contentuid="hd800f2cfge558g440egb645g6663240c65a8" version="1">Mighty Summoner</content>
+	<content contentuid="h309db02fg0c46g4f87g8243gc965c4c29e83" version="1">Beasts and fey that you conjure are more resilient than normal. When casting a spell that summons a beast or fey, it gains increased &lt;LSTag Tooltip="HitPoints"&gt;health&lt;/LSTag&gt; and its natural weapons are considered magical, overcoming &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; towards non-magical damage.</content>
+	<content contentuid="h3c7737dfg5952g4f54g9b9eg2052e907fd70" version="1">Summoned by a Shepherd Druid. Has increased &lt;LSTag Tooltip="HitPoints"&gt;health&lt;/LSTag&gt;, and its natural weapons overcome &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; towards non-magical damage.</content>
+	<content contentuid="h1b84be0ag0adcg490bg8caag5b8a80cd00f6" version="1">Guardian Spirit</content>
+	<content contentuid="hcf711978g103ag4a40g909agd86e56f9584c" version="1">Your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned ends its turn in your &lt;LSTag Type="Spell" Tooltip="Target_SpiritTotem"&gt;Spirit Totem&lt;/LSTag&gt; aura, that creature regains &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; equal to half your Druid level.</content>
+	<content contentuid="h779b44d3g82ebg4ae0g8a4egf6ea7ca154d2" version="1">Guardian Spirit Heal</content>
+	<content contentuid="h0d1f78b9geffag400cgad73ga12281868210" version="1">When a beast or fey summoned by the Shepherd Druid ends its turn in your &lt;LSTag Type="Spell" Tooltip="Target_SpiritTotem"&gt;Spirit Totem&lt;/LSTag&gt; aura, it regains [1].</content>
+	<content contentuid="h4ad28373gabb0g4e28gb438g5c6e4983a00b" version="1">Summon Beast</content>
+	<content contentuid="he3919a97gafffg4e08g8dafg383eb953294e" version="1">Call forth a wolf or raven spirit to aid you in your travels.</content>
+	<content contentuid="h78f392aeg555ag4e3eg8b9cgc0951bbac75f" version="1">Summon Beast: Wolf</content>
+	<content contentuid="h1b7b4c85g25ebg40bfgab66gd7140fc57d3e" version="1">Call forth a wolf spirit with increased combat prowess when near its allies.</content>
+	<content contentuid="h2e7f1267g77b0g45adga075g75212600148b" version="1">Summon Beast: Raven</content>
+	<content contentuid="h96e95f08gb29eg4e9bgaa2cgdf1b7a2ed24e" version="1">Call forth a raven spirit that can easily move about the battlefield.</content>
+	<content contentuid="ha22d422cg0adfg4f53g859bgc429a4afd218" version="1">Flyby</content>
+	<content contentuid="h5d7df12cg7632g4f1agb1e4g368aa7f0ded9" version="1">Maul</content>
+	<content contentuid="h195a4e15gcd50g413eg835dgd4baf1f1e40d" version="1">Maul the target.</content>
+	<content contentuid="hee0ce9dcg86d1g43a0gb772gf6c4c64943b0" version="1">Jab</content>
+	<content contentuid="hf71cfdbcgc24cg46e5gaf93g2423311fc84c" version="1">Jab the target with your beak.</content>
+	<content contentuid="h24c0da03g4cdeg4dd8g9509gc69a0ddc166e" version="1">Summon Beast Bonuses</content>
+	<content contentuid="h96dc0111gc372g4043g8636gecc7951c5f0c" version="1">Conjure Animals</content>
+	<content contentuid="h99a8b7b6gc7fcg4b91gafc4g02d6d2bd0183" version="1">Summon fey beasts to aid you, taking the shape of a Saber-Toothed Tiger, a Polar Bear, or a Giant Eagle.</content>
+	<content contentuid="h69ff8cbfg610cg4694ga42fg0448ab045ff7" version="1">Conjure Polar Bear</content>
+	<content contentuid="hd5e93407g9181g47d3g8247gc3f03ec200e3" version="1">Conjure a mighty Polar Bear to aid you in your travels.</content>
+	<content contentuid="h74944e93gfdc3g4ea3g8a6cga6ae4de5a2b8" version="1">Conjure Dilophosaurus</content>
+	<content contentuid="h8555cca0g1e39g4c11g9290g2ca4bc9f1ace" version="1">Conjure an imposing Dilophosaurus to aid you in your travels.</content>
+	<content contentuid="hc0b83282g1230g411egb89ag8bb46e9fa75e" version="1">Conjure Saber-Toothed Tiger</content>
+	<content contentuid="hf9a18c67g3926g444cg9d0dg167119389250" version="1">Conjure a cunning Saber-Toothed Tiger to aid you in your travels.</content>
+	<content contentuid="hfcfd38acg71ecg466aga247g709505e90b21" version="1">Conjure Giant Eagles</content>
+	<content contentuid="h4fc32600gbdb1g4462g8338g76f3b00a97ac" version="1">Conjure two swift Giant Eagles to aid you in your travels.</content>
+	<content contentuid="hce781b91gb1a6g4c14g8d8bg0df1d1e1b7fb" version="1">Conjure Polar Bears</content>
+	<content contentuid="h4ea4d5b7g305eg4f59gbde2gc6bf721e3617" version="1">Conjure two mighty Polar Bears to aid you in your travels.</content>
+	<content contentuid="h955fcbf7g0f65g44b9gbf9agaf5851e337ae" version="1">Conjure Dilophosauruses</content>
+	<content contentuid="hced60b04g1a7bg4d56g820cg11fd95eb567c" version="1">Conjure two imposing Dilophosauruses to aid you in your travels.</content>
+	<content contentuid="ha1a31364gceeeg43dcgaa44g790554bd1cf0" version="1">Conjure Saber-Toothed Tigers</content>
+	<content contentuid="h19bf4dbdg350cg4684g8079g9358b33d1ffb" version="1">Conjure two cunning Saber-Toothed Tigers to aid you in your travels.</content>
+	<content contentuid="hd4247182g00a6g41ddg8640g3b2a74e72db0" version="1">Conjures four swift Giant Eagles to aid you in your travels.</content>
+	<content contentuid="h9d61ca7eg5c2cg4f84gbe0dg67abb9157534" version="1">Lunge at a &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; target's throat.</content>
+	<content contentuid="h2d55fdf7gf2aeg409fg9192g81d7022c305a" version="1">Leap at a target, striking it with your claws and knocking it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h8b795c53gbc2ag485dg8569gdd5144ea92ae" version="1">Keen Smell</content>
+	<content contentuid="h21b44212g42e5g4fffg898bgaf51e242f447" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; due to its keen senses.</content>
+	<content contentuid="h85ad83c8g95d9g4d81g9e87ga0abf9470283" version="1">Summon Fey</content>
+	<content contentuid="h5afcc8ceg31e1g4055ga4ddg88c01afd825b" version="1">Call forth a fey spirit with a chosen mood: &lt;LSTag Type="Status" Tooltip="SUMMON_FEY_FUMING"&gt;Fuming&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SUMMON_FEY_MIRTHFUL"&gt;Mirthful&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="SUMMON_FEY_TRICKSY"&gt;Tricksy&lt;/LSTag&gt;. The spirit has different spells available depending on the chosen mood.</content>
+	<content contentuid="h28a33619g56edg4195ga0dcgabcafbd8c994" version="1">Summon Fey: Fuming</content>
+	<content contentuid="h3320d72bga486g4a62gb252ga962855065f4" version="1">Call forth a frenzied fey spirit that channels its rage in melee combat.</content>
+	<content contentuid="had2d5f62gab62g489ag88b3gdfea55b5914e" version="1">This summoned fey is furious. After using its &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Fuming"&gt;Fey Step&lt;/LSTag&gt; ability, it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h20af6555gcc8eg4457g9b63g747860cc9a38" version="1">Summon Fey: Mirthful</content>
+	<content contentuid="he1e88141g6f66g410aga413g414d3ddcffb6" version="1">Call forth a delightful fey spirit able to charm enemies.</content>
+	<content contentuid="h4401397cgf99ag43abg99e1gaef08fe07d47" version="1">This summoned fey is positively captivating. After using its &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Mirthful"&gt;Fey Step&lt;/LSTag&gt; ability, it can charm a nearby enemy.</content>
+	<content contentuid="hd030aa65ga8bag40e2g9c9cg0cab81a4b0c1" version="1">Summon Fey: Tricksy</content>
+	<content contentuid="h2a9b3741g9bf5g43eeg8ae0gff13f54cfc80" version="1">Call forth a mischievous fey spirit able to call forth patches of darkness.</content>
+	<content contentuid="h7f7294e0gc231g4cd9g907fgf16af5ecdcfe" version="1">This summoned fey is up to something. When using its &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Tricksy"&gt;Fey Step&lt;/LSTag&gt; ability, it can create a patch of darkness that lasts until the end of its next turn.</content>
+	<content contentuid="h252182d4g9179g4f9bg8cffgcd28d1c9b5f8" version="1">Fey Step: Fuming</content>
+	<content contentuid="h2f03b9ccgd298g4e50g94b4g1091b6381053" version="1">Teleport to an unoccupied space you can see. Afterwards, get &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="hbc7e8538gddb3g434dgaebdg50a6a0ecc66f" version="1">Fuming Advantage</content>
+	<content contentuid="h154d70c4gaf56g4ea4g8392gf49be6a76c63" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="hff652c71ga6f2g4976g9fe8g7587e2949a5d" version="1">Fey Step: Mirthful</content>
+	<content contentuid="hcdb14210g2f74g4838g928fg13d9629aeb2f" version="1">Teleport to an unoccupied space you can see. Afterwards, you can &lt;LSTag Type="Spell" Tooltip="Target_MirthfulCharm"&gt;charm&lt;/LSTag&gt; an enemy.</content>
+	<content contentuid="hc06d3c9eg41d4g4313ga102gf06d85ad0fde" version="1">Fey Step: Tricksy</content>
+	<content contentuid="h613579e1g3885g4fbag804fg1a2262a172d9" version="1">Teleport to an unoccupied space you can see. Afterwards, you can create a &lt;LSTag Type="Spell" Tooltip="Target_Darkness_Tricksy"&gt;patch of darkness&lt;/LSTag&gt; that lasts until the end of your next turn.</content>
+	<content contentuid="h53ab9ebbge744g415fgb2f7g1e5214c50a86" version="1">Fey Slash</content>
+	<content contentuid="h7d81460ag214dg4f54g94b4g8b3eafeed9b4" version="1">Aim an attack at a target.</content>
+	<content contentuid="hf1ed27eagd72ag4132gae53gd7457ab84a41" version="1">Deals extra damage equal to the spell slot level used to cast the summon spell.</content>
+	<content contentuid="hc4310343ga33eg4b10ga209ge70b3123cd58" version="1">Summon Fey Bonuses</content>
+	<content contentuid="h30b727aegc64eg4534g9c2fg48e89b9ec059" version="1">Tricksy Darkness</content>
+	<content contentuid="ha32ee917g898cg4457g943eg8ec73d841478" version="1">Create a small patch of darkness.</content>
+	<content contentuid="hc0ac4df8g2244g41ddgb4c2gcb4f2954207f" version="1">Can create a small patch of darkness.</content>
+	<content contentuid="h740ad486g2a29g489aga4f8gf300b24d43d0" version="1">Mirthful Charm</content>
+	<content contentuid="ha5efa8c5gbcd1g4594g97e5g153549c0dd34" version="1">Can charm a nearby enemy.</content>
+	<content contentuid="he41dc336g9c34g45f2ga32ag02d235864c91" version="1">Charmed by a fey spirit.</content>
+	<content contentuid="h82b0e79eg2c29g49e9ga16eg9e19a2d54997" version="1">Charms a nearby enemy, preventing it from attacking you.</content>
+	<content contentuid="ha6cf23edgdaeeg455dgaddcg7e2b7081daf2" version="1">Conjure Woodland Beings</content>
+	<content contentuid="h30a95771gce31g433bgbc1dgd9379a3ca61a" version="1">Summon a fey creature taking the shape of a dryad or a meenlock to fight alongside you.</content>
+	<content contentuid="h21589cabg38ceg4e19ga2b9g4263e4e102cc" version="1">Conjure Woodland Beings: Dryad</content>
+	<content contentuid="h268b425cge1efg4a97g994eg178ee7e21ddf" version="1">Conjure Woodland Beings: Meenlock</content>
+	<content contentuid="h890868edg381cg492eg90feg1a69babf0015" version="1">Conjure a meenlock to fight alongside you. It can &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;paralyze&lt;/LSTag&gt; creatures with its venomous claws, &lt;LSTag Type="Spell" Tooltip="Target_ShadowTeleport_Meenlock"&gt;teleport&lt;/LSTag&gt; to a shadowy location, and possibly &lt;LSTag Type="Status" Tooltip="MEENLOCK_FEAR_AURA"&gt;frighten&lt;/LSTag&gt; nearby enemies.</content>
+	<content contentuid="h5857a302gb109g41a1g85a7g7b967221aeaa" version="1">Lash out with venomous claws to &lt;LSTag Type="Status" Tooltip="PARALYZED_MEENLOCK"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
+	<content contentuid="h99aa420bg3a27g44ceg8ba8gd113f23d2c2b" version="1">The creature can repeat the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of each of its turns, ending the paralysis on a success.</content>
+	<content contentuid="h313e2400gf5d2g4294g8e1bg41fd3aea9dc4" version="1">Casting this spell at a higher level increases the beast's armor class, hit points and damage done.</content>
+	<content contentuid="h8af7294cg4e0eg42d0ga443gff47fe107689" version="1">Using a 5th-level spell slot or higher to cast this spell doubles the number of summoned beasts.</content>
+	<content contentuid="h14091437g3cdag402cg981eg00d447294fa5" version="1">Casting this spell at a higher level increases the fey's armor class, hit points and damage done.</content>
+	<content contentuid="h0345abd1g2dc6g42dbg9060gb1c3bfe74106" version="1">Bear Spirit Totem</content>
+	<content contentuid="h5a080096gce39g4302gbc34gc8f101b95762" version="1">Hawk Spirit Totem</content>
+	<content contentuid="h811b59eagaf02g4b0dg8bcbgdfb08b793582" version="1">Stag Spirit Totem</content>
+	<content contentuid="h5e81bdf9ge335g4a04gad64geed6bd4b53f2" version="1">Fey Spirit</content>
+	<content contentuid="h4b8fb2beg00e5g45b6g9cafg695c039e34c9" version="1">Can possibly &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; nearby enemies with its fey presence.</content>
+	<content contentuid="h37bcf0e8g3b79g4e86gb679g319aab461280" version="1">Summon Beast: Multiattack</content>
+	<content contentuid="h84ce4e0bgf50bg4a40gba0bg1b18c019aa24" version="1">Can make a number of attacks equal to the spell level used to summon the beast, rounded down.</content>
+	<content contentuid="hb5009b74g4074g4bb1ga383g2785fcec5334" version="1">Summon Fey: Multiattack</content>
+	<content contentuid="h8e1d810eg0180g43c2g84a5g091816567994" version="1">Can make a number of attacks equal to the spell level used to summon the fey, rounded down.</content>
+</contentList>
