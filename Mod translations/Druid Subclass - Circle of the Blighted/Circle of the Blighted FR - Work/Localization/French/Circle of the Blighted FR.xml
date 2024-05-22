@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hd26c75ecgbc51g45a2g9852gcf2dc3440c8f" version="1">Circle of the Blighted</content>
+	<content contentuid="hb48e0de1g5bbbg430ega036g4faedae9db04" version="1">Twisted by their connection to an unhallowed territory, these Druids come to exalt the natural process of decay and using it to further their goals—or sometimes to seek a means to end the curse that plagues them.</content>
+	<content contentuid="hf30ac526g3d4fg4220gb5afg88b9d96d8ca0" version="1">Defile Ground</content>
+	<content contentuid="h83f2353cg0391g4262gba42g6e5918ce3549" version="1">You can corrupt a patch of land, which becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; for enemies. When a creature in the area takes damage from an attack or spell for the first time on a turn, it takes an extra [1].</content>
+	<content contentuid="h68de38b0g70c2g4b1fgbc66g8489d15f2a47" version="1">The radius of the defiled ground and the extra damage increases at higher levels.</content>
+	<content contentuid="h76d2c35bgf9fdg4a51gb2b8g7e8281c56a61" version="1">Corrupt a patch of land, which becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; for enemies. When a creature in the area takes damage from an attack or spell for the first time on a turn, it takes an extra [1].</content>
+	<content contentuid="h37b10500g577dg4f9dg8082gd977fca54609" version="1">Defile Ground Aura</content>
+	<content contentuid="h88275c9cgaa39g4f78g9597g1c5100d6ec59" version="1">Defiled Ground: Difficult Terrain Immunity</content>
+	<content contentuid="h28d4e4feg09abg41d0g89f3g270eecfe303e" version="1">An ally of the Druid doesn't have its movement impeded by the defiled ground.</content>
+	<content contentuid="hd8738043gc9ecg4230g8e62ge6740a612c38" version="1">Defiled Ground</content>
+	<content contentuid="h08c30215g38b8g450agbe5bgf921eb080122" version="1">Standing on defiled ground. Takes an extra [1] from the first attack or spell that hits it each turn.</content>
+	<content contentuid="hb7688958gcb1dg4b5fgaabaga092c36f9194" version="1">On Defiled Ground</content>
+	<content contentuid="h3180f579g44c4g429ag8be5g9d7a63abdf22" version="1">Blighted Shape</content>
+	<content contentuid="h4fc12550gf427g4ca6ga38fg807728fb0a6f" version="1">Your physical form begins to show effects of the corruption you wield, granting you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in the &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; skill. Additionally, the corruption protects you from harm while you are transformed by your &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Wild Shape&lt;/LSTag&gt; feature, increasing your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2. Your beast form also gains increased &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt; to a distance of [1].</content>
+	<content contentuid="h46368ce9gbb1dg4b10g87aagb075e64e7c49" version="1">Let your physical form show the effects of the corruption you wield.</content>
+	<content contentuid="h3e66748agce2eg4b9dg92edgf82f1e61feb1" version="1">This effect can only be toggled on and off when in a &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Wild Shape&lt;/LSTag&gt;.</content>
+	<content contentuid="h9878757fga0d4g43e7gb385g481f6fd33529" version="1">Your physical form shows the effects of the corruption you wield.</content>
+	<content contentuid="he7df23b9g8004g4f64g9501ge6b370ea6017" version="1">Requires you to be transformed by your Wild Shape feature.</content>
+	<content contentuid="h65830d99g1c33g487fga8aeg99b7527d6ee4" version="1">Call of the Shadowseeds</content>
+	<content contentuid="hbd32a418g367bg4b33ga533gd5e84fff897e" version="1">Summon the feral children of the forest using the life force of your enemies. When a creature takes damage within the area of your &lt;LSTag Type="Spell" Tooltip="Target_DefileGround"&gt;Defile Ground&lt;/LSTag&gt;, you can summon a Blighted Sapling in an unoccupied space within [1] of the creature.</content>
+	<content contentuid="hde61472bg43a9g4c2fg8a83g00c9339d6af0" version="1">You can direct the Sapling to immediately make a melee attack as a part of the Reaction.</content>
+	<content contentuid="h36057814gb7e9g4b8dg9768g92a8217fb1a1" version="1">The Blighted Sapling uses its summoner's &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spell Attack Modifier&lt;/LSTag&gt; for its attack rolls and inherits their &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, which determines the Sapling's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and attack damage. Its health equals twice the Druid's level.</content>
+	<content contentuid="hc620e86dga468g4b18g99aegf236b23e25d0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cannot be cast on Undead and Constructs.</content>
+	<content contentuid="hf2297bd8g91f7g4799gad45g9681412aefba" version="1">When you reach 14th level in this class, the Blighted Sapling can make two attacks.</content>
+	<content contentuid="h42996974g4a37g4d15gaf93ged2701233c77" version="1">When a creature affected by your &lt;LSTag Type="Spell" Tooltip="Target_DefileGround"&gt;Defile Ground&lt;/LSTag&gt; is damaged the first time each round, you may summon a Blighted Sapling next to the target.</content>
+	<content contentuid="had4a4e34g6eebg443eg9028g91784e6f0f6a" version="1">Call of the Shadowseeds Bonuses</content>
+	<content contentuid="hd24bf508gbf8ag4965ga0e3g843ea2ed53be" version="1">Sapling Stab</content>
+	<content contentuid="haccb1f87g03f8g47e1g96a0g01829a9f38e1" version="1">Stab the target with gnarly branches.</content>
+	<content contentuid="h1db9ea00g0f52g4c92gb995gb578f8d89d03" version="1">Blighted Sapling: Multiattack</content>
+	<content contentuid="hfbcb476cg9646g4f8ag835cg908a2d06125c" version="1">Can make two claw attacks.</content>
+	<content contentuid="h8ef7d729g6aeeg4116gb154gb946371ac08b" version="1">Foul Conjuration</content>
+	<content contentuid="ha0d66a62gef05g40c6ga8f4gfef59ef384b7" version="1">The creatures you conjure are malformed and bloated with toxins. Any Beast, Fey, or Plant summoned by you is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Necrotic and Poison damage, and cannot be &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;. Furthermore, when the creature dies, it explodes in a burst of toxic mulch or fetid viscera, dealing a number of d6s of Necrotic damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hcf0f5b09g7390g46f7ga7c8ge6b44babb487" version="1">You may also cause a summoned creature to explode, immediately killing it.</content>
+	<content contentuid="hde2d4964gb383g4fd8ga7c9g227afad517b8" version="1">Blighted Resilience</content>
+	<content contentuid="h9f3582bag2f6bg4eadgadd4g306d75d89e06" version="1">This creature is bloated with toxins. Has &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Necrotic and Poison damage, and cannot be &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.</content>
+	<content contentuid="h1a25e4b0g4e45g4334g99eage972f8befe8d" version="1">Toxic Demise</content>
+	<content contentuid="h9c83f007g15cag4495g8509g3660f63e9448" version="1">When this creature is reduced to 0 hit points, it explodes in a burst of toxic mulch or fetid viscera. Each creature within [1] of the exploding creature takes a number of d6s of Necrotic damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="he9f3d5cdg2307g46c4gbbd6gb062aa13910b" version="1">Cause a creature summoned by you to explode in a burst of toxic mulch or fetid viscera, dealing a number of d6s of Necrotic damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to all nearby creatures.</content>
+	<content contentuid="h2a92d5b8g5821g4722g876cg62eefe49ceca" version="1">Explode in a burst of toxic mulch or fetid viscera, dealing a number of d6s of Necrotic damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to all nearby creatures.</content>
+	<content contentuid="h24fb1091g0896g4eecgaa43g961a55b78405" version="1">Incarnation of Corruption</content>
+	<content contentuid="h3d1594a9ga9ddg42d1ga097g0e59314b61d8" version="1">Your physical form begins to take on the tainted traits of the land to which you are bonded, granting you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage and a +2 bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;. Additionally, whenever you start your turn within the radius of the corruption created by your &lt;LSTag Type="Spell" Tooltip="Target_DefileGround"&gt;Defile Ground&lt;/LSTag&gt; feature, you may gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hd57a5915g193eg47c0g865cgffbfbc62f716" version="1">Let your physical form show the tainted traits of the land to which you are bonded.</content>
+	<content contentuid="h67ecc072gaae4g4a87gb1e2ge5ee559c2d06" version="1">Defile Ground: Temporary Hit Points</content>
+	<content contentuid="h380b49a8gf413g4e68gbeefg221ba98ac7da" version="1">When you start your turn within the radius of the corruption created by your &lt;LSTag Type="Spell" Tooltip="Target_DefileGround"&gt;Defile Ground&lt;/LSTag&gt; feature, you may gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h78cea370g51deg4504g8bf5g4cfa80e632d6" version="1">You can hide your corruption by toggling this feature off.</content>
+	<content contentuid="h8369d84fg416dg420egafd4g2ea19db7f045" version="1">You have allowed the tainted traits of the land to which you are bonded to come into view.</content>
+	<content contentuid="h9d18ba00g1ed4g40eeg8b15gedfa07a3a4a0" version="1">Blighted Sapling</content>
+	<content contentuid="hc17ce875g3be8g46a3gbc32gf53aafa6412e" version="1">Shadowseeds</content>
+	<content contentuid="ha145f389g93fdg4822g8ec0ga5d4c587312b" version="1">Small seeds made out of the condensed blight coursing through your body. Used to summon Blighted Saplings.</content>
+	<content contentuid="h8ed16ac6g6890g468dgb111g4dd5c603aed2" version="1">Shadowseeded</content>
+	<content contentuid="h2475c2efg13d5g4d4dgb372g3234ee46a499" version="1">Has taken damage while standing on &lt;LSTag Type="Spell" Tooltip="Target_DefileGround"&gt;Defiled Ground&lt;/LSTag&gt;. Can be targeted by the Druid to summon a Blighted Sapling.</content>
+	<content contentuid="hb759f2d1g5d77g46f9gbb28g93f4b57718b3" version="1">Call of the Shadowseeds: Blighted Sapling Attack</content>
+	<content contentuid="h80a1f6e9g74a0g44d3gb12dgb0ef3d40fd2c" version="1">Direct the Blighted Sapling to make a free attack.</content>
+	<content contentuid="h8e0edfc2gfc91g481agad3ag10a872fc3404" version="1">You may direct the Blighted Sapling to make a free attack.</content>
+	<content contentuid="h26ed81b7g970fg4b87gbf3egedb658b4755d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Only available immediately after the Blighted Sapling is summoned.</content>
+	<content contentuid="h3c7b8711g537dg4350gba48g01e825644403" version="1">Blighted Sapling: Free Attack</content>
+	<content contentuid="h68fe21e1g45f5g432dga512gf93fd73b1f07" version="1">The Sapling can immediately make a free attack.</content>
+	<content contentuid="h8e4c1994gdb46g4f6agbdddg81743efef5aa" version="1">Incarnation of Corruption: Temporary Hit Points</content>
+</contentList>
