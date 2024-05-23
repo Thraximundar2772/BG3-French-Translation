@@ -24,7 +24,5 @@ Vous pouvez télécharger le template mis à votre disposition (Soon)
 - Pas de dossier "Localization" d'autre langues. Si vous êtes polyglotte la Communauté des Traducteurs Francophone sera ravit de vous aider à mettre en place la même chose dans votre langue.
 - Ne laissez pas les version originale des mods dans le dossier racine. Ce code n'est pas à vous, ce n'est pas à vous de l'uploader ailleurs. Même si vous avez leur accord on ne veux pas de ça ici.
 
-![img1](https://i.imgur.com/842Kvw3.png)
-![img2](https://i.imgur.com/RJaDu5H.png)
-![img3](https://i.imgur.com/AEI7X81.png)
-![img4](https://i.imgur.com/waoEygI.png)
+![img1](https://i.imgur.com/NlbQmgV.png)
+
