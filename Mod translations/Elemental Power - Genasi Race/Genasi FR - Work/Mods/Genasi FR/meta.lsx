@@ -24,6 +24,9 @@
           <attribute id="UUID" type="FixedString" value="eee08b22-14f2-41c6-ad56-4a770570d534"/>
           <attribute id="Version" type="int32" value="36873221949095936"/>
           <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="36873221949095936" />
+            </node>
             <node id="Scripts"/>
             <node id="TargetModes">
               <children>
