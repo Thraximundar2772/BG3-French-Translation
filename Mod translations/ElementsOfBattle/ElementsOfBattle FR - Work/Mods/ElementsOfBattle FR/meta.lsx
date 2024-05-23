@@ -21,7 +21,7 @@
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSWString" value="Fighter;BattleMaster;Equipment;Balanced;Fun;Based"/><!-- "Optional // Tags seperated by ; -->
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-                    <attribute id="UUID" type="FixedString" value="c184bea3-bdca-4a2a-bb04-7e71ca05dc63"/><!-- "Give it a Unique ID" -->
+                    <attribute id="UUID" type="FixedString" value="7d1990d5-66c4-4406-9341-5a2711a6ccdc"/><!-- "Give it a Unique ID" -->
                     <attribute id="Version" type="int32" value="72057594037927936"/>
                     <children>
                         <node id="PublishVersion">
