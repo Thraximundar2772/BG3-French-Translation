@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="59c3c33f-cffa-4f1c-8833-1083ec3f616a" version="1">Chevalier Psi</content>
+	<content contentuid="ef26a891-9c63-47ee-9153-3892a0b67af7" version="1">Sensible et éveillé aux pouvoirs psioniques, un chevalier psi est un guerrier qui augmente et renforce sa puissance physique à l'aide de frappes d'armes imprégnées psychiquement, de coups de fouet télékinétiques ou de barrières de force mentale. De nombreux githyanki s'entraînent pour devenir de tels chevaliers, tout comme certains hauts elfes parmi les plus disciplinés.</content>
+	<content contentuid="f6efb8af-5a6e-463a-b57d-a13e3d741772" version="1">Métabolisme amélioré par le psi: Résistance</content>
+	<content contentuid="07d360df-81f5-4f02-a715-20e2bffbcd3c" version="1">L'énergie psionique qui vous traverse a renforcé votre esprit et votre corps. Vous gagnez aux dégâts psychiques.</content>
+	<content contentuid="b5cc7a77-c772-4fdc-85bf-4025a11001c6" version="1">Métabolisme amélioré par le psi: Purification</content>
+	<content contentuid="7fd8e522-380a-4efc-999a-6e166ef0b657" version="1">Si vous commencez votre tour en étant &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt;, vous pouvez dépenser un Dé de Talent Psionique pour retirer cet état.</content>
+	<content contentuid="d59a1e19-9ded-47a4-bdc7-c8d5d21a9b09" version="1">Champ de protection</content>
+	<content contentuid="df7b4dce-7d78-4860-9d17-df93cbfbd514" version="1">Lorsque vous ou une autre créature que vous pouvez voir dans un rayon de 9 mètres autour de vous subit des dégâts, vous pouvez utiliser votre réaction pour lancer votre dé de Talent psionique et réduire les dégâts subis du nombre obtenu plus votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, créant momentanément un bouclier de force télékinétique.</content>
+	<content contentuid="7bcdfa8e-d5d1-47e6-9489-51d809785f86" version="1">Frappe télékinétique</content>
+	<content contentuid="0872b910-420a-432b-82c1-d038f6fb97b4" version="1">Vous pouvez propulser vos attaques avec une force télékinétique. Une fois à chacun de vos tours, immédiatement après avoir infligé des dégâts à une cible à 9 mètres ou moins de vous lors d'une attaque avec une arme, vous pouvez lancer votre dé de Talent psionique et également infliger à la cible des dégâts de force égaux au nombre obtenu + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;.</content>
+	<content contentuid="8b042438-7fae-4571-aa75-ed0447415c84" version="1">Frappe télékinétique: Attraction</content>
+	<content contentuid="578c29ea-c413-4814-9395-d0c811f9d07b" version="1">Vous pouvez propulser vos attaques avec une force télékinétique. Une fois à chacun de vos tours, immédiatement après avoir infligé des dégâts à une cible à 9 mètres ou moins de vous lors d'une attaque avec par arme, vous pouvez lancer votre dé de Talent psionique et également infliger à la cible des dégâts de force égaux au nombre obtenu + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;. De plus, si la cible échoue son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; en &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, elle est attirer de 6m vers vous.</content>
+	<content contentuid="5745f475-1cbd-48c7-825c-9774847c79cb" version="1">Frappe télékinétique: Répulsion</content>
+	<content contentuid="361914c7-8d7d-4563-ac48-e21706559e19" version="1">Vous pouvez propulser vos attaques avec une force télékinétique. Une fois à chacun de vos tours, immédiatement après avoir infligé des dégâts à une cible à 9 mètres ou moins de vous lors d'une attaque avec par arme, vous pouvez lancer votre dé de Talent psionique et également infliger à la cible des dégâts de force égaux au nombre obtenu + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;. De plus, si la cible échoue son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; en &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, elle est repousser de 6m.</content>
+	<content contentuid="d7e17d86-01c8-4527-9381-aca3c8532a4b" version="1">Frappe télékinétique: Mise à Terre</content>
+	<content contentuid="aa253a26-ae13-43a3-8660-0731ecf5a794" version="1">Vous pouvez propulser vos attaques avec une force télékinétique. Une fois à chacun de vos tours, immédiatement après avoir infligé des dégâts à une cible à 9 mètres ou moins de vous lors d'une attaque avec par arme, vous pouvez lancer votre dé de Talent psionique et également infliger à la cible des dégâts de force égaux au nombre obtenu + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;. De plus, si la cible échoue son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; en &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, elle est mise &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt;.</content>
+	<content contentuid="1d179056-756d-47ff-a734-76d2ec735251" version="1">Mouvement télékinetique: Dé de Talent Psionique</content>
+	<content contentuid="605036f7-7492-4915-a453-e1a48d35460b" version="1">Par une action, vous ciblez un objet non tenu de taille G ou plus petit ou une créature consentante de 9m.</content>
+	<content contentuid="179e8d41-061c-4ea9-9056-699909bc8972" version="1">Mouvement télékinetique: Court Repos</content>
+	<content contentuid="6e172fc9-7c7a-4663-b035-bf0a3f3b9708" version="1">Saut de Psi: Dé de Talent Psionique</content>
+	<content contentuid="e598d439-4ef9-4faa-9894-ab2da08ff380" version="1">Gagnez la capacité de voler ce tour. Votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est doublé ce tour.</content>
+	<content contentuid="fe5a8f14-bb0c-4bcf-9c2f-792f94825b8d" version="1">Saut de Psi: Court Repos</content>
+	<content contentuid="ac3ea53e-78b2-4068-9d68-017d637eb873" version="1">Dé de Talent Psionique</content>
+	<content contentuid="e115e8c4-547c-4ba3-92c4-15f8fdd83980" version="1">Vous abritez en vous une source de puissance psionique, une énergie qui reflue et coule lorsque vous la canalisez de diverses manières. Ce pouvoir est représenté par votre dé de Talent psionique, dont la taille de départ est un 1D6.</content>
+	<content contentuid="c8e10aa4-8237-46cb-98ba-65fed961a823" version="1">Dé de Talent Psionique: 1D8</content>
+	<content contentuid="35f03bd4-f372-4b3c-874d-ff2446af4c5d" version="1">La taille de votre Dé de Talent Psionique est augmenté à 1D8.</content>
+	<content contentuid="e4a14737-a57e-4204-b031-79fc89531a41" version="1">Dé de Talent Psionique: 1D10</content>
+	<content contentuid="8d87d830-b17c-4500-85c5-2e241c05cc6a" version="1">La taille de votre Dé de Talent Psionique est augmenté à 1D10.</content>
+	<content contentuid="35300a67-dae6-4545-a586-c3f6579c11d2" version="1">Dé de Talent Psionique Energy Dice: d12</content>
+	<content contentuid="a7f6daf9-a73d-4bde-bf0a-c0aef31f3c66" version="1">La taille de votre Dé de Talent Psionique est augmenté à d12.</content>
+	<content contentuid="f93ecb58-dfaf-46e5-9861-9e955841fc6e" version="1">Métabolisme amélioré par le psi</content>
+	<content contentuid="d26584ab-5810-44c5-972f-36b325cd037b" version="1">Métabolisme amélioré par le psi</content>
+	<content contentuid="0d6f5d0b-9d1d-4106-9314-10a159cc6544" version="1">Retirez les effets de &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt; et &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt; vous affectant.</content>
+	<content contentuid="765fb8e9-b84d-4dce-b30d-00039c0416f3" version="1">Résistance sinistre</content>
+	<content contentuid="f9be7652-18ca-4b73-bf34-d20c04b9dad5" version="1">Regagnez un Dé de Talent Psionique dépensé.</content>
+	<content contentuid="c4856fb3-d4ab-4ce4-af32-8870c0e05127" version="1">Obtenez un Dé de Talent Psionique additionnel ce tour.</content>
+	<content contentuid="cb474b81-2864-4d7d-887c-d9b1a84120b9" version="1">Poussée Psionique</content>
+	<content contentuid="d92209fe-7772-47ff-a5a0-baf072ad5d66" version="1">Poussée Psionique</content>
+	<content contentuid="2d314ead-d311-4c1e-a6a2-54810fa369e7" version="1">Vous obtenez trois nouvelles Poussée Psionique, vous permettant d'attirer ou de repousser votre cible de 6m ou encore de la mettre &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt;.</content>
+	<content contentuid="9bbe384a-fbc8-4bcf-afa4-6a808dd64b0a" version="1">Une fois par tour : Frappe télékinétique</content>
+	<content contentuid="fbc128f6-569e-426e-882f-e5f5c896bbe4" version="1">Poussée Psionique</content>
+	<content contentuid="75ff1884-36ff-4a37-9e40-1f31e0463fe4" version="1">Attirance Psionique</content>
+	<content contentuid="7c99d179-38a5-44e2-b07b-542f33cf30bc" version="1">Protection Psionique</content>
+	<content contentuid="c507462c-8567-45ae-91ba-414b76869f86" version="1">Charge de Talent Psionique</content>
+	<content contentuid="fbc128f6-569e-426e-882f-e5f5c896bbe4" version="1">Mouvement télékinetique</content>
+	<content contentuid="fa05d129-528c-4f6e-8f5b-3e750f3ea149" version="1">Saut de psi</content>
+	<content contentuid="096f3b60-80f0-4b36-be61-e16efb2267b6" version="1">Rempart de force: Psionique</content>
+	<content contentuid="75ff1884-36ff-4a37-9e40-1f31e0463fe4" version="1">Rempart de force: Court Repos</content>
+	<content contentuid="feb663a2-7e78-4ab7-b3dc-aa2e024ad0a2" version="1">Par une action vous pouvez vous protéger et protéger les autres avec une force télékinétique en leur donnant +2 de classe d'armure et aux jets de sauvegarde en dextérité. Vous pouvez choisir des créatures que vous pouvez voir dans un rayon de 9 mètres autour de vous, d'un nombre de créatures égal à votre modificateur d'Intelligence (minimum une créature).</content>
+	<content contentuid="7c99d179-38a5-44e2-b07b-542f33cf30bc" version="1">Rempart de force:</content>
+	<content contentuid="f0c9eee7-327c-4d21-b322-13e472f78b42" version="1">Vos protections psioniques vous permettent de faire plier la réalité pour protéger vos alliés.</content>
+	<content contentuid="13dc8a93-3244-46a8-b88b-0d4ccce4e630" version="1">Maître télékinétique</content>
+	<content contentuid="8e7d89f9-1e8c-46e7-947d-b4d44705c4de" version="1">Votre Mouvement télékinetique ne consomme plus de Dé de Talent Psionique et peut cibler les ennemis.</content>
+	<content contentuid="25865451-77fc-43c5-b146-9c9720e0361a" version="1">Votre capacité à déplacer des créatures et des objets avec votre esprit n'a pas d'équivalent. </content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	
+</contentList>
