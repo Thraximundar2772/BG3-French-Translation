@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="6" build="5" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSString" value="Valgunn" /> Your alias
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value="" /><attribute id="Description" type="LSString" value="Witcher 3 custom class -Version FR." /> Description of your mod
+                    <attribute id="Folder" type="LSString" value="Witcher 3 custom class -Version FR" /> The name of the mod folder
+                    <attribute id="GMTemplate" type="FixedString" value="" /><attribute id="LobbyLevelName" type="FixedString" value="" /><attribute id="MD5" type="LSString" value="" /><attribute id="MainMenuBackgroundVideo" type="FixedString" value="" /><attribute id="MenuLevelName" type="FixedString" value="" /><attribute id="Name" type="FixedString" value="Witcher 3 custom class -Version FR" /> Mod's name. I recommend same as Folder
+                    <attribute id="NumPlayers" type="uint8" value="4" /><attribute id="PhotoBooth" type="FixedString" value="" /><attribute id="StartupLevelName" type="FixedString" value="" /><attribute id="Tags" type="LSString" value="" /><attribute id="Type" type="FixedString" value="translate" /><attribute id="UUID" type="FixedString" value="c134b984-8697-4047-ac6d-072130838cf5" /> Generate new UUID
+					<attribute id="Version64" type="int64" value="144115200960757765" /> Version number doesn't really matter.
+                    <children><node id="PublishVersion"><attribute id="Version64" type="int64" value="144115200960757765" /> Version number doesn't really matter.
+                        </node><node id="Scripts" /><node id="TargetModes"><children><node id="Target"><attribute id="Object" type="FixedString" value="Story" /></node></children></node></children></node>
+      </children>
+    </node>
+  </region>
+</save>
