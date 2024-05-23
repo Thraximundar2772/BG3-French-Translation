@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h73316908g7f2dg4f55gb423g683bc269cf24" version="1">Amulette du Maître de guerre</content>
+	<content contentuid="h085269d7g8867g4830g8a91g54f2b4bfb0be" version="1">Une lourde amulette en fer, aussi solide que l'esprit inébranlable du commandant Fellguard. Elle incarne la résistance, l'emblème d'un défenseur qui a refusé de céder.</content>
+	<content contentuid="hcae6ef51g1aa1g4094g83f7gf9d7e403bbb5" version="1">Bouclier du Maître de guerre</content>
+	<content contentuid="hd629a39cg7260g4224g82d4gabdba91f7d97" version="1">Un bouclier en bois éprouvé, recouvert de bandes de fer. Ce bouclier porte encore les cicatrices de la défense du pont de Boareskyr. Comme son propriétaire, ce bouclier a tenu bon jusqu'à ce que le siège soit levé.</content>
+	<content contentuid="h949e954dg6ef7g4370g8b18g9bb88916edea" version="1">Anneau du Maître de guerre</content>
+	<content contentuid="h47ac8f42gf490g42c8g8c8fge0e5d5f99047" version="1">Une simple anneau en fer sans ornement. Quelques traces d’inscription subsistent encore à l’intérieur mais la bague est tellement usée que le texte est illisible.</content>
+	<content contentuid="h113d85cag552ag4725g9183gecd02aac2297" version="1">Cape du Maître de guerre</content>
+	<content contentuid="h6827e382ga2e9g4d91gbb45gbab955b5f128" version="1">Une cape cramoisie qui ornait autrefois les épaules du célèbre maître de bataille Salazar Fellguard. Chaque déchirure et chaque tache témoigne du courage de son propriétaire, le commandant qui a tenu le pont de Boareskyr contre toute attente.</content>
+	<content contentuid="hcc8448ffg1768g45a1g80f3g1e4e498ff9cd" version="1">Manoeuvre: Dé Supplémentaire</content>
+	<content contentuid="hc022f325gbdd7g4d5bgaef5g0e6ad9bfb292" version="1">Vous octroie un &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de Superiorité&lt;/LSTag&gt; de plus par &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h2f3ef660ge896g42e7gbceag2d1091131629" version="1">Manoeuvre: Dés Gargantuesque</content>
+	<content contentuid="h6ace8ed5g6dbag4875gadc1g3a9571b0e828" version="1">Augmente la taille de vos &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de Superiorité&lt;/LSTag&gt;. Vos D8 deviennent des D10 et vos D10 des D12.</content>
+	<content contentuid="h7859724eg8e12g44d8gb242g7b6a3e3cf3d2" version="1">Protection: Ralliement</content>
+	<content contentuid="he0f44e30gb27cg487cg9fe1g6771636d166a" version="1">Ajoute le double de votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; aux bonus de &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaire&lt;/LSTag&gt; de Regain. Le Maître de guerre bénéficie également du Regain.</content>
+	<content contentuid="h3c5bdbcegad00g4d4dgac14gc9c986c7c748" version="1">Meneur: Avantage</content>
+	<content contentuid="h9e4a761agcc26g4d42g86edg39c0d03068af" version="1">Vous confère un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à votre allié pour son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; lorsqu'il est sous l'effet d'Instruction.</content>
+	<content contentuid="hb9743f2ege4a7g4904g9766g8fb754051371" version="1">Puissance: Riposte</content>
+	<content contentuid="ha3811137g0e50g403eg959fgb86950591385" version="1">Vous confère un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; avec Riposte.</content>
+	<content contentuid="hc2a66ff1gc274g4466g8674g8e06723ce906" version="1">Puissance: Récupération de Dé</content>
+	<content contentuid="h4b4c4c15gfedbg43c5g8d45g46e21b03d94d" version="1">Récupérer un &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de Superiorité&lt;/LSTag&gt; lorsque vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt;. Une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h673b9261gfdb3g40e3g8be5gcd9989cce6bb" version="1">Puissance: Récupération de Dé</content>
+	<content contentuid="h71111f74ge2c5g42a9g9b96gb79786afa74b" version="1">Récupérer un &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Dé de Superiorité&lt;/LSTag&gt; lorsque vous toucher un ennemi &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surpris&lt;/LSTag&gt;. Une fois par combat.</content>
+	<content contentuid="h6d495fc0g8b98g406fgaf5fg08b1a04a4b7c" version="1">Manoeuvre: Maître de guerre</content>
+	<content contentuid="h78282578g7476g4d96g9c9ag065c939bbdcc" version="1">Augmente le &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; de vos manoeuvres de 2.</content>
+</contentList>
