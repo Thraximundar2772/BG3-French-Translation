@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="6" build="68" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSWString" value="Thraximundar2772" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSWString" value="Traduction en français du patch : Patch for Astralities' Tiefling Compendium." />
+          <attribute id="Folder" type="LSWString" value="Tiefling Compendium Hellish Resistance Patch FR" />
+          <attribute id="GMTemplate" type="FixedString" value="" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="FixedString" value="Tiefling Compendium Hellish Resistance Patch FR" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSWString" value="Translation" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="80c04077-c715-4456-a360-4f614204b307" />
+          <attribute id="Version64" type="int64" value="108086391056891904" />
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="108086391056891904" />
+            </node>
+            <node id="Scripts" />
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
