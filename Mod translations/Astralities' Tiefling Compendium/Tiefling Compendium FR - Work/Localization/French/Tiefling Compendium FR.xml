@@ -29,7 +29,7 @@
   <content contentuid="he4650379g703bg415cg9dbbg60af62275a3e" version="1">Lignée de Mammon</content>
   <content contentuid="ha07d5134g1af2g4e90gbf6ag4900658182ed" version="1">Les tieffelins dont la lignée remonte à la créature la plus riche de tous les plans, l'archidiable Mammon, sont particulièrement doués pour acquérir et conserver toutes sortes de richesses.</content>
   <content contentuid="h70fd1be9g3dd9g4bc7gbf49g6eb8b6717e15" version="1">Héritage de Minauros: Bouclier</content>
-  <content contentuid="h12fd51dag18dbg4796gb81cgf5c729270444" version="1">description</content>
+  <content contentuid="h12fd51dag18dbg4796gb81cgf5c729270444" version="1">Description</content>
   <content contentuid="hdf2ee46bgead6g414aga82eg757f9bd9d8ed" version="1">Héritage de Minauros: Serrure Arcanique</content>
   <content contentuid="hb6b05302g96bbg4c6eg876eg21523abc9949" version="1">Un tieffelin descendant du Seigneur de l'Avarice, Mammon</content>
   <content contentuid="h4753b8c6g4de3g4061ga6ceg2937e833b1be" version="1">Lignée de Mammon</content>
@@ -80,9 +80,21 @@
   <content contentuid="h6c96d0f0g43d4g440dga24cgcd311e9692c2" version="1">Tieffelin Variant</content>
   <content contentuid="h6757c45eg7250g4f0bgbee2g39ad679271df" version="1">Vous pouvez modifier votre sort mineur en en sélectionnant un autre parmi les sorts mineurs répertoriés ci-dessous. Ce sort mineur n'utilise pas &lt;LSTag Tooltip="SpellSlot"&gt;d'emplacement de sort&lt;/LSTag&gt; et peut être lancé à volonté. Il utilise votre charisme comme son &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modificateur&lt;/LSTag&gt;.</content>
   <content contentuid="h7fe0a0b1g7d91g4a36ga3c8g92bc2b8ba397" version="1">Sort mineur de Tieffelin Variant</content>
-  <content contentuid="hcc2ee373gab66g453cga1cag6bf6b4238755" version="1">
-Vous pouvez changer l'énergie qui circule dans vos veines, vous permettant ainsi de la canaliser vers une attaque de griffe. Il utilise votre Dextérité comme &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modificateur&lt;/LSTag&gt;.</content>
-  <content contentuid="h8bae19a3g9c45g4081gbb29g033761d1444f" version="1">Griffes de Tieffelin Variant</content>
+  <content contentuid="hcc2ee373gab66g453cga1cag6bf6b4238755" version="1">Vous pouvez changer l'énergie qui circule dans vos veines, vous permettant ainsi de la canaliser vers une attaque de griffe. Il utilise votre Dextérité comme &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modificateur&lt;/LSTag&gt;.</content>
+    <content contentuid="h8bae19a3g9c45g4081gbb29g033761d1444f" version="1">Griffes Tieffelin</content>
+    <content contentuid="h6fb75f94g2f15g48f2g8b9dgc9574e620d2f" version="1">Vous pouvez modifier l'énergie qui circule dans vos veines, vous conférant ainsi une résistance contre ce type de dégâts.</content>
+    <content contentuid="hc3609a0dg0caag4f53g8788g731a28171842" version="1">Résistance infernale</content>
+
+    <content contentuid="h3a073228gdbb1g4bfdg905fg12ce182f4847" version="1">Tieffelin ailé</content>
+    <content contentuid="h6d9756a0g1756g4fc5g8e7fg1489500e5536" version="1">Vous pouvez retracer votre lignée jusqu’à un diable réputé pour son extraordinaire talent pour le vol.</content>
+    <content contentuid="h6aa6207bge1dcg4e49gaeb6g5481e5c1ca3a" version="2">Atterrissage en douceur</content>
+    <content contentuid="h60b74eb8g9e7eg4f4cga73cg7fad84bd3d8c" version="2">Vous êtes habitué au vol, ce qui vous permet d'éviter les atterrissages brusques. Vous êtes résistant aux dégâts de chute.</content>
+    <content contentuid="h9da2f870g404ag440cg903bg81b1ed83ed74" version="2">Squelette aéré</content>
+    <content contentuid="hab52548fge348g4a26gaf08geaa52691b684" version="2">Vos os contiennent de petites poches d’air, évoluées au fil des générations d’ancêtres volants. Vous êtes plus léger et plus agile que les autres, mais vous pouvez en transporter moins.</content>
+    <content contentuid="h8929793cgcdbfg4802g8ff1g6286589b0a52" version="2">Vol infernal</content>
+    <content contentuid="h69e0e4f8ge9a9g416fga65dged77719504f8" version="2">Bien que vous ne puissiez peut-être pas retracer votre lignée jusqu'à un singulier Archidiable de renommée, vous avez hérité des ailes de vos ancêtres - quels qu'ils soient -, vous permettant de traverser le champ de bataille en vol plutôt qu'à pied.</content>
+    <content contentuid="h5ef16c15g3265g4405g92dfgda4fba6aa4d6" version="2">Déployez vos ailes et volez jusqu'à [1] vers un emplacement cible en dehors du combat.</content>
+    <content contentuid="hc63d5b9fg509ag433aga8b7g662cf62a28ae" version="2">Déployez vos ailes et volez jusqu'à [1] vers un emplacement cible en combat et hors combat.</content>
   
   <!--//////////////
     ////Nightborn////
@@ -258,7 +270,7 @@ Vous pouvez changer l'énergie qui circule dans vos veines, vous permettant ains
   <content contentuid="h3be92b0bgd12dg4e51g8024g737f3d27a75b" version="1">Invoquez une balise lumineuse au clair de lune qui endommage toute créature qui entre dans la balise ou commence son tour dans sa lumière, et les &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Aveugle&lt;/LSTag&gt;.</content>
   <content contentuid="h97c69400gc388g4da5g95e9g5f507d64be5e" version="1">Balise lunaire</content>
   <content contentuid="hf296b4a7g55adg4a22g849egca68f3952e33" version="1">La créature est engloutie par des flammes fantomatiques qui infligent [1] et [2] par tour. En cas de jet de sauvegarde réussi, la créature subit toujours la moitié des dégâts.</content>
-  <content contentuid="hf799ee5fg6801g4b60g997dgd9d7647a0610" version="1">Pure moonlight engulfs any creature that enters this beacon of pure lunar energy, or starts its turn inside it's light. It deals [1] and [2], and &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Blinds&lt;/LSTag&gt;. On a successful save, targets still take half damage.</content>
+  <content contentuid="hf799ee5fg6801g4b60g997dgd9d7647a0610" version="1">Le clair de lune pur engloutit toute créature qui entre dans cette balise d’énergie lunaire pure ou qui commence son tour à l’intérieur de sa lumière. Il inflige [1] et [2], et &lt;LSTag Type="Status" Tooltip="BLINDINGLUMINESCENCE_STATUS"&gt;Aveugle&lt;/LSTag&gt;. En cas de jet de sauvegarde réussie, les cibles subissent toujours la moitié des dégâts.</content>
  
   <!--//////////////
     //////Claws///////
@@ -519,5 +531,43 @@ Vous pouvez changer l'énergie qui circule dans vos veines, vous permettant ains
   <content contentuid="h0dca1b5bg44c9g40a7g878bga26df58329a8" version="1">ASTRL Mephistopheles 10</content>
   <content contentuid="hc90581bfgf940g44a5g9865g72caf43fcf97" version="1">ASTRL Mephistopheles 11</content>
   <content contentuid="h1cd811c4gae9eg4493g8d68g66f522867e13" version="1">ASTRL Mephistopheles 12</content>
+ 
+    <!-- tag selector / original by ghouls0rules -->
 
+    <content contentuid="h27442dc7g9180g4fd5g9d7fg3994cfeda3d3" version="1">Ascendance</content>
+    <content contentuid="h2a67e4d9gd6eag4834g90c1g87664086b004" version="1">Qui êtes-vous ? D'où venez-vous ?&lt;br&gt;Sélectionnez l'ascendance qui correspond le mieux à votre personnage.&lt;br&gt;&lt;br&gt;Cette sélection détermine les balises qui leur sont appliquées. Les balises affectent la façon dont les PNJ réagissent à votre égard et les options de dialogue auxquelles vous pouvez avoir accès.</content>
+
+    <content contentuid="h1e6dfc9eg9940g41b1gba15g25369245fe33" version="1">Baldurien</content>
+    <content contentuid="hc4ace1dagb619g4a5fg92dfg6dda94a8e4ba" version="1">Vous êtes originaire de la Porte de Baldur.</content>
+    <content contentuid="h927a2352g1eeag441cgb7f1gc10d8cc58349" version="1">Outreterre</content>
+    <content contentuid="h79b446a5g3d5dg43cdgb83cgc1436d56774d" version="1">Vous êtes originaire d'Outreterre.</content>
+
+    <content contentuid="h6b02cbc2g98b9g4db6g8799gb0fb80ce0377" version="1">Haut-Elfe</content>
+    <content contentuid="hb79aaf7cg7f0eg4beagaf57g03d19918825d" version="1">Vous êtes un Haut-Elfe.</content>
+    <content contentuid="h38647ae1g72b0g453fgb170g39ab44e3feb4" version="1">Elfe des bois</content>
+    <content contentuid="h040fab45gdf2bg4ae2gb083ge3917451f243" version="1">Vous êtes un Elfe des bois.</content>
+
+    <content contentuid="h84792999g8a78g49abgb33dg3ae695a10cb4" version="1">Demi-Haut-Elfe</content>
+    <content contentuid="h98d9140cg2a13g48e1g9511g8994615e7a5f" version="1">Vous êtes un Demi-Haut-Elfe.</content>
+    <content contentuid="h174ef2ffg89feg4829g9c9bg2d1720a9e0c3" version="1">Demi-Elfe des bois</content>
+    <content contentuid="h4693984dg4376g4c98g82d3geaf1bbe5a98b" version="1">Vous êtes un Demi-Elfe des bois.</content>
+    <content contentuid="h40dbda33ge88ag44daga258g037ca7ae3d72" version="1">Demi-Drow</content>
+    <content contentuid="hf5c1f1b0gcf75g4981gbcadgd0829fe59a08" version="1">Vous êtes un Demi-Drow.</content>
+
+    <content contentuid="h5648b860ge7d5g46bbg95f4ga57534921efa" version="1">Drow Lolth-sworn</content>
+    <content contentuid="hf73d20cfg26a5g4cbcgb942g13378575b41f" version="1">Vous êtes un Drow Lolth-sworn.</content>
+    <content contentuid="h7afbe898g17b9g4851ga946g8af4539bb2f8" version="1">Drow Seldarine</content>
+    <content contentuid="h2886730cg4f28g449cg8a16g3a0db0824a0b" version="1">Vous êtes un Drow Seldarine.</content>
+
+    <content contentuid="hb432860dg63cbg459eg8c88g005563ed6202" version="1">Rare</content>
+    <content contentuid="h6de38774g742dg4e14gb8e3g816990fb64b7" version="1">Vous êtes une race rare.</content>
+
+    <content contentuid="hf7b38a5eg7af2g40aag8079ge86160de9dc0" version="1">Fée</content>
+    <content contentuid="h3ff8e901g9a0dg42d5gac94g4b22ca60d3b3" version="1">Vous avez une Ascendance Fée.</content>
+
+    <content contentuid="hfc7907efg1289g49cdga011g2c64d68f98d3" version="1">Pas de race</content>
+    <content contentuid="h0df5798ag9daeg46d5ga154gb121476368c6" version="1">Qui que vous étiez avant ce jour, vous l’avez oublié depuis longtemps.</content>
+
+    <content contentuid="h26b79a3eg14b9g45e7gabcdgd6a79be28ff2" version="1">Pas de foyer</content>
+    <content contentuid="h6e617917g8f52g4297gb26cg21fe799742b2" version="1">D’où que vous veniez, vous ne pouvez pas vous en souvenir.</content>
 </contentList>
