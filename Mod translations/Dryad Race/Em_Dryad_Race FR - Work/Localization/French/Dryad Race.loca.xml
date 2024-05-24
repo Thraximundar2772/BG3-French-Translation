@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="1">Dryade</content>
+	<content contentuid="h63aa15b0g0767g449agb6b5gf722fabde4a9" version="1">Les dryades sont des jeunes filles féeriques qui sont des protectrices des forêts et des arbres. Bien qu'elles restent habituellement proches de leur arbre lié, certaines dryades ressentent l'appel de l'aventure et partent avec un Gland du voyage lointain pour explorer des terres lointaines.</content>
+	<content contentuid="h0166b646g2143g4189g9f91gbcc04b62b5cb" version="1">Dryade printanière</content>
+	<content contentuid="h78d852bag7ebbg420dga21dgb2a1f81067ce" version="1">Ces dryades proviennent de clairières magnifiques et de forêts verdoyantes, incarnant l'esprit du printemps.</content>
+	<content contentuid="he7dbb61ag91beg44f4g90acgfceb04fb08a9" version="1">Dryade estivale</content>
+	<content contentuid="h1c357de6g1f3cg4349g8865g46ff016e8ac3" version="1">Ces dryades viennent de champs ouverts et de déserts chauds, incarnant l'esprit de l'été.</content>
+	<content contentuid="hc8ab4435g9b9bg4f2cg9c0cg43e694441e1a" version="1">Dryade automnale</content>
+	<content contentuid="h1f8cbaf6g03a8g4552g9366g7523ee51e49a" version="1">Ces dryades viennent de bois colorés et de plateaux orageux, incarnant l'esprit de l'automne.</content>
+	<content contentuid="hac1a31edg6ed5g4087g8605g9dbf089518ca" version="1">Dryade hivernale</content>
+	<content contentuid="h8b3dd1e8g2a49g43fdg92cfg1d5743277348" version="1">Ces dryades proviennent de cavernes glacées et de toundra clairsemée, incarnant l'esprit de l'hiver.</content>
+	<content contentuid="he91b2e77g2816g4a2bg81ebgc9a306a4e1d3" version="1">Vision dans le noir</content>
+	<content contentuid="h3fe12182gc725g423bg9b39g59027fbad3bc" version="1">Vulnérabilité Dryade</content>
+	<content contentuid="h0c647fdfg54fbg4ce6g89b8g12dab5e4c366" version="1">Vous êtes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de feu.</content>
+	<content contentuid="h1b4a3262g1dafg4311ga5b5gb605b49ed77a" version="1">Peau d'écorce naturelle</content>
+	<content contentuid="h5045c3b5gf30ag40c1gb8f7g2ba48149c8db" version="1">Votre peau est naturellement résistante comme l'écorce d'un arbre, ce qui augmente votre classe d'armure à 16.</content>
+	<content contentuid="h5a622391g005bg4e1bg90f9g841c04f7cb2a" version="1">Dépendance à l'Arbre Lié</content>
+	<content contentuid="ha35b7b6ag5172g47c0g9039gef642954d82e" version="1">En raison de votre héritage de dryade, vous vous affaiblirez si vous vous éloignez trop de votre arbre lié sans un Gland de voyage lointain.</content>
+	<content contentuid="hb84f3b3-3de2-49af-8666-410692faee4a" version="1">Gland de voyage lointain</content>
+	<content contentuid="h3c2a7a8-0c6f-4323-a8c4-af996b6be2e1" version="1">Un gland récupéré de votre arbre lié. Ne le perdez pas !</content>
+	<content contentuid="h8274b828gc2ccg4d43g8e59g4dd211b66065" version="1">Gland magique</content>
+	<content contentuid="h5472b848gc9bdg44c6g9f2fg7de78658ccf8" version="1">Une dryade touchant son Gland de voyage lointain obtiendra une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts Nécrotique et Poison. Cela n'a aucun effet pour ceux qui ne sont pas des dryades.</content>
+	<content contentuid="h3c23006dgf10bg417ag9753gdcd10b8850ce" version="1">Séparé</content>
+	<content contentuid="h247d23e5g0e36g44dfgb28agd995a2c6a635" version="1">Une dryade séparé de son gland de voyage lointain devient &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; à la plupart des dégâts.</content>
+	<content contentuid="h591f3cb-d646-42ee-83a2-66947f31bb33" version="1">Sous-vêtement feuillu de Dryade</content>
+	<content contentuid="h2e4a3ef-69b9-49cf-ab7f-e95e3604c599" version="1">Sous-vêtement feuillu. Les feuilles sont étonnament douces.</content>
+	<content contentuid="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="1">Aucun</content>
+	<content contentuid="h9e31411dg6ab5g4c8bg85daga260145b46cd" version="1">Coeur de la forêt</content>
+	<content contentuid="h2f536021g8782g4e1cga216g94ca455f0199" version="1">La nature vous suit peut importe où vous irez.</content>
+	<content contentuid="h136b273fg2584g45b1g8989g4636a07367b4" version="1">Dryade Verte 1</content>
+	<content contentuid="hf83d8f71gcb72g4750g99a9g65b36cd315e8" version="1">Dryade Verte 2</content>
+	<content contentuid="h874917f5gcbe1g4374gae03g040c261ddb90" version="1">Dryade Rouge 1</content>
+	<content contentuid="hcf3ff8cfg761bg4789gae52gbb5dfe3e11bd" version="1">Dryade Orange 1</content>
+	<content contentuid="hf3a5ecc0gf573g48edga0e4g4f02f66c044b" version="1">Dryade Bleu 1</content>
+	<content contentuid="h6e5649a8g6edbg4afdgb7bbgea3e75fb0f29" version="1">Tête Dryade 1</content>
+	<content contentuid="hdb9a7df6g4abag436eg92ebg73c64732edba" version="1">Tête 5</content>
+	<content contentuid="h00402f62g0d1ag4a00g9bcdga5a45209368f" version="1">Tête 6</content>
+	<content contentuid="h61018c8cg1994g4d2dg976cg64d90a6bb0b8" version="1">Tête 7</content>
+	<content contentuid="h8030afcdgad1fg418bgba16g3cf22fdd8282" version="1">Dreadlocks de Medusa</content>
+	<content contentuid="h70c8339egbde1g476fg973fg1ad32eaf0987" version="1">Tresses de Stheno</content>
+</contentList>
