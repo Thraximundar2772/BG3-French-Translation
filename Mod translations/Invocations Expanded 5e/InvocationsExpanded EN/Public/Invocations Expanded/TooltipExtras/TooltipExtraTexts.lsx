@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="326"/>
+    <region id="TooltipExtraTexts">
+        <node id="root">
+            <children>
+				//MADDENING HEX REQUIREMENT
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="h4eb45f53gbd0eg4b06g87ecg32eb5d568d51" version="1"/>
+                    <attribute id="UUID" type="guid" value="f775ee6d-f554-4f3b-8bd4-ab6ff5bb1d56"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
