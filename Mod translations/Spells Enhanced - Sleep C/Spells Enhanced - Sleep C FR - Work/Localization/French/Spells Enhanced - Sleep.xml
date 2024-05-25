@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="SleepWithLevelDescription" version="1">Plonge les créatures dans un sommeil magique. Sélectionnez [1] créatures dont le niveau maximum ne dépasse pas [2].</content>
+    <content contentuid="MoreTargetsHigherLevelDurDesc" version="1">Affecte une cible supplémentaire par niveau de sort, le niveau de la cible peut être plus élevé et la durée de l'effet est plus longue.</content>
+</contentList>
