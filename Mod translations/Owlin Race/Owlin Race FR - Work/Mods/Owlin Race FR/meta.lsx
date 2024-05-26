@@ -6,25 +6,25 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSString" value="Hornbird.Mod"/>
+                    <attribute id="Author" type="LSString" value="Thraximundar2772"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="I am in the pain"/>
-                    <attribute id="Folder" type="LSString" value="Custom_Race"/>
+                    <attribute id="Description" type="LSString" value="Traduction en français du mode Owlin Race"/>
+                    <attribute id="Folder" type="LSString" value="Owlin Race FR"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="Owlin Race Mod"/>
+                    <attribute id="Name" type="FixedString" value="Owlin Race FR"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="Tags" type="LSString" value=""/>
+                    <attribute id="Tags" type="LSString" value="Translation"/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-                    <attribute id="UUID" type="FixedString" value="315ce1a1-0f24-4777-90d9-06b01a93a716"/>
-                    <attribute id="Version" type="int64" value="72057594037927936"/>
+                    <attribute id="UUID" type="FixedString" value="04e72094-59e5-4ed8-bd40-8e269fa18a47"/>
+                    <attribute id="Version" type="int64" value="36028797018963968"/>
                     <children>
                         <node id="PublishVersion">
-                          <attribute id="Version64" type="int64" value="72057594037927936"/>
+                          <attribute id="Version64" type="int64" value="36028797018963968"/>
                         </node>
                         <node id="Scripts"/>
                         <node id="TargetModes">
