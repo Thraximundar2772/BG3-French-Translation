@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hcb58dd94gcf75g443cgb23cg53a8bcca062d" version="1">Eldritch Adept</content>
+	<content contentuid="hcb48dd94gcf75g443cgb23cg53a8bcca062d" version="1">You learn one Eldritch Invocation option of your choice from the warlock class.</content>
+	<content contentuid="hcb38dd94gcf75g443cgb23cg53a8bcca062d" version="1">Studying occult lore, you have unlocked eldritch power within yourself.</content>
+	<content contentuid="h197b2a94g427eg4376gb4cfg2597f877d55b" version="1">Skill Expert</content>
+	<content contentuid="h217b2a94g427eg4376gb4cfg2597f877d55b" version="1">Increase one ability score of your choice by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in one skill, and your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled in another of your choice.</content>
+	<content contentuid="h050b503bg4825g43fdg8978gb53162c7880d" version="1">Fey Touched</content>
+	<content contentuid="h051b503bg4825g43fdg8978gb53162c7880d" version="1">Fey Touched: Int</content>
+	<content contentuid="h052b503bg4825g43fdg8978gb53162c7880d" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Misty Step&lt;/LSTag&gt; and a Level 1 spell from the Divination or Enchantment school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Intelligence.</content>
+	<content contentuid="h053b503bg4825g43fdg8978gb53162c7880d" version="1">Fey Touched: Wis</content>
+	<content contentuid="h054b503bg4825g43fdg8978gb53162c7880d" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Misty Step&lt;/LSTag&gt; and a Level 1 spell from the Divination or Enchantment school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Wisdom.</content>
+	<content contentuid="h055b503bg4825g43fdg8978gb53162c7880d" version="1">Fey Touched: Cha</content>
+	<content contentuid="h056b503bg4825g43fdg8978gb53162c7880d" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Misty Step&lt;/LSTag&gt; and a Level 1 spell from the Divination or Enchantment school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Charisma.</content>
+	<content contentuid="h057b503bg4825g43fdg8978gb53162c7880d" version="1">Fey Touched: Misty Step</content>
+	<content contentuid="h059b503bg4825g43fdg8978gb53162c7880d" version="1">Your exposure to the Feywild's magic has changed you.</content>
+	<content contentuid="h52e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Shadow Touched</content>
+	<content contentuid="h53e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Shadow Touched: Intelligence</content>
+	<content contentuid="h54e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt; and a Level 1 spell from the Illusion or Necromancy school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Intelligence.</content>
+	<content contentuid="h55e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Shadow Touched: Wis</content>
+	<content contentuid="h56e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt; and a Level 1 spell from the Illusion or Necromancy school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Wisdom.</content>
+	<content contentuid="h57e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Shadow Touched: Cha</content>
+	<content contentuid="h58e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">You learn &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt; and a Level 1 spell from the Illusion or Necromancy school of magic. You can cast both spells without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score increases by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Your spellcasting ability for both spells is Charisma.</content>
+	<content contentuid="h59e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Shadow Touched: Invisibility</content>
+	<content contentuid="h60e9fc19g1e4bg4e7cgb417gf5b9dd4940dc" version="1">Your exposure to the Shadowfell's magic has changed you.</content>
+	<content contentuid="h723598d8gb51eg4028g8e47g57f23cd0268d" version="1">Crusher</content>
+	<content contentuid="h733598d8gb51eg4028g8e47g57f23cd0268d" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 1.5m to an unoccupied space. When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals bludgeoning damage to a creature, attack rolls against that creature are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h743598d8gb51eg4028g8e47g57f23cd0268d" version="1">Crusher: Knockback</content>
+	<content contentuid="h753598d8gb51eg4028g8e47g57f23cd0268d" version="1">Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you push it back 1.5m.</content>
+	<content contentuid="h763598d8gb51eg4028g8e47g57f23cd0268d" version="1">Crusher: Critical</content>
+	<content contentuid="h773598d8gb51eg4028g8e47g57f23cd0268d" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals bludgeoning damage to a creature, attack rolls against that creature are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h793598d8gb51eg4028g8e47g57f23cd0268d" version="1">Crushed</content>
+	<content contentuid="h65b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer</content>
+	<content contentuid="h66b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;
+	
+Once per turn, when you hit a creature with an attack that deals piercing damage, you roll your damage dice twice and use the highest result. When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals piercing damage to a creature, you roll one additional damage die when determining the extra piercing damage the target takes.</content>
+	<content contentuid="h67b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer: Reroll</content>
+	<content contentuid="h68b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Once per turn, when you hit a creature with an attack that deals piercing damage, you roll your damage dice twice and use the highest result.</content>
+	<content contentuid="h69b60f34g99ebg476eg93f7g217b7ef0303a" version="1">Piercer: Critical</content>
+	<content contentuid="h71b60f34g99ebg476eg93f7g217b7ef0303a" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals piercing damage to a creature, you roll one additional damage die when determining the extra piercing damage the target takes.</content>
+	<content contentuid="h78ed42e6ge239g4717g85dbg1471234127d6" version="1">Slasher</content>
+	<content contentuid="h79ed42e6ge239g4717g85dbg1471234127d6" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;
+	
+	Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 3m until the start of your next turn. When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals slashing damage to a creature, the target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all attack rolls until the start of your next turn.</content>
+	<content contentuid="h80ed42e6ge239g4717g85dbg1471234127d6" version="1">Slasher: Slow</content>
+	<content contentuid="h81ed42e6ge239g4717g85dbg1471234127d6" version="1">Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 50% until the start of your next turn.</content>
+	<content contentuid="h82ed42e6ge239g4717g85dbg1471234127d6" version="1">Slasher: Critical</content>
+	<content contentuid="h83ed42e6ge239g4717g85dbg1471234127d6" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; that deals slashing damage to a creature, the target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all attack rolls until the start of your next turn.</content>
+	<content contentuid="h84ed42e6ge239g4717g85dbg1471234127d6" version="1">Greivous Wounds</content>
+	<content contentuid="h85ed42e6ge239g4717g85dbg1471234127d6" version="1">Slashed</content>
+	<content contentuid="h413d1a5cg666cg46b8g9e6cg9548f518d606" version="1">Fighting Initiate</content>
+	<content contentuid="h433d1a5cg666cg46b8g9e6cg9548f518d606" version="1">You learn one Fighting Style option of your choice from the fighter class.</content>
+	<content contentuid="h443d1a5cg666cg46b8g9e6cg9548f518d606" version="1">Your martial training has helped you develop a particular style of fighting.</content>
+	<content contentuid="h0b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">Metamagic Adept</content>
+	<content contentuid="h2b59fcf7g8d17g4f94g8cc1g5610f278fdfc" version="1">You learn two Metamagic options of your choice from the sorcerer class and gain 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; to fuel them. You regain expended Sorcery Points after a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h5948faf5g7575g4027g91c8gb0672198341e" version="1">Telekinetic</content>
+	<content contentuid="h6048faf5g7575g4027g91c8gb0672198341e" version="1">Increase your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;You learn the &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Mage Hand&lt;/LSTag&gt; cantrip, can cast it without verbal or somatic components, and make it invisible. You also learn the &lt;LSTag Type="Spell" Tooltip="Target_TelekineticPush"&gt;Telekinetic: Push&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_TelekineticPull"&gt;Telekinetic: Pull&lt;/LSTag&gt; actions.</content>
+	<content contentuid="h6148faf5g7575g4027g91c8gb0672198341e" version="1">Telekinetic: Mage Hand</content>
+	<content contentuid="h6248faf5g7575g4027g91c8gb0672198341e" version="1">You have learned to cast the &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Mage Hand&lt;/LSTag&gt; cantrip without verbal or somatic components, and the hand is invisible.</content>
+	<content contentuid="h6348faf5g7575g4027g91c8gb0672198341e" version="1">Telekinetic: Push</content>
+	<content contentuid="h6448faf5g7575g4027g91c8gb0672198341e" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can telekinetically shove a creature away from you.</content>
+	<content contentuid="h6548faf5g7575g4027g91c8gb0672198341e" version="1">Telekinetic: Pull</content>
+	<content contentuid="h6648faf5g7575g4027g91c8gb0672198341e" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can telekinetically shove a creature towards you.</content>
+	<content contentuid="h477965aegec78g4a09g9401g01bfa60c1f57" version="1">Gift of Chromatic Dragon</content>
+	<content contentuid="h478965aegec78g4a09g9401g01bfa60c1f57" version="1">When you take Acid, Cold, Fire, Lighting, or Poison damage, once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; you can use your reaction to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage type until the start of your next turn.&lt;br&gt;&lt;br&gt;You also learn the &lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;Chromatic Infusion&lt;/LSTag&gt; action, and can use it once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h479965aegec78g4a09g9401g01bfa60c1f57" version="1">Gift of the Chromatic Dragon: Chromatic Infusion</content>
+	<content contentuid="h480965aegec78g4a09g9401g01bfa60c1f57" version="1">You touch a weapon and infuse it with Acid, Cold, Fire, Lightning, or Poison. For the next minute, the weapon deals additional damage of the chosen type.</content>
+	<content contentuid="h483965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion</content>
+	<content contentuid="h484965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Acid</content>
+	<content contentuid="h485965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Cold</content>
+	<content contentuid="h486965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Fire</content>
+	<content contentuid="h487965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Lightning</content>
+	<content contentuid="h488965aegec78g4a09g9401g01bfa60c1f57" version="1">Chromatic Infusion: Poison</content>
+	<content contentuid="h489965aegec78g4a09g9401g01bfa60c1f57" version="1">Deals an additional [1].</content>
+	<content contentuid="h481965aegec78g4a09g9401g01bfa60c1f57" version="1">Gift of the Chromatic Dragon: Reactive Resistance</content>
+	<content contentuid="h482965aegec78g4a09g9401g01bfa60c1f57" version="1">When you take Acid, Cold, Fire, Lighting, or Poison damage, you can use your reaction to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage until the start of your next turn. Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h490965aegec78g4a09g9401g01bfa60c1f57" version="1">Reactive Resistance</content>
+	<content contentuid="hfda422cageaceg4b1agbca4gda8b870ccdd6" version="1">Gift of Gem Dragon</content>
+	<content contentuid="hfea422cageaceg4b1agbca4gda8b870ccdd6" version="1">Increase your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; by 1, up to a maximum of 20.&lt;br&gt;&lt;br&gt;When you take damage from a creature within 3m of you, you can use your reaction to deal force damage and attempt to push the creature away.</content>
+	<content contentuid="hffa422cageaceg4b1agbca4gda8b870ccdd6" version="1">Gift of the Gem Dragon: Telekinetic Reprisal</content>
+	<content contentuid="hfga422cageaceg4b1agbca4gda8b870ccdd6" version="1">When you take damage from a creature within 3m of you, you can use your reaction to deal [1] force damage and attempt to push the creature away.</content>
+	<content contentuid="hcefd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of Metallic Dragon</content>
+	<content contentuid="hcffd460eg599cg4afbg8b0bg66e20997e71f" version="1">You learn the &lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;Cure Wounds&lt;/LSTag&gt; spell, and can cast it without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;When you are hit by an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can use your reaction to grant a bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hcgfd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of the Metallic Dragon: Draconic Healing</content>
+	<content contentuid="hchfd460eg599cg4afbg8b0bg66e20997e71f" version="1">You've learned the &lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;Cure Wounds&lt;/LSTag&gt; spell, and can cast it without expending a spell slot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hcifd460eg599cg4afbg8b0bg66e20997e71f" version="1">Gift of the Metallic Dragon: Protective Wings</content>
+	<content contentuid="hcjfd460eg599cg4afbg8b0bg66e20997e71f" version="1">When you are hit by an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can use your reaction to grant a bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h16572ca9g4f5cg49aega9fag5b256e086246" version="1">Observant</content>
+	<content contentuid="h17572ca9g4f5cg49aega9fag5b256e086246" version="1">Your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Investigation and Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h18572ca9g4f5cg49aega9fag5b256e086246" version="1">You're quick to notice the details of your environment. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Investigation and Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="hc175e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">Inspiring Leader</content>
+	<content contentuid="hc275e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">You gain the &lt;LSTag Type="Spell" Tooltip="Shout_InspiringLeader"&gt;Inspiring Leader&lt;/LSTag&gt; action.</content>
+	<content contentuid="hc375e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">You have learned to inspire your allies, shoring up their resolve to fight.</content>
+	<content contentuid="hc475e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">Inspire your allies, granting them [1].</content>
+	<content contentuid="hc575e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">Inspired</content>
+	<content contentuid="hc675e988g6f86g45f8g8aacgdc3c0cdbaa26" version="1">Gained [1].</content>
+	<content contentuid="hbcdcc3dcg93e2g4033gb5f4g519616183ab8" version="1">Telekinetic Reprisal</content>
+	<content contentuid="he6cde322g7a20g43edgb577geb91e9118b11" version="1">Protective Wings</content>
+	<content contentuid="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1">Number of charges equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+</contentList>
