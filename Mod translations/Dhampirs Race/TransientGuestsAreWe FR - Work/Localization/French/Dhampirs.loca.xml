@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="ha80b3b16gbac7g416agb6deg11bd389ac760" version="1">Dhampire</content>
+  <content contentuid="h0b0b7488g2373g4c3bgababgf2e7e8027de9" version="1">Les Dhampires, également connus sous le nom de « marcheurs du jour », sont des créatures vivantes qui ont hérité d'une partie du sang contaminé de leur parent ou ancêtre vampire.</content>
+  <content contentuid="h868bcd90g631cg42ecg8119ga5cb0ec284f4" version="1">Nadia - Crocs Basique</content>
+  <content contentuid="hf665af3dg31fbg486dga5ffgcf3d4514685f" version="1">Nadia - Crocs complets et pointus</content>
+  <content contentuid="hef4c2cc8g7531g4dabgaeecg3015aef5492a" version="1">Doina - Crocs Basique</content>
+  <content contentuid="hbec4955ag1078g45f5gbb37g86c0c38aa2fb" version="1">Doina - Crocs complets et pointus</content>
+  <content contentuid="hdf788493g382eg4ca1g9aeeg967e2a7b55b1" version="1">Bianca - Crocs Basique</content>
+  <content contentuid="h4aef03b9g56a0g4192gb48cgaa5172becc03" version="1">Bianca - Crocs complets et pointus</content>
+  <content contentuid="h8df662b5gb108g4351ga7edgd185cf511621" version="1">Teodor - Crocs Basique</content>
+  <content contentuid="h71be8842g5e1eg4e44g9577g1fa7e9621305" version="1">Teodor - Crocs complets et pointus</content>
+  <content contentuid="h8c97e2abgbfe1g4cf9g859dg82459e3333ab" version="1">Mircea - Crocs Basique</content>
+  <content contentuid="hf99c0e7bgc0a3g4557g916bg6ba82bb82670" version="1">Mircea - Crocs complets et pointus</content>
+  <content contentuid="hbde37d09g8b91g42e1g8966gbfd5f267dfa2" version="1">Radu - Crocs Basique</content>
+  <content contentuid="h79d5ba0dgb037g4dc6g8f54g5c73f7298b03" version="1">Radu - Crocs complets et pointus</content>
+  <content contentuid="h4296df60g0091g40efg953bg3fb7dba1ffda" version="1">Goût du sang</content>
+  <content contentuid="h7b73d428g5ecag4f74ga285g0ae80e4b610b" version="1">La vue d’un ennemi en sang ou affaibli aiguise vos sens et vous excite. Vous gagnez un bonus de +[1] à vos &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; contre des cibles blessées.</content>
+  <content contentuid="h89d7b86dg181dg4a30gb9b1g1439c3823678" version="1">Goût raffiné</content>
+  <content contentuid="h6c3ff2c4gd829g48dcgad81g2bfde5040b18" version="1">Vous avez acquis un contrôle accru sur votre &lt;LSTag Type="Passive" Tooltip="Weev_TasteForBlood"&gt;Goût du sang&lt;/LSTag&gt;, et cela augmente désormais votre concentration et votre volonté. Vous gagnez un bonus de +[1] à vos &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; contre des cibles blessées.</content>
+  <content contentuid="h7af617dfge0d7g489cgae20g9179be4285d1" version="1">Soif dhampirique</content>
+  <content contentuid="had5ed4ddg0874g4bb3g857eg80cc9751cba2" version="1">Votre héritage vampirique provoque un besoin de sang. Après un long repos, vous gagnez &lt;LSTag Type="Status" Tooltip="WEEV_THIRSTYSTATUS"&gt;Assoiffé.e&lt;/LSTag&gt; jusqu'à ce que vous vous nourrissez de quelqu'un avec &lt;LSTag Type="Spell" Tooltip="Target_DhampiricBite"&gt;Morsure Dhampirique&lt;/LSTag&gt;.</content>
+  <content contentuid="hb0b23189gd031g4a64g9fedg71e8a33293bf" version="1">Assoiffé.e</content>
+  <content contentuid="h31daa713gf9e4g4f88g9d8cgc0ad6a74f9c9" version="1">Aujourd'hui, vous ne vous êtes pas encore nourri de sang et vous en êtes plus faible. Vous avez une pénalité de -[1] à votre &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; et vos &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; jusqu'à ce que vous mordiez quelqu'un/quelque chose avec &lt;LSTag Type="Spell" Tooltip="Target_DhampiricBite"&gt;Morsure Dhampirique&lt;/LSTag&gt;.</content>
+  <content contentuid="h95ab5245ge2c5g435egab15g9c1db7523e20" version="1">Grâce dhampirique</content>
+  <content contentuid="h87d348f4g350fg4348gaf4dgc44f60556ff8" version="1">Votre sang dhampirique est devenu plus puissant, vous conférant une grâce et une rapidité surnaturelles. Vous êtes immunisé contre les &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Terrain Difficile&lt;/LSTag&gt;, votre vitesse de déplacement augmente de [1] et votre distance de saut augmente de [1].</content>
+  <content contentuid="h1073b673g038bg484dgb92bg9bd4fd5e5280" version="1">Morsure dhampirique</content>
+  <content contentuid="h4b5269b9g29f9g43b1gb6feg924559fd0080" version="1">Suce le sang d'une créature vivante, infligeant [1], en plus de soigner [2] et d'apaiser votre &lt;LSTag Type="Status" Tooltip="WEEV_THIRSTYSTATUS"&gt;Soif&lt;/LSTag&gt; si vous en souffrez.</content>
+</contentList>

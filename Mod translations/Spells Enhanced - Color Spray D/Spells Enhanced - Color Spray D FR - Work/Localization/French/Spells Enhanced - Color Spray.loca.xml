@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="ColorSprayDescription" version="1">&amp;lt;LSTag Type=&quot;Status&quot; Tooltip=&quot;COLOR_SPRAY&quot;&amp;gt;Aveugle&amp;lt;/LSTag&amp;gt; les créatures ennemies d'un niveau inférieur ou égal à [1] pendant [2] tours.</content>
+    <content contentuid="HigherLevelRangeDurDesc" version="1">Le niveau du sort peut être plus élevé. La portée du sort augmente. L'effet dure plus longtemps.</content>
+</contentList>

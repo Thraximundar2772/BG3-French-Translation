@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="he7902df7g2fc1g4d8egbee0g3a49c371de40" version="1">Undead</content>
+	<content contentuid="h494a66beg6875g404cga904g18d2689ec94f" version="1">You have achieved a state of undeath. Be it your choice or not, you walk again.</content>
+	<content contentuid="he2ea03c8g651ag4e47ga101gef1ed5a24b3a" version="1">Undead Resistance</content>
+	<content contentuid="hcf64aaefgf1b4g43c2g8c4dg00d5b2229ad9" version="1">Your undead nature means you are &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Poison damage, and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Necrotic damage. However, as a consequence, you are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Radiant damage.</content>
+	<content contentuid="heaa865b5g572ag4f67g8055g28763ab7bdad" version="1">Undead Origin</content>
+	<content contentuid="hdb1ba50fg9223g4ed0ga165gcf7d96d4461f" version="1">Undead can come from many different walks of life. Choose the origins that most apply to your character.</content>
+	<content contentuid="h7c9c7c10g4be1g45b8gb7afgc5d7fec0ceb2" version="1">Undead Fortitude</content>
+	<content contentuid="h9ba6af2ag344fg4b55gab54g2918b762b645" version="1">Once per long rest, you can survive a killing blow with 1 hitpoint, unless the damage is Radiant or from a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
+	<content contentuid="h1fb304f4g3136g4e1dg9ecagbf1eb558e73a" version="1">Should you recieve a non-&lt;LSTag Tooltip="CriticalHit"&gt;critical&lt;/LSTag&gt; killing blow, you will survive with 1 hit point, unless the damage is Radiant.</content>
+	<content contentuid="h745b2447gd750g40daga495gbb0ac9168ccb" version="1">Baldurian</content>
+	<content contentuid="hc2e46bafgb01bg4232g9d5dg0c51fb2fac99" version="1">You once came from Baldur's Gate.</content>
+	<content contentuid="h47d1be0dg42bag41b9gb045gc1b942adfc2f" version="1">Underdark</content>
+	<content contentuid="hbfcd5d24g1d8dg4a4agb280g2cd3c4ccfe8b" version="1">You once came from the Underdark.</content>
+	<content contentuid="hda336a55gb3ceg4517g8cbeg272f8a7c5911" version="1">Planar</content>
+	<content contentuid="h2c4843b3g7016g49e8gb09dg13c40d1b7d5c" version="1">You hail from the Astral Plane.</content>
+	<content contentuid="hc1e680c1gff2bg4142g815fgbe0b14b95675" version="1">Human</content>
+	<content contentuid="h65092d03g48cdg4e0cg9b30g4d1148066219" version="1">You were a Human in life.</content>
+	<content contentuid="hb25b6aedgce4cg492cga162gd5e1b0c16fc1" version="1">High Elf</content>
+	<content contentuid="hfb1f4bdeg9150g438bgb26ag17050e9fd973" version="1">You were a High Elf in life.</content>
+	<content contentuid="h8dc43f7eg2a55g47d3ga418g7988072ea4a4" version="1">Wood Elf</content>
+	<content contentuid="ha19a07beg792eg4088g8f78gdc6e90461ac3" version="1">You were a Wood Elf in life.</content>
+	<content contentuid="h3d61c77fgb8dbg4416g9be3g4ed01820fce2" version="1">Lolth-sworn Drow</content>
+	<content contentuid="hcc2975a8gd1a7g46f6gae9bge9ea9431af04" version="1">You were a Lolth-sworn Drow in life.</content>
+	<content contentuid="h72473f4dg6b6eg41cfg8b31g07de4bd4a2ea" version="1">Seldarine Drow</content>
+	<content contentuid="h435ebe9ag81a4g4da8g95e8g924c944d59ca" version="1">You were a Seldarine Drow in life.</content>
+	<content contentuid="he2738b6egccbcg4de1g8117g30ead5ec5862" version="1">High Half-Elf</content>
+	<content contentuid="h9695cddcg87bbg4eb0g8530g3acadd76e027" version="1">You were a High Half-Elf in life.</content>
+	<content contentuid="hb302cd3dg9a36g4648g8244gc01d8e861023" version="1">Wood Half-Elf</content>
+	<content contentuid="h2727ae8dgafbag404dgbaeegfc17ae6794f1" version="1">You were a High Half-Elf in life.</content>
+	<content contentuid="hcad2d5b9ge447g434agaeefg5833fedf5834" version="1">Drow Half-Elf</content>
+	<content contentuid="h0b3f762agfab8g479bg814dg88b1cd55486f" version="1">You were a Drow Half-Elf in life.</content>
+	<content contentuid="h7e29af47g3b33g4a76gb5eeg740e965f3c0c" version="1">Asmodeus Tiefling</content>
+	<content contentuid="h2133762cg27e9g4eddg9474g3257b81657d4" version="1">You were an Asmodeus Tiefling in life.</content>
+	<content contentuid="h07d1e61egc79dg4de3gaeeagec3fd4adc2b9" version="1">Mephistopheles Tiefling</content>
+	<content contentuid="hd8b93108ge459g4cbbg9123g81fdd6793ffa" version="1">You were a Mephistopheles Tiefling in life.</content>
+	<content contentuid="hf5e48e67ge31bg4092gb6bbg71a75a32b4b3" version="1">Zariel Tiefling</content>
+	<content contentuid="hdcfcdb5fg9451g417cg819fgb43b30484679" version="1">You were a Zariel Tiefling in life.</content>
+	<content contentuid="h1ee9acaag7385g47b7g9540g9d38e3987e9a" version="1">Githyanki</content>
+	<content contentuid="heee701b3g381eg45feg955eg5aab1ff3455c" version="1">You were a Githyanki in life.</content>
+	<content contentuid="he4335fe2g253eg4a98gbbe4g099e0284ca86" version="1">No Race</content>
+	<content contentuid="hf21da1f3g58abg4460g8a99g46853f58a67a" version="1">Whoever you were in life is long gone.</content>
+	<content contentuid="h31a2da66g3145g42e0gab38ga03d169a440f" version="1">No Home</content>
+	<content contentuid="h61181ab8ga890g424cga143g762e5095d57f" version="1">Wherever you once came from you cannot recall.</content>
+	<content contentuid="hfe5335bbg8125g4530ga1b3ga3c9f008b5cd" version="1">Undead Origin</content>
+	<content contentuid="hec58490dg6b66g4134gba26g3049060129a2" version="1">Undead can come from many different walks of life. Choose the origins that most apply to your character.</content>
+	<content contentuid="hfe5335bbg8125g4530ga1b3ga3c9f008b5cd" version="1">Illithid Disguise</content>
+	<content contentuid="hec58490dg6b66g4134gba26g3049060129a2" version="1">Your newly acquired Tadpole creates an illusion, hiding your undead form from others who view you. You may choose to reveal this disguise so that you, too, can see it.</content>
+	<content contentuid="hdddc4b2ag9c57g420dgb24eg6c8b68e6d892" version="1">Reveal Disguise</content>
+	<content contentuid="hd28db2b2gd791g444bg996egaf1d69b8fe5e" version="1">Reveal the disguise that your Tadpole has created for you.</content>
+	<content contentuid="h5b4b546bga5a5g4f1dgab97g67d75745e773" version="1">Decayed Constitution</content>
+	<content contentuid="hff77f768gf455g4e8eg8270gcfa94d57fc35" version="1">Poison statuses not only have no effect on you, but they also heal you for [1]. Once you have been exposed to a Poison status you become immune to it for 1 turn.</content>
+	<content contentuid="ha5947b44g7fc3g4dc8g8abdg30b85b7ccc5b" version="1">Poison Immunity</content>
+	<content contentuid="h72f83bc7g4549g44aagb69ag6c107e0b61e4" version="1">Affected entity has recently healed from exposure to poison, rendering them immune for 5 turns.</content>
+	<content contentuid="h59c1dc7cgc9aag4436g93a0g36eb69bbe332" version="1">Lich</content>
+	<content contentuid="h4dde9ea9gdf6eg4ce1gacb5g7c6c22ee7d40" version="1">Phylactery Tag</content>
+	<content contentuid="h0146d828gb5cbg4014g9cfegde0ea52152eb" version="1">Phylactery has been summoned</content>
+	<content contentuid="h7f238b91gc6ddg424ega5aagabc21b28c12c" version="1">You are a newly formed Lich. Your cause may have been noble, or perhaps purely sinister. Regardless, your journey to lichdom has taken its toll, but soon your power will be insurmountable— so long as you keep your phylactery safe and close.</content>
+	<content contentuid="h472181e7gcabag4145ga0cbg936fb1b732fe" version="1">Arcane Levitation</content>
+	<content contentuid="hd3f7f58dg57d2g418ag832bg97682483abf9" version="1">The powerful magic granted to you by your lichdom allows you to effortlessly float instead of walking. Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; can't be reduced by &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="h0ab9b556ga20fg4f58gba12gbfa4dd9d61c3" version="1">Phylactery Bound</content>
+	<content contentuid="h4303d97dg91a6g403cgb2a1g092c393f19f0" version="1">Your lichdom is new and the bond to your Phylactery is still forming. If you do not keep it close, you will be left in a weakened state.</content>
+	<content contentuid="h22eae7ccgf958g4075ga22dgeb370c6d67ff" version="1">Separation from your Phylactery has left you in a weakened state. You are now vulnerable to all damage that your undead nature doesn't already render you resistant to.</content>
+	<content contentuid="he54cb033gfce0g4cdega1c6g033cc77e7ff6" version="1">Phylactery Separation</content>
+	<content contentuid="h1b22f3f0g4cedg4ab7gbf36g0cd6dd53f8df" version="1">Conjure Phylactery</content>
+	<content contentuid="h9d16f21fgb713g4042g89eeg9bae4859282b" version="1">Call your Phylactery to your side for safe keeping. &lt;br&gt;&lt;br&gt;&lt;b&gt;You may only do this once.&lt;/b&gt;</content>
+	<content contentuid="hc316330ag1e94g4ceegbf7ag7a68de12996f" version="1">Death's Touch</content>
+	<content contentuid="h6901c3d4g392ag4c88ga63bg9e9e7433e2d9" version="1">Channel the unnatural deathly chill of your body to harm your enemies.</content>
+	<content contentuid="hde0ad3f7gcd89g4f6egbb23g0fd2419121bb" version="1">Death Touched</content>
+	<content contentuid="h0ebe4874g0568g43d2gbb46g2f911249616a" version="1">Affected entity is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Cold damage and &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage, and their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is reduced by [1]</content>
+	<content contentuid="hd2716466geec2g469eg8b6eg269ff2d0b4c0" version="1">Life Siphon</content>
+	<content contentuid="h60397c5eg8a88g4425ga39fgdb12babb92cf" version="1">Draw on the life force of surrounding entities, both living and undead, and drain it from them, dealing [1] and healing yourself for the damage dealt.</content>
+	<content contentuid="hc0e56e2dg7862g4bc1g8790g9d24b7676bdb" version="1">Living targets take no damage, Undead targets take half damage, you are still healed.</content>
+	<content contentuid="h34971b0dg1fb5g4605g86a0gc3ce846962b1" version="1">Ghoul</content>
+	<content contentuid="hf03a0f2bg8868g42dbga1b6g947db06fe0ca" version="1">You are a Ghoul, a bloodthirsty creature keen to dine on flesh and carrion, and a savage fighter unafraid to use tooth and nail to fell your targets. Did your taste for flesh in life drive you to this foul fate? Or did the bite of another Ghoul turn you against your will?</content>
+	<content contentuid="h56894814g73fag4084g8eacgba8ef80ab64d" version="1">Savage Fighter</content>
+	<content contentuid="hc9e8f9b7gcbd7g40c7gad69g279711b57210" version="1">You can utilize your Necrotic claws and Poisonous bite in battle.</content>
+	<content contentuid="h1c42a108g3a43g42e0g8c16ge8d2222a6050" version="1">Savage Claws</content>
+	<content contentuid="h63b31109gf73fg407cg96c2g9a0390297ea7" version="1">Lash out with your sharp claws to attack your enemies.</content>
+	<content contentuid="h3f2c21dag5e3dg477cga30bg0f1bfa138152" version="1">Paralyzing Claws</content>
+	<content contentuid="h6a1a7fc0gd081g488bg8491gb6ee4452a65a" version="1">Your state of undeath has evolved, and your necrotic claws can now &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your enemies.</content>
+	<content contentuid="h30d9830eg97acg4fbeg979ega66e7505bf25" version="1">Target is not paralyzed.</content>
+	<content contentuid="h9757c3cbg64a3g4a80g9ae6g0b85e82c432a" version="1">Savage Bite</content>
+	<content contentuid="hb937a742ge43cg4daega332ge42565e14ebe" version="1">Ravage your enemies with your vile bite.</content>
+	<content contentuid="h81b90d49gb367g4345gb338g614797a33d21" version="1">Toxic Bite</content>
+	<content contentuid="hba6fc7fdg50b0g4dd8g8e87g7aaa2b5966c3" version="1">Your state of undeath has evolved, your bite can now &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt; your enemies.</content>
+	<content contentuid="hcedabf1fg6f04g4aa0g808ag9df9ae7fc4d3" version="1">Target is not poisoned.</content>
+	<content contentuid="h075eb42cge55fg40d5gaf94ga0eaebb03e72" version="1">Devour</content>
+	<content contentuid="hf68fada9gfd54g4dcbg80c9gfe8627ebe72d" version="1">Your unending thirst for flesh drives you to devour your slain enemies, healing yourself by [1].</content>
+	<content contentuid="hc8f84d48g2e14g4ae0g8e12g2ba0f53e5ad9" version="1">Heightened Hunger</content>
+	<content contentuid="h3ae2f9eeg5589g405dg901bg5f00c205a43e" version="1">Felling your enemy with your claws or bite drives you to consume, granting you the ability to devour their remains.</content>
+	<content contentuid="h38fcd4b1g2fbeg4e20ga18egc6cd58c06167" version="1">Foul Aura</content>
+	<content contentuid="hd473be53g3210g4870ga8e9g36c3c2297fc9" version="1">Your body stinks of death and carrion, emitting an aura that &lt;LSTag Type="Status" Tooltip="STINKING_CLOUD"&gt;Nauseates&lt;/LSTag&gt; all enemies within 2m.</content>
+	<content contentuid="h487eb11ag385cg426cgad3eg5ef0cecec20e" version="1">The affected entity's foul stench emits an aura that &lt;LSTag Type="Status" Tooltip="STINKING_CLOUD"&gt;Nauseates&lt;/LSTag&gt; all enemies within 2m.</content>
+	<content contentuid="hcbff1eebg1e66g4007ga87egaac5e68be1ce" version="1">Mummy</content>
+	<content contentuid="h585c558bg57f2g4f6dga3f3g77021120e493" version="1">You are a Mummy, an undead guardian tasked with protecting ancient tombs and temples; fighting off grave robbers and those who would desecrate such sacred sites. Perhaps you were given this position as a great honour in death? Or maybe it's a punishment.</content>
+	<content contentuid="hd6f99c18g0d44g409agb04eg9f14f0419c1a" version="1">Sacred Wrappings</content>
+	<content contentuid="h4bcbb7eeg82bdg4b16gb89cg06d14dd05443" version="1">You consider your bandages to be part of your body and they cannot be removed. When you aren't wearing armor, your AC is 13 + your Dexterity modifier.</content>
+	<content contentuid="h297ab3bag129fg4fefg9b79g9ebcf1069067" version="1">Canopic Ritual</content>
+	<content contentuid="h4ebe0a67g3f0ag42b1g86aag70314d61afb8" version="1">You may choose to learn the methods by which to ritualistically remove one of your organs and preserve it, granting a new boon to your undead body.</content>
+	<content contentuid="h30313eacg87e7g4baeg98dagc68ee4fba7eb" version="1">Stomach</content>
+	<content contentuid="h072986e9ged17g4741g95d3g40caed00dd9a" version="1">Removing your stomach will leave you hungerless, allowing you regain full hit points whenever you short rest.</content>
+	<content contentuid="h6849e5f2g37e7g42b8gbe24g68462e22babb" version="1">Stomachless</content>
+	<content contentuid="ha19163e8gdecfg4486gbfe7g54ee566d3d7d" version="1">Your stomach has been removed and preserved. Whenever you short rest, you regain your full hit points.</content>
+	<content contentuid="he4a8ae94g28c6g4e1ag8d5ag7b191da69749" version="1">Canopic Jar: Stomach</content>
+	<content contentuid="hb2a06f4ag18e1g498dg9b39ga3edad9ad77d" version="1">A Canopic Jar containing your preserved stomach.</content>
+	<content contentuid="he43af418gfbbeg4ac5gb780ge0a9bd6a15ab" version="1">Preserve Stomach</content>
+	<content contentuid="h559518f3ge79dg4abbg9555gbdd981bed461" version="1">Remove your stomach and place it into a Canopic Jar for safekeeping. Once removed, you will regain full hit points whenever you short rest.</content>
+	<content contentuid="hce638ecbga45fg4a2agb958gef1028dcb8da" version="1">Lungs</content>
+	<content contentuid="h72bdde05gf691g49c2ga0b0g26df63f6a05f" version="1">Removing your lungs will leave you breathless, making you immune to being &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+	<content contentuid="h25e154d5ga27dg421ega98cg0a2001c6f2b6" version="1">Lungless</content>
+	<content contentuid="h2904a7f8gac7bg42d9g83d8g0c7da7d4bdf5" version="1">Your lungs have been removed and preserved. You cannot be &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+	<content contentuid="hb1f2ba8eg8404g4f7cgbe4dg845e6a9d67c8" version="1">Preserve lungs</content>
+	<content contentuid="h03471291gd2a1g4bf8gaaebgc9d2f7be669e" version="1">Remove your lungs and place them into a Canopic Jar for safekeeping. Once removed, you will be immune to &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt;.</content>
+	<content contentuid="hf6385fdcg8440g4c78g9832g688eaf9243ff" version="1">Canopic Jar: Lungs</content>
+	<content contentuid="hd6ad7662g6120g487fg8f50g2c4fe10ef36c" version="1">A Canopic Jar containing your preserved lungs.</content>
+	<content contentuid="hbda35715gb2beg4e57gb039g6fe49189b137" version="1">Intestines</content>
+	<content contentuid="hd2e73b24gcc16g4c34g9dcfg9591a19b10df" version="1">Removing your intestines will purify your body, making you immune to curses and disease.</content>
+	<content contentuid="hd05d2ccaga215g4ab1g8156gffd06a07e714" version="1">Intestineless</content>
+	<content contentuid="h79c8755ag8656g4d84g86bdg255098aa2955" version="1">Your intestines have been removed and preserved. You are immune to curses and disease.</content>
+	<content contentuid="hd5878e47gada3g4f58g88bcg756e20315cc7" version="1">Preserve Intestines</content>
+	<content contentuid="hd3eab9fbg9813g4164gacffgc73a76ea5cc0" version="1">Remove your intestines and place them into a Canopic Jar for safekeeping. Once removed, you will be immune to curses and disease.</content>
+	<content contentuid="h4658e152g0d94g448dg95edg3afd94dd51eb" version="1">Canopic Jar: Intestines</content>
+	<content contentuid="h4fc644e2gd054g4795gb816gf295fd93d117" version="1">A Canopic Jar containing your preserved intestines.</content>
+	<content contentuid="hfba0ec18g56b4g4c4fgb675g6401bb1a957e" version="1">Liver</content>
+	<content contentuid="h3546b455g6e2fg401dg9127g2cbc2a5118f7" version="1">Removing your liver will soothe your emotions, making you immune to being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;. As a consequence you also cannot get drunk.</content>
+	<content contentuid="hd5872645ga09bg4127g930ag96422ebeb924" version="1">Liverless</content>
+	<content contentuid="h3adcf190g6c3fg42feg8cd7g7fd88f9a8739" version="1">Your liver has been removed and preserved. You are immune to being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, you also cannot get drunk.</content>
+	<content contentuid="hf9cfa79bg8fd2g4aadg9ec2g4faec0ba85b9" version="1">Preserve Liver</content>
+	<content contentuid="h368c95b0g021dg4a5bg82ebg945615662b9e" version="1">Remove your liver and place it into a Canopic Jar for safekeeping. Once removed you will be immune to being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, you also cannot get drunk.</content>
+	<content contentuid="hf11e21abge8c1g47d8g9f49g5928910876ba" version="1">Canopic Jar: Liver</content>
+	<content contentuid="hbf41fed0gf154g4e65gb270g815e0da81fce" version="1">A Canopic Jar containing your preserved liver.</content>
+	<content contentuid="h0d3c4d73gac09g47baga79bge72be83068e0" version="1">Mummy Rot</content>
+	<content contentuid="h4f3868e0gb64bg4c15g99bfg739116f77c70" version="1">Curse your target and inflict them with Mummy Rot. They cannot heal and will take [1] at the start of each turn.</content>
+	<content contentuid="h4122425dg1eecg495dg96cbgc006b02d057c" version="1">Target has been afflicted with Mummy Rot. They cannot heal and will take [1] at the start of each turn.</content>
+	<content contentuid="h1872cab7g91b9g4a4eg955fga25d35ae5a52" version="1">If the target dies while afflicted with the initial Mummy Rot curse, you may curse another target once per short rest.</content>
+	<content contentuid="h2f0310ffg9834g4523g895bgf35db3834040" version="1">Aura of Despair</content>
+	<content contentuid="h23f9a401gb3d1g4721ga803g62e242ebc2d7" version="1">Your very presence fills your enemies with despair, causing them &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; within 3m.</content>
+	<content contentuid="hc4940132g69efg4b35g8184g56867e197b5c" version="1">Enemies within 3m suffer &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h1df76007g779ag4460g93bbg6ce5c89b8aec" version="1">Entity suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h6c9b15c5g1890g4e39gb836g92f8e799ff51" version="1">Wight</content>
+	<content contentuid="h18aa40ecg6bedg48fdgb12agec885b9baa4c" version="1">You are a Wight, a vicious and cruel undead that is full of hatred and takes joy in the destruction of the living. Despite this, you've a strong personality and great discipline; unlike many of your undead brethren. Was it your vile existence that caused this undeath? Or were you the unfortunate victim of another Wight?</content>
+	<content contentuid="hb6e03b00ga3e2g4ac0gadfag6c1b770e9ae9" version="1">Marked For Death</content>
+	<content contentuid="h875c46aegc437g47fcgaa46gb5c0b4cf388c" version="1">You acquire your target and mark them for death. The target may be inflicted with fear and your attacks against the target deal an extra [1].</content>
+	<content contentuid="h76f4f8f6gcf54g421dgbde6g3061e2e06f6c" version="1">Felling your marked target will grant you Bloodlust, adding an extra 1d4 to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="hf9a0359dgc291g4f53g947eg84bfa3fd1f77" version="5">Entity suffers an additional [1] from the spellcaster.</content>
+	<content contentuid="h477aa2degb267g4cf2ga3a2gf01e4f21eb15" version="1">Marked For Death Owner</content>
+	<content contentuid="h9c02be74g5f7dg42e5gad18g50ea1f2d8d15" version="2">Attacking the target of your Mark deals an extra [1].</content>
+	<content contentuid="hbf751b6cg7a4ag4c29g99f8g988a27b098f4" version="1">Marked For Death Charges</content>
+	<content contentuid="h02ef7c03g6ed3g4a8fg8288gfce14a410363" version="1">Used to mark targets with Marked for Death.</content>
+	<content contentuid="h3be5f6f1g518bg444eg9c2dgcf7fa527128a" version="1">Mark is still applied however target will not be frightened.</content>
+	<content contentuid="he84e271eg6dc0g47acgb852g118701845639" version="1">Bloodlust</content>
+	<content contentuid="hc24f527eg4db1g4264g9376g57fe51327bf6" version="1">Killing your marked prey will send you into a Bloodlust, adding an extra 1d4 on to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. You can extend this bloodlust by raising a Half-Wight or draining your foe's energy while Bloodlust is active.</content>
+	<content contentuid="h75c2c6a4g6b69g4c81gb6d2g52164bf83516" version="1">You have felled your mark, spurring you on to fight even harder. You add an extra 1d4 on to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="h6d0a6a8cgc19fg4bf1ga5f9g407cb4e3f888" version="1">Contagious Undeath</content>
+	<content contentuid="hd4ec3d65g6d94g401agb605g34e2c6e6bb08" version="1">Your undeath spreads like a disease. Once per long rest, when you fell a target, you can raise them to fight alongside you.</content>
+	<content contentuid="h9d21473cgc9cbg49eaga776ga5ba426627a7" version="1">You have felled a foe. You may now raise them, or another corpse, to fight alongside you.</content>
+	<content contentuid="h33ccf07ag63a8g4c63gac48gdef750f6a443" version="1">Raise Half-Wight</content>
+	<content contentuid="h87254ea3gddadg459egb30dgab4a703af9b2" version="1">Your undeath is contagious. Having felled your foe, you may now raise them as undead to fight alongside you.</content>
+	<content contentuid="hab781ed8g897cg412ag8893g947ab4ef26e8" version="1">Raising a Half-Wight while your Bloodlust is active will extend it by 2 turns.</content>
+	<content contentuid="h6f92b802ga5eeg4ee5g816egbff3c10e3255" version="1">Energy Drain</content>
+	<content contentuid="h9d8d4b06g4af1g42c4gada1g8d02f0dce2ca" version="1">Drain the life force of a living target, damaging them for [1] and gaining 12 temporary hitpoints.</content>
+	<content contentuid="h584c7742gac82g47bag84e0g87edc23005fe" version="1">Draining an enemy's energy while your Bloodlust is active will extend it by 2 turns.</content>
+	<content contentuid="h99a0af31gc64ag4a3fgb756gac2c7bad83ed" version="1">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;.</content>
+	<content contentuid="h75ad4032ga937g403eg8d04gfb8e293572d1" version="1">Enemies take half damage, you still receive 12 temporary hitpoints</content>
+	<content contentuid="hf393c9f6ga99eg454cg918fg01aa0f730e2a" version="1">Aura of Slaughter</content>
+	<content contentuid="h638108a8g603ag4da2gbc32gdef2c486edbf" version="1">Make nearby foes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Slashing damage, unless they are already &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; or &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to it.</content>
+	<content contentuid="hfa24085eg9fdfg4e78g92f1gfdfbba1bed05" version="1">Nearby foes are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Slashing damage, unless they are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; or &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to it.</content>
+	<content contentuid="h95dbdef2g3829g4f85g918fg020afeb67d76" version="1">Nearby foes are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Slashing damage, unless they are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; or &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to it. You also gain an additional 3m movement speed.</content>
+	<content contentuid="hdc6b0a27g9b31g4924g9034g2228f9c416f5" version="1">If the aura is activated while you have Bloodlust, you gain an additional 3m Movement.</content>
+	<content contentuid="hcd79d440g874dg4f9fgb576g35c86491e4e5" version="1">Effected entity is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Slashing damage.</content>
+	<content contentuid="h8e53d347g1f39g40c5ga230g98ead1ee8d1d" version="1">Undead</content>
+	<content contentuid="h0cdf5a47g9486g4d51g9d78g9b2fd94e6004" version="1">Undead Elf</content>
+	<content contentuid="h47c537bfg3315g44beg8ddcg094a0ecae5fa" version="1">Ghoul</content>
+	<content contentuid="h642eb952gd1dbg4dc1ga067g98e056cfbca1" version="1">Ghoul Elf</content>
+	<content contentuid="hfbf5b99cg903bg4656g9d7bg29e6d0b299fe" version="1">Ghoul Toothy</content>
+	<content contentuid="hc5e1d4c1g012fg4d4egbc7cg0ea069101e98" version="1">Ghoul Toothy Elf</content>
+	<content contentuid="h7678601bg1fb8g43e0g9a64gd9c2a7c0d5f3" version="1">Ghast</content>
+	<content contentuid="he98d5e37g0b91g4b78g87d5g0480e4278751" version="1">Ghast Elf</content>
+	<content contentuid="ha8ae5d43g9c50g490cgad74g61ad324a9c33" version="1">Ghast Toothy</content>
+	<content contentuid="ha31bb3e5g170cg4b6eg929ag70530d4c8d3e" version="1">Ghast Toothy Elf</content>
+	<content contentuid="h3bd3c8bbg50ddg4dcdg8311g61a145738f88" version="1">Shadow Cursed</content>
+	<content contentuid="h202ce995gde70g4a67gad2bg171ff44af84b" version="1">Shadow Cursed Elf</content>
+	<content contentuid="h3f77eb75g466cg450fg9c08g9bc8bb819626" version="1">Ancient</content>
+	<content contentuid="h5c425c77g9989g45a3gb50cg867ecdd04753" version="1">Ancient Eyeless</content>
+	<content contentuid="h4fa3968agbad1g4161g802bg14432f25ff6f" version="1">Ancient Elf</content>
+	<content contentuid="h9cd32d8dgfbdbg4d9cgb046g2e17da166891" version="1">Ancient Elf Eyeless</content>
+	<content contentuid="ha2cf9a70gb5f4g48bega823g99f1841c5a2a" version="1">Decayed</content>
+	<content contentuid="h545ef89bg6840g406ega973g1b80173f907b" version="1">Decayed Elf</content>
+	<content contentuid="hc5705e88g7c60g4119g8f42g9cfb0e59e823" version="1">Haunted Necrotic</content>
+	<content contentuid="h8d6ecf22gb895g4432g9061g4bf2a35f16d9" version="1">Haunted Chilling</content>
+	<content contentuid="hbc7cc0efg0636g490cg95ffg9efc6e7bcf89" version="1">Haunted Fiery</content>
+	<content contentuid="hd30a9fccg7651g41f0g802egc31baf8dff00" version="1">Haunted Thunderous</content>
+	<content contentuid="hf1881409g4809g4bf4gb984g94bfb1428573" version="1">Wight</content>
+	<content contentuid="h64d48fafg139bg45f0gb637gb8c5f23eafe3" version="1">Wight Elf</content>
+	<content contentuid="h6834d2e7g76aag4ee0ga20eg4376fec3b1ef" version="1">Wight Decayed</content>
+	<content contentuid="hc7b16d73ge396g41e8g904cgc33e838621d7" version="1">Wight Decayed Elf</content>
+	<content contentuid="h24b6b134ga36ag4283gb9ecgce149b5e5c15" version="1">Wrapped</content>
+	<content contentuid="ha0ed368fgea7cg40c9g8ae5g0183fed29a9d" version="1">Wrapped Loose</content>
+	<content contentuid="h665facb4g592ag4c15ga5b4gb0c78e89cb5d" version="1">Wrapped Loose Elf</content>
+	<content contentuid="h2754fc00g7b87g46c1g9073g24bb91a85b62" version="1">Haunted</content>
+	<content contentuid="h99754158gd56cg4339gba6cg0263e167f025" version="1">Haunted Alt</content>
+	<content contentuid="hd055d181gf55eg4310g9e64gb8e8a9d0edb3" version="1">Frozen</content>
+	<content contentuid="hf67cb38dg3904g4af6ga6eag95a41ae05b18" version="1">Frozen Alt</content>
+	<content contentuid="h035dbffag485cg4e02g9906g0e51f2e5fdfb" version="1">Possessed</content>
+	<content contentuid="ha0834f37g7ab8g4b8egba61g41b75ae22ee9" version="1">Possessed Alt</content>
+	<content contentuid="h558da940gede6g463ag8f6dg41b840ff97a9" version="1">Corrupted</content>
+	<content contentuid="h1950def6g6820g4336gaa98g1bcecb5ad947" version="1">Corrupted Alt</content>
+	<content contentuid="he7ef4feag5ee6g4f88g9ec9gb6c7db1e97ef" version="1">Deathly Chill</content>
+	<content contentuid="h378242e0ge13cg45b7gb0bfgfb28411d6a04" version="1">Deathly Chill Alt</content>
+	<content contentuid="h61e3137dgf331g4f47gbc5ag2ea56bbc3648" version="1">Spectre </content>
+	<content contentuid="hbd133370geb94g4776g9627g8b7ccade7a91" version="1">Spectre Alt</content>
+	<content contentuid="h2bba17b6gf176g407dg9f7bg6c06f40f7efe" version="1">Afterlife</content>
+	<content contentuid="h08cb7901gc4d9g40a7g8093g06fe6ebde538" version="1">Sleet</content>
+	<content contentuid="hd7fe4ac3g61c6g49d3g842agd9b2143efdad" version="1">Phantasm</content>
+	<content contentuid="h3ac57788g0733g4523ga739g0bb96af4748f" version="1">Vacant</content>
+	<content contentuid="hc38fdf54g0754g4aafg908eg6da20fe13c12" version="1">NEW LOCA ENTRIES START HERE</content>
+	<content contentuid="hc38fdf54g0754g4aafg908eg6da20fe13c12" version="1">NEW LOCA ENTRIES START HERE</content>
+	<content contentuid="hc38fdf54g0754g4aafg908eg6da20fe13c12" version="1">NEW LOCA ENTRIES START HERE</content>
+	<content contentuid="h7d56766eg2cf2g442ag9177g2bbf295d42fd" version="1">Arcane Pouch</content>
+	<content contentuid="h41b98768g6d46g4518g913bg6cbc124d5f22" version="1">A pouch made of magic infused fabric, designed to safely deliver your Phylactery to your side.</content>
+	<content contentuid="h4be4df64gf199g4466g93cfg661b1510bbd5" version="1">A pouch made of magic infused fabric, designed to safely deliver your Canopic Jar to your side.</content>
+	<content contentuid="hceea16fbgc436g4688g84e6g052cca9bdbdb" version="1">Profane Knowledge Slots</content>
+	<content contentuid="hc2843b1eg61ecg4db2ga13fg9c698d48dcfb" version="1">Necrotic power gained from your Lichdom. Used to cast spells that are granted by your Phylactery.</content>
+	<content contentuid="h821cbde2ga358g4be0g9693g4ef4d9cd2f4f" version="1">Conjure Silver Phylactery</content>
+	<content contentuid="h90a4ee21g7642g41b0g8f7eg0917d9901bb3" version="1">A fine but unnaturally sturdy glass bottle that is trimmed in silver, it emits a deathly cold. As your power grows, it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold damage, and spells that harness your chilling power.</content>
+	<content contentuid="hc55e68beg37e3g4561g9f7dg9412755aac1f" version="1">Silver Phylactery</content>
+	<content contentuid="h0fe71e74g0513g4d78g946fg645392b09c55" version="1">A silver-trimmed bottle that is icy to the touch. It thrums with the energy of your soul.</content>
+	<content contentuid="hd5d8f70bga198g4d2agb687ge08ec308796e" version="1">With your Phylactery close, your body is strong. The vulnerability of your new lichdom doesn't effect you, and as your power grows it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold damage, and spells that harness your chilling power.</content>
+	<content contentuid="h1ee22f5dgde4ag457cgaadbgb18f2b8a2507" version="1">Conjure Obsidian Phylactery</content>
+	<content contentuid="hc00b34b0g3b39g4d5cg9491g75a2ea5c36eb" version="1">A solid flask crafted from obsidian and adorned with gems, it's hot to the touch. As your power grows, it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire damage, and spells that harness your scorching power.</content>
+	<content contentuid="he97835b5gb356g4ac6g9e95ga7390f8d0c48" version="1">Obsidian Phylactery</content>
+	<content contentuid="h43300546gac75g4042ga4b0g35799980958e" version="1">A hefty flask that radiates heat. It thrums with the energy of your soul.</content>
+	<content contentuid="h6a88948bg0bbfg4e99gb9c4ge2d9549b94c3" version="1">With your Phylactery close, your body is strong. The vulnerability of your new lichdom doesn't effect you, and as your power grows it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire damage, and spells that harness your scorching power.</content>
+	<content contentuid="h934ac3e3g3c65g4029ga5a7g37b3b6b53b51" version="1">Conjure Amethyst Phylactery</content>
+	<content contentuid="h24f855fcg486cg4981g80b6g81f23c1ba6ac" version="1">A deep purple bottle with an ornate collar, you can hear it faintly rumble. As your power grows, it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Thunder damage, and spells that harness your thunderous power.</content>
+	<content contentuid="h8e6ce8a3g613eg42abgae72gfd0040737f21" version="1">Amethyst Phylactery</content>
+	<content contentuid="h93f73107g79d3g42d0g8e94ge6568f933512" version="1">A deep purple bottle that vibrates slightly in your hands. It thrums with the energy of your soul.</content>
+	<content contentuid="hc78b816fg56d5g4ca7gba40gfcc2da50fe4b" version="1">With your Phylactery close, your body is strong. The vulnerability of your new lichdom doesn't effect you, and as your power grows it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Thunder damage, and spells that harness your thunderous power.</content>
+	<content contentuid="h8c9cd360g4508g4de1ga7fcgab0db92897a6" version="1">Conjure Crystal Phylactery</content>
+	<content contentuid="h2b9f959ag2335g4f88ga78egfc2da56085f6" version="1">A clear crystal bottle decorated with gold, holding it sends pins and needles through your hands. As your power grows, it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage, and spells that harness your shocking power.</content>
+	<content contentuid="hf2c6c60cg099eg4347gbaeag60e2e5609bfd" version="1">Crystal Phylactery</content>
+	<content contentuid="hd5f08737g2f98g456fg9879g45ab6c63bb87" version="1">A clear crystal bottle that radiates static energy. It thrums with the energy of your soul.</content>
+	<content contentuid="hf9669342g457bg4660ga459g2740c8a0f4a5" version="1">With your Phylactery close, your body is strong. The vulnerability of your new lichdom doesn't effect you, and as your power grows it may grant you &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage, and spells that harness your shocking power.</content>
+	<content contentuid="h00e4b9cfg0a69g4069ga71fg21697cfdc114" version="1">Conjure Ebony Phylactery</content>
+	<content contentuid="hfb292882g5111g4cedg9a00g9b96946274c2" version="1">A dark wooden box trimmed with silver, necrotic energy seeps from under its lid. As your power grows, it may grant you &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Necrotic damage, and spells that harness your necrotic power.</content>
+	<content contentuid="h72518874gc943g4978g85b9g541087a3e54c" version="1">Ebony Phylactery</content>
+	<content contentuid="h73b84cf1g7a9cg4238gb991gde202847e48a" version="1">A dark wooden box that saps the energy around it. It thrums with the energy of your soul.</content>
+	<content contentuid="hd49363f4gaba1g427ag822bgbad7c161d074" version="1">With your Phylactery close, your body is strong. The vulnerability of your new lichdom doesn't effect you, and as your power grows it may grant you &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Necrotic damage, and spells that harness your necrotic power.</content>
+	<content contentuid="h6bb14b8fg2ac0g4df7gbbb1gdcd7881417ce" version="2">Call forth a monolith of cursed fire to incinerate your enemies like the wrath of the hells itself.</content>
+	<content contentuid="h08ad4ea6g1cf4g4ba3g9162gfef19701688b" version="1">Conjure Storm</content>
+	<content contentuid="h682f60ebg7ad0g4089gb914g76b9113beffe" version="1">Call forth a terrifying storm in a 6 meter radius. Creatures within the storm are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and take damage at the start of their turn.</content>
+	<content contentuid="hcedfe316gfa39g40e2gb505gc2af5a3efa95" version="2">Creatures starting their turn in the area take [1]. Creatures ending their turn in the area are possibly take [2] and are knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="ha8ab65aag183fg499fg8d52ga4539b6b2ba9" version="1">Storm</content>
+	<content contentuid="h487ecde1g466eg4b00g91d2gdab2f0b688dd" version="1">A roaring storm batters you with its sheer force.&lt;br&gt;&lt;br&gt;Creatures starting their turn in the area take [1]. Creatures ending their turn in the area possibly take [2] and are knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;The area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, and creatures within are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;.</content>
+	<content contentuid="h18585d6dg495eg455dg9d91g079f6b5ce974" version="1">Takes [1] at the start of their turn, and possibly [2] and knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; at the end of their turn, as long as they are in the area.&lt;br&gt;&lt;br&gt;They are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, and the area is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="h5a4cec6fg7706g4bafgb126g8b4e258cb5a3" version="1">Wrappings Top</content>
+	<content contentuid="h3656643cg08b9g44c7g885fgd664b846bc4c" version="1">Wrappings Legs</content>
+	<content contentuid="he105c75dgd3dag4dabg87f4g844873a42eab" version="1">Wrappings Full</content>
+	<content contentuid="h7322b125gbd2cg4a84gb780g1d99b95b648b" version="1">Ancient and delicate linen wrappings designed to cover a Mummy's body.</content>
+	<content contentuid="hc973726fg834eg4bb4g8f0bg0619069d4b6e" version="1">Picked Clean</content>
+	<content contentuid="h0ce1bc3agaa98g4627gad5dgcaab2155e56c" version="1">Skull - Jergal</content>
+	<content contentuid="hfd96096cg3c66g4f35ga70agb09a6c316826" version="1">Skull - Mizora</content>
+	<content contentuid="h70c431bbg6808g4f95g8bccgacfc980d95a2" version="1">Skull - Orin</content>
+	<content contentuid="h0ac59946g2961g40a3gaf41gbebb61a9a9c3" version="1">Skull - Rich</content>
+	<content contentuid="h10fff782geaceg46bcg8491ga772e53ad83d" version="1">Fresh A</content>
+	<content contentuid="he2707c3fg2da2g4fabg9defg6f526ca6b4d9" version="1">Fresh A Elf</content>
+	<content contentuid="h31c18d9cg27d3g49f6g9ad5g4b4762d99a48" version="1">Fresh A - Shadow Cursed</content>
+	<content contentuid="h41ad12e5g7b46g4980ga48fgac8f18a1bb83" version="1">Fresh A Elf - Shadow Cursed</content>
+	<content contentuid="h7bce5686g47a6g49a7g9296gda8b88f9c04a" version="1">Fresh B</content>
+	<content contentuid="h60ec885bgb8b7g4542ga332g2f2849ee458b" version="1">Fresh B Elf</content>
+	<content contentuid="h3ce8684cgbb47g491dga7ccgb9c08887eff5" version="1">Fresh B - Shadow Cursed</content>
+	<content contentuid="h0462866dg7975g46e6gbb8cg20cc3bed745c" version="1">Fresh B Elf - Shadow Cursed</content>
+	<content contentuid="h5db75f05g3c14g4e3fg96a0gd3f1fb3a1251" version="1">Urvir</content>
+	<content contentuid="hfa409020g5da9g4275g8abag24044a442d17" version="1">Urvir Elf</content>
+	<content contentuid="h538000d6615d4a8fb61885b574ef8a1c9b3d" version="1">Disguise Self: Masc Lich</content>
+	<content contentuid="hc3d5cb17ee974ab292807f295a7b4cc914b1" version="1">Disguise yourself as an Lich with a masculine body type.</content>
+	<content contentuid="hcbfcdda106eb48098ca7d94bdf901f768fa4" version="1">Disguise Self: Femme Lich</content>
+	<content contentuid="hae50d267dab743feac380435debe45edc3cf" version="1">Disguise yourself as an Lich with a feminine body type.</content>
+	<content contentuid="h9c5258f0545946fdaaa047c93eef382dc5bf" version="1">Disguise Self: Masc Ghoul</content>
+	<content contentuid="h95799d4b2ff0499798aa39b07bccb0732993" version="1">Disguise yourself as an Ghoul with a masculine body type.</content>
+	<content contentuid="h23fec0b1392b4a15839f889edfe257880fa5" version="1">Disguise Self: Femme Ghoul</content>
+	<content contentuid="h577696b1b6c74d548bfa9ce2fd9727493b05" version="1">Disguise yourself as an Ghoul with a feminine body type.</content>
+	<content contentuid="h4a95a9edfb4541d98a5cad287ad91cf1d4gf" version="1">Disguise Self: Masc Wight</content>
+	<content contentuid="hf5cdcddc22554298816d0a9b5ffcb84ce07a" version="1">Disguise yourself as an Wight with a masculine body type.</content>
+	<content contentuid="h70fe35d30a0b4feda74cd7e399fe5fc907ba" version="1">Disguise Self: Femme Wight</content>
+	<content contentuid="he74083ca992c4f19b97cde7aa5a7108f4a04" version="1">Disguise yourself as an Wight with a feminine body type.</content>
+	<content contentuid="h7ab647d2d93c4c6b8b90ee23357304e6e6fd" version="1">Disguise Self: Masc Mummy</content>
+	<content contentuid="hb1e002b8e2e84dc48e9fe0d137477e650b01" version="1">Disguise yourself as an Mummy with a masculine body type.</content>
+	<content contentuid="h3a4ec87cbb8d4eb0bda9aef18bdcd7fd985e" version="1">Disguise Self: Femme Mummy</content>
+	<content contentuid="h5e28e72e6f594a93b71a342c6f082a27c25b" version="1">Disguise yourself as an Mummy with a feminine body type.</content>
+</contentList>
