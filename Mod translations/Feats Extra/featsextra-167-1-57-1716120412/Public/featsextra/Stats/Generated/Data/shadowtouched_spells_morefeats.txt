@@ -1,0 +1,330 @@
+//-- SHADOW TOUCHED SPELLS - Charisma -----------------------------------------------------//
+
+new entry "Target_CauseFear_Shadowtouched_cha"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CauseFear
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "18"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_CAUSEFEAR_CHA,100,-1)"
+
+
+new entry "SHADOWTOUCHED_CAUSEFEAR_CHA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_CAUSEFEAR_CHA"
+data "Boosts" "UnlockSpell(Target_CauseFear,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);IF(Tagged('WARLOCK')):UnlockSpell(Target_CauseFear,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Charisma)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//--------------------------------------------//
+
+new entry "Zone_ColorSpray_Shadowtouched_cha"
+type "SpellData"
+data "SpellType" "Zone"
+data "Level" "1"
+data "SpellSchool" "Illusion"
+using "Zone_ColorSpray
+data "SpellProperties" "ApplyStatus(COLOR_SPRAY,100,1);ApplyStatus(SELF,SHADOWTOUCHED_COLORSPRAY_CHA,100,-1)"
+
+new entry "SHADOWTOUCHED_COLORSPRAY_CHA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_COLORSPRAY_CHA"
+data "Boosts" "UnlockSpell(Zone_ColorSpray,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);IF(Tagged('WARLOCK')):UnlockSpell(Zone_ColorSpray,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Charisma)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-----------------------------------------------------------//
+
+new entry "Shout_FalseLife_Shadowtouched_cha"
+type "SpellData"
+data "SpellType" "Shout"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Shout_FalseLife"
+data "SpellProperties" "ApplyStatus(FALSE_LIFE,100,-1);ApplyStatus(SHADOWTOUCHED_FALSELIFE_CHA,100,-1)"
+
+new entry "SHADOWTOUCHED_FALSELIFE_CHA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_FALSELIFE_CHA"
+data "Boosts" "UnlockSpell(Shout_FalseLife,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);IF(Tagged('WARLOCK')):UnlockSpell(Shout_FalseLife,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Charisma)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Target_InflictWounds_Shadowtouched_cha"
+type "SpellData"
+data "SpellType" "Target"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "1.5"
+using "Target_InflictWounds"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_INFLICTWOUNDS_CHA,100,-1)"
+
+new entry "SHADOWTOUCHED_INFLICTWOUNDS_CHA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_INFLICTWOUNDS_CHA"
+data "Boosts" "UnlockSpell(Target_InflictWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);IF(Tagged('WARLOCK')):UnlockSpell(Target_InflictWounds,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Charisma)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Projectile_RayOfSickness_Shadowtouched_cha"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Projectile_RayOfSickness"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_RAYOFSICKNESS_CHA,100,-1)"
+
+new entry "SHADOWTOUCHED_RAYOFSICKNESS_CHA"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_RAYOFSICKNESS_CHA"
+data "Boosts" "UnlockSpell(Projectile_RayOfSickness,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Charisma);IF(Tagged('WARLOCK')):UnlockSpell(Projectile_RayOfSickness,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Charisma)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+
+//-- SHADOW TOUCHED SPELLS - Intelligence -----------------------------------------------------//
+
+new entry "Target_CauseFear_Shadowtouched_int"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CauseFear
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "18"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_CAUSEFEAR_INT,100,-1)"
+
+
+new entry "SHADOWTOUCHED_CAUSEFEAR_INT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_CAUSEFEAR_INT"
+data "Boosts" "UnlockSpell(Target_CauseFear,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Intelligence);IF(Tagged('WARLOCK')):UnlockSpell(Target_CauseFear,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Intelligence)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//--------------------------------------------//
+
+new entry "Zone_ColorSpray_Shadowtouched_int"
+type "SpellData"
+data "SpellType" "Zone"
+data "Level" "1"
+data "SpellSchool" "Illusion"
+using "Zone_ColorSpray
+data "SpellProperties" "ApplyStatus(COLOR_SPRAY,100,1);ApplyStatus(SELF,SHADOWTOUCHED_COLORSPRAY_INT,100,-1)"
+
+new entry "SHADOWTOUCHED_COLORSPRAY_INT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_COLORSPRAY_INT"
+data "Boosts" "UnlockSpell(Zone_ColorSpray,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Intelligence);IF(Tagged('WARLOCK')):UnlockSpell(Zone_ColorSpray,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Intelligence)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-----------------------------------------------------------//
+
+new entry "Shout_FalseLife_Shadowtouched_int"
+type "SpellData"
+data "SpellType" "Shout"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Shout_FalseLife"
+data "SpellProperties" "ApplyStatus(FALSE_LIFE,100,-1);ApplyStatus(SHADOWTOUCHED_FALSELIFE_INT,100,-1)"
+
+new entry "SHADOWTOUCHED_FALSELIFE_INT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_FALSELIFE_INT"
+data "Boosts" "UnlockSpell(Shout_FalseLife,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Intelligence);IF(Tagged('WARLOCK')):UnlockSpell(Shout_FalseLife,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Intelligence)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Target_InflictWounds_Shadowtouched_int"
+type "SpellData"
+data "SpellType" "Target"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "1.5"
+using "Target_InflictWounds"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_INFLICTWOUNDS_INT,100,-1)"
+
+new entry "SHADOWTOUCHED_INFLICTWOUNDS_INT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_INFLICTWOUNDS_INT"
+data "Boosts" "UnlockSpell(Target_InflictWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Intelligence);IF(Tagged('WARLOCK')):UnlockSpell(Target_InflictWounds,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Intelligence)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Projectile_RayOfSickness_Shadowtouched_int"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Projectile_RayOfSickness"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_RAYOFSICKNESS_INT,100,-1)"
+
+new entry "SHADOWTOUCHED_RAYOFSICKNESS_INT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_RAYOFSICKNESS_INT"
+data "Boosts" "UnlockSpell(Projectile_RayOfSickness,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Intelligence);IF(Tagged('WARLOCK')):UnlockSpell(Projectile_RayOfSickness,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Intelligence)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+
+//-- SHADOW TOUCHED SPELLS - Wisdom -----------------------------------------------------//
+
+new entry "Target_CauseFear_Shadowtouched_wis"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CauseFear
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "18"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_CAUSEFEAR_WIS,100,-1)"
+
+
+new entry "SHADOWTOUCHED_CAUSEFEAR_WIS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_CAUSEFEAR_WIS"
+data "Boosts" "UnlockSpell(Target_CauseFear,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);IF(Tagged('WARLOCK')):UnlockSpell(Target_CauseFear,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Wisdom)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//--------------------------------------------//
+
+new entry "Zone_ColorSpray_Shadowtouched_wis"
+type "SpellData"
+data "SpellType" "Zone"
+data "Level" "1"
+data "SpellSchool" "Illusion"
+using "Zone_ColorSpray
+data "SpellProperties" "ApplyStatus(COLOR_SPRAY,100,1);ApplyStatus(SELF,SHADOWTOUCHED_COLORSPRAY_WIS,100,-1)"
+
+new entry "SHADOWTOUCHED_COLORSPRAY_WIS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_COLORSPRAY_WIS"
+data "Boosts" "UnlockSpell(Zone_ColorSpray,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);IF(Tagged('WARLOCK')):UnlockSpell(Zone_ColorSpray,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Wisdom)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-----------------------------------------------------------//
+
+new entry "Shout_FalseLife_Shadowtouched_wis"
+type "SpellData"
+data "SpellType" "Shout"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Shout_FalseLife"
+data "SpellProperties" "ApplyStatus(FALSE_LIFE,100,-1);ApplyStatus(SHADOWTOUCHED_FALSELIFE_WIS,100,-1)"
+
+new entry "SHADOWTOUCHED_FALSELIFE_WIS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_FALSELIFE_WIS"
+data "Boosts" "UnlockSpell(Shout_FalseLife,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);IF(Tagged('WARLOCK')):UnlockSpell(Shout_FalseLife,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Wisdom)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Target_InflictWounds_Shadowtouched_wis"
+type "SpellData"
+data "SpellType" "Target"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+data "TargetRadius" "1.5"
+using "Target_InflictWounds"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_INFLICTWOUNDS_WIS,100,-1)"
+
+new entry "SHADOWTOUCHED_INFLICTWOUNDS_WIS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_INFLICTWOUNDS_WIS"
+data "Boosts" "UnlockSpell(Target_InflictWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);IF(Tagged('WARLOCK')):UnlockSpell(Target_InflictWounds,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Wisdom)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+//-------------------------------------------------------------//
+
+new entry "Projectile_RayOfSickness_Shadowtouched_wis"
+type "SpellData"
+data "SpellType" "Projectile"
+data "Level" "1"
+data "SpellSchool" "Necromancy"
+using "Projectile_RayOfSickness"
+data "SpellProperties" "ApplyStatus(SELF,SHADOWTOUCHED_RAYOFSICKNESS_WIS,100,-1)"
+
+new entry "SHADOWTOUCHED_RAYOFSICKNESS_WIS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "StackId" "SHADOWTOUCHED_RAYOFSICKNESS_WIS"
+data "Boosts" "UnlockSpell(Projectile_RayOfSickness,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);IF(Tagged('WARLOCK')):UnlockSpell(Projectile_RayOfSickness,MostPowerful,e9127b70-22b7-42a1-b172-d02f828f260a,,Wisdom)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+data "StatusGroups" "SG_RemoveOnRespec"
+
+
+
+
+

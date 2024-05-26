@@ -1,0 +1,17 @@
+//EVENTS
+
+//EVENT Name_of_Trigger_Event_1
+
+//VARS
+//	CHARACTER:_Character
+//	LIST<STATUS>:_RemoveList
+//	STATUS:_Result
+//ON
+//    FetchCharacterApplyStatusData(_Character, SNEAKING)
+//ACTIONS
+//    Set(_Result,SNEAKING)
+//	DisplayText(_Character, "Sneaking featsextra script check", FLOAT:10)
+
+
+
+

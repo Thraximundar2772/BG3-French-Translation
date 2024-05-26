@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Crusher</content>
+	<content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; by 1, to a maximum of 20. Once per turn, when you hit a creature that deals bludgeoning damage, you move it 2m away from you, provided the target is no more than one size larger than you.
+
+Also, when you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee attack that deals bludgeoning damage to a creature, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against that creature are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Eldritch Adept</content>
+	<content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the Warlock class.If you already have an Invocation, the one you choose must be different.</content>
+	<content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fey Touched: Charisma</content>
+	<content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Your exposure to the Feywild's magic has changed you, increasing your &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; score by 1.
+
+You also learn the &lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&gt;Misty Step&lt;/LSTag&gt; spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. Your  &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; is the ability increased by this feat.</content>
+	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Int</content>
+	<content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wis</content>
+	<content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Fighting Initiate</content>
+	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Prerequisite: Proficiency with a martial weapon
+	
+You learn one Fighting Style option of your choice from the Fighter class. If you already have a style, the one you choose must be different.</content>
+	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of Chromatic Dragon</content>
+	<content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">You’ve manifested some of the power of chromatic dragons, granting you the following benefits:</content>
+	<content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
+	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">As an action, you can &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;Heal&lt;/LSTag&gt; another creature. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
+	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiring&lt;/LSTag&gt; your companions, shoring up their resolve to fight.</content>
+	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
+	<content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">Prerequisite: Spellcasting or Pact Magic feature
+	
+You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. You also gain 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; to spend on Metamagic. You regain all spent sorcery points when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Resilient</content>
+	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Shadow Touched: Cha</content>
+	<content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your chosen &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1.
+
+You also learn the &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt; spell and one 1st-level spell of your choice. The 1st-level spell must be from the Illusion or Necromancy school of magic. Your  &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; is the ability increased by this feat.</content>
+	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Int</content>
+	<content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Wis</content>
+	<content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Skill Expert</content>
+	<content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">Increase one &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1, to a maximum of 20.
+
+You gain one &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in one skill of your choice, and gain &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in one skill of your choice.</content>
+	<content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">Slasher</content>
+	<content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by 1, to a maximum of 20. Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the target's &lt;LSTag Tooltip="MovementSpeed"&gt;speed&lt;/LSTag&gt; by 10 feet until the start of your next turn.
+
+Also, when you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee attack that deals slashing damage to a creature, the target has &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LsTag&gt; on all attack rolls.</content>
+	<content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">Telekinetic</content>
+	<content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">You learn to move things with your mind. Increase the &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; score by 1, to a maximum of 20.
+
+You can cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; without verbal or somantic components. You can also &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Push&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Pull&lt;/LSTag&gt; a creature telekinetically, using the chosen ability score as the &lt;LSTag Tooltip="DifficultyClass"&gt;spell DC&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion</content>
+	<content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits.
+
+After you use this bonus action, you can’t do so again until you finish a long rest.</content>
+	<content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: Move</content>
+	<content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it away from you, provided the target is no more than one size larger than you.</content>
+	<content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: Crit</content>
+	<content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee attack that deals bludgeoning damage to a creature, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against that creature are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey Touched</content>
+	<content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1.</content>
+	<content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; score by 1.</content>
+	<content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1.</content>
+	<content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
+	<content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As an action, you can &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;Heal&lt;/LSTag&gt; another creature. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
+	<content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Unlocks the &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiring&lt;/LSTag&gt; spell, which gives all friendly creatures (including yourself) within 9m of you 5 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagic Adept</content>
+	<content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; to spend on Metamagic. You regain all spent sorcery points when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
+	<content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that instance of damage. You can use this reaction a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Shadow Touched</content>
+	<content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1.</content>
+	<content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; score by 1.</content>
+	<content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1 .</content>
+	<content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduce Speed</content>
+	<content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the &lt;LSTag Tooltip="MovementSpeed"&gt;speed&lt;/LSTag&gt; of the target by 3m until the start of your next turn.</content>
+	<content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Crit</content>
+	<content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee attack that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all attack rolls.</content>
+	<content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Intelligence</content>
+	<content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1. You can cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; without verbal or somantic components. You can also &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Push&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Pull&lt;/LSTag&gt; a creature telekinetically, using the chosen ability score as the spell DC.</content>
+	<content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Wisdom</content>
+	<content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1. You can cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; without verbal or somantic components. You can also &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Push&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Pull&lt;/LSTag&gt; a creature telekinetically, using the chosen ability score as the spell DC.</content>
+	<content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Charisma</content>
+	<content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1. You can cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; without verbal or somantic components. You can also &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Push&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Pull&lt;/LSTag&gt; a creature telekinetically, using the chosen ability score as the spell DC.</content>
+	<content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
+	<content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to give yourself &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that instance of damage. You can use this reaction a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
+	<content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">All creatures (including yourself) within [1] of you gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt; equal to your current level plus your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. You cannot inspire again until after a short or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+	<content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion</content>
+	<content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra [1] of the chosen type when it hits.</content>
+	<content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">You can touch a simple or martial weapon and infuse it with acid. For the next minute, the weapon deals an extra [1] when it hits.</content>
+  <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
+  <content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">You can touch a simple or martial weapon and infuse it with cold. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Cold)</content>
+  <content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">You can touch a simple or martial weapon and infuse it with fire. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Fire)</content>
+  <content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">You can touch a simple or martial weapon and infuse it with lightning. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Lightning)</content>
+  <content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">You can touch a simple or martial weapon and infuse it with poison. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
+	<content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
+	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can tend to a creature's wounds. You restore [1] to it. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Mage Hand</content>
+	<content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You learn the &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; cantrip. You can cast it without verbal or somatic components.</content>
+	<content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Push</content>
+	<content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within [1] of you. They must succeed on a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be pushed [2] away from you.</content>
+	<content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Pull</content>
+	<content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within [1] of you. They must succeed on a Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be pulled [2] toward you.</content>
+	<content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
+	<content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Cold)</content>
+	<content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra [1] damage when it hits.</content>
+	<content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Fire)</content>
+	<content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra [1] damage when it hits.</content>
+	<content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Lightning)</content>
+	<content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra [1] damage when it hits.</content>
+	<content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
+	<content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra [1] damage when it hits.</content>
+	<content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crushed</content>
+	<content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this creature are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; until the start of your next turn</content>
+	<content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer</content>
+	<content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature can't regain hit points via the Healer feat again until they finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspired</content>
+	<content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Each creature gains 5 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Acid)</content>
+	<content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Acid for one instance of damage.</content>
+	<content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Cold)</content>
+	<content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Cold for one instance of damage.</content>
+	<content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Fire)</content>
+	<content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Fire for one instance of damage.</content>
+	<content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Lightning)</content>
+	<content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Lightning for one instance of damage.</content>
+	<content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Poison)</content>
+	<content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Poison for one instance of damage.</content>
+	<content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance out of uses</content>
+	<content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Can't use again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+	<content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduced Speed</content>
+	<content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement reduced by [3]</content>
+	<content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Disadvantage</content>
+	<content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LsTag&gt; on all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: move target</content>
+	<content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you |Large size or smaller|.</content>
+</contentList>

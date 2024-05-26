@@ -1,0 +1,233 @@
+local __util = require 'larian.util'
+
+function IsFireSpell()
+    return SpellId('Projectile_ProduceFlame_Hurl_Free') | SpellId('Projectile_FireBolt') | SpellId('Projectile_ProduceFlame_Hurl') | SpellId('Projectile_ChromaticOrb_Fire') | SpellId('Projectile_ChromaticOrb_Fire_2') | SpellId('Projectile_ChromaticOrb_Fire_3') | SpellId('Projectile_ChromaticOrb_Fire_4') | SpellId('Projectile_ChromaticOrb_Fire_5') | SpellId('Projectile_ScorchingRay') | SpellId('Projectile_ScorchingRay_1') | SpellId('Projectile_ScorchingRay_2') | SpellId('Projectile_ScorchingRay_3') | SpellId('Projectile_ScorchingRay_4') | SpellId('Projectile_ScorchingRay_5') | SpellId('Projectile_ScorchingRay_CircletOfBlasting') | SpellId('Projectile_Fireball') | SpellId('Projectile_Fireball_1') | SpellId('Projectile_Fireball_2') | SpellId('Projectile_Fireball_3') | SpellId('Projectile_Fireball_4') | SpellId('Projectile_Fireball_5') | SpellId('Projectile_Fireball_FromScroll') | SpellId('Projectile_GlyphOfWarding_Fire_Trap') | SpellId('Target_Exhale_Fire') | SpellId('Target_HeatMetal') | SpellId('Target_HeatMetal_1') | SpellId('Target_HeatMetal_2') | SpellId('Target_HeatMetal_3') | SpellId('Target_HeatMetal_4') | SpellId('Target_HeatMetal_5') | SpellId('Target_HeatMetal_Reapply') | SpellId('Target_HeatMetal_Reapply_1') | SpellId('Target_HeatMetal_Reapply_2') | SpellId('Target_HeatMetal_Reapply_3') | SpellId('Target_HeatMetal_Reapply_4') | SpellId('Target_HeatMetal_Reapply_5') | SpellId('Target_HellishRebuke') | SpellId('Target_HellishRebuke') | SpellId('Target_HellishRebuke') | SpellId('Target_HellishRebuke_1') | SpellId('Target_HellishRebuke_2') | SpellId('Target_HellishRebuke_3') | SpellId('Target_HellishRebuke_4') | SpellId('Target_HellishRebuke_5') | SpellId('Target_GlyphOfWarding_Fire') | SpellId('Zone_BurningHands') | SpellId('Zone_BurningHands_1') | SpellId('Zone_BurningHands_2') | SpellId('Zone_BurningHands_3') | SpellId('Zone_BurningHands_4') | SpellId('Zone_BurningHands_5') | SpellId('Zone_BurningHands_MephistophelesTiefling') | SpellId('Zone_AganazzarsScorcher') | SpellId('Zone_AganazzarsScorcher_1') | SpellId('Zone_AganazzarsScorcher_2') | SpellId('Zone_AganazzarsScorcher_3') | SpellId('Zone_AganazzarsScorcher_4') | SpellId('Zone_AganazzarsScorcher_5') | SpellId('Target_DragonsBreath_Fire') | SpellId('Target_DragonsBreath_1_Fire') | SpellId('Target_DragonsBreath_2_Fire') | SpellId('Target_DragonsBreath_3_Fire') | SpellId('Target_DragonsBreath_4_Fire') | SpellId('Target_DragonsBreath_5_Fire') | SpellId('Projectile_MinuteMeteors') | SpellId('Projectile_MinuteMeteors_2') | SpellId('Projectile_MinuteMeteors_3') | SpellId('Projectile_MinuteMeteors_4') | SpellId('Projectile_MinuteMeteors_5') | SpellId('ProjectileStrike_FlameStrike_Fire') | SpellId('ProjectileStrike_FlameStrike_Fire_1') | SpellId('ProjectileStrike_FlameStrike_Fire_2') | SpellId('ProjectileStrike_FlameStrike_Fire_3') | SpellId('ProjectileStrike_FlameStrike_Fire_4') | SpellId('ProjectileStrike_FlameStrike_Fire_5') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('') | SpellId('')
+end
+
+-- IsSpellChildOrVariantFromContext('Projectile_MagicMissile')
+
+function IsElvenAccuracyAttackRollAbility()
+    return ConditionResult(context.HitDescription.AttackAbility == Dexterity) | ConditionResult(context.HitDescription.AttackAbility == Wisdom) | ConditionResult(context.HitDescription.AttackAbility == Intelligence) | ConditionResult(context.HitDescription.AttackAbility == Charisma)
+end
+
+function FlamesFireSpellCheck()
+    return SpellDamageTypeIs(DamageType.Fire) | SpellId('Projectile_FireBolt') 
+end
+
+function HasD4MeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D4MeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if D4MeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Daggers', D4MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Clubs', D4MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('LightHammers', D4MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Sickles', D4MeleeWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function HasD6MeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D6MeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if D6MeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Handaxes', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Javelins', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Maces', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Quarterstaffs', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Spears', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Greatswords', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Mauls', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Scimitars', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Shortswords', D6MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Tridents', D6MeleeWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function HasD8MeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D8MeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if D8MeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Greatclubs', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Battleaxes', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Flails', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Longswords', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Morningstars', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Rapiers', D8MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Warhammers', D8MeleeWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD10MeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D10MeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if D10MeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Glaives', D10MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Halberds', D10MeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Pikes', D10MeleeWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD12MeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D12MeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if D12MeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Greataxes', D12MeleeWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD4RangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D4RangedWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if D4RangedWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Darts', D4RangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Slings', D4RangedWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD6RangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D6RangedWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if D6RangedWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Shortbows', D6RangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('HandCrossbows', D6RangedWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD8RangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D8RangedWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if D8RangedWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('LightCrossbows', D8RangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Longbows', D8RangedWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+function HasD10RangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local D10RangedWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if D10RangedWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('HeavyCrossbows', D10RangedWeapon).Result) 
+    end
+    return ConditionResult(false)
+end
+
+
+function IsConcentrationSpell()
+    return HasSpellFlag(SpellFlags.IsConcentration) 
+end
+
+--- Below works for a range --
+---function InterruptOnAOne()
+---    return ConditionResult(context.InterruptedRoll.NaturalRoll == 1) | ConditionResult(context.InterruptedRoll.NaturalRoll == 2) | ConditionResult(context.InterruptedRoll.NaturalRoll == 3) | ---ConditionResult(context.InterruptedRoll.NaturalRoll == 4) | ConditionResult(context.InterruptedRoll.NaturalRoll == 5) | ConditionResult(context.InterruptedRoll.NaturalRoll == 6)
+---end
+
+function InterruptOnAOne()
+    return ConditionResult(context.InterruptedRoll.NaturalRoll == 1) 
+end
+
+function HasPiercingMeleeWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local PiercingMeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if PiercingMeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Daggers', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Javelins', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Spears', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Morningstars', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Pikes', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Rapiers', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Shortswords', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Tridents', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Warpicks', PiercingMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Tridents', PiercingMeleeWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function HasPiercingMeleeOffhandWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local PiercingOffhandMeleeWeapon = GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand, entity)
+    if PiercingOffhandMeleeWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Daggers', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Javelins', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Spears', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Morningstars', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Pikes', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Rapiers', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Shortswords', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Tridents', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Warpicks', PiercingOffhandMeleeWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Tridents', PiercingOffhandMeleeWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function HasPiercingRangedWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local PiercingRangedWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if PiercingRangedWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Shortbows', PiercingRangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('LightCrossbows', PiercingRangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Darts', PiercingRangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('HandCrossbows', PiercingRangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('HeavyCrossbowsCrossbows', PiercingRangedWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Longbows', PiercingRangedWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function HasPiercingRangedOffhandWeaponEquipped(entity)
+    local entity = entity or context.Source
+    local PiercingRangedOffhandWeapon = GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, entity)
+    if PiercingRangedOffhandWeapon.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('Shortbows', PiercingRangedOffhandWeapon).Result) | ConditionResult(IsOfProficiencyGroup('LightCrossbows', PiercingRangedOffhandWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Darts', PiercingRangedOffhandWeapon).Result) | ConditionResult(IsOfProficiencyGroup('HandCrossbows', PiercingRangedOffhandWeapon).Result) | ConditionResult(IsOfProficiencyGroup('HeavyCrossbowsCrossbows', PiercingRangedOffhandWeapon).Result) | ConditionResult(IsOfProficiencyGroup('Longbows', PiercingRangedOffhandWeapon).Result)
+    end
+    return ConditionResult(false)
+end
+
+function PiercingDamageCheck(damageType, entity)
+    local entity = entity or context.Target
+    if (damageType == DamageType.Piercing
+    ) then
+        return ~IsResistantToDamageType(damageType, entity)
+    end
+end
+
+function BarbarianClass(entity)
+    return Tagged('BARBARIAN',entity) 
+end
+
+function FighterRangerPaladinClass(entity)
+    return (Tagged('FIGHTER',entity) | Tagged('RANGER',entity) | Tagged('PALADIN',entity)) & ~BarbarianClass(entity)
+end
+
+function BarbarianFighterRangerPaladinClass(entity)
+    return Tagged('FIGHTER',entity) | Tagged('RANGER',entity) | Tagged('PALADIN',entity) | Tagged('BARBARIAN',entity)
+end
+
+function RoguetoWarlockClass(entity)
+    return (Tagged('ROGUE',entity) | Tagged('DRUID',entity) | Tagged('ARTIFICER',entity) | Tagged('CLERIC',entity) | Tagged('MONK',entity) | Tagged('WARLOCK',entity)) & ~BarbarianFighterRangerPaladinClass(entity)
+end
+
+function BarbariantoWarlockClass(entity)
+    return Tagged('FIGHTER',entity) | Tagged('RANGER',entity) | Tagged('PALADIN',entity) | Tagged('BARBARIAN',entity) | Tagged('ROGUE',entity) | Tagged('DRUID',entity) | Tagged('ARTIFICER',entity) | Tagged('CLERIC',entity) | Tagged('MONK',entity) | Tagged('WARLOCK',entity)
+end
+
+function WizardSorcererClass(entity)
+    return (Tagged('WIZARD',entity) | Tagged('SORCERER',entity)) & ~BarbariantoWarlockClass(entity)
+end
+
+function StrConSaveDC()
+    return 8 + context.Source.ProficiencyBonus + math.max(GetModifier(context.Source.Strength), GetModifier(context.Source.Constitution))
+end
+
+function StrikeOTGiantsDC()
+    return math.max(SourceSpellDC(-10), StrConSaveDC()) -- Passing a negative fallback to the SourceSpellDC because we don't want the default 10 to max over StrConSaveDC
+end
+
+
+function HasHandcrossbowEquipped(entity)
+    local entity = entity or context.Source
+    local dagger = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    if dagger.IsValid then
+        return ConditionResult(IsOfProficiencyGroup('HandCrossbows', dagger).Result)
+    end
+    return ConditionResult(false)
+end
+
+function NotWieldingTwoHandedMeleeWeapon(entity)
+	-- Default to Target, like cpp functions
+    entity = entity or context.Target
+    local NotWieldingTwoHandedMeleeWeapon = ~WieldingWeapon('Twohanded', false, false, entity) 
+    
+    return NotWieldingTwoHandedMeleeWeapon 
+end
+
+
+function StrengthSaveDC()
+    return 8 + context.Source.ProficiencyBonus + GetModifier(context.Source.Strength)
+end
+
+function ConstitutionSaveDC()
+    return 8 + context.Source.ProficiencyBonus + GetModifier(context.Source.Constitution)
+end
+
+function WisdomSaveDC()
+    return 8 + context.Source.ProficiencyBonus + GetModifier(context.Source.Wisdom)
+end
+
+--In combat actions and feats extra
+function HasExtraAttackPassive(entity)
+    local entity = entity or context.target
+    return HasPassive('ExtraAttack', entity) | HasPassive('ExtraAttack_2', entity) | HasPassive('ExtraAttack_3', entity)
+end
+
+
+--In combat actions and feats extra
+function ExtraAttackSpellCheck()
+    return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Target_Bufotoxin_Frog_Summon') | SpellId('Projectile_ArrowOfSmokepowder') | SpellId('Target_Shove') | SpellId('Target_Shove_Prone') | SpellId('Target_Searing_Ignition')
+end
+
+function RangedWeaponAttackCheck()
+    return HasStringInSpellRoll('AttackType.RangedWeaponAttack') | HasStringInSpellRoll('AttackType.RangedOffHandWeaponAttack')
+end

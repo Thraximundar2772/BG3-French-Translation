@@ -1,0 +1,27 @@
+
+function MoreFeatsAttackCheck()
+    return (HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack')) & HasUseCosts('ActionPoint') & ~HasUseCosts('ReactionActionPoint')
+end
+
+function MoreFeatsDexterityGreaterThan(value, entity)
+    entity = entity or context.Target
+    return ConditionResult(entity.Dexterity > value)
+end
+
+function MoreFeatsHasMediumArmor(entity)
+    entity = entity or context.Target
+    local armor = GetActiveArmor(entity)
+    local hasMediumArmor = armor.ArmorType == ArmorType.Hide or armor.ArmorType == ArmorType.ChainShirt or armor.ArmorType == ArmorType.ScaleMail or armor.ArmorType == ArmorType.Breastplate or armor.ArmorType == ArmorType.HalfPlate
+    return ConditionResult(hasMediumArmor)
+end
+
+function MoreFeatsHasMediumDisadvArmor(entity)
+    entity = entity or context.Target
+    local armor = GetActiveArmor(entity)
+    local hasMediumArmor = armor.ArmorType == ArmorType.ScaleMail or armor.ArmorType == ArmorType.HalfPlate
+    return ConditionResult(hasMediumArmor)
+end
+
+function MoreFeatsSharpshooterSpellCheck()
+	return (HasStringInSpellRoll('AttackType.RangedWeaponAttack') | HasStringInSpellRoll('AttackType.RangedOffHandWeaponAttack') | SpellId('Projectile_HailOfThorns') | SpellId('Projectile_HailOfThorns_2') | SpellId('Projectile_HailOfThorns_3'))
+end

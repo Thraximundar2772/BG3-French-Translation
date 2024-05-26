@@ -1,0 +1,20 @@
+new entry "MOREFEATSPOTENTIALS"
+type "PassiveData"
+
+new entry "Athlete_Jumpimprovements"
+type "PassiveData"
+
+new entry "EldritchAdept"
+type "PassiveData"
+
+new entry "HeavyArmorMaster"
+type "PassiveData"
+
+new entry "Piercer"
+type "PassiveData"
+
+new entry "TavernBrawler"
+type "PassiveData"
+
+new entry "Telepathic"
+type "PassiveData"

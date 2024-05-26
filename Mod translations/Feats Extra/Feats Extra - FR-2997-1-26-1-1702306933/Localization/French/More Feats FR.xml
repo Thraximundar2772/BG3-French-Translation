@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Broyeur</content>
+  <content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">Vous vous êtes adonné à l'art de broyer vos ennemis. 
+Vous obtenez ainsi les avantages suivants : 
+
+- Augmentez votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou votre &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; de 1, pour un maximum de 20. 
+
+Une fois par tour, lorsque vous infligez des dégâts contondants à une créature à l'aide d'une arme de mêlée, vous la repoussez de 2m, à condition que la cible ne soit pas d'une taille supérieure à la vôtre. 
+Aussi, lorsque vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; avec une arme infligeant des dégâts contondants à une créature, les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; à l'encontre de cette dernière bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Adepte Occulte</content>
+  <content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">Ayant étudié le savoir occulte, un pouvoir d'occultiste s'est manifesté en vous.
+Vous apprenez une Invocation occulte de votre choix provenant de la classe Occultiste. Si vous bénéficiez déjà d'une invocation, celle que vous choisirez devra être différente. </content>
+  <content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Toucher Féérique: Charisme</content>
+  <content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Votre exposition à la magie féerique sauvage vous a transformé.
+Vous obtenez ainsi les avantages suivants : 
+
+- Augmentez votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.
+
+- Vous obtenez un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1.
+ 
+- Vous apprenez également le sort &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Foulée Brumeuse&lt;/LSTag&gt; (qui peut être lancé en tant que sort de niveau 1 une fois par jour) et un sort de niveau 1 de votre choix. Le sort de niveau 1 choisi doit être issu de l'école de la magie de la Divination ou de l'Enchantement. 
+La &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; du sort est celle que vous avez choisi d'augmenter en prenant ce don.</content>
+  <content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Toucher Féérique: Intelligence</content>
+  <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Toucher Féérique: Sagesse</content>
+  <content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Initié au Combat</content>
+  <content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Vous apprenez un Style de Combat issu de la classe Guerrier.</content>
+  <content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Don des Dragons Chromatiques</content>
+  <content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">Ces dragons malfaisants et manipulateurs vous font don de leur grâce.
+Vous obtenez les avantages suivants : 
+
+- Lorsque vous subissez des dégâts d'Acide, de Froid, de Feu, de Foudre ou de Poison, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour vous octroyer une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; à l'un de ces types de dégâts et ce, une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt;. 
+
+- Vous apprenez également &lt;LSTag Type="Spell" Tooltip="Target_GotCD_Infusion"&gt;Infusion Chromatique&lt;/LSTag&gt; qui peut être utilisée une fois entre deux &lt;LSTag Tooltip="LongRest"&gt;Longs Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Guérisseur</content>
+  <content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">Vous êtes un médecin compétent, ce qui vous permet ainsi d'attendre rapidement aux blessures et de remettre rapidement vos alliés sur pied.
+
+Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; pour &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;soigner&lt;/LSTag&gt; les blessures d'une créature.</content>
+  <content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Chef inspirant</content>
+  <content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">Vous pouvez utiliser votre &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiration&lt;/LSTag&gt; pour passer 10 minutes pour renforcer la détermination de vos alliés à se battre.</content>
+  <content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Adepte de la Métamagie</content>
+  <content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">Vous avez appris à infuser vos sorts de votre volonté pour altérer leur façon de fonctionner. 
+Vous apprenez deux Métamagies de votre choix issues de la classe Ensorceleur. Vous pouvez utiliser seulement une option de Métamagie lorsque vous incantez un sort, à moins que l'option ne vous indique le contraire. 
+
+Vous gagnez également 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;points de Sorcellerie&lt;/LSTag&gt; que vous pouvez dépenser en Métamagie (ces points seront ajoutés à ceux déjà existants mais ne peuvent être utilisés que pour la Métamagie). 
+
+Vous regagnez vos &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;points de Sorcellerie&lt;/LSTag&gt; dépensés après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Résilient</content>
+  <content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Toucher Obscur: Charisme</content>
+  <content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Votre exposition à la Gisombre vous a transformé.
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.
+
+- Vous obtenez un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1.
+ 
+- Vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibilité&lt;/LSTag&gt; (qui peut être lancé en tant que sort de niveau 1 une fois par jour) et un sort de niveau 1 de votre choix. Le sort de niveau 1 choisi doit être issu de l'école de la magie de la Divination ou de l'Enchantement. 
+La &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; du sort est celle que vous avez choisi d'augmenter en prenant ce don.</content>
+  <content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Toucher Obscur: Intelligence</content>
+  <content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Toucher Obscur : Sagesse</content>
+  <content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Prodige</content>
+  <content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">Vous avez affûté votre &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de compétences particulières. 
+Vous obtenez ainsi les avantages suivants : 
+
+- Augmentez une &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; de votre choix de 1, pour un maximum de 20. 
+
+- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; d'une &lt;LSTag Tooltip="Skill"&gt;Compétence&lt;/LSTag&gt; de votre choix ainsi que l'&lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; dans une compétence de votre choix.</content>
+  <content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">Trancheur</content>
+  <content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">Vous apprenez à trancher avec efficacité afin d'avoir de meilleurs résultats. 
+Vous obtenez les avantages suivants : 
+
+- Augmentez votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou votre &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; de 1, pour un maximum de 20. 
+
+Une fois par tour, lorsque vous touchez une créature avec une arme infligeant des dégâts tranchants, vous réduisez sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de Déplacement&lt;/LSTag&gt; de moitié jusqu'au début de votre prochain tour. 
+Lorsque vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; avec une arme infligeant des dégâts tranchants à une créature, les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; cette dernière subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">Télékinésie</content>
+  <content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">Vous apprenez à déplacer des objets avec votre esprit. 
+Vous obtenez ainsi les avantages suivants : 
+
+- Vous augmentez une &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; de votre choix de 1, pour un maximum de 20. 
+
+- Vous pouvez invoquer une &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt; invisible sans composantes verbales ou sémantiques. Vous pouvez également pousser ou attirer une créature de manière télékinétique en utilisant la &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; choisie en tant que &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; du sort. </content>
+  <content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique</content>
+  <content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Par une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;, vous pouvez toucher une arme courante ou une arme de guerre et l'infuser d'un des types de dégâts suivants : Acide, Froid, Feu, Foudre ou Poison. 
+Cette arme infligera un bonus de 1d4 de dégâts du type choisi précédemment pendant 10 tours.
+
+Vous devez effectuer un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; avant de pouvoir utiliser cette action à nouveau.</content>
+  <content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Broyeur: Repousser</content>
+  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Une fois par tour, lorsque vous touchez une créature avec une arme de mêlée infligeant des dégâts contondants, vous la repoussez de 1,5m à condition qu'elle ne soit pas d'une taille supérieure à la vôtre.</content>
+  <content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Broyeur: Critique</content>
+  <content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Lorsque vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; avec une arme infligeant des dégâts contondants contre une créature, les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; à l'encontre de cette dernière bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Toucher Féérique</content>
+  <content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la magie féerique sauvage vous a transformé.
+Vous augmentez votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la magie féerique sauvage vous a transformé.
+Vous augmentez votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la magie féerique sauvage vous a transformé.
+Vous augmentez votre &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de 1.</content>
+  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Guérisseur: Attendre aux blessures</content>
+  <content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; pour &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;soigner&lt;/LSTag&gt; les blessures d'une créature. 
+Cette créature ne peut regagner des points de vie de cette manière jusqu'au prochain &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; effectué.</content>
+  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chef inspirant</content>
+  <content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Octroie le sort &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Chef inspirant&lt;/LSTag&gt; qui confère à toutes les créatures alliées (dont vous-même) situées à 9 mètres ou moins de vous, 5 &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires. </content>
+  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Adepte de la Métamagie</content>
+  <content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous gagnez 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;points de Sorcellerie&lt;/LSTag&gt; que vous pouvez dépenser en Métamagie. Vous regagnez ceux dépensés après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive</content>
+  <content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de poison, vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour vous octroyer une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; au dégât en question.
+Vous pouvez utiliser cette réaction un nombre de fois équivalent à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; et regagnez toutes les utilisations faites après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Toucher obscur</content>
+  <content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la Gisombre vous a transformé.
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1.
+
+- Vous obtenez un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1.
+ 
+- Vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibilité&lt;/LSTag&gt; (qui peut être lancé en tant que sort de niveau 1 une fois par jour) et un sort de niveau 1 de votre choix. Le sort de niveau 1 choisi doit être issu de l'école de la magie de la Divination ou de l'Enchantement. 
+La &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; du sort est celle que vous avez choisi d'augmenter en prenant ce don.</content>
+  <content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la Gisombre vous a transformé.
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; de 1.
+
+- Vous obtenez un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1.
+ 
+- Vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibilité&lt;/LSTag&gt; (qui peut être lancé en tant que sort de niveau 1 une fois par jour) et un sort de niveau 1 de votre choix. Le sort de niveau 1 choisi doit être issu de l'école de la magie de la Divination ou de l'Enchantement. 
+La &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; du sort est celle que vous avez choisi d'augmenter en prenant ce don.</content>
+  <content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Votre exposition à la Gisombre vous a transformé.
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de 1.
+
+- Vous obtenez un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1.
+ 
+- Vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibilité&lt;/LSTag&gt; (qui peut être lancé en tant que sort de niveau 1 une fois par jour) et un sort de niveau 1 de votre choix. Le sort de niveau 1 choisi doit être issu de l'école de la magie de la Divination ou de l'Enchantement. 
+La &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; du sort est celle que vous avez choisi d'augmenter en prenant ce don.</content>
+  <content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Trancheur: Déplacement réduit</content>
+  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Une fois par tour, lorsque vous touchez une créature avec une arme infligeant des dégâts tranchants, vous réduisez sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de Déplacement&lt;/LSTag&gt; de 3m jusqu'au début de votre prochain tour. </content>
+  <content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Trancheur: Critique</content>
+  <content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Lorsque vous réussissez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; avec une arme infligeant des dégâts contondants contre une créature, vous la blessez grièvement. Les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; de cette dernière subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Télékinésie: Intelligence</content>
+  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous augmentez votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; de 1, pour un maximum de 20. 
+Vous pouvez invoquer une &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt; invisible. 
+Vous pouvez également pousser ou attirer une créature de manière télékinétique en utilisant la caractéristique choisie en tant que &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; du sort.</content>
+  <content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Télékinésie: Sagesse</content>
+  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous augmentez votre &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de 1, pour un maximum de 20. 
+Vous pouvez invoquer une &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt; invisible. 
+Vous pouvez également pousser ou attirer une créature de manière télékinétique en utilisant la caractéristique choisie en tant que &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; du sort.</content>
+  <content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Télékinésie: Charisme</content>
+  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous augmentez votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20. 
+Vous pouvez invoquer une &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt; invisible. 
+Vous pouvez également pousser ou attirer une créature de manière télékinétique en utilisant la caractéristique choisie en tant que &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; du sort.</content>
+  <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive</content>
+  <content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de poison, vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour vous octroyer une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; au dégât en question.
+Vous pouvez utiliser cette réaction un nombre de fois équivalent à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; et regagnez toutes les utilisations faites après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chef inspirant</content>
+  <content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Toutes les créatures (dont vous-même) dans un rayon de [1] de vous gagnent des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; équivalents à votre niveau actuel + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;. 
+Vous ne pouvez inspirer vos alliés à nouveau avant d'avoir effectué un &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique</content>
+  <content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous pouvez toucher une arme courante ou une arme de guerre et l'infuser d'un des types de dégâts suivants: Acide, Froid, Feu, Foudre ou Poison. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">Vous touchez une arme courante ou une arme de guerre et l'infusez d'Acide. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique: Acide</content>
+  <content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">Vous touchez une arme courante ou une arme de guerre et l'infusez de Froid. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique: Froid</content>
+  <content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">Vous touchez une arme courante ou une arme de guerre et l'infusez de Feu. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique: Feu</content>
+  <content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">Vous touchez une arme courante ou une arme de guerre et l'infusez de Foudre. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique: Foudre</content>
+  <content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">Vous touchez une arme courante ou une arme de guerre et l'infusez de Poison. Cette arme infligera un bonus de [1] du type choisi précédemment pendant 10 tours.</content>
+  <content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique: Poison</content>
+  <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Guérisseur: Attendre aux blessures</content>
+  <content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous attendez aux blessures d'une créature. Elle regagne [1]. Cette créature ne peut pas regagner de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de cette façon jusqu'à ce qu'elle effectue un &lt;LSTag Tooltip="ShortRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Télékinésie: Main du mage</content>
+  <content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous apprenez le &lt;LSTag Tooltip="Cantrip"&gt;Sort mineur&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt;. La main est invisible.</content>
+  <content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Poussée Télékinétique </content>
+  <content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous essayez de pousser télékinétiquement une créature que vous pouvez voir dans un rayon de 9m autour de vous. La créature doit réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de Sauvegarde&lt;/LSTag&gt; basé sur la &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; sous peine d'être repoussée à [2] de vous.</content>
+  <content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Attirance Télékinétique </content>
+  <content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vous essayez d'attirer télékinétiquement une créature que vous pouvez voir dans un rayon de [1] autour de vous. La créature doit réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de Sauvegarde&lt;/LSTag&gt; basé sur la &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; sous peine d'être attirée de [2] vers vous.</content>
+  <content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique (Acide)</content>
+  <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pour la prochaine minute, cette arme inflige un bonus de [1] de dégâts d'acide lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt; réussie.</content>
+  <content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique (Froid)</content>
+  <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pour la prochaine minute, cette arme inflige un bonus de [1] de dégâts de froid lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt; réussie.</content>
+  <content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique (Feu)</content>
+  <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pour la prochaine minute, cette arme inflige un bonus de [1] de dégâts de feu lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt; réussie.</content>
+  <content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique (Foudre)</content>
+  <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pour la prochaine minute, cette arme inflige un bonus de [1] de dégâts de foudre lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt; réussie.</content>
+  <content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Infusion Chromatique (Poison)</content>
+  <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pour la prochaine minute, cette arme inflige un bonus de [1] de dégâts de poison lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt; réussie.</content>
+  <content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Broyé</content>
+  <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre cette créature bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Guérisseur</content>
+  <content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Cette créature ne peut pas regagner des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; grâce au don "Guérisseur" jusqu'au prochain &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; effectué. </content>
+  <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiré</content>
+  <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chaque créature gagne 5 &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires.</content>
+  <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive (Acide)</content>
+  <content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; à l'Acide pour la prochaine instance de dégâts. </content>
+  <content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive (Froid)</content>
+  <content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; au Froid pour la prochaine instance de dégâts. </content>
+  <content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive (Feu)</content>
+  <content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; au Feu pour la prochaine instance de dégâts. </content>
+  <content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive (Foudre)</content>
+  <content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; à la Foudre pour la prochaine instance de dégâts. </content>
+  <content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Résistance Réactive (Poison)</content>
+  <content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; au Poison pour la prochaine instance de dégâts. </content>
+  <content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Utilisations de Résistance Réactive épuisées</content>
+  <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ne peut pas être utilisé avant d'avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Trancheur: Déplacement réduit</content>
+  <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; réduite de [3].</content>
+  <content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Trancheur: Désavantage</content>
+  <content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur tous les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Broyeur: Déplacer la cible</content>
+	<content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts contondants, vous pouvez la déplacer de 1,50 mètre vers un espace inoccupé, à condition que la cible ne mesure pas plus d'une taille de plus que vous |Grande taille ou plus petite|.</content>
+</contentList>

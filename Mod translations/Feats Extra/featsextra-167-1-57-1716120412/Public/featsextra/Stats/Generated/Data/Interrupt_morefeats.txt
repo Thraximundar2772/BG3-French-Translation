@@ -1,0 +1,14 @@
+
+new entry "Interrupt_ReactiveResistance"
+type "InterruptData"
+data "DisplayName" "kt1326871g90b2g4f18gab29g0a0a8f3fbdce;1"
+data "Description" "kt1336871g90b2g4f18gab29g0a0a8f3fbdce;1"
+data "Icon" "PassiveFeature_Generic"
+data "InterruptContext" "OnPostRoll"
+data "InterruptContextScope" "Self"
+data "Container" "YesNoDecision"
+data "Conditions" "IsAbleToReact(context.Observer) and Self(context.Target,context.Observer) and not HasStatus('REACTIVE_RESISTANCE_OUTOFUSES', context.Observer) and (IsDamageTypeAcid() or IsDamageTypeCold() or IsDamageTypeFire() or IsDamageTypeLightning() or IsDamageTypePoison())"
+data "Properties" "IF(IsDamageTypeAcid()):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_ACID,100,1);IF(IsDamageTypeCold()):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_COLD,100,1);IF(IsDamageTypeFire()):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_FIRE,100,1);IF(IsDamageTypeLightning()):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_LIGHTNING,100,1);IF(IsDamageTypePoison()):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_POISON,100,1);IF(HasStatus('REACTIVE_RESISTANCE_USES5', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_OUTOFUSES,100,-1);IF(HasStatus('REACTIVE_RESISTANCE_USES4', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_USES5,100,-1);IF(HasStatus('REACTIVE_RESISTANCE_USES3', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_USES4,100,-1);IF(HasStatus('REACTIVE_RESISTANCE_USES2', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_USES3,100,-1);IF(HasStatus('REACTIVE_RESISTANCE_USES1', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_USES2,100,-1);IF(not HasStatus('REACTIVE_RESISTANCE_USES1', context.Observer) and not HasStatus('REACTIVE_RESISTANCE_USES2', context.Observer) and not HasStatus('REACTIVE_RESISTANCE_USES3', context.Observer) and not HasStatus('REACTIVE_RESISTANCE_USES4', context.Observer) and not HasStatus('REACTIVE_RESISTANCE_USES5', context.Observer) and not HasStatus('REACTIVE_RESISTANCE_OUTOFUSES', context.Observer)):ApplyStatus(OBSERVER_OBSERVER,REACTIVE_RESISTANCE_USES1,100,-1);"
+data "Cost" "ReactionActionPoint:1"
+data "InterruptDefaultValue" "Ask;Enabled"
+

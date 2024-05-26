@@ -1,0 +1,12 @@
+new entry "INTERRUPT_WINGS"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "SoundStart" "Spell_Passive_Cast_Wizard_ProjectedWard"
+data "StatusEffect" "5f637e2d-e099-4c88-af66-a88d1492ac4a"
+
+new entry "INTERRUPT_GOTCD_RESISTANCE"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "StatusEffect" "fef2b2ac-c7c5-47cb-b6a3-23977107f9f7"

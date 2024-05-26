@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="302"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Guile_of_the_Cloud_Giant_Resource"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="2493dbc7-d274-4c07-be3c-15bbba0998f4"/>
+                </node>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Strike_of_the_Giants_Resource"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="76ede90d-a53e-420a-839d-5541d3fff85c"/>
+                </node>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="Error" type="TranslatedString" handle="hea9d4496g788ag4a57gb9degb995324381b7" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="SOFG_OncePerTurn"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="3191f55a-16b6-47b7-b58c-81cf1cce011a"/>
+                </node>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1816871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Ember_Of_The_Fire_Giant_Resource"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="8830cc05-767d-4476-8edf-a0fa1ef33586"/>
+                </node>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="lz1926871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Fury_Of_The_Frost_Giant_Resource"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="616f9833-e39e-4924-bda9-945c5a4db986"/>
+                </node>
+				<node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="hbcdcc3dcg93e2g4033gb5f4g519616183ab8" version="1"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="Name" type="FixedString" value="Gift_of_the_Gem_Dragon_Resource"/>
+					<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+					<attribute id="UUID" type="guid" value="1b53697f-2173-4523-8794-59482fb937fb"/>
+				</node>
+					<node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="he6cde322g7a20g43edgb577geb91e9118b11" version="1"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="Name" type="FixedString" value="Gift_of_the_Metallic_Dragon_Resource"/>
+					<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+					<attribute id="UUID" type="guid" value="c863a655-c395-46ec-bdb9-6dd313c2f75f"/>
+				</node>
+					<node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="lz1996871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="Name" type="FixedString" value="Keenness_of_the_Stone_Giant_Resource"/>
+					<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+					<attribute id="UUID" type="guid" value="905cda5a-6608-4ffd-b7e2-1a7410aa92ad"/>
+				</node>
+					<node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="Name" type="FixedString" value="Soul_of_the_Storm_Giant_Resource"/>
+					<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+					<attribute id="UUID" type="guid" value="cbe421ef-0743-45dd-913a-19af80787133"/>
+				</node>
+				<node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="hf58ce7ebgc709g4544gb9aeg782038d02b67" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"/>
+					<attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="Name" type="FixedString" value="Rune_Sharper_Resource"/>
+					<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+					<attribute id="UUID" type="guid" value="c3c2ea92-6d60-4b21-ae0b-e9c9750d97c3"/>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>

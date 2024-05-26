@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_FogCloud" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="66eed259-6fd1-4e0b-8c5e-8f77aca7f8ac" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Cloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Cloud" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c7fb5a52-b08d-3f55-9869-20bc281af00c" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Necromancy_InflictWounds" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="35d27550-4ac4-4b11-8441-1cb67087039f" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Death" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Death" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Evocation_ChromaticOrb" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f7399b6d-9841-4daf-b5d6-be23d701f19d" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Dragon" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Dragon" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Illusion_DisguiseSelf_Drow_Strong_Male" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4a57f47a-75b4-4bcf-a887-15012a3ab222" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Enemy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Enemy" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Evocation_BurningHands" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4db5f11c-98f6-4474-a1b2-e7881f51cd6b" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Fire" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Fire" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Divination_SpeakWithAnimals" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c2170bc5-8bcf-405f-a05d-f82de7c42464" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Friend" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Friend" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Abjuration_ArmorOfAgathys" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c51da55f-fc9c-4393-b383-275e8ae12a2d" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Frost" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Frost" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Transmutation_Goodberry" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0cfe9f7f-dc32-44a2-a4fd-e9976764aae2" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Hill" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Hill" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Transmutation_Longstrider" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="95e71a1d-0eaf-4b9f-9820-31ee4f58e32a" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Journey" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Journey" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Enchantment_CommandHalt" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="58577f5f-f792-40fc-9163-017776b0656d" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_King" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_King" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_Entangled" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="170b9555-9272-447b-8d8c-b4fcab18261e" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Mountain" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Mountain" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Abjuration_Sanctuary" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d47d08dd-0c70-47ad-a170-d8a6beb92f55" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Stone" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Stone" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="lz2356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Evocation_Thunderwave" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="990a166a-982c-4812-9e84-9d899bd93a34" />
+					<attribute id="Name" type="LSString" value="OBJ_RuneMagic_Storm" />
+					<attribute id="ParentTemplateId" type="FixedString" value="07fa63ae-349e-4535-8473-970fec96cdb2" />
+					<attribute id="Stats" type="FixedString" value="OBJ_RuneMagic_Storm" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="87bac84c-4e4f-b326-df3c-b47aefc8eca7" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>	

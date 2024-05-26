@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Shout_Dodge_DwarvenFortitude"/>
+                    <attribute id="UUID" type="guid" value="e55d917a-46bb-44a4-b2a6-8776e15ae797"/>
+                </node>
+				 <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Shout_PassWithoutTrace_WoodElfMagic;Target_Longstrider_WoodElfMagic"/>
+                    <attribute id="UUID" type="guid" value="ef115644-1086-4de7-97e4-19be49321a75"/>
+                </node>
+				<node id="SpellList"> Feytouched - cha
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship_feytouched_cha;Target_Bane_feytouched_cha;Target_BeastBond_feytouched_cha;Target_Bless_feytouched_cha;Target_CharmPerson_feytouched_cha;Target_Command_Container_feytouched_cha;Target_CompelledDuel_feytouched_cha;Shout_DetectEvilAndGood_feytouched_cha;Shout_DetectMagic_feytouched_cha;Target_DissonantWhispers_feytouched_cha;Target_Heroism_feytouched_cha;Target_Hex_feytouched_cha;Target_HuntersMark_feytouched_cha;Target_Sleep_feytouched_cha;Shout_SpeakWithAnimals_feytouched_cha;Target_HideousLaughter_feytouched_cha"/>
+                    <attribute id="UUID" type="guid" value="6810159f-6483-46cd-a5d5-deeeeeeeeeee"/>
+                </node>
+				<node id="SpellList"> Feytouched - int
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship_feytouched_int;Target_Bane_feytouched_int;Target_BeastBond_feytouched_int;Target_Bless_feytouched_int;Target_CharmPerson_feytouched_int;Target_Command_Container_feytouched_int;Target_CompelledDuel_feytouched_int;Shout_DetectEvilAndGood_feytouched_int;Shout_DetectMagic_feytouched_int;Target_DissonantWhispers_feytouched_int;Target_Heroism_feytouched_int;Target_Hex_feytouched_int;Target_HuntersMark_feytouched_int;Target_Sleep_feytouched_int;Shout_SpeakWithAnimals_feytouched_int;Target_HideousLaughter_feytouched_int"/>
+                    <attribute id="UUID" type="guid" value="f25bfae2-46bb-46ee-9cf4-6dceb2aa8bc6"/>
+                </node>
+				<node id="SpellList"> Feytouched - wis
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship_feytouched_wis;Target_Bane_feytouched_wis;Target_BeastBond_feytouched_wis;Target_Bless_feytouched_wis;Target_CharmPerson_feytouched_wis;Target_Command_Container_feytouched_wis;Target_CompelledDuel_feytouched_wis;Shout_DetectEvilAndGood_feytouched_wis;Shout_DetectMagic_feytouched_wis;Target_DissonantWhispers_feytouched_wis;Target_Heroism_feytouched_wis;Target_Hex_feytouched_wis;Target_HuntersMark_feytouched_wis;Target_Sleep_feytouched_wis;Shout_SpeakWithAnimals_feytouched_wis;Target_HideousLaughter_feytouched_wis"/>
+                    <attribute id="UUID" type="guid" value="79d7684d-b362-414e-9f69-ce1a302db09b"/>
+                </node>
+				<node id="SpellList"> _Shadowtouched_cha
+                    <attribute id="Spells" type="LSString" value="Target_CauseFear_Shadowtouched_cha;Zone_ColorSpray_Shadowtouched_cha;Shout_DisguiseSelf;Shout_FalseLife_Shadowtouched_cha;Target_InflictWounds_Shadowtouched_cha;Projectile_RayOfSickness_Shadowtouched_cha"/>
+                    <attribute id="UUID" type="guid" value="45e1e579-d687-45d2-b2c3-deeeeeeeeeee"/>
+                </node>
+				<node id="SpellList"> _Shadowtouched_int
+                    <attribute id="Spells" type="LSString" value="Target_CauseFear_Shadowtouched_int;Zone_ColorSpray_Shadowtouched_int;Shout_DisguiseSelf;Shout_FalseLife_Shadowtouched_int;Target_InflictWounds_Shadowtouched_int;Projectile_RayOfSickness_Shadowtouched_int"/>
+                    <attribute id="UUID" type="guid" value="204d78ae-1374-455f-91ee-f23dcbfb93d7"/>
+                </node>
+				<node id="SpellList"> _Shadowtouched_wis
+                    <attribute id="Spells" type="LSString" value="Target_CauseFear_Shadowtouched_wis;Zone_ColorSpray_Shadowtouched_wis;Shout_DisguiseSelf;Shout_FalseLife_Shadowtouched_wis;Target_InflictWounds_Shadowtouched_wis;Projectile_RayOfSickness_Shadowtouched_wis"/>
+                    <attribute id="UUID" type="guid" value="b72a7e45-bbd2-4662-8529-72f05b7f7c61"/>
+                </node>
+				<node id="SpellList"> Ritual Bard
+                    <attribute id="Spells" type="LSString" value="Shout_DetectMagic_Ritual;Shout_DisguiseSelf;Target_Longstrider"/>
+                    <attribute id="UUID" type="guid" value="ed216a80-5973-4303-af52-deeeeeeeeeee"/>
+                </node>
+				<node id="SpellList"> Ritual Cleric
+                    <attribute id="Spells" type="LSString" value="Target_Ceremony_Ritual;Shout_DetectEvilAndGood;Shout_DetectMagic_Ritual"/>
+                    <attribute id="UUID" type="guid" value="c6818c03-e7df-45ab-b9d5-deeeeeeeeeee"/>
+                </node>
+				<node id="SpellList"> Ritual Wizard
+                    <attribute id="Spells" type="LSString" value="Shout_DetectMagic_Ritual;Shout_DisguiseSelf;Target_Jump;Shout_FeatherFall;Target_FindFamiliar;Target_Longstrider"/>
+                    <attribute id="UUID" type="guid" value="1fcbc392-72f2-4d46-9c23-deeeeeeeeeee"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magic Initiate Artificer cantrips (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_AcidSplash;Shout_BladeWard;Target_BoomingBlade;Target_CreateBonfire;Target_DancingLights;Projectile_FireBolt;Target_Frostbite;Target_Guidance;Target_GreenFlameBlade;Target_Light;Target_LightningLure;Target_MageHand;Projectile_PoisonSpray;Target_Prestidigitation;Projectile_RayOfFrost;Target_Resistance;Target_ShockingGrasp;Shout_SwordBurst;Target_ThornWhip;Shout_Thunderclap"/>
+                    <attribute id="UUID" type="guid" value="517cca1f-771f-42af-be2f-5f4ce160c07e"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Magic Initiate Artificer LEVEL ONE SPELLS (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AbsorbElements_FE;Throw_Catapult_FE;Target_CureWounds_FE;Shout_DetectMagic_FE;Shout_Artificer_Initiative_DS;Shout_ExpeditiousRetreat_FE;Target_FaerieFire_FE;Shout_FalseLife_FE;Shout_FeatherFall_FE;Target_Grease_FE;Target_Jump_FE;Target_Longstrider_FE;Target_Sanctuary_FE;Target_Snare_FE;Zone_TashasCausticBrew_FE"/>
+                    <attribute id="UUID" type="guid" value="ae8a00d3-a0a1-4a13-862b-24e201b3bf10"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="SvirfneblinMagic Nondetection (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Target_Nondetection"/>
+                    <attribute id="UUID" type="guid" value="091104a3-037f-4931-ba0f-b8cdeccedff6"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="SvirfneblinMagic Blindness, Blur, Disguise Self (Intelligence)"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness_SvirfneblinMagic;Shout_Blur_SvirfneblinMagic;Shout_DisguiseSelf_SvirfneblinMagic"/>
+                    <attribute id="UUID" type="guid" value="8bd05287-f44e-4ea8-803a-14b12f7e21ee"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

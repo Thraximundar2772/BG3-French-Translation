@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="55"/>
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Elven_Accuracy_Dexterity,Elven_Accuracy_Intelligence,Elven_Accuracy_Wisdom,Elven_Accuracy_Charisma"/>
+          <attribute id="UUID" type="guid" value="1cbbf001-8add-4796-8aff-cb9161b587d3"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="FlamesOfPhlegethos_Intelligence,FlamesOfPhlegethos_Charisma"/>
+          <attribute id="UUID" type="guid" value="58af2996-5c9e-4749-b70a-cb44e2c6c59c"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Squat_Nimbleness_Acrobatics,Squat_Nimbleness_Athletics"/>
+          <attribute id="UUID" type="guid" value="c1c9f98e-5ca5-4f45-82fa-0921ab95d18f"/>
+        </node>
+        <node id="PassiveList">          <!-- MORE FEATS -->
+          <attribute id="Passives" type="LSString" value="Resilient_Strength,Resilient_Dexterity,Resilient_Constitution,Resilient_Intelligence,Resilient_Wisdom,Resilient_Charisma"/>
+          <attribute id="UUID" type="guid" value="7e86e711-4232-4886-bbb1-deeeeeeeeeee"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Passives" type="LSString" value="Telekinetic_Intelligence,Telekinetic_Wisdom,Telekinetic_Charisma"/>
+          <attribute id="UUID" type="guid" value="39c90bfb-547f-43c5-96e3-deeeeeeeeeee"/>
+        </node>
+		<node id="PassiveList"><!-- Strike_of_the_Giants -->
+          <attribute id="Passives" type="LSString" value="SOTG_CloudStrike,SOTG_FireStrike,SOTG_FrostStrike,SOTG_HillStrike,SOTG_StoneStrike,SOTG_StormStrike"/>
+          <attribute id="UUID" type="guid" value="f8bb3a89-b858-4cf2-94be-fd87eb45e667"/>
+        </node>
+		<node id="PassiveList"><!-- Ember of Fire Giant -->
+          <attribute id="Passives" type="LSString" value="Searing_Ignition_STR,Searing_Ignition_CON,Searing_Ignition_WIS"/>
+          <attribute id="UUID" type="guid" value="bd59d518-95e2-4e1e-9593-233f13b08201"/>
+        </node>
+		<node id="PassiveList"><!-- Fury of the Frost Giant -->
+          <attribute id="Passives" type="LSString" value="Frigid_Retaliation_STR,Frigid_Retaliation_CON,Frigid_Retaliation_WIS"/>
+          <attribute id="UUID" type="guid" value="8e04957f-13e8-4500-95da-826696843ce2"/>
+        </node>
+		<node id="PassiveList"><!-- Keenness Of the Stone Giant Thrown Stone -->
+          <attribute id="Passives" type="LSString" value="KOTSG_StoneThrow_STR,KOTSG_StoneThrow_CON,KOTSG_StoneThrow_WIS"/>
+          <attribute id="UUID" type="guid" value="c3234575-a943-4eb6-863c-3c12f3c6bc36"/>
+        </node>
+		<node id="PassiveList"><!-- Keenness Of the Stone Giant Thrown Stone -->
+          <attribute id="Passives" type="LSString" value="SOTSG_MaelstromAura_STR,SOTSG_MaelstromAura_WIS,SOTSG_MaelstromAura_CHA"/>
+          <attribute id="UUID" type="guid" value="b14ad9a8-f7c1-4844-a772-68abb05978ee"/>
+        </node>
+		<node id="PassiveList"><!-- Rune Shaper -->
+          <attribute id="Passives" type="LSString" value="Rune_Shaper_RuneMagic_INT,Rune_Shaper_RuneMagic_WIS,Rune_Shaper_RuneMagic_CHA"/>
+          <attribute id="UUID" type="guid" value="888ad2f5-d0c6-471a-b1e7-43d09ab473fc"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
