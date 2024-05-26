@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hc7e0718fg96b3g4301gad10g1225a89850e2" version="1">Wznoszący krok</content>
+	<content contentuid="h8a1a8115gd64dg4e9bg90cfg548990f9715c" version="1">Raz na długi odpoczynek możesz rzucić na siebie &lt;LSTag Type="Spell" Tooltip="Target_Fly"&gt;Przyznanie umiejętności lotu&lt;/LSTag&gt; bez użycia &lt;LSTag Tooltip="WarlockSpellSlot"&gt;komórki czaru Czarownika&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="hc13adc57g00fag4e50gbdc3g75a153143cfc" version="1">Dar obrońców</content>
+	<content contentuid="hfe0b0f65g6d1cg45a3g903agcddc98271dd3" version="1">Jeśli osiągniesz 0 &lt;LSTag Tooltip="HitPoints"&gt;tymczasowych punktów wytrzymałośći&lt;/LSTag&gt;, odzyskujesz [1] zamiast wpadać w &lt;LSTag Tooltip="Downed"&gt;Agonię&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h8fe52160g28bdg49f3g9bc5gfa63ea508cea" version="1">Nieziemski umysł</content>
+	<content contentuid="h8ef706f0g0ac4g4da8gb362gb8d5149488da" version="1">Posiadasz &lt;LSTag Tooltip="Advantage"&gt;ułatwienie&lt;/LSTag&gt; na &lt;LSTag Tooltip="SavingThrow"&gt;rzuty obronne&lt;/LSTag&gt; na &lt;LSTag Tooltip="Concentration"&gt;koncentrację&lt;/LSTag&gt; aby utrzymać zaklęcia.</content>
+	
+	<content contentuid="h377320adg5b73g403fgad31g3cf06c8810fc" version="1">Uścisk Hadara</content>
+	<content contentuid="hb028d267g29c4g4ab8gba32g89b37a1171cf" version="1">Kiedy trafisz cel &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Nieziemskim uderzeniem&lt;/LSTag&gt;, możesz przyciągnąć cel w swoją stronę na [1].</content>
+	
+	<content contentuid="h3a31a921g28efg4d08gb9d3gee7297c69b8f" version="1">Lanca letargu</content>
+	<content contentuid="he6aada9ag7026g434agad7dga55ee5957581" version="1">Kiedy trafisz cel &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Nieziemskim uderzeniem&lt;/LSTag&gt;, cel otrzymuje zmniejszoną &lt;LSTag Tooltip="MovementSpeed"&gt;szybkość ruchu&lt;/LSTag&gt; o [1].</content>
+	
+	<content contentuid="h14057e3bgcc76g4f0aga217g71199900ce8c" version="1">Całun cienia</content>
+	<content contentuid="h0f0a72cagcb0eg4610g801dga05f1eac1ba5" version="1">Raz na krótki odpoczynek, możesz rzucić na siebie &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Niewidzialność&lt;/LSTag&gt; bez użycia &lt;LSTag Tooltip="SpellSlot"&gt;komórki czaru&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="hc633fcdeg519ag46bagabfbgce2be305adb9" version="1">Ucieczka oszusta</content>
+	<content contentuid="hd3197cdfgb453g4d96gad58gbbd92822f84e" version="1">Raz na długi odpoczynek możesz rzucić na siebie &lt;LSTag Type="Spell" Tooltip="Target_FreedomOfMovement"&gt;Swobodę ruchu&lt;/LSTag&gt; bez użycia &lt;LSTag Tooltip="SpellSlot"&gt;komórki czaru&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="hc31436dag705ag43b2g8fe7gd790a20bc3a4" version="1">Nieśmiertelna niewola</content>
+	<content contentuid="h0ff17eb0g02ceg4d63gb70dg7b5d09b98c6b" version="1">Możesz rzucić &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animowanie zmarłego&lt;/LSTag&gt; korzystając z &lt;LSTag Tooltip="WarlockSpellSlot"&gt;komórki czaru Czarownika&lt;/LSTag&gt;.</content>
+	<content contentuid="h5bed71f9g6eadg40b4ga5f4gcc16a0416b5a" version="3">Stwórz 5 szkieletów specjalizujących się w walce dystansowej.</content>
+	<content contentuid="h0dfd09b4g779bg4825g9a4fg60fea3f80d5b" version="3">Stwórz 5 zombie specjalizujących się w walce wręcz.</content>
+	
+	<content contentuid="he4af4ebeg43e5g49ccg88fagd4deef8566b6" version="1">Upiorne spojrzenie</content>
+	<content contentuid="h115b928cg81dbg49e5g8150g666a18c80ec6" version="1">Raz na krótki odpoczynek możesz podjąć akcję, aby zyskać &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Widzenie w ciemności&lt;/LSTag&gt; i &lt;LSTag Type="Status" Tooltip="SEE_INVISIBILITY"&gt;Widzenie niewidzialnego&lt;/LSTag&gt; na 10 minut lub do momentu utraty koncentracji.</content>
+	<content contentuid="h588acf93g1b7eg43ccg9f8fg7d118f739314" version="1">Zyskaj &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Widzenie w ciemności&lt;/LSTag&gt; i zdolność dostrzegania &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;niewidzialnych&lt;/LSTag&gt; stworzeń i ewentualnie ujawnić je innym.</content>
+
+	<content contentuid="h87a01dcfg94ebg4b7egadc6g52aa04f74a1a" version="1">Łańcuchy Carceri</content>
+	<content contentuid="h916f6fc0g67b3g4a08ga626g916de213f331" version="1">Raz na krótki odpoczynek możesz rzucić &lt;LSTag Type="Spell" Tooltip="Target_HoldMonster"&gt;Unieruchomienie potwora&lt;/LSTag&gt; bez utraty &lt;LSTag Tooltip="SpellSlot"&gt;komórki czaru&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h0c989c03g87a3g47f0gbb45g842d58060654" version="1">Nieziemskie porażenie</content>
+	<content contentuid="h2cb61a92g46e9g470ag9072g75208f8d9e16" version="1">Możesz użyć &lt;LSTag Tooltip="WarlockSpellSlot"&gt;komórki czaru Czarownika&lt;/LSTag&gt;, aby &lt;LSTag Type="Spell" Tooltip="Target_Smite_Eldritch_Container"&gt;porazić&lt;/LSTag&gt; cel raz na turę twoją &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Bronią paktu&lt;/LSTag&gt;, by zadać dodatkowe obrażenia i &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Powalić&lt;/LSTag&gt; cel, jeśli jest duży lub mały.</content>
+	<content contentuid="h97c541e4g824dg4b9ag877dg1190192d08a4" version="1">Nieziemskie porażenie: Reakcja</content>
+	<content contentuid="h188a1706g8043g440ag8cdbgf900284fa0ce" version="1">Nieziemskie porażenie krytyczne: Reakcja</content>
+	<content contentuid="hfd2e0660g4442g47b9g88ceg664aee601aea" version="1">Nieziemskie porażenie krytyczne</content>
+	<content contentuid="hb507f922g330eg4b04g88e3g77fb4d6f2571" version="1">Nieziemskie porażenie (Broń biała)</content>
+	<content contentuid="hd77d31fbg3224g4979g9eccg3a3641725954" version="1">Nieziemskie porażenie (Broń dystansowa)</content>
+	<content contentuid="hb98bb0e2g3b15g4366g9803g866f6511cf48" version="1">Zadaje dodatkowe [1] celowi i powala go na ziemię, jeśli jest duży lub mały.</content>
+	<content contentuid="hb98bb0e2g3b15g4366g9803g866f6511cf11" version="1">Używasz &lt;LSTag Tooltip="WarlockSpellSlot"&gt;komórki czaru Czarownika&lt;/LSTag&gt;, aby zadać dodatkowe [1] celowi i powalić go na ziemię, jeśli jest duży lub mały.</content>
+	
+	<content contentuid="h9d0b3cc6g1d0ag457eg8bcbg9156385387fb" version="1">Nieustępliwy Urok</content>
+	<content contentuid="hafc6e898g3b85g4a84ga011gfdead9591fa2" version="1">Używając &lt;LSTag Tooltip="BonusAction"&gt;akcji dodatkowej&lt;/LSTag&gt;, możesz teleportować się na odległość [1] w miejsce przed cel, przeklęty &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Urokiem&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Nałożeniem klątwy&lt;/LSTag&gt;, lub inną podobną klątwą Czarownika.</content>
+
+	<content contentuid="h3128afe4gb44eg449egaff6gf6aaedf58d09" version="1">Szaleńczy Urok</content>
+	<content contentuid="hbbd8d5d0g0bdeg43d2gaf31g42e64d83b99d" version="1">Używając &lt;LSTag Tooltip="BonusAction"&gt;akcji dodatkowej&lt;/LSTag&gt; możesz zmusić cel przeklęty &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Urokiem&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Nałożeniem klątwy&lt;/LSTag&gt;, lub podobną klątwą Czarownika w promieniu [1] do wybuchu powodując obrażenia psychiczne równe twojemu &lt;LSTag Tooltip="AbilityModifier"&gt;modyfikatorowi&lt;/LSTag&gt; &lt;LSTag Tooltip="Charisma"&gt;Charyzmy&lt;/LSTag&gt; (min. 1 obr.) celowi przeklętemu i celom pobocznym w zasięgu [2].</content>
+	<content contentuid="h4ad6c5dfg9c26g4906ga5c9g465bbd9e6fd0" version="1">Używając &lt;LSTag Tooltip="BonusAction"&gt;akcji dodatkowej&lt;/LSTag&gt; możesz zmusić cel przeklęty &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Urokiem&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Nałożeniem klątwy&lt;/LSTag&gt;, lub podobną klątwą Czarownika w promieniu [1] do wybuchu powodując &lt;LSTag Type="Damage"&gt;[2]&lt;/LSTag&gt; równe twojemu &lt;LSTag Tooltip="AbilityModifier"&gt;modyfikatorowi&lt;/LSTag&gt; &lt;LSTag Tooltip="Charisma"&gt;Charyzmy&lt;/LSTag&gt; (min. 1 obr.) celowi przeklętemu i celom pobocznym w zasięgu [3].</content>
+	<content contentuid="h4eb45f53gbd0eg4b06g87ecg32eb5d568d51" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Cel musi być dotknięty &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Urokiem&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Nałożeniem klątwy&lt;/LSTag&gt;, lub inną klątwą uroku.</content>
+	
+	<content contentuid="h2a35e417gaad5g406dg9a18gcee8e34c61cc" version="1">Grób Lewistusa</content>
+	<content contentuid="h7954bb08g4ad3g404egbda9g66e1200f2910" version="1">Raz na &lt;LSTag Tooltip="ShortRest"&gt;krótki odpoczynek&lt;/LSTag&gt; możesz wykonać &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reakcję&lt;/LSTag&gt; zanim otrzymasz obrażenia, do końca swojej następnej tury zyskujesz 10 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;tymczasowych punkty wytrzymałości&lt;/LSTag&gt; na poziom Czarownika, zyskujesz też &lt;LSTag Tooltip="Vulnerable"&gt;podatność&lt;/LSTag&gt; na obrażenia od ognia, a twoja prędkość poruszania się zredukowana jest do 0, a ty jesteś &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;obezwładniony&lt;/LSTag&gt;.</content>
+	<content contentuid="hebf1e076g08d4g4aefg9974g2555d6a4c3c7" version="1">W odpowiedzi na obrażenia zyskujesz [1]-krotność &lt;LSTag Tooltip="TemporaryHitPoints"&gt;tymczasowych punktów wytrzymałości&lt;/LSTag&gt; odpowiadajacy poziomowi Czarownika, ale zyskujesz &lt;LSTag Tooltip="Vulnerable"&gt;podatność&lt;/LSTag&gt; na obrażenia od ognia, a twoja prędkość poruszania się zredukowana jest do 0, a ty jesteś &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;obezwładniony&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h13cf1fb8gc559g4e06g8773gd3f1a076ee5f" version="1">Płaszcz much</content>
+	<content contentuid="h6a40df2dgef20g456bgb8fegbdc89ebd6fcb" version="1">Używając &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;akcji dodatkowej&lt;/LSTag&gt;, możesz otoczyć się magiczną aurą, która rozciąga się na 2 metry i wygląda jak bzyczące muchy. Trwa do chwili &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;obezwładnienia&lt;/LSTag&gt; lub do momentu, gdy odrzucisz ją jako &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;akcję dodatkową&lt;/LSTag&gt;. Aura zapewnia ci &lt;LSTag Tooltip="Advantage"&gt;ułatwienie&lt;/LSTag&gt; w testach &lt;LSTag Tooltip="Intimidation"&gt;Charyzmy (Zastraszanie)&lt;/LSTag&gt; ale zyskujesz &lt;LSTag Tooltip="Disadvantage"&gt;niedogodność&lt;/LSTag&gt; we wszystkich innych testach &lt;LSTag Tooltip="Charisma"&gt;Charyzmy&lt;/LSTag&gt;. Każdy wróg, który rozpoczyna swoją turę w aurze, otrzymuje obrażenia od trucizny równy twojemu &lt;LSTag Tooltip="Charisma"&gt;modyfikatorowi charyzmy&lt;/LSTag&gt;.</content>
+	<content contentuid="h9d1c3783g76d8g47c3g9538g68f0ecf6c5e4" version="1">Aura bzyczących much rozciąga się od ciebie w odległości [1], zapewniając ci &lt;LSTag Tooltip="Advantage"&gt;ułatwienie&lt;/LSTag&gt; w testach &lt;LSTag Tooltip="Intimidation"&gt;Charyzmy (Zastraszanie)&lt;/LSTag&gt; i &lt;LSTag Tooltip="Disadvantage"&gt;niedogodność&lt;/LSTag&gt; we wszystkich innych testach &lt;LSTag Tooltip="Charisma"&gt;Charyzmy&lt;/LSTag&gt;. Wrogowie, którzy rozpoczynają swoją turę w aurze, otrzymują [2].</content>
+	<content contentuid="b9d1c3783g76d8h47c3g9538g68f0ecf6c3e6" version="1">Brzęczące muchy roją się i atakują, zadajać [1].</content>
+	<content contentuid="h1bcbd7d4g871bg448fgb73cg62d4997470fc" version="1">Płaszcz much: Rozprosz</content>
+	<content contentuid="hc984c622g8c9cg4511g85a1gbff7ecd9956e" version="1">Rozprasza otaczający cię Płaszcz much.</content>
+	
+	<content contentuid="ha1958bf1g1ca6g4bceg8b9ag330ac003aa95" version="1">Ulepszona Broń Paktu</content>
+	<content contentuid="hdb898539g80d9g457fg93cdgf8478484067d" version="1">Twój Pakt Ostrzy zyskuje premię do ataku, a rzuty na obrażenia skalują się wraz z poziomem Czarownika (+1 standardowo, +2 na 7 poziom i +3 na 12 poziom), chyba że jest to broń magiczna, która ma już premię do tych rzutów. Dodatkowo, bronią którą wyczarujesz, może być: krótki łuk, długi łuk, ręczna kusza, lekka kusza lub ciężka kusza.</content>
+	<content contentuid="h8d75c574g0fd9g4c2ag98d6gda8a5247cc79" version="1">Zwiąż Broń Paktu: Broń Biała</content>
+	<content contentuid="h9da639b8g156eg45d0g8594g0e566f9ba11b" version="1">Zwiąż Broń Paktu: Broń Dystansowa</content>
+	<content contentuid="h284971fcg9262g49b3gb0d7g6c592d6b6e03" version="1">Przywiąż się do swojej głównej broni białej. Zadawane przez niego obrażenia stają się magiczne, nie możesz zostać rozbrojony siłą i otrzymujesz &lt;LSTag Tooltip="WeaponProficiency"&gt;Proficient&lt;/LSTag&gt; jeśli jeszcze jej nieposiadasz.</content>
+	<content contentuid="hbf27bd9bg2d0bg46f5ga9eeg9d1471a8a74f" version="1">Przywiąż się do swojej głównej broni dystansowej. Zadawane przez niego obrażenia stają się magiczne, nie możesz zostać rozbrojony siłą i otrzymujesz &lt;LSTag Tooltip="WeaponProficiency"&gt;Proficient&lt;/LSTag&gt; jeśli jeszcze jej nieposiadasz.</content>
+	<content contentuid="hbc864689g60c6g47ccgbb06gded2dd75a3ef" version="1">Twój Pakt Ostrza zyskuje premię +[1] do swoich testów ataku i obrażeń, chyba że jest to broń magiczna, która ma już premię do tych testów.</content>
+	
+	<content contentuid="h481ffe1bg7cfdg4732g809bgccef0cf332a7" version="1">Pakt Ostrza: Broń Biała</content>
+	<content contentuid="h45d2eddfg31e3g4cc5g951ag437098c841a9" version="1">Pakt Ostrza: Dystansowe</content>
+	<content contentuid="hae63c64fgfd72g4ebcg85a1gff0f9b1dc68f" version="1">Pakt Ostrza: Ręczna Kusza</content>
+	<content contentuid="hd12d12c1ge2b5g4f20g98f1gc5aa2c0db842" version="1">Pakt Ostrza: Lekka Kusza</content>
+	<content contentuid="hbb02cc80gcc0fg479ag96cfg7470cd63602d" version="1">Pakt Ostrza: Ciężka Kusza</content>
+	<content contentuid="h419267efgc6afg4ea9gbfe1gb8daf6a488e0" version="1">Pakt Ostrza: Krótki Łuk</content>
+	<content contentuid="h088ba36agadf1g4e68gabdag9907ed36d8db" version="1">Pakt Ostrza: Długi Łuk</content>
+ 	<content contentuid="h37022676g5c69g42c1g9ba1gf3d81d0d9cd8" version="1">Przyzwij Ręczną Kuszę</content>
+	<content contentuid="h75dd0e1ag60deg4331ga052gd10e1f9e50c5" version="1">Przyzwij Lekką Kuszę</content>
+	<content contentuid="hcf0c364ega108g4635g8e56g1abc6b22c2a7" version="1">Przyzwij Ciężką Kuszę</content>
+	<content contentuid="h0f328d2cgc587g4684gb3dcg508932715a28" version="1">Przyzwij Krótki łuk</content>
+	<content contentuid="h85935312g689ag4f21g966bge40fead02d82" version="1">Przyzwij Długi łuk</content>
+	<content contentuid="haae5cc5bg9cbag40e2g9961gb02f7af7d19b" version="1">Związana Paktem Ręczna Kusza</content>
+	<content contentuid="hd953dab2gbb4ag4136gb8a0g1e042c4f7260" version="1">Związana Paktem Lekka Kusza</content>
+	<content contentuid="h61ff3167g0d7bg4578gbde7gbf93e1148527" version="1">Związana Paktem Ciężka Kusza</content>
+	<content contentuid="heaa400dbgb7e1g4d6bga8f4g936c906927a2" version="1">Związany Paktem Krótki Łuk</content>
+	<content contentuid="h565bca95g3c89g49e2g972age7a4be22ddf8" version="1">Związany Paktem Długi Łuk</content>
+	<content contentuid="hfb23613dg53f9g4188gbefcg2ce285a1674f" version="1">Przywoływana Ręczna Kusza przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h3f36d9efg4c72g4d2eg98fcg7c85ca6556b1" version="1">Przywoływana Lekka Kusza przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="hdfd50506gf5bcg47adga442g46b4ff271d6f" version="1">Przywoływana Ciężka Kusza przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="ha9079c26g15fag47c6gba15g02ce4845cc21" version="1">Przywoływany Krótki Łuk przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="hac38ff2eg32a6g42b0gbb9bg03b9515fdce5" version="1">Przywoływany Długi Łuk przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	
+	<content contentuid="h584b0bf1g0ef5g443cg87cbg0b67454b7143" version="1">Pakt Ostrzy: Pałka</content>
+	<content contentuid="hb99e4125gc11ag4f5bgb015g5826031e9515" version="1">Pakt Ostrzy: Sztylet</content>
+	<content contentuid="h1d921f4fg4df5g4b38g8803gfefb531315a3" version="1">Pakt Ostrzy: Toporek</content>
+	<content contentuid="hd422b511g1d64g4ec2gbcb3g1966b0bc53ae" version="1">Pakt Ostrzy: Oszczep</content>
+	<content contentuid="h752ab8dbg0d06g404dga72ag63847e9e9644" version="1">Pakt Ostrzy: Lekki młot</content>
+	<content contentuid="ha70d31a3gc86dg44f3gab8bg9d5f77e060db" version="1">Pakt Ostrzy: Buława</content>
+	<content contentuid="h4b517c67gbcfdg406fg8b52gc2f3fc6030a8" version="1">Pakt Ostrzy: Sierp</content>
+	<content contentuid="hccc6fe3bgf059g4e18g966dg39d3d4f6e3bf" version="1">Pakt Ostrzy: Drąg</content>
+	<content contentuid="hb9a83046g4a98g44a9gb6a8g14386179a85b" version="1">Pakt Ostrzy: Włócznia</content>
+	<content contentuid="h95497ea3ge390g4761g9ed5gbb654b0f8f4a" version="1">Pakt Ostrzy: Maczuga</content>
+	<content contentuid="hfc66b5b7g77dag42a8g9751g03cd6ffc8bd6" version="1">Pakt Ostrzy: Kiścień</content>
+	<content contentuid="h879ea814g6f32g42faga9acge6953023e88a" version="1">Pakt Ostrzy: Morgensztern</content>
+	<content contentuid="hc6cb2e11ge854g45fdg973agf1253d645fd4" version="1">Pakt Ostrzy: Sejmitar</content>
+	<content contentuid="hd46d22b2g12acg4bedgbe27gbc73935bcaf7" version="1">Pakt Ostrzy: Miecz krótki</content>
+	<content contentuid="he221f90fgc9f7g457cg99a7gdfa73653026d" version="1">Pakt Ostrzy: Nadziak</content>
+	<content contentuid="h25a8d8e8g45ceg47d6gac34gfff08e566a6c" version="1">Pakt Ostrzy: Topór dwuręczny</content>
+	<content contentuid="hefeb5e18gb74eg4dedga485gcee7407a75ba" version="1">Pakt Ostrzy: Halabarda</content>
+	<content contentuid="hc2883f62g3f97g4700gb046g09158d3c50f4" version="1">Pakt Ostrzy: Młot dwuręczny</content>
+	<content contentuid="hcf7cda77gd4bag4a51gb497gbf71a1093a7c" version="1">Pakt Ostrzy: Pika</content>
+	<content contentuid="hda8257a3g8d1fg4a6eg8df8g7f3d53119622" version="1">Przyzwij Pałka</content>
+	<content contentuid="h02f2cfc3g6ae9g4e9eg9fc1ga67218a3ff7d" version="1">Przyzwij Sztylet</content>
+	<content contentuid="hf141d361g6999g458dgb3ebg1f0f9aa4f167" version="1">Przyzwij Toporek</content>
+	<content contentuid="h19342ab8g9813g410egae3eg2cea4853a352" version="1">Przyzwij Oszczep</content>
+	<content contentuid="hdd1105f6g224dg49b8g8987gd274002957bc" version="1">Przyzwij Lekki młot</content>
+	<content contentuid="h2e9fdf18gdebcg4e11gbc16g5cff34c00e8b" version="1">Przyzwij Buława</content>
+	<content contentuid="hd8f29f50g1ba7g4fb5gae43gc7d3953cd451" version="1">Przyzwij Sierp</content>
+	<content contentuid="hcb4a6f54g0abfg4644g90d4g8076197b23a9" version="1">Przyzwij Drąg</content>
+	<content contentuid="h7bcb49eagdfc6g4619gac94g867e64a61263" version="1">Przyzwij Włócznia</content>
+	<content contentuid="h6d48c2dfg2ff8g4976gac09gbf3c36dd043b" version="1">Przyzwij Maczuga</content>
+	<content contentuid="h3c4c3362g67e7g4586ga280gabcb4ac04724" version="1">Przyzwij Kiścień</content>
+	<content contentuid="hc2a6e2f8gf67fg4e97ga4fdg70df6613e9eb" version="1">Przyzwij Morgensztern</content>
+	<content contentuid="h73440352g2812g460dg8e85g1e30a2759c6c" version="1">Przyzwij Sejmitar</content>
+	<content contentuid="h52da9337g6f71g46c3g815fg781e9061857c" version="1">Przyzwij Miecz krótki</content>
+	<content contentuid="hf4ae4f86ga3b0g4881g8e26g016b8eefeb6b" version="1">Przyzwij Nadziak</content>
+	<content contentuid="hb36a86e7g6c42g46fag9394g57662806f52f" version="1">Przyzwij Topór dwuręczny</content>
+	<content contentuid="h7d72ade8g3d4dg4d8egae17g36c4bf357661" version="1">Przyzwij Halabarda</content>
+	<content contentuid="h2d0fee39gcb45g4054ga0c2g867e0a75a40b" version="1">Przyzwij Młot dwuręczny</content>
+	<content contentuid="h863bb685g28aeg478bg8dc0gcd428bac272a" version="1">Przyzwij Pika</content>
+	<content contentuid="haea43e48g32cag49d7ga245g57f255650ddc" version="1">Związana Paktem Pałka</content>
+	<content contentuid="h35a0f650gd223g4c29g9b07g70cc97002a9c" version="1">Związany Paktem Sztylet</content>
+	<content contentuid="h460b3d48g5db0g48d1gaf39g888ddc46d05e" version="1">Związany Paktem Toporek</content>
+	<content contentuid="h9b16c8edg7070g4b8bg9619g7ce4670fb56a" version="1">Związany Paktem Oszczep</content>
+	<content contentuid="h1dfbb027g2796g4969g93dcgb2cdd5af199d" version="1">Związany Paktem Lekki młot</content>
+	<content contentuid="h6858a5c7gf6ccg453ega825g6165e670379d" version="1">Związana Paktem Buława</content>
+	<content contentuid="h903e3089g9563g400dg99dag94b9cb1cf74e" version="1">Związany Paktem Sierp</content>
+	<content contentuid="h2cdce3e7g08b2g43cfg9cd9g98125958ce4d" version="1">Związany Paktem Drąg</content>
+	<content contentuid="h08b382c3g470ag4a35g9204gdd72a10500fb" version="1">Związana Paktem Włócznia</content>
+	<content contentuid="h4963db34gee0eg450cgab94g302e2d998227" version="1">Związana Paktem Maczuga</content>
+	<content contentuid="h5dc516ccgd9dag446fg8920gae6c4a62e6c8" version="1">Związany Paktem Kiścień</content>
+	<content contentuid="h520ee92dgd0b8g4f6ag82f7g7c1635a7174c" version="1">Związany Paktem Morgensztern</content>
+	<content contentuid="h7b4252e6g8e25g467dgb36dg8f83f4f3b77a" version="1">Związany Paktem Sejmitar</content>
+	<content contentuid="h621ca843g4727g4a54gbf27g9c943a51ef0a" version="1">Związany Paktem Miecz krótki</content>
+	<content contentuid="h09a5ca27g889fg4a6fg9900gda91f276107f" version="1">Związany Paktem Nadziak</content>
+	<content contentuid="ha2ce66a4gb4a9g479bgba14gb7c9fe0f6706" version="1">Związany Paktem Topór dwuręczny</content>
+	<content contentuid="heba42b77g11adg490bg9358gd424e07d3fa3" version="1">Związana Paktem Halabarda</content>
+	<content contentuid="h2954dde0gb834g4ea4gb359ga1903887c110" version="1">Związany Paktem Młot dwuręczny</content>
+	<content contentuid="h6d2ccdc4g38d7g409fgbe4fg80d328c72660" version="1">Związana Paktem Pika</content>
+	<content contentuid="hf55670b3g6e38g4fd1g9362ga4b7f1e7c940" version="1">Przywoływana Pałka przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h7d8359c9gf908g418ag9f7ag954f53a023cd" version="1">Przywoływany Sztylet przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h4184333cg0cedg43aag8bfag756dd2510bef" version="1">Przywoływany Toporek przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h44939f57gdd30g4e65g9490g553a70cbc641" version="1">Przywoływany Oszczep przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h44939f57gdd30g4e65g9490g553a70cbc641" version="1">Przywoływany Lekki młot przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h437cf1e4g889cg4414ga207ga015aa960d12" version="1">Przywoływana Buława przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h0be5790agebebg4da2ga04cg6fbc45bf4f01" version="1">Przywoływany Sierp przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="hd167d9f0g9e47g4c0bg9cdegb9bf3e8554a5" version="1">Przywoływany Drąg przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h010e7196g9cfcg4182ga35egb98666c3fd44" version="1">Przywoływana Włócznia przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h161e2fb5g4ed5g4526g8f3dgcba44d7028fc" version="1">Przywoływana Maczuga przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h45919953g4ae3g413eg9387g016e9b745fff" version="1">Przywoływany Kiścień przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h28acc9c2g9621g49bbg8e51g0634af9cfa0a" version="1">Przywoływany Morgensztern przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h9c2a3e72g4676g4593gb15ege34b12e4f0ff" version="1">Przywoływany Sejmitar przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h901f01fcg8054g4826gb52fgf8955cdb15c3" version="1">Przywoływany Miecz krótki przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="hdca2bb97gb746g496cga226gf724e57c86a8" version="1">Przywoływany Nadziak przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h9bca6ed4g437fg44cfg9fedg92e7a0835e3f" version="1">Przywoływany Topór dwuręczny przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h1c7e3972gac2ag4d68g9d99ga71a7fa9d6c7" version="1">Przywoływana Halabarda przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h9e12c451g61b0g40a9gbf75g61abe30feef9" version="1">Przywoływany Młot dwuręczny przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	<content contentuid="h76a18cc9g2c3bg45a7ga018gfbea0af3102b" version="1">Przywoływana Pika przez Patrona Czarownika. Jego powierzchnia trzeszczy od międzywymiarowej energii.</content>
+	
+	<content contentuid="h9d825315gb9ecg4837gaaefg985dbbb5fc7d" version="1">Dar wiecznie żyjących</content>
+	<content contentuid="h503e66dfg7746g4143g8e49g5b7de930ab14" version="1">Za każdym razem, gdy otrzymujesz punkty obrażeń, a twój chowaniec znajduje się w odległości [1] od ciebie, odzyskujesz maksymalną ilość puktów wytrzymałości.</content>
+	<content contentuid="h422bcdd6gb399g4e70gb995g06985dad4ae9" version="1">Otrzymane pełne leczenie.</content>
+	
+	<content contentuid="hf5f1462bg77c9g4026gadb1gc5e9aa7e4227" version="1">Inwestycja Mistrza Łańcucha</content>
+	<content contentuid="h389ff679g6987g4294g84c5gf3d246235cf1" version="1">Twój chowaniec jest nasycony nieziemską mocą. Otrzymuje &lt;LSTag Tooltip="TemporaryHitPoints"&gt;tymczasowe punkty wytrzymałości&lt;/LSTag&gt; równe twojemu poziomowi Czarownika, zdolność &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Lotu&lt;/LSTag&gt; i, rzut obronny &lt;LSTag Tooltip="DifficultyClass"&gt;ST&lt;/LSTag&gt; (jeśli taki posiada), staje się równy twojemu &lt;LSTag Tooltip="DifficultyClass"&gt;ST&lt;/LSTag&gt; rzutu obronnego na zaklęcia Czarownika. Kiedy chowaniec zostaje zaatakowany, możesz użyć &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reakcji&lt;/LSTag&gt; aby zapewnić mu &lt;LSTag Tooltip="Resistant"&gt;Odporność&lt;/LSTag&gt; na zadane obrażenia.</content>
+	<content contentuid="h90469625gac88g4d4fg9d9fgf833805492f6" version="1">Twój chowaniec zostaje przyzwany z [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;tymczasowymi pynktami wytrzymałości&lt;/LSTag&gt;, a jego rzutu &lt;LSTag Tooltip="DifficultyClass"&gt;ST&lt;/LSTag&gt; wynosi [2]. Może rzucić &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Lot&lt;/LSTag&gt; i zyskać &lt;LSTag Tooltip="Resistant"&gt;odporność&lt;/LSTag&gt; na obrażenia, za pomocą &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reakcji&lt;/LSTag&gt;.</content>
+	<content contentuid="hac509b7fge526g4896ga2b1gdacda78b1e03" version="1">Kiedy chowaniec zostanie zaatakowany, możesz użyć &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reakcji&lt;/LSTag&gt; aby zapewnić mu &lt;LSTag Tooltip="Resistant"&gt;odporność&lt;/LSTag&gt; na zadawane obrażenia.</content>
+</contentList>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="200"/>
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Dependencies"/>
+                <node id="ModuleInfo">
+                    <attribute id="Author" type="LSWString" value="kusanagi942"/>
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSWString" value="Spells Enhanced - Color Spray. Enemy level 3 and less + 1 enemy level on every spell power level. Range and duration increases with spell level."/>
+                    <attribute id="Folder" type="LSWString" value="Spells Enhanced - Color Spray D FR"/>
+                    <attribute id="GMTemplate" type="FixedString" value=""/>
+                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
+                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+                    <attribute id="MenuLevelName" type="FixedString" value=""/>
+                    <attribute id="Name" type="FixedString" value="Spells Enhanced - Color Spray D FR"/>
+                    <attribute id="NumPlayers" type="uint8" value="4"/>
+                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="Tags" type="LSWString" value="Spell"/>
+                    <attribute id="Type" type="FixedString" value="Add-on"/>
+                    <attribute id="UUID" type="FixedString" value="be26fbc5-f01d-46f5-b429-03f5ec1e85bf"/>
+                    <attribute id="Version64" type="int64" value="36169534507319296"/>
+                    <children>
+                        <node id="PublishVersion">
+                            <attribute id="Version64" type="int64" value="36169534507319296"/>
+                        </node>
+                        <node id="Scripts"/>
+                        <node id="TargetModes">
+                            <children>
+                                <node id="Target">
+                                    <attribute id="Object" type="FixedString" value="Story"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

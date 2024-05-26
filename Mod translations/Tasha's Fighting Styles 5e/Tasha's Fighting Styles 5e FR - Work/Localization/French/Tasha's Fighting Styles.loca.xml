@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h7aac00bag91b8g4760g83c8g988422743391" version="1">Combat en aveugle</content>
+	<content contentuid="habd85b66g28e1g4edagbcb5g63f63c5f2ad3" version="1">Être incapable de voir une créature ne vous impose plus un désavantage lors de vos jets d'attaque contre elle à une portée de [1]. De plus, vous pouvez dévoilé les créatures invisibles s'ils ratent leur jets de sauvegarde pour se cacher.</content>
+	<content contentuid="h50d584afgff2fg4e2cg8098g4cdfb1e9e142" version="1">Interception</content>
+	<content contentuid="hb8bd87afgd015g43d5gb344g012db1fa0092" version="1">Quand une créature que vous pouvez voir touche une cible à [1] ou moins de vous lors d'une attaque, vous pouvez utiliser votre réaction pour réduire ses dégâts de 1d10 + votre bonus de maîtrise (minimum 0). Vous devez pour cela porter un bouclier, une arme courante ou une arme de guerre pour utiliser cette réaction.</content>
+	<content contentuid="ha5a6a656g851bg471dg9743g3167ba4a1eda" version="1">Interception</content>
+	<content contentuid="h405cb869gb132g4f46gb7e2g485b131200ae" version="1">Quand une créature que vous pouvez voir touche une cible à [1] ou moins de vous lors d'une attaque, vous pouvez utiliser votre réaction pour réduire ses dégâts de 1d10 + votre bonus de maîtrise (minimum 0). Vous devez pour cela porter un bouclier, une arme courante ou une arme de guerre pour utiliser cette réaction.</content>
+	<content contentuid="hb61dfbcagd3dbg43c8g81e9gd20fe3c2b877" version="1">Armes de lancer</content>
+	<content contentuid="h40f66a82gba5eg4745ga6f3gaa1797058b29" version="1">Quand vous touchez lors d'une attaque à distance avec une arme de lancer, vous ajoutez +2 aux dégâts.</content>
+	<content contentuid="h251ed1e1gfac7g4f1fg8befg1a37de1deccc" version="1">Combat à mains nues</content>
+	<content contentuid="h0c123b78g206bg47a7gadc6gad8c4a549109" version="1">Vos attaques à mains nues infligent des dégâts contondants égaux à 1d6 + votre modificateur de Force. Si vous vous battez avec vos deux mains libres, le dé de dégâts devient un d8. &lt;br&gt;&lt;br&gt;Quand vous commencez votre tour en aggripant votre cible, vous pouvez infliger 1d4 dégâts contondants à votre cible.</content>
+	<content contentuid="hc3a75c66g36c0g4e3aga180g17d89f5afcbe" version="1">Quand vous commencez votre tour en aggripant votre cible, vous pouvez infliger 1d4 dégâts contondants à votre cible.</content>
+</contentList>

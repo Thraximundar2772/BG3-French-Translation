@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf51c5490gd699g424dg9215g24384f7b299f" version="1">Architecte de la Ruine</content>
+	<content contentuid="hc14de99dg8ac3g46d1gb2c6g42d7d7e8dd93" version="1">Les Architectes des Enfers sont des chevaliers thaumaturges froids et calculateurs qui déploient sorts, acier et subterfuges pour réussir à tout prix.</content>
+	<content contentuid="h718f5a6fg9217g4c49g89b0g3d43bf2bdc2e" version="1">Sceau Funeste</content>
+	<content contentuid="h09107346g77d5g4c39g92bcga05c06040c03" version="1">En utilisant le pouvoir des Enfers, les illriggers peuvent placer un sceau infernal sur une créature pour augmenter leurs propres actions ou celles de leurs alliés.</content>
+	<content contentuid="hfd65bdd1g3671g4371gae36g854d8a3782a6" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Seul un Sceau Funeste peut être actif à la fois.</content>
+	<content contentuid="h39941e43ga1b9g4b56g8e9fg97bcc6e1501b" version="1">Bravade</content>
+	<content contentuid="hdbdb7c89g31e6g4d39g842bgaa548ab29725" version="1">En ne portant pas d'armure, vous ajoutez votre Modificateur de Charisme à votre Classe d'Armure.</content>
+	<content contentuid="h397ed0d8g29f1g4e5dga79dgbbd92fa86402" version="1">Langue Fourchue</content>
+	<content contentuid="h939184ddg09c6g4d2bg92a2g5f5dab1564df" version="1">Vous êtes doué pour manipuler les autres d'une manière particulière.</content>
+	<content contentuid="h1b0a64f4gae08g4cfcgbb9dg509e28830460" version="1">Langue Fourchue (Tromperie)</content>
+	<content contentuid="h10337c4cg3e59g4ff2ga06fg77f3afba8ab9" version="1">Vous devenez &lt;LSTag Tooltip="Proficiency"&gt;Compétent&lt;/LSTag&gt; en &lt;LSTag Tooltip="Deception"&gt;Tromperie&lt;/LSTag&gt;. si ce n'est pas déjà fait, et votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; est doublé pour les &lt;LSTag Tooltip="AbilityCheck"&gt;Vérifications&lt;/LSTag&gt; de Tromperie.</content>
+	<content contentuid="h5c2f3beag322ag4dccgbfafg5e12fbc1af3d" version="1">Langue Fourchue (Intimidation)</content>
+	<content contentuid="hfd57bc8ege904g469bgbd5agbe395b26874a" version="1">Vous devenez &lt;LSTag Tooltip="Proficiency"&gt;Compétent&lt;/LSTag&gt; en &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;. si ce n'est pas déjà fait, et votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; est doublé pour les &lt;LSTag Tooltip="AbilityCheck"&gt;Vérifications&lt;/LSTag&gt; d'Intimidation.</content>
+	<content contentuid="h114e201eg3e82g4808g985bg47b24d6764ef" version="1">Langue Fourchue (Persuasion)</content>
+	<content contentuid="h4a259f0fg0ff3g4cefg8c44gfa904e2027a7" version="1">Vous devenez &lt;LSTag Tooltip="Proficiency"&gt;Compétent&lt;/LSTag&gt; en &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;. si ce n'est pas déjà fait, et votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; est doublé pour les &lt;LSTag Tooltip="AbilityCheck"&gt;Vérifications&lt;/LSTag&gt; de Persuasion.</content>
+	<content contentuid="hca28161ag1ba1g4aa3gacecg063de813f958" version="1">Voir des Enfers</content>
+	<content contentuid="h2b846c13g69d8g43eegafe1g561f7990735a" version="1">Vision Infernale</content>
+	<content contentuid="h2cb40dffgf578g4890gaf8ag30abf1c76d79" version="1">Devenez &lt;LSTag Tooltip="Proficiency"&gt;Compétent&lt;/LSTag&gt; en &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;. Le plus bas résultat que vous pouvez obtenir sur le dé est [1] pour les Vérifications de Perception. De plus, gagnez la capacité de voir normalement dans l'obscurité, qu'elle soit magique ou non, jusqu'à une distance de [2].</content>
+	<content contentuid="h1a953854ge7e9g4b90gb9eag8ad85d21bb2d" version="1">Vision Infernale : Perception Fiable</content>
+	<content contentuid="h8ae58f10g5930g46b9g8ffdg460b9d66d9c4" version="1">Vous êtes &lt;LSTag Tooltip="Proficiency"&gt;Compétent&lt;/LSTag&gt; en &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;. Lorsque vous effectuez une Vérification de Perception, le plus bas résultat que vous pouvez obtenir sur le dé est [1].</content>
+	<content contentuid="h751d3e05g2b03g414ega6e5g901b7771f87d" version="1">Vision Infernale : Vue des Enfers</content>
+	<content contentuid="ha66d6216g3331g41bdg83begff78c59b2334" version="1">Vous pouvez voir normalement dans l'obscurité, qu'elle soit magique ou non, jusqu'à une distance de [1].</content>
+	<content contentuid="heb8e7e3fg94a7g4abbgb0f6g3faceafe455a" version="1">Illrigger</content>
+	<content contentuid="h796c5b01g7d48g44e8ga810gb9d3f0d5831a" version="1">Les Illriggers servent les Enfers et leurs archidiables patrons en tant que chevaliers prêtés à l'Ordre de la Désolation. Ingénieux, tactiques et manipulateurs, un Illrigger canalise les pouvoirs infernaux pour semer la discorde, la lutte, la peur et la tromperie.</content>
+	<content contentuid="h92709ed8gdeb2g444egac67g7c0ae0fcbdc5" version="1">Charge de Conduit Infernal</content>
+	<content contentuid="he53838ccgf937g454cgacf7gc4bc4f5df456" version="1">Utilisé pour lancer le Conduit Infernal.</content>
+	<content contentuid="ha547343agc02fg49e2gb177g1cb58b99ff7c" version="1">Invoquer les Enfers</content>
+	<content contentuid="h6bc93c95gf3dag4bb5g905eg04b9fdb93263" version="1">Le nombre de fois que vous pouvez puiser dans l'immense pouvoir des Enfers accordé par votre Contrat Diabolique pour alimenter vos actions.</content>
+	<content contentuid="h624bd1b1g5753g4f94gaea7gaaa03b2c7bcf" version="1">Charge d'Interdit Funeste</content>
+	<content contentuid="h38975aa8gd948g49c7g8d04g3f6bb099e99b" version="1">Mensonges</content>
+	<content contentuid="h06adab85gd1dbg4f32ga4f5gd239419d28f6" version="1">Vous pouvez imbiber une arme de mêlée avec de l'énergie infernale. Lorsque vous attaquez avec cette arme, vous pouvez utiliser votre Modificateur de Charisme pour les Jets d'Attaque et les Dommages.</content>
+	<content contentuid="h95952c19g73c4g4209g91b3g3444cf715067" version="1">Maîtrise du Combat : Mensonges</content>
+	<content contentuid="hfb90d430gcd87g4360g9983gc1154fe4e835" version="1">Votre arme est imprégnée d'énergie infernale et utilise votre Modificateur de Charisme pour les Jets d'Attaque et les Dommages.</content>
+	<content contentuid="h3074a534gc5ccg4994gbe2agac0de6e3f1bd" version="1">Souple</content>
+	<content contentuid="h104c9c55g18f0g419bga3f2g7847472280df" version="1">Si vous vous déplacez après avoir touché une créature avec une attaque de mêlée, vous ne provoquez pas d'Attaques d'Opportunité de votre cible.</content>
+	<content contentuid="hb91ec855g69f4g436fg9441gabd732f6a7dd" version="1">Analgésiques</content>
+	<content contentuid="h769e8e2fg4fbeg40c1g96f3gbcf108a88ca1" version="1">Les soldats de la mort lourdement armés des Enfers, les Analgésiques mènent le front dans chaque bataille majeure.</content>
+	<content contentuid="h684aa041gaaa6g4732gbd45g5763e8b60a77" version="1">Tueur Ombreux : Évasion</content>
+	<content contentuid="h1cbce523gcf1ag4fceg8467gf55b87f9aeff" version="1">Tueur Ombreux : Mouvement Implacable</content>
+	<content contentuid="h29ba1c80g25c1g4f45gae8cg1ee650ab6605" version="1">Tueur Ombreux : Furtif</content>
+	<content contentuid="h6e073b69g52f0g474bgbf4eg2bbe5752794f" version="1">Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les Vérifications d'Adresse.</content>
+	<content contentuid="h8199b912g99e2g4abag9329gfd8ca7070fa3" version="1">Tueur Ombreux : Vision Nocturne Supérieure</content>
+	<content contentuid="h66ac2471g8dc7g4dcbg968eg6a4461fcd5ec" version="1">Affranchi</content>
+	<content contentuid="h36ae562eg281cg4d57g8540g81fae92e7e60" version="1">La portée de votre &lt;LSTag Type="Spell" Tooltip="Target_BalefulInterdict"&gt;Interdit Funeste&lt;/LSTag&gt; est augmentée à [1], et la portée de votre &lt;LSTag Type="Spell" Tooltip="Target_InfernalConduit"&gt;Conduit Infernal&lt;/LSTag&gt; est augmentée à [2].</content>
+	<content contentuid="h20111af7g2449g4101g8422g65ef010993e5" version="1">Maître des Ombres</content>
+	<content contentuid="h5bd3382cg107fg4a61g87ddgfdd7979705d0" version="1">Les assassins cachés des Enfers, les Maîtres des Ombres excellent dans la furtivité et le déguisement.</content>
+	<content contentuid="h6362ef68gd185g420bgb140g010f77445c28" version="1">Inexorable</content>
+	<content contentuid="hd25aec10g0a35g49dbgb004gc1d937c0699c" version="1">Vous obtenez un bonus de +[1] aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; pour chaque créature hostile se trouvant à [2] de vous, jusqu'à un bonus maximum de +[3].</content>
+	<content contentuid="hef3d6ad3g9370g46d5g80c2g3dd3c90d9a0e" version="1">Brutal</content>
+	<content contentuid="h75d1214ag0590g4cb9g8e12g125d9a934da7" version="1">Lorsque vous touchez une créature qui n'est pas plus grande que vous d'une taille avec une arme &lt;LSTag Tooltip="TwoHanded"&gt;à deux mains&lt;/LSTag&gt;, vous pouvez repousser la cible jusqu'à [1] case.</content>
+	<content contentuid="h0e0363dbgd44bg47bfg8f2cgcf532bf6ec62" version="1">Maîtrise du Combat : Poussée Brutale</content>
+	<content contentuid="h2d1478b1gb132g4782g8207g20296a30bbdf" version="1">Repousse votre cible de [1] case.</content>
+	<content contentuid="h5ed68f66g6c3eg4760gb1e2g32afa426eff3" version="1">Brûler le Sceau Funeste</content>
+	<content contentuid="h5fb3ba6bg1013g4a24g85d6ge18bd4e55a08" version="1">Brûlez le &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une cible pour infliger [1] ou [2].</content>
+	<content contentuid="hadedefaeg8e0eg4428g933bg7233f0d3da49" version="1">Brûler le Sceau Funeste : Feu</content>
+	<content contentuid="hb0aa7863gb193g48bbga5f4g9bf0d651c570" version="1">Brûler le Sceau Funeste : Nécrotique</content>
+	<content contentuid="hf9744b67g50aag420cg840aged12e07bb135" version="1">Brûlez le &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une cible pour infliger [1].</content>
+	<content contentuid="h7fe3797dgc8e6g4e92ga426g0d986c453166" version="1">Langue Fourchue : Perspicace</content>
+	<content contentuid="h7baad09ag6d44g4f1cg84cdg04eed7986d01" version="1">Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les Vérifications de Perspicacité.</content>
+	<content contentuid="h5a7f80aagc8dfg477fgab54g9714387a0004" version="1">Polyvalence Infernale</content>
+	<content contentuid="hbbf9d0aage7c8g471bg8089gb4c6f4495dbf" version="1">Vous pouvez lancer un de vos cantrips illrigger à la place d'une de vos attaques.</content>
+	<content contentuid="h3c9443d4gfdfag4fa2g92ebgde2c1a66ed4a" version="1">Sceau Télékinétique</content>
+	<content contentuid="h4aab8332g008fg47e7ga67dg06cb66ea2a28" version="1">Lorsqu'un ennemi entre dans votre portée, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour appliquer un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; et éventuellement le repousser jusqu'à [1] case de vous ou le faire tomber à terre.</content>
+	<content contentuid="heaef173ag8ef2g40e3g8853gacde7cbb33f3" version="1">Sceau Télékinétique : À Terre</content>
+	<content contentuid="h7c245d83gc52bg4597gba60ge62964e8b471" version="1">Placez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur votre cible et tentez de la faire tomber à terre.</content>
+	<content contentuid="haf9d6360g787eg489dg96cbg5d42d621b410" version="1">Sceau Télékinétique : Repousser</content>
+	<content contentuid="h13b42186g8d4ag4862gb1cdg12a364495a2c" version="1">Placez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur votre cible et tentez de la repousser jusqu'à [1] case de vous.</content>
+	<content contentuid="h0c334e1eg96bcg4877g8cd6g082a435931f6" version="1">Sceau Apaisant</content>
+	<content contentuid="ha4ea7216g1b0fg4ed0g99a2gec29d73fa164" version="1">Lorsqu'une créature vous inflige des dégâts ou en inflige à un allié dans un rayon de [1], vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; pour réduire les dégâts de [2] + [3].</content>
+	<content contentuid="h131f3687gf9c0g4114g8e3bgf37eeb037358" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; pour réduire les dégâts qui vous sont infligés ou à un allié de [1] + [2].</content>
+	<content contentuid="he72aff4agc195g4e8fgb02eg1e1b7fbe154b" version="1">Éclair de Soufre</content>
+	<content contentuid="he20ac18bgc87eg4991g9746ga1a335b1bc62" version="1">Après avoir placé un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur un ennemi, vous pouvez vous téléporter à côté d'une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt; dans un rayon de [1].</content>
+	<content contentuid="h24b8f503g8868g4168ga37cgb0deed2dfc60" version="1">Éclair de Soufre : Téléportation</content>
+	<content contentuid="h3b240ed2gde3bg4253g9216gff7b1a306502" version="1">Téléportez-vous jusqu'à [1] à côté d'une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt;.</content>
+	<content contentuid="he908ef48gd964g4e57ga09cga5e2f6397931" version="1">Tourmenter</content>
+	<content contentuid="hb5c711c4g9490g484egb033g14a4971d9b06" version="1">Lorsque vous brûlez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur une créature, vous réduisez son prochain &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="hde5e8ed3ga942g4021gbb5bg8b994e6522dd" version="1">Tourmenté</content>
+	<content contentuid="hb81a458fg4d74g4c8fgb864gb95656f40465" version="1">Maudit par un illrigger. L'entité affectée réduit son prochain &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h5a1efba3g185ag45bcga0fegdb8c0fe1c359" version="1">Dévoreur d'Âmes</content>
+	<content contentuid="ha86b2cf9gdbffg4012g93c8g9e495fb1f162" version="1">Lorsque vous brûlez un &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une créature, vous gagnez des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à votre niveau de classe d'Illrigger.</content>
+	<content contentuid="h58dc6c07g6716g4460gb65ag3f041a548697" version="1">Dévoreur d'Âmes : PV Temporaires</content>
+	<content contentuid="hd7380cc2g5f6eg4f91gaa8dge7ae47147e71" version="1">Gagnez des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; égaux à votre niveau de classe d'Illrigger.</content>
+	<content contentuid="h23c00ce0geaf2g4773g943eg0e2570f4f390" version="1">Apathie de Styx</content>
+	<content contentuid="h82f7efd2g200dg48ddga818g565f025b7a2e" version="1">Lorsque vous placez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur une créature, vous empêchez la créature de prendre des &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réactions&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+	<content contentuid="h630831b7g027bg407bg8c42g1fd3107f0c27" version="1">Ne peut pas prendre des &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réactions&lt;/LSTag&gt;.</content>
+	<content contentuid="hf8411fe8g4c3bg49d1g9647gcc7809766810" version="1">Rétorsion Rapide</content>
+	<content contentuid="hdcb4ecf8g1f3fg4d36gad3ag54380a17703f" version="1">Lorsqu'une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt; provoque une &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunité d'Attaque&lt;/LSTag&gt; de votre part, vous pouvez effectuer cette attaque sans utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt;.</content>
+	<content contentuid="ha82c8cfbg184bg4825g8074gc4fcefbf01c0" version="1">Attaquez un ennemi &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellé&lt;/LSTag&gt; qui se déplace hors de votre portée sans utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt;.</content>
+	<content contentuid="h7ebbead3gc732g43aag894ag2e98a8926bf9" version="1">Rétorsion Rapide Utilisée</content>
+	<content contentuid="hf4dc8ed2g6728g43e9g9c74g98635a38b64f" version="1">Sans Issue</content>
+	<content contentuid="h0aa2dab2ga4e8g4288gbc42gac4da6157ade" version="1">Emprisonnez un ennemi, en vous assurant qu'il ne peut pas se déplacer. Cet effet prend fin si l'Illrigger s'éloigne de plus de [1] de la créature affectée.</content>
+	<content contentuid="h0a85417bg88cdg41cega8degcf66f060f29d" version="1">Les créatures dans l'obscurité ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; à ce &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h65c0f73cg648fg45c1ga8c2g61535559c5a5" version="1">Sans Issue : Ralenti</content>
+	<content contentuid="h6f60c5ddg7413g4a3cgbd56g72664160f956" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est réduite de moitié. Supprimé si la créature commence son tour à plus de [1] de l'Illrigger qui inflige cet effet.</content>
+	<content contentuid="h5bbcc065g4c83g493dgb726gbe0c2c734a17" version="1">Sans Issue : Immobilisé</content>
+	<content contentuid="h644cafd5g22fcg42f9ga066g5847aefeae45" version="1">Impossible de bouger. Retenu par la maîtrise de l'Illrigger sur l'ombre. Supprimé si la créature commence son tour à plus de [1] de l'Illrigger qui inflige cet effet.</content>
+	<content contentuid="h8feb4c0bg930cg483dgb3c4gabc1f6db4656" version="1">Soumettre</content>
+	<content contentuid="h09e81cf6g49a2g44e4g81d6g9fb1e5ad660e" version="1">Lorsque vous lancez un sort d'Illrigger, vous pouvez retirer le &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; sur une créature ciblée pour imposer &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; au &lt;LSTag Tooltip="SavingThrow"&gt;Jet de Sauvegarde&lt;/LSTag&gt; de la créature.</content>
+	<content contentuid="h3eab05adgfdd8g466bga7eag2d7e134243d9" version="1">Frapper depuis l'Ombre</content>
+	<content contentuid="h1db3e43ag1276g4dccgab57ge044db1ef3b7" version="1">Lorsque vous frappez une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt; avec une attaque d'arme de mêlée et que vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur l'attaque, vous infligez un supplémentaire de [1]. Inflige un supplémentaire de [2] aux créatures obscurcies par l'ombre.</content>
+	<content contentuid="hb81ff98ag4205g46d1g92eeg8dac6e679ff7" version="1">Maitrise du Combat</content>
+	<content contentuid="hfb0e6754g31dfg4cd4g86f8gf8c50b3d635f" version="1">Vous avez une compétence incroyable dans une certaine forme de combat.</content>
+	<content contentuid="hb33899b1g2ce4g4808g9269g73728fad1230" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; L'arme doit être une arme de mêlée.</content>
+	<content contentuid="h9795de38g246cg451fg8ac5g34ba3cdf11e9" version="1">Tir Empaleur</content>
+	<content contentuid="h5383e5ffg7879g4870gbf10g977d2ae79500" version="1">Vous pouvez effectuer une attaque spéciale à distance contre une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt; pour réduire son &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="haa115a8dg181bg4e9bga456gcfd4e5a88525" version="1">Effectuez une attaque à distance avec votre arme équipée. En cas de réussite, réduisez la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de la cible de [1].</content>
+	<content contentuid="h206f4ceeg8d0eg44fbgb117g0f1301b9ae03" version="1">Ne consomme pas d'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt; ou de &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt;.</content>
+	<content contentuid="h9010a9a7gccecg45feg8762g19b47af25352" version="1">Empalé</content>
+	<content contentuid="h4c3c798eg38dbg4b11g8b22g027ee42df919" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; réduite de [1].</content>
+	<content contentuid="hf3b27390g4ac6g460cg986ag4e06043abd7e" version="1">Tir Vengeur</content>
+	<content contentuid="h49ec16e5g6fa4g46aaga0f9gf913d7b5bf2b" version="1">Lorsqu'une créature effectue une attaque à distance contre vous ou un allié à moins de [1], vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; en tant que &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour effectuer une attaque à distance contre l'attaquant. Cette attaque inflige un supplémentaire de [2] en cas de réussite.</content>
+	<content contentuid="h314cd813gf434g478eg84a2gcf7edd046185" version="1">Effectuez une attaque de représailles contre l'attaquant de vous ou de votre allié, infligeant un supplémentaire de [1] en cas de réussite.</content>
+	<content contentuid="h16df2fe8g58bbg40c7gbae2ge7436c84a9ea" version="1">Chaînes d'Achéron</content>
+	<content contentuid="h4ca7db7ag45adg456fg9901g0f2f6e028dc2" version="1">Lorsque vous utilisez votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour appliquer un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt;, vous pouvez tenter de tirer la cible jusqu'à [1] vers vous ou réduire sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; à 0.</content>
+	<content contentuid="h13524414gefe9g4711gaf1dg7cf3142479a9" version="1">Chaînes d'Achéron : Lutte</content>
+	<content contentuid="h788d285cgc95fg4a28g811dge05ca421d29e" version="1">Placez un Sceau Funeste sur une créature, vous permettant de infliger un supplémentaire de [1] ou [2] lorsque vous ou un allié la blesse. De plus, peut réduire la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de la cible à 0.</content>
+	<content contentuid="h07b43700gf5b4g48a2ga32bg5c5bf9a40412" version="1">Chaînes d'Achéron : Tirer</content>
+	<content contentuid="hf14b12a3g7389g412fg91fbgadf6ce353f28" version="1">Placez un Sceau Funeste sur une créature, vous permettant de infliger un supplémentaire de [1] ou [2] lorsque vous ou un allié la blesse. De plus, peut tirer la cible jusqu'à [3] vers vous.</content>
+	<content contentuid="h80f9a94dg724cg4e0bg84c1gd3b75f8abf2a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; La cible ne peut pas être tirée si elle est de plus d'une taille plus grande que vous.</content>
+	<content contentuid="h70d783cdg9ac3g4db6g942dgb95406322b26" version="1">Appliquer un Sceau Funeste</content>
+	<content contentuid="h68c014b1gaac7g4052gbe88g8db2f181b8d3" version="1">Placez un Sceau Funeste sur une créature, vous permettant de infliger un supplémentaire de [1] ou [2] lorsque vous ou un allié la blesse.</content>
+	<content contentuid="h797cafadgbb7bg43d4g9267gefd0939ee917" version="1">Réappliquer un Sceau Funeste</content>
+	<content contentuid="h77d3d9ecg3f12g4429g973ag2bcfd04e0c50" version="1">Déplacez votre Sceau Funeste vers une nouvelle créature sans dépenser un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt;.</content>
+	<content contentuid="hcab386e1g0f5eg4ab0g9067gb91e6437452e" version="1">Conduit Infernal</content>
+	<content contentuid="hce2b93e9gbc6dg49f6g99c1gc7d1966b5ffc" version="1">Canalisez le pouvoir des Enfers à travers vous pour soigner ou nuire à ceux qui vous entourent.</content>
+	<content contentuid="h4b354152g9fc6g43aaga9a8g15a184150276" version="1">Conduit Infernal : Guérison Mineure</content>
+	<content contentuid="h288b92a5gbe0eg4a73g8981g176c145c7870" version="1">Aspirez votre propre vitalité pour soigner une cible.</content>
+	<content contentuid="ha295635fg8aceg47e6gbb53g9691f9870cce" version="1">Conduit Infernal : Guérison Majeure</content>
+	<content contentuid="h2d564bbcgca3cg45a2g87a0g04c05e73b93a" version="1">Conduit Infernal : Nuisance Mineure</content>
+	<content contentuid="hb520162ag36bbg4cc3g905bg45d118404146" version="1">Drainez la vitalité d'une cible pour vous soigner.</content>
+	<content contentuid="hf2ac62b2gc8a1g4dd4gb078g865aa99b89b5" version="1">Conduit Infernal : Nuisance Majeure</content>
+	<content contentuid="h76eb590dg89acg401aga2d7g49367299ef7c" version="1">Conduit Infernal : Ignorer la Résistance Nécrotique de Soi</content>
+	<content contentuid="hc73d5af6g1730g4c9dgb725gc2a912be1fb8" version="1">Conduit Infernal : Vulnérabilité Nécrotique</content>
+	<content contentuid="h9e128ddag8301g4539ga861gb7106589ed6a" version="1">Dé</content>
+	<content contentuid="h5851e875g38e6g4fd5gb028g23926c43a6d2" version="1">Les dés de prix du sang sont dépensés en drainant votre vitalité pour renforcer vos jets de sauvegarde, améliorant votre résilience.</content>
+	<content contentuid="h9b993daeg08ecg45e5gaab7g9228303e87c8" version="1">Prix du Sang</content>
+	<content contentuid="h74a58640g1027g44f9gb24eg7652eb4eddce" version="1">Lorsque vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="BloodPriceDie"&gt;Dé de Prix du Sang&lt;/LSTag&gt; pour obtenir [1] et augmenter votre jet de sauvegarde de [2].</content>
+	<content contentuid="h664cbdd3gef3cg4f57ga6bcg1686a2967470" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="BloodPriceDie"&gt;Dé de Prix du Sang&lt;/LSTag&gt;, en prenant [1] pour augmenter votre jet de sauvegarde de [2].</content>
+	<content contentuid="he8f2494eg1577g4e9agb95bgfec3cdde60fb" version="1">Destructeur</content>
+	<content contentuid="hb71499fbge679g47a2gb980g2ca0c3974cf2" version="1">Imprégnez jusqu'à [1] alliés dans un rayon de [2] d'une fureur infernale. Vous pouvez effectuer une attaque avec une arme, et vos alliés choisis peuvent utiliser une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; lors de leur prochain tour pour effectuer une attaque avec une arme.</content>
+	<content contentuid="hd4148be3ga8f1g4f0aga719ga03a5997be2f" version="1">Destructeur : Attaque Supplémentaire</content>
+	<content contentuid="ha8b31358gaa78g4de3g89edg7093fa77582c" version="1">Vous pouvez effectuer une attaque avec une arme dans le cadre de l'action Destructeur.</content>
+	<content contentuid="hd37d6a63g1d25g43d6gb4cegeac00cb2cf7a" version="1">L'entité affectée peut utiliser une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; lors de son tour pour effectuer une attaque avec une arme.</content>
+	<content contentuid="hfdd7f6fcgf730g4f48gb6a9gc42f8b42ef9e" version="1">Destructeur : Attaque à Distance</content>
+	<content contentuid="hb6860a45g6198g4721ga555ga06b2fc83f7a" version="1">Imprégné de fureur infernale par votre allié. Utilise votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour effectuer une attaque avec une arme à distance.</content>
+	<content contentuid="he55660b7gbd7bg4d84ga372g7655692e230e" version="1">Destructeur : Attaque au Corps à Corps</content>
+	<content contentuid="h239ebb16g7da2g4197g8d57g09b1e1d48e62" version="1">Imprégné de fureur infernale par votre allié. Utilise votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour effectuer une attaque avec une arme de mêlée.</content>
+	<content contentuid="hfd238102g723ag4894ga30fg14640bf2d40b" version="1">Déchaîner les Enfers</content>
+	<content contentuid="hee20d85bgecccg4200ga1c0gc843d8ddb9c7" version="1">Lorsque vous brûlez un &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une cible, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour déclencher une explosion dans l'espace de la cible, infligeant [1] ou [2] aux ennemis dans un rayon de [3] autour de la cible.</content>
+	<content contentuid="h4cd39928g9513g42bdga861g44f70c52d936" version="1">Déchaîner les Enfers : Feu</content>
+	<content contentuid="h51a3e038gff1fg47a9g8db3g5972b2bbff18" version="1">Déchaîner les Enfers : Nécrotique</content>
+	<content contentuid="hbf5af62dg5860g4febga8abgc4aac9e2cc0c" version="1">Brûlez le &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une cible pour infliger [1] à elle et aux créatures dans un rayon de [2] autour d'elle.</content>
+	<content contentuid="hdbe63b06g0b4fg4f6dgb03dgaeda825c86d9" version="1">Déchaîner les Enfers : Technique</content>
+	<content contentuid="h7eac3dafgaed2g4052g86bfg20599e89aef3" version="1">Invoquez les Enfers</content>
+	<content contentuid="he2928ba3g5d4ag4c5fg8ef8gf6f82647e4cc" version="1">Conjurez un cambion démoniaque pour combattre à vos côtés. Il peut lancer &lt;LSTag Type="Spell" Tooltip="Target_FiendishCharm_Cambion"&gt;Charme Démoniaque&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_DrainingKiss_Cambion"&gt;Baiser Draineur&lt;/LSTag&gt;, et &lt;LSTag Type="Spell" Tooltip="Projectile_FireRay_Cambion"&gt;Rayons de Feu&lt;/LSTag&gt;.</content>
+	<content contentuid="hea5df3bcgc2f7g43a2gbee9g2bf879c0c439" version="1">Appliquez un Sceau Funeste à une créature et poussez-la jusqu'à [1] loin de vous, la faisant tomber à terre.</content>
+	<content contentuid="h242df61bgcc6bg4cb0g981eg2ab33c4cc798" version="1">Sceau Funeste</content>
+	<content contentuid="h248e44d4gdfd7g46eag98dfgf4eb6708f1ba" version="1">L'entité affectée subit des dégâts supplémentaires de feu ou nécrotiques si le scelleur ou ses alliés la touchent.</content>
+	<content contentuid="hfdf99bd4g4b33g429fgbd3egede153e5f756" version="1">Sceau Funeste Actif</content>
+	<content contentuid="hf9ebb647g2706g438cgb2ccg97a62cb921a5" version="1">Quand cette créature inflige des dégâts à une créature scellée, ou voit son allié infliger des dégâts à une créature scellée, elle peut consommer le sceau pour infliger [1] ou [2] à la créature scellée.</content>
+	<content contentuid="h9f93c568gabc8g452fga06bg86f47aa1e844" version="1">Sceau Funeste Renvoyé</content>
+	<content contentuid="h554acb36g7835g447agab47gf945cd838c7c" version="1">Peut utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour réappliquer le Sceau Funeste à une autre cible.</content>
+	<content contentuid="h6faab443g6576g41e2gbda7gbdbb44468abe" version="1">Sceau Funeste Technique : Feu</content>
+	<content contentuid="h707743dcg8911g464fg83acg4466a398bf8f" version="1">Sceau Funeste Technique : Nécrotique</content>
+	<content contentuid="hb3620096g3368g4458gb593gfdab0ca702dc" version="1">L'illrigger maniant cette arme utilise son &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de Charisme pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; et les Dégâts.</content>
+	<content contentuid="h9776b49ag4f30g4946g8dfdg4e017b3104ed" version="1">Marqué pour la Charge de la Mort</content>
+	<content contentuid="hcbd4a3c8gead6g4253g8164g1b06567b484c" version="1">L'entité affectée peut appliquer ses Sceaux Funestes sans utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hed8aa898g76c6g4c00ga89bg82e15d73161e" version="1">L'entité affectée a &lt;LSTag Tooltip="Advantage"&gt;l'Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; contre les créatures affectées par un Sceau Funeste.</content>
+	<content contentuid="h55835047g0005g46ceg8734g4081b0a077ed" version="1">Peut effectuer une attaque supplémentaire contre n'importe quelle créature affectée par un Sceau Funeste.</content>
+	<content contentuid="h2cc8bc53g03b5g4b5bgb077gfd7b25e35375" version="1">Éclair de Soufre : Téléportation Prête</content>
+	<content contentuid="h456dd325gad43g4272gbf49g3f39fa40ef19" version="1">Peut se téléporter jusqu'à [1] à côté d'une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Scellée&lt;/LSTag&gt;.</content>
+	<content contentuid="h0c3cd8d5g4969g49bagad51g4093a32a3ad7" version="1">Sort Enervant</content>
+	<content contentuid="hb1a916ebgceb8g4014g87f8g71b96b71281b" version="1">Lorsque vous infligez des dégâts à une créature affectée par votre &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; avec l'un de vos sorts, vous pouvez retirer le sceau pour rendre la cible &lt;LSTag Tooltip="Vulnerable"&gt;vulnérable&lt;/LSTag&gt; aux dégâts infligés.</content>
+	<content contentuid="hd8f500e5gbf76g4a0egba2bg50208f73da55" version="1">Rend la cible &lt;LSTag Tooltip="Vulnerable"&gt;vulnérable&lt;/LSTag&gt; aux dégâts du sort déclencheur. Supprime son &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt;.</content>
+	<content contentuid="h8003446eg3d22g4d2cgbad8g9fbbb4e32c90" version="1">Sort Enervant : Vulnérable</content>
+	<content contentuid="h96d6c608g8f2fg4565gac14gdcba5422aea9" version="1">La créature affectée est &lt;LSTag Tooltip="Vulnerable"&gt;vulnérable&lt;/LSTag&gt; aux dégâts infligés par le prochain sort de l'illrigger.</content>
+	<content contentuid="h938cb4b0g05f6g42e3g8b22g778fc4054bfc" version="1">Châtiment</content>
+	<content contentuid="hb9ebc69bg5d18g4027gbad6g259e99cfd3a6" version="1">Lorsqu'une créature vous inflige des dégâts avec une attaque, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour infliger les mêmes dégâts à votre attaquant sous forme de dégâts nécrotiques.</content>
+	<content contentuid="h84a1787fg852cg46e7g894bgb6c44152a2a8" version="1">Refleter les dégâts que vous avez reçus sur votre attaquant sous forme de dégâts nécrotiques.</content>
+	<content contentuid="h1af54c0fge221g42e2gaf68g2236a9636a4f" version="1">Reflet des dégâts déclencheurs sur l'attaquant sous forme de dégâts nécrotiques.</content>
+	<content contentuid="h1b37a802gbea4g4757g94b2gfe64c37d5af2" version="1">Reflet de la moitié des dégâts déclencheurs sur l'attaquant sous forme de dégâts nécrotiques.</content>
+	<content contentuid="h20db8597g210fg4302g93d1g33a24f9d9944" version="1">Dernier Mot</content>
+	<content contentuid="h71c86127g7511g4508g98a3g40a215d9a27e" version="1">Lorsque vous êtes réduit à [1] &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;, vous pouvez dépenser jusqu'à [2] &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceaux Funestes&lt;/LSTag&gt; pour déclencher une explosion autour de vous, infligeant [3] par sceau dépensé. Vous récupérez ensuite [4] par sceau dépensé.</content>
+	<content contentuid="h439c52dag2534g47d0ga011gdc7ba90b134c" version="1">Dernier Mot : 1</content>
+	<content contentuid="ha2916193g8f57g46d0gb7a9g28f125048a45" version="1">Dernier Mot : 2</content>
+	<content contentuid="hadb23728g34d9g4669ga05cg233596a1ffa3" version="1">Dernier Mot : 3</content>
+	<content contentuid="he748a4e9gc9bcg40ecgb3b6ga4c3a4586fb2" version="1">Lorsque réduit à [1] &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;, déclenche une explosion autour de vous, infligeant [3] aux ennemis dans un rayon de [4]. Vous récupérez ensuite [5].</content>
+	<content contentuid="h53cd46fagc6e7g476ega509g72a79c5d1d51" version="1">Gestionnaire de Basculement de Dernier Mot</content>
+	<content contentuid="hf5dbf707g89ccg46a3g9352g27234382364c" version="1">Dernier Mot 1 Technique</content>
+	<content contentuid="hcfae9e79g217fg4d3agac57g9d3aedf4f899" version="1">Dernier Mot 2 Technique</content>
+	<content contentuid="h1a9bcbb9gbb4ag497cg8b4cgfd0304a95d21" version="1">Dernier Mot 3 Technique</content>
+	<content contentuid="hfa605c36gae43g4471g8371g533ab12be954" version="1">La cible est &lt;LSTag Type="Status" Tooltip="INVOKE_HELLS_NO_ESCAPE_SLOW"&gt;ralentie&lt;/LSTag&gt; à la place.</content>
+	<content contentuid="h604f9d6dg1240g4281g9103ga7ecc0236120" version="1">Tu Meurs sur Mon Commandement</content>
+	<content contentuid="h9f039972g942fg423eg9d07g6bbb65ff17f8" version="1">Lorsqu'un allié dans un rayon de [1] est touché et réduit à [2] &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; pour leur donner un ordre, les faisant tomber à [3] &lt;LSTag Tooltip="HitPoints"&gt;point de vie&lt;/LSTag&gt; à la place. Peut être utilisé une fois par &lt;LSTag Tooltip="ShortRest"&gt;repos court&lt;/LSTag&gt;.</content>
+	<content contentuid="h543b55a1g6be0g431bga8bcg9b73d9c1bd68" version="1">Faites tomber un allié à [1] point de vie au lieu de [2]. Peut être utilisé une fois par &lt;LSTag Tooltip="ShortRest"&gt;repos court&lt;/LSTag&gt;.</content>
+	<content contentuid="hf4b62780g2f6cg45b7g9f90ge9084a69e684" version="1">Devastator : Auditeur</content>
+	<content contentuid="hba985b39g16cdg4740g96f8gabbd111dd077" version="1">Sceaux Axiomatiques</content>
+	<content contentuid="h1afb1e21gd7ccg465ag93feg49c4ef43e268" version="1">Lorsque vous brûlez un &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; sur une créature, vous pouvez ajouter votre Charisme (minimum de 1) au jet de dégâts.</content>
+	<content contentuid="h0f1170d4gf6e8g43edgae01g11dfff162f13" version="1">Canal Conflagrant</content>
+	<content contentuid="hfdc7710age22ag4790g9fbcg7243fa9da4db" version="1">Vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour vous téléporter jusqu'à [1] dans un espace libre que vous pouvez voir.</content>
+	<content contentuid="h8e420adeg9473g41a8gab54g7e171d0b48be" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; pour vous téléporter jusqu'à [1].</content>
+	<content contentuid="h79dc6fd2g6264g4f6fgbd4cge198be47ca14" version="1">Assaut de Dis'</content>
+	<content contentuid="h34dde1d7gc602g497cg9efcg73cde5a1a98a" version="1">Lorsque vous utilisez votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour placer un &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt;, vous pouvez effectuer une attaque d'arme dans le cadre de la même action bonus.</content>
+	<content contentuid="hc8c21ec9g45b3g4047g80c1gc8398fcba826" version="1">Assaut de Dis' : Attaque</content>
+	<content contentuid="h2c5633f4g7a2cg4ed4g89e8g588cdb22011a" version="1">Entité affectée peut effectuer une attaque supplémentaire dans le cadre de son &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h63927606g6039g43a2ga7f1g5b2c5ccbbf8e" version="1">Yeux de la Porte</content>
+	<content contentuid="h8fcf98a6g78edg41c3ga15bg2394effaf02f" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; pour lier votre vision à celle d'un allié. Tant que vous et l'allié lié êtes à moins de [1] d'un ennemi, vous avez tous les deux &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; effectués contre l'ennemi.</content>
+	<content contentuid="hfdf860c9gc6c3g4877gab70gac71bb3f345b" version="1">Liez-vous avec un allié. Vous avez tous les deux &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; effectués contre une cible à moins de [1] de vous deux.</content>
+	<content contentuid="hdf903467g4c6fg4952gb0adgb54513e540d2" version="1">Yeux de la Porte : Cible avec Avantage</content>
+	<content contentuid="hc187616eg8d72g4401g9bf1g296c9d99fbe6" version="1">Accorde à l'entité &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; lorsqu'elle attaque une cible à moins de [1] de son partenaire lié.</content>
+	<content contentuid="he121e50agb932g4f9ega4a1g8fafceed5f21" version="1">Les partenaires liés ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre cette créature s'ils sont tous les deux à moins de [1].</content>
+	<content contentuid="hbf73c605gff02g4c84g84dcg268001c5b6bd" version="1">Frénésie Infernale</content>
+	<content contentuid="hf0e59f0egefd9g459dgb362gbf60aed40aa4" version="1">Lorsque vous êtes à moins de [1] d'un ennemi &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt;, vous pouvez dépenser un &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceau Funeste&lt;/LSTag&gt; pour entrer dans un état de frénésie. En frénésie, votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est doublée, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [2], et vous pouvez effectuer une attaque d'arme gratuite une fois par tour.</content>
+	<content contentuid="h1c117a2ag899cg483cg822dg55e31ab0e4ae" version="1">Entrez dans un état de frénésie lorsque vous êtes à moins de [1] d'un ennemi &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt;, doublant votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;, augmentant votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de [2], et gagnant une attaque d'arme gratuite.</content>
+	<content contentuid="h7179cdc0gf8f5g4bddgbfbfga09c308800ff" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;La vitesse de déplacement&lt;/LSTag&gt; est doublée, la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1], et vous pouvez effectuer une attaque d'arme gratuite.</content>
+	<content contentuid="h74efc957g9690g4b5eg9b02gcde45a2b6476" version="1">Frénésie Infernale : Attaque</content>
+	<content contentuid="h39a5eb12g3b93g4c0dgaad6gb18a5b973072" version="1">Effectuez une attaque au corps à corps avec votre arme équipée.</content>
+	<content contentuid="h556ca2b9gc22fg4105gb662gb563723bbbf7" version="1">Effectuez une attaque à distance avec votre arme équipée.</content>
+	<content contentuid="hc1ae956eg273fg436ag8534g6ce4e181a81a" version="1">Frénésie Infernale : Attaque Disponible</content>
+	<content contentuid="h6631ab5cg3abfg4dc3g9dcdg65905ad0e9f1" version="1">Gestionnaire d'Attaque de Frénésie Infernale</content>
+	<content contentuid="h5de6cd04g16d7g4ec4g9967g1d0d990cf3cb" version="1">Geôle de Fer</content>
+	<content contentuid="hb8fc8fc9gc509g47d2g808dg141ee1fff1da" version="1">Touchez une créature et dépensez [1] &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceaux Funestes&lt;/LSTag&gt; pour &lt;LSTag Type="Status" Tooltip="INTERDICT_BOON_IRON_GAOL"&gt;bannir&lt;/LSTag&gt; la cible. Si la cible est un Démon ou de niveau inférieur à [2], elle est &lt;LSTag Type="Status" Tooltip="INTERDICT_BOON_IRON_GAOL_PERMANENT"&gt;bannie&lt;/LSTag&gt; de manière permanente.</content>
+	<content contentuid="he6b2c212g9c89g48fbgbe98ge326d85ac0cc" version="1">&lt;LSTag Type="Status" Tooltip="INTERDICT_BOON_IRON_GAOL"&gt;Bannir&lt;/LSTag&gt; la cible. Si la cible est un Démon ou de niveau inférieur à [1], elle est &lt;LSTag Type="Status" Tooltip="INTERDICT_BOON_IRON_GAOL_PERMANENT"&gt;bannie&lt;/LSTag&gt; de manière permanente.</content>
+	<content contentuid="ha86c7bccgb34eg4de6g99e8gee17b91f61f9" version="1">Geôle de Fer : Bannie</content>
+	<content contentuid="ha54168b0g4809g4217gb913g571512e072c4" version="1">Bannie de ce plan d'existence. &lt;br&gt;&lt;br&gt;Impossible à cibler. Ne peut ni se déplacer, ni effectuer d'actions, d'actions bonus ou de réactions.</content>
+	<content contentuid="h80a045c0gc938g4de8gae6bgbc745193eb5e" version="1">Geôle de Fer : Bannie de Manière Permanente</content>
+	<content contentuid="ha83846e2g9e73g4facga73bgab7df0d9d53e" version="1">Bannie de manière permanente de ce plan d'existence. &lt;br&gt;&lt;br&gt;Impossible à cibler. Ne peut ni se déplacer, ni effectuer d'actions, d'actions bonus ou de réactions.</content>
+	<content contentuid="hcc42cc4ag49cbg44f9gb311g40dd6f9b83e7" version="1">Voile des Ombres</content>
+	<content contentuid="h4f1b52d8g0418g40a4g9eceg0ec1cc77e4bb" version="1">Dépensez des &lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Sceaux Funestes&lt;/LSTag&gt; en tant qu'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour tisser un manteau d'ombres autour d'une créature que vous touchez. La cible augmente sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h45c1c828g7abcg4322ga9e3gd1fa4e3d3234" version="1">Tissez un manteau d'ombres autour d'une créature. La cible augmente sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h2cd93daeg4021g45cbga8c9gbf9dd4cb7f42" version="1">Reçoit un bonus de +2 à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="he252bd46gcd41g4a22gba39g3935941262d4" version="1">Destin de l'Âme</content>
+	<content contentuid="h642830b3g4f14g4c5fg9ef2g4c97987e6db3" version="1">Lorsque vous utilisez votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; pour appliquer votre &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt;, vous pouvez brûler davantage l'âme de votre cible. Chaque fois que la créature affectée subit des dégâts, elle subit [1] dégât supplémentaire.</content>
+	<content contentuid="h8d6b28cdg1193g4b8fgab76g2778a7458710" version="1">L'âme est brûlée par un illrigger. Subit [1] dégât supplémentaire quand touchée.</content>
+	<content contentuid="ha2f5364fg2049g46bdg8194gf57fad0c2283" version="1">Lame Magique</content>
+	<content contentuid="h2cf98bebg23a5g434eg83b1gc4002aedbc41" version="1">Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt; pour effectuer à la fois une attaque d'arme et lancer un sort d'illrigger.</content>
+	<content contentuid="h20dd5888gea2fg45edgae9cg1312f07cb8e2" version="1">Effectuez à la fois une attaque d'arme et lancez un sort d'illrigger en une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt; ce tour.</content>
+	<content contentuid="h3172ca92g0ea2g411fgb416g05d5fc83648d" version="1">Peut effectuer à la fois une attaque d'arme et lancer un sort d'illrigger en une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt;.</content>
+	<content contentuid="h2c59262fgcafag43c9g8251gf779926d22e8" version="1">Lame Magique : Attaque Supplémentaire</content>
+	<content contentuid="hc662696cg170cg4deag9292g282cb686ded3" version="1">Vous pouvez effectuer une attaque d'arme supplémentaire en tant que partie de votre action.</content>
+	<content contentuid="h92ff2daeg6619g4b0aga370g5fe9d58cf548" version="1">Lame Magique : Libre Lancer de Sort</content>
+	<content contentuid="habaaaf72g7cbag424dg9544g1c0f88384071" version="1">Vous pouvez lancer un sort d'illrigger en tant que partie de votre action.</content>
+	<content contentuid="hc516ab7cg4158g449eg84ddg5f4a8f343833" version="1">Lame Magique : Vérification d'Attaque</content>
+	<content contentuid="h7ec8e5edg7205g4134g9e82ge0bba05e36a9" version="1">Lame Magique : Vérificateur de Sort</content>
+	<content contentuid="h4d72f19bg51bcg487ega0ccg84204a854f41" version="1">Marqué pour la Mort</content>
+	<content contentuid="h86b6b340g2d1cg42cdg96f5g9a36a7ef02ff" version="1">La première attaque que vous effectuez contre une créature &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; au cours d'un tour a &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h8e41d0c6gadf3g497bg88cbgbca566d2c7c2" version="1">Marqué pour la Mort : Vérificateur de Charge</content>
+	<content contentuid="h07f3f1d8ge599g44acgb33dga6edbfbe0c84" version="1">Force Terroriste</content>
+	<content contentuid="h7a9c1152g5538g446aga507g65272132dc83" version="1">Imprégnez votre arme d'une puissance infernale dévastatrice, lui permettant de infliger [1d8] dégâts supplémentaires de l'élément sélectionné.</content>
+	<content contentuid="h006365dcg7156g4f5egbf46gdfa2b942dcf9" version="1">Force Terroriste : Froid</content>
+	<content contentuid="ha14af000gb86dg4592ga7bdg7723f3716395" version="1">Imprégnez votre arme de froid, lui permettant de infliger un supplément de [1].</content>
+	<content contentuid="h42cb4daeg71deg4b08gaf9ag76ddcd31e426" version="1">Arme imprégnée de froid. Inflige un supplément de [1].</content>
+	<content contentuid="h4ab9a8c6g6dccg4b2bg8581g14ce44eb0a51" version="1">Force Terroriste : Feu</content>
+	<content contentuid="h8b16e3a1g1999g4768ga370g1efeb0fb2e29" version="1">Imprégnez votre arme de feu, lui permettant de infliger un supplément de [1].</content>
+	<content contentuid="he99bde85g41ecg4481ga16fg037f4b4225c4" version="1">Arme imprégnée de feu. Inflige un supplément de [1].</content>
+	<content contentuid="hce5dec2cg8b16g4e84g90c8gf1fff6fed5db" version="1">Force Terroriste : Nécrotique</content>
+	<content contentuid="h4494a23ag8dc4g4c7agb797gb1761763c471" version="1">Imprégnez votre arme d'énergie nécrotique, lui permettant de infliger un supplément de [1].</content>
+	<content contentuid="ha61e1463gc8a5g437dg8317ga9b70149b7bc" version="1">Arme imprégnée d'énergies nécrotiques. Inflige un supplément de [1].</content>
+	<content contentuid="hbfea97d4g7ebeg463fgb23agf00a890b2c57" version="1">Force Terroriste : Poison</content>
+	<content contentuid="hd9d451cag54f8g476ag842dg6a32bebba2fe" version="1">Imprégnez votre arme de poison, lui permettant de infliger un supplément de [1].</content>
+	<content contentuid="hd8b44139g002dg4f04g8706g2b8ccb3c4ee2" version="1">Arme imprégnée de poison. Inflige un supplément de [1].</content>
+	<content contentuid="ha6c3fb97g47d2g49ceg9158g1c764c4e51bf" version="1">Voile de Mensonges</content>
+	<content contentuid="h7be033b0g11b9g4574gb6a7g99daa17302d0" version="1">Devenez &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisible&lt;/LSTag&gt; et cachez-vous. Les attaques contre vous ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;, et vos attaques ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h354e3e5ag5abcg4024ga454gafe18646caa3" version="1">Grand Stratège</content>
+	<content contentuid="heff46ab8gf91eg4811ga693g18ab814b3efe" version="1">Augmentez jusqu'à [1] la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; d'un allié de 50 %. Ils ne provoquent pas d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'Opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="h15129aa1gbc72g4f50gab4ege4df4b51bc1f" version="1">Maître du Déguisement</content>
+	<content contentuid="h4d2c6bb7g80d2g4636ga195g39dccd38cc5a" version="1">Changez magiquement tous les aspects de votre apparence ou de celle de votre allié.</content>
+	<content contentuid="h15b2742eg1c39g4b0dg9b6bg470948602106" version="1">Chaînes d'Achéron : Technique</content>
+	<content contentuid="h1b52aed0g12bag4dedga5b7g1903acabcc9a" version="1">Impossible de bouger. Restreint par le &lt;LSTag Type="Status" Tooltip="BALEFUL_SEAL"&gt;Sceau Funeste&lt;/LSTag&gt; d'un illrigger.</content>
+	<content contentuid="h8ef82ed2g0cb7g403ag983cgab45af01a471" version="1">Maître du Déguisement : Mâle Tieffelin</content>
+	<content contentuid="h3f8bb929gf246g44a6ga35ag0f0105db564e" version="1">Déguisez-vous ou déguisez un allié en tieffelin de sexe masculin.</content>
+	<content contentuid="h811b9826g8c71g469fg941eg980f88534549" version="1">Maître du Déguisement : Femelle Tieffelin</content>
+	<content contentuid="hf2af4f57g3cccg4878ga7d8g1d92b4f54689" version="1">Déguisez-vous ou déguisez un allié en tieffelin de sexe féminin.</content>
+	<content contentuid="hcee8bc58ga2aag4483g9e4fg48f25fb230aa" version="1">Maître du Déguisement : Mâle Drow</content>
+	<content contentuid="he3858602gb8a7g4588g815ag55b2ec6bc2d8" version="1">Déguisez-vous ou déguisez un allié en drow de sexe masculin.</content>
+	<content contentuid="h5adcabf2g4eeeg4234gbbd3g2a67c4698086" version="1">Maître du Déguisement : Femelle Drow</content>
+	<content contentuid="h79c45281g2a34g4ac1ga030g21f2c0b078d8" version="1">Déguisez-vous ou déguisez un allié en drow de sexe féminin.</content>
+	<content contentuid="h69713c8egf318g429cg9d4eg307459e852be" version="1">Maître du Déguisement : Mâle Humain</content>
+	<content contentuid="h5ae4cb18g2a58g4e13ga3cagda5d50eae858" version="1">Déguisez-vous ou déguisez un allié en humain de sexe masculin.</content>
+	<content contentuid="heab4cbf0g5840g4bc9gb83cg087095450c8c" version="1">Maître du Déguisement : Femelle Humain</content>
+	<content contentuid="h53518897g462bg4055g9d2eg1dc1ef0f232f" version="1">Déguisez-vous ou déguisez un allié en humain de sexe féminin.</content>
+	<content contentuid="h7f24162bg168eg45cag8b43g765d4b489938" version="1">Maître du Déguisement : Mâle Githyanki</content>
+	<content contentuid="h1e762d68gce68g4e50ga2e8g3ae63d4f4375" version="1">Déguisez-vous ou déguisez un allié en githyanki de sexe masculin.</content>
+	<content contentuid="haa301552g8ddag49b0gb176g1daf85da30f2" version="1">Maître du Déguisement : Femelle Githyanki</content>
+	<content contentuid="h08258fddg9a47g4186ga6e0g13694e3253ce" version="1">Déguisez-vous ou déguisez un allié en githyanki de sexe féminin.</content>
+	<content contentuid="hd496da57gb988g4081g9438ga3ff248b2646" version="1">Maître du Déguisement : Mâle Nain</content>
+	<content contentuid="h1f3a4b3bg99ebg4dfdg95c4g72aaac1a04d4" version="1">Déguisez-vous ou déguisez un allié en nain de sexe masculin.</content>
+	<content contentuid="hcd38b738g3b38g431cg924dg69a8e3ec573d" version="1">Maître du Déguisement : Femelle Nain</content>
+	<content contentuid="hb3834321ga03eg4af5gb667g78eff7a57912" version="1">Déguisez-vous ou déguisez un allié en nain de sexe féminin.</content>
+	<content contentuid="h464e9225g1cdag45c9gb3adg765f11c9f77f" version="1">Maître du Déguisement : Mâle Elfe</content>
+	<content contentuid="ha0d0b021g4614g4f01g85aegeff23ad1d0ed" version="1">Déguisez-vous ou déguisez un allié en elfe de sexe masculin.</content>
+	<content contentuid="h59d7da71ge2f2g4782gbe23gceacfcfeaaf4" version="1">Maître du Déguisement : Femelle Elfe</content>
+	<content contentuid="h7a43627bg9f38g4442gbf00gce4d810bec8e" version="1">Déguisez-vous ou déguisez un allié en elfe de sexe féminin.</content>
+	<content contentuid="hdb61e414gdb28g490ag90b5g6a9bb53e7cbd" version="1">Maître du Déguisement : Mâle Demi-elfe</content>
+	<content contentuid="hc2ff6fdbg3b69g4578gba37ga59712c37463" version="1">Déguisez-vous ou déguisez un allié en demi-elfe de sexe masculin.</content>
+	<content contentuid="h070dcee2g82c4g4838g9d76g8e62b15b9cc2" version="1">Maître du Déguisement : Femelle Demi-elfe</content>
+	<content contentuid="h35715ae1g4af5g4a1cga6b9g72a1f1767a82" version="1">Déguisez-vous ou déguisez un allié en demi-elfe de sexe féminin.</content>
+	<content contentuid="hccb81f46gdbdbg419ag96a6g47276f572652" version="1">Maître du Déguisement : Mâle Halfelin</content>
+	<content contentuid="h5266a757gd7e5g4a91gaee7g280ad3845b1f" version="1">Déguisez-vous ou déguisez un allié en halfelin de sexe masculin.</content>
+	<content contentuid="h064ea943g7261g4b53g97a1gbc6c14690bdc" version="1">Maître du Déguisement : Femelle Halfelin</content>
+	<content contentuid="h21d3096bg7b8ag43ccg8549g822f1594b174" version="1">Déguisez-vous ou déguisez un allié en halfelin de sexe féminin.</content>
+	<content contentuid="h32b9ad1ag12a2g4cafg8e5ag1fb4a75f1cde" version="1">Maître du Déguisement : Mâle Gnome</content>
+	<content contentuid="h75ae352bge64eg4e17ga195ge4019bd7b2b1" version="1">Déguisez-vous ou déguisez un allié en gnome de sexe masculin.</content>
+	<content contentuid="hf4ad85b6gb4e2g40e7ga79fgac3e84817405" version="1">Maître du Déguisement : Femelle Gnome</content>
+	<content contentuid="h762fe1c8gfc7dg4421g9c9bg071e4386a26b" version="1">Déguisez-vous ou déguisez un allié en gnome de sexe féminin.</content>
+	<content contentuid="hb7c493fbg7ea9g43ceg9a1fg9099ff021bee" version="1">Maître du Déguisement : Mâle Dragonborn</content>
+	<content contentuid="hdf3927a0g5608g4132ga8feg66bc8c7dfcf2" version="1">Déguisez-vous ou déguisez un allié en dragonborn de sexe masculin.</content>
+	<content contentuid="h82c8bb19g4794g4bdfg807eg054acf3a74dd" version="1">Maître du Déguisement : Femme Dragonborn</content>
+	<content contentuid="h48434ef9g8f27g4367g951bgf1ddc66a9b7d" version="1">Déguisez-vous ou déguisez un allié en dragonborn de sexe féminin.</content>
+	<content contentuid="h1762d5d3g9086g4daag97c5g83836d9eeb56" version="1">Maître du Déguisement : Mâle Demi-Orc</content>
+	<content contentuid="haef4bd4bg1922g4bd7ga068g4cd138f71308" version="1">Déguisez-vous ou déguisez un allié en demi-orc de sexe masculin.</content>
+	<content contentuid="h87783cc8g2de9g489agac3bg0912a33b2de4" version="1">Maître du Déguisement : Femme Demi-Orc</content>
+	<content contentuid="h0219deb0g5273g42d2g9f2eg670a43dddc72" version="1">Déguisez-vous ou déguisez un allié en demi-orc de sexe féminin.</content>
+	<content contentuid="h8ceafb92gbfdcg4b5ag93b8g693990730d80" version="1">Maître du Déguisement : Mâle Humain Fort</content>
+	<content contentuid="h27403a37g81c3g4c34gb6e1g85ed390b74f7" version="1">Déguisez-vous ou déguisez un allié en humain avec un physique masculin fort.</content>
+	<content contentuid="h913caa38g729bg40c4gbf10g0c76fff8cf87" version="1">Maître du Déguisement : Femme Humain Fort</content>
+	<content contentuid="hb4bbc368g463fg448cga0d5g82d537695c39" version="1">Déguisez-vous ou déguisez un allié en humain avec un physique féminin fort.</content>
+	<content contentuid="hb6feb6a6g15f6g4e5dg8204ga2b017bf2e67" version="1">Maître du Déguisement : Mâle Drow Fort</content>
+	<content contentuid="h97bd19efg1d8eg4f43g9421g7071ae81b73b" version="1">Déguisez-vous ou déguisez un allié en drow avec un physique masculin fort.</content>
+	<content contentuid="hd4714d29ge99cg449bgbd3bgca0ff07fd3a2" version="1">Maître du Déguisement : Femme Drow Fort</content>
+	<content contentuid="h8f5aa5acg6db3g4115g94c5g15dd8f95dfd7" version="1">Déguisez-vous ou déguisez un allié en drow avec un physique féminin fort.</content>
+	<content contentuid="h520aab53g921eg435agb47fg0c765639d000" version="1">Maître du Déguisement : Mâle Elfe Fort</content>
+	<content contentuid="hb1866524g813bg4df5g9a8dg3bebb954a889" version="1">Déguisez-vous ou déguisez un allié en elfe avec un physique masculin fort.</content>
+	<content contentuid="h5c773168g8849g4a66g802aged200934046e" version="1">Maître du Déguisement : Femme Elfe Fort</content>
+	<content contentuid="ha3eca33cg0a18g492fg87f8gc74f92c5e363" version="1">Déguisez-vous ou déguisez un allié en elfe avec un physique féminin fort.</content>
+	<content contentuid="h68144a93g803eg4c8egbe3cg0ac1d13f3ad0" version="1">Maître du Déguisement : Mâle Demi-Elfe Fort</content>
+	<content contentuid="ha63b76a6gfaa1g402ag82f9g14117b9cf26e" version="1">Déguisez-vous ou déguisez un allié en demi-elfe avec un physique masculin fort.</content>
+	<content contentuid="h81053e07g7563g42dbg8479g3813a3c60564" version="1">Maître du Déguisement : Femme Demi-Elfe Fort</content>
+	<content contentuid="h4214b365g328bg4c3dg8f86g6328efa86055" version="1">Maître du Déguisement : Femme Demi-Elfe Fort</content>
+	<content contentuid="hf8a04c7fg6600g4788g8b0egff5925b7a566" version="1">Maître du Déguisement : Mâle Tieffelin Fort</content>
+	<content contentuid="h2ee66ae8g74f8g41c7gaa58gcf54d005482d" version="1">Déguisez-vous ou déguisez un allié en tieffelin avec un physique masculin fort.</content>
+	<content contentuid="hb389e6e5g3f0dg40b8gad9dg947f06c5992e" version="1">Maître du Déguisement : Femme Tieffelin Fort</content>
+	<content contentuid="h931d198ag2522g4ab9g9e8cg8241c0290db7" version="1">Déguisez-vous ou déguisez un allié en tieffelin avec un physique féminin fort.</content>
+	<content contentuid="he8b72cb2g9ae6g49cegb4e4g0cacaadde0da" version="1">Maître du Déguisement</content>
+	<content contentuid="h11493e44g78ddg4db9gac34gd869b620bdb7" version="1">L'apparence est entièrement modifiée.</content>
+	<content contentuid="h1737b074g6541g4e03g98e0g5edc6cbc77b8" version="1">Invocation de la Charge des Enfers : [3]</content>
+	<content contentuid="he410bac4geb1ag4f60g8e5aga7cbb14a5c25" version="1">Vous gagnez la capacité de canaliser des énergies infernales grâce à votre lien diabolique, que vous pouvez utiliser pour alimenter certaines actions.&lt;br&gt;&lt;Br&gt;Rechargé par un &lt;LSTag Tooltip="ShortRest"&gt;Repos Court&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="LongRest"&gt;Repos Long&lt;/LSTag&gt;.</content>
+	<content contentuid="h270e542egb512g4f8dga2acg7e39abbaf4b3" version="1">Charge d'Interdiction Funeste : [3]</content>
+	<content contentuid="haf85ebe3g3001g4a7cg9867g05fc65be9048" version="1">Gagnez une charge supplémentaire d'&lt;LSTag Type="ActionResource" Tooltip="BalefulSealResource"&gt;Interdiction Funeste&lt;/LSTag&gt;.</content>
+	<content contentuid="hc5e12421gd6fdg4d95g92beg00cbddaa1ce0" version="1">Charge de Conduit Infernal : [3]</content>
+	<content contentuid="hfaf1ef74gba7eg433egbf85gdb35d57e8695" version="1">Gagnez une charge supplémentaire de &lt;LSTag Type="ActionResource" Tooltip="InfernalConduitCharge"&gt;Conduit Infernal&lt;/LSTag&gt; pour soigner ou nuire à ceux qui vous entourent.</content>
+	<content contentuid="h5904575ag9a15g443eg847egfa7ef951f196" version="1">Charge de Prix du Sang : [3]</content>
+	<content contentuid="h18fa09a8g57e7g4e30gafd0gda746339ffea" version="1">Gagnez un dé supplémentaire de &lt;LSTag Type="ActionResource" Tooltip="BloodPriceDie"&gt;Prix du Sang&lt;/LSTag&gt;.</content>
+	<content contentuid="h68c55cd6ga193g4940ga1f6g8cefd2df29ee" version="1">Interdire les Bénédictions</content>
+	<content contentuid="h6eb89b07g0b02g416ag9fc9g2c0d00479d46" version="1">Approfondir votre connexion aux Enfers imprègne vos sceaux d'un pouvoir magique infernal, améliorant leurs effets.</content>
+	<content contentuid="hb9a171c1gc9c3g40a1g9025g2aa2eb30dc7c" version="1">Yeux de la Porte</content>
+	<content contentuid="h2b553908gb3e0g4588g8debgbb02a96ec2e3" version="1">Bénéficiant de la bénédiction des 'Yeux de la Porte' d'un illrigger.</content>
+	<content contentuid="h545fe9d4gfb2eg436fg9d1cgedb7c0ce7184" version="1">Bénédiction de l'Archidiable</content>
+	<content contentuid="ha24d60d7g8050g4e5eg8978gcf72ae735dce" version="1">Vous avez obtenu un accès limité aux connaissances infernales amassées par les diables de rang supérieur.</content>
+	<content contentuid="h5f3f26b6g6197g4c1bga845gc53c5b353865" version="1">Maîtrise de l'Arcane</content>
+	<content contentuid="he412a4aag5cc1g48dega750g1f8a0dc7e4b2" version="1">Gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en Arcane.</content>
+	<content contentuid="ha4ba67b4g3786g4b9cg933bg822025af50f9" version="1">Maîtrise de l'Histoire</content>
+	<content contentuid="h4633df8cg8184g44d1g860aga9feee9bd205" version="1">Gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en Histoire.</content>
+	<content contentuid="h7624bb63gd19eg49bfg90e9g4842964edb47" version="1">Maîtrise de la Nature</content>
+	<content contentuid="h52f0f929g0fccg4a14g9a04g5f9db96c18c1" version="1">Gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en Nature.</content>
+	<content contentuid="h95a49639gde2eg44c3ga41dgef6862dcbb82" version="1">Maîtrise de la Religion</content>
+	<content contentuid="h38157888g0de9g4895gb6fbg506a48642afc" version="1">Gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en Religion.</content>
+	<content contentuid="h897515b9g2784g4115ga87dg7695f97f4175" version="1">Pas de Maîtrise</content>
+	<content contentuid="hd4a16ab1gacddg4326ga6f0g8f2ccc48e7ba" version="1">Renoncez à l'opportunité de gagner une maîtrise répertoriée.</content>
+	<content contentuid="h8372745bg3d6fg4995gb363g46eeba30d5b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Doit être en possession d'une arme de mêlée à deux mains.</content>
+	<content contentuid="hb41eb94bgb72cg41c8g84c7g5fac7a952bf3" version="1">Interdit</content>
+	<content contentuid="h9fc1d899ge3e9g4248g96dfgf34e63e2c3eb" version="1">Affligé d'un sceau funeste d'un illrigger.</content>
+	<content contentuid="hf39c2219gbe1cg4ae8g8810g660c3e5f724a" version="1">Gestionnaire d'Avantage des Yeux de la Porte</content>
+	<content contentuid="hafdcadaaga482g4db1g8489g6527a6699e34" version="1">L'ennemi ne peut pas être dans [1].</content>
+	<content contentuid="h2f00e7edg5e72g4c8fga4d8g72baa3a70360" version="1">L'ennemi doit être dans [1].</content>
+	<content contentuid="h7b3a74cfg5940g41a1gb3acg2a97387c3e9f" version="1">Restauration de la Ressource d'Action de l'Illrigger</content>
+	<content contentuid="hd1b7fb44gf2e4g47abg850bg11dabd41f277" version="1">Statut de Test</content>
+	<content contentuid="h5308089bg48a4g484fgab0fgf6b0f55ae54f" version="1">Créature affectée par le statut de test.</content>
+</contentList>
