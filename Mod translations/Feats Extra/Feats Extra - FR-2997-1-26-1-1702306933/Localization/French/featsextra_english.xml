@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hc10571e2g30e8g4c86gb988ga9a234b4c0b5" version="1">Esquiver</content>
+  <content contentuid="hc10671e2g30e8g4c86gb988ga9a234b4c0b5" version="1">Vous vous concentrez sur votre défense et l'évitement des prochaines attaques. Les attaques portées contre vous subiront un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="h0111754eg8648g431fg89f4g78cf75db7e08" version="1">Robustesse Naine</content>
+  <content contentuid="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1">Le sang des héros Nains coule dans vos veines. 
+Vous obtenez ainsi les avantages suivants:
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous utilisez &lt;LSTag Tooltip="Dodge"&gt;Esquiver&lt;/LSTag&gt; en combat, vous pouvez dépenser un dé de vie pour vous soigner. Lancez le dé, ajoutez votre modificateur de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, et récupérez un nombre de points de vie égal à ce total (minimum 1).</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7743" version="1">Précision Elfique</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants:
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise la &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, l'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, la &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou le &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;, vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7745" version="1">Précision Elfique: Dextérité</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7746" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants:
+
+- Augmentez votre valeur de cette &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise la &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; choisie, vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7747" version="1">Précision Elfique: Intelligence</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7748" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants:
+
+- Augmentez votre valeur d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise l'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7749" version="1">Précision Elfique: Sagesse</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7750" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants:
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;  de 1, pour un maximum de 20.
+
+- À chaque fois que vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise la &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; , vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7751" version="1">Précision Elfique: Charisme</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7752" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants:
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise le &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;, vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7753" version="1">Constitution Infernale</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1">Le sang démoniaque est puissant en vous, vous procurant ainsi une résistance semblable à celle que possèdent d'autres entités démoniaques. 
+Vous obtenez ainsi les avantages suivants:
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Vous obtenez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts de froid et de poison.
+ 
+- Vos &lt;LSTag Tooltip="SavingThrow"&gt;jets de Sauvegarde&lt;/LSTag&gt; bénéficient d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; contre l'état &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonné&lt;/LSTag&gt;.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7755" version="1">Résistance au Poison</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7756" version="1">Vous devenez &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de poison</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7757" version="1">Résistance au Froid</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7758" version="1">Vous devenez &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de froid</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7762" version="1">Flammes de Phlégéthos</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1">Vous apprenez à maîtrisez le feu infernal. 
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre valeur d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Lorsque vous effectuez un &lt;LSTag Tooltip="AttackRoll"&gt;jet&lt;/LSTag&gt; de dégâts de feu, vous pouvez relancer le dé mais devrez impérativement utiliser ce nouveau jet.
+
+- À chaque fois que vous lancez un sort qui inflige des dégâts de feu, vous vous enveloppez dans une &lt;LSTag Type="Passive" Tooltip="Fire_Aura"&gt;Aura de feu&lt;/LSTag&gt;.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7764" version="1">Agilité des courts-sur-pattes</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1">Votre taille, dûe à votre race, vous rend exceptionnellement agile. 
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Augmentez votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de 1,50m.
+
+- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la compétence &lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; ou &lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;.
+
+- Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à vos jets de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; (&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;) ou &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; (&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt;) pour vous échapper si vous êtes aux prises avec un ennemi.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1">Ami de tous</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1">Vous développez votre personnalité magnétique afin de vous faciliter la vie à travers le monde. 
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Vous gagnez une &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="Deception"&gt;Tromperie&lt;/LSTag&gt; et en &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;. 
+Si vous possédiez déjà la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; d'une de ces compétences, votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est doublé pour n'importe quel &lt;LSTag Tooltip="AbilityCheck"&gt;test&lt;/LSTag&gt; impliquant ces compétences.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7768" version="1">Don de chance</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7769" version="1">Vous avez une chance inexplicable qui semble tomber juste au bon moment.
+
+- Vous avez 3 points de chance. Chaque fois que vous faites un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt;, de &lt;LSTag Tooltip="SavingThrow"&gt;sauvegarde&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="AbilityCheck"&gt;test de compétence&lt;/LSTag&gt;, vous pouvez dépenser un point de chance pour lancer un d20 supplémentaire. Vous pouvez choisir de dépenser un de vos points de chance après avoir lancé le dé mais avant que son effet soit déterminé. 
+
+- En combat, vous attirez votre chance : Jusqu'à votre prochain tour, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LsTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;, de &lt;LSTag Tooltip="SavingThrow"&gt;sauvegarde&lt;/LSTag&gt; ou vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétence&lt;/LSTag&gt;. Vos adversaires ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LsTag&gt; sur leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous. Si plus d'une créature dépense un point de chance pour influencer le résultat d'un jet, les deux points de chance s'annulent; aucun dé supplémentaire n'est relancé. 
+
+- Vous récupérez vos points de chance dépensés après un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7770" version="1">Points de chance</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7771" version="1">Jusqu'à votre prochain tour, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LsTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;de sauvegarde&lt;/LSTag&gt; et vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétence&lt;/LSTag&gt;. Vos adversaires ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LsTag&gt; sur leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous. Vous récupérez vos points de chance dépensés après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7776" version="1">Empoisonneur</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7777" version="1">Vous pouvez préparer et délivrer de mortels poisons. 
+Vous obtenez les avantages suivants: 
+
+- Lorsque vous effectuez un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt;, vous ignorez la &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; au poison.
+
+- Vous pouvez enduire une arme de poison avec une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; plutôt qu'une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt;.
+
+- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; du kit de l'empoisonneur si vous ne la possédiez pas déjà. </content>
+  <content contentuid="hg34c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Kit d'empoisonneur. 
+
+Vous pouvez combiner des objets pour créer des poisons et d'autres objets:  
+
+- Kit d'empoisonneur + Toxine simple = Toxine de Vouivre
+- Kit d'empoisonneur + Toxine de Vouivre = Poison Drow
+- Kit d'empoisonneur + Potion de Guérison = Toxine simple(2)
+- Kit d'empoisonneur + Potion de guérison importante = Toxine Simple(4)</content>
+  <content contentuid="hg4236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Kit d'empoisonneur pour les Assassins</content>
+  <content contentuid="hg5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">Kit d'empoisonneur pour les Assassins</content>
+  <content contentuid="hg5636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Poison d'assassin Drow</content>
+  <content contentuid="hg57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Les armes enduites dans du Poison d'assassin Drow inflige un 1d6 de dégâts de poison supplémentaire pour une période d'une minute.</content>
+  <content contentuid="hg4336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Kit d'empoisonneur magique pour les Assassins</content>
+  <content contentuid="hg5848970g49d4g4d9agb7bfg50ce6a8c581f" version="1">Kit d'empoisonneur magique pour les Assassins</content>
+  <content contentuid="hg59c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Poison magique d'assassin Drow</content>
+  <content contentuid="hg60c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Les armes enduites dans du Poison magique d'assassin Drow inflige un 1d6 de dégâts de poison nécrotique supplémentaire pendant 10 tours.</content>
+  <content contentuid="hg61c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Kit d'empoisonneur magique. 
+
+Vous pouvez combiner des objets pour créer des poisons et d'autres objets:
+
+- Kit d'empoisonneur magique + Toxine simple = Poison magique d'assassin Drow(dégâts nécrotiques)
+- Kit d'empoisonneur magique + Potion de Guérison = Toxine simple(2)
+- Kit d'empoisonneur magique + Potion de guérison importante = Toxine Simple(4)</content>
+  <content contentuid="hg64c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Adepte Occulte</content>
+  <content contentuid="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Ayant étudié le savoir occulte, un pouvoir d'occultiste s'est manifesté en vous : 
+
+- Vous apprenez une Invocation occulte de votre choix provenant de la classe Occultiste. Si vous bénéficiez déjà d'une invocation, celle que vous choisirez devra être différente. </content>
+  <content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Rôdeur</content>
+  <content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1"> Vous êtes un expert pour vous glisser entre les ombres. 
+Vous obtenez ainsi les avantages suivants : 
+
+- Vous pouvez essayer de vous cacher uniquement quand vous vous trouvez dans une zone de &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;faible lumière&lt;/LSTag&gt;.
+
+- Lorsque vous êtes caché et que vous ratez une &lt;LSTag Tooltip="RangedWeaponAttack"&gt;attaque à l'arme à distance&lt;/LSTag&gt;, votre position n'est pas révélée. 
+
+- La lumière faible n'impose pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les bonus de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; (&lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;) liés à la vision.</content>
+  <content contentuid="hg72c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Avantage sur le jet de sauvegarde: Empoisonné</content>
+  <content contentuid="hg73c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; contre l'état &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonné&lt;/LSTag&gt;</content>
+  <content contentuid="hg74c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Flammes de Phlégéthos: Intelligence</content>
+  <content contentuid="hg75c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Flammes de Phlégéthos: Charisme</content>
+  <content contentuid="hg76c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Agilité des courts-sur-pattes: Acrobaties</content>
+  <content contentuid="hg77c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des &lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt;. 
+Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LsTag&gt; sur vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; et d'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; que vous effectuez lorsque vous êtes &lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;entravé&lt;/LSTag&gt;.</content>
+  <content contentuid="hg78c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Agilité des courts-sur-pattes: Athlétisme</content>
+  <content contentuid="hg79c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;.  
+Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LsTag&gt; sur vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; et d'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; que vous effectuez lorsque vous êtes &lt;LSTag Type="Status" Tooltip="GRAPPLED"&gt;entravé&lt;/LSTag&gt;.</content>
+  <content contentuid="hg80c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Rôdeur</content>
+  <content contentuid="hg81c268ag49b0g48cbgaf37g76cec2369e9e" version="1"> Vous êtes un expert pour vous glisser entre les ombres. 
+Vous obtenez ainsi les avantages suivants : 
+
+- Vous pouvez essayer de vous cacher uniquement quand vous vous trouvez dans une zone de &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;faible lumière&lt;/LSTag&gt;.
+
+- Lorsque vous êtes caché et que vous ratez une &lt;LSTag Tooltip="RangedWeaponAttack"&gt;attaque à l'arme à distance&lt;/LSTag&gt;, votre position n'est pas révélée. 
+
+- La lumière faible n'impose pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les bonus de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; (&lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;) liés à la vision.</content>
+  <content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Rôdeur: Distance</content>
+  <content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Lorsque vous êtes caché et que vous ratez une &lt;LSTag Tooltip="RangedWeaponAttack"&gt;attaque à l'arme à distance&lt;/LSTag&gt;, votre position n'est pas révélée.</content>
+  <content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Rôdeur: Vision</content>
+  <content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Lorsque vous vous trouvez dans une faible lumière, vous obtenez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; lors des tests de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Rôdeur: Se cacher</content>
+  <content contentuid="hg85c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Lorsque vous vous trouvez dans une faible lumière, vous obtenez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; lors des tests de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;.</content>
+  <content contentuid="hg86c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Invoquer: Kit d'empoisonneur</content>
+  <content contentuid="hg87c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Un kit d'empoisonneur contenant des fioles, des produits chimiques et d'autres équipements nécessaires à la création de poisons.</content>
+  <content contentuid="hg88c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Invoquer: Kit d'empoisonneur magique</content>
+  <content contentuid="hg89c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Un kit d'empoisonneur contenant des fioles, des produits chimiques et d'autres équipements nécessaires à la création de poisons infligeant des dégâts nécrotiques.</content>
+  <content contentuid="hg90c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Agilité des courts-sur-pattes: +1 For + Maîtrise "Acrobaties" </content>
+  <content contentuid="hg91c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous êtes exceptionnellement agile pour votre race. 
+Vous obtenez les avantages suivants :
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Augmentez votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de Déplacement&lt;/LSTag&gt; de 1,50m.
+
+- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des &lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt;.
+
+- Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à vos jets de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et sur les &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; pour vous échapper si vous êtes aux prises avec un ennemi.</content>
+  <content contentuid="hg92c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Agilité des courts-sur-pattes: +1 For + Maîtrise "Athlétisme" </content>
+  <content contentuid="hg93c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous êtes exceptionnellement agile pour votre race. 
+Vous obtenez les avantages suivants :
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Augmentez votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; de 1,50m.
+
+- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;.
+
+- Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à vos jets de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; (&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;) pour vous échapper si vous êtes aux prises avec un ennemi.</content>
+  <content contentuid="hg94c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Action: Esquiver</content>
+  <content contentuid="hg95c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Lorsque vous effectuez l'action "Esquiver", vous vous concentrez sur votre défense et l'évitement des prochaines attaques. 
+Jusqu'au début de votre prochain tour, chaque &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; effectué contre vous subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; si vous pouvez voir l'attaquant et vous effectuez un &lt;LSTag Tooltip="SavingThrow"&gt;jet de Sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; en bénéficiant d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hb93172abga0feg4f07g9995g95eb0d815054" version="1">Action Esquiver - Robustesse Naine |Requiert d'être en combat| </content>
+  <content contentuid="hb93172abga0feg4f07g9995g95eb0d815055" version="1">Quand vous effectuez l'action "Esquiver", vous regagnez également [1].</content>
+  <content contentuid="5fea8060c9b54efda13e38216ce76654" version="1">Cuir de dragon</content>
+  <content contentuid="5fea8060c9b54efda13e38216ce76655" version="1">Vous avez hérité de la puissance et de la grandeur de vos ancêtres draconiques. 
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre valeur de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Vos écailles se durcissent. Tant que vous ne portez aucune armure, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est de 13 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;.
+
+- Des griffes rétractables ont poussé à l'extrémité de vos doigts. Les griffes sont des armes naturelles que vous pouvez utiliser pour effectuer des &lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;attaques à mains nues&lt;/LSTag&gt;.</content>
+  <content contentuid="h5da4df8dg24e0g4373g8530g3ab91cc7abb5" version="1">Tant que vous ne portez aucune armure, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est de 13 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;.</content>
+  <content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">Observateur</content>
+  <content contentuid="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vous remarquez rapidement les détails dans votre environnement. 
+Vous obtenez ainsi les avantages suivants :
+
+- Augmentez votre valeur d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; ou de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- Vous avez un bonus de +5 à vos jets de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; (&lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;) et d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;
+ (&lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;).</content>
+  <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1">Magie des Elfes des bois</content>
+  <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1">Vous découvrez la magie des forêts primitives.
+Vous obtenez ainsi les avantages suivants :  
+
+- Vous apprenez un &lt;LSTag Tooltip="Cantrip"&gt;sort mineur&lt;/LSTag&gt; de Druide de votre choix. 
+
+- Vous apprenez également les sorts &lt;LSTag Type="Spell" Tooltip="Target_Longstrider"&gt;Grande foulée&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Shout_PassWithoutTrace"&gt;Passage sans trace&lt;/LSTag&gt; et chacun d'entre eux peuvent être lancés une fois sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.
+Vous pouvez de nouveau lancer ces sorts après avoir effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;. 
+
+La &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;  est votre &lt;LSTag Tooltip="SpellcastingAbility"&gt;Caractéristique d'Incantation&lt;/LSTag&gt; pour ces trois sorts.</content>
+  <content contentuid="5fea8060c9b54efda13e38216ce76658" version="1">Griffes du Cuir de Dragon</content>
+  <content contentuid="5fea8060c9b54efda13e38216ce76659" version="1">Vous pouvez faire sortir des griffes rétractables au bout de vos doigts. Les griffes sont des armes naturelles que vous pouvez utiliser pour effectuer des &lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;attaques à mains nues&lt;/LSTag&gt;.</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3635" version="1">Précision Elfique: Dextérité</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3636" version="1">La précision des Elfes est légendaire, notamment celle des archers et des lanceurs de sorts elfes. Vous faites preuve d'une visée remarquable avec les attaques qui reposent sur la précision plutôt que sur la force brute. 
+Vous obtenez les avantages suivants :
+
+- Augmentez votre valeur de cette &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; de 1, pour un maximum de 20.
+
+- À chaque fois que vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; qui utilise la &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, vous pouvez relancer l'un des dés une fois.</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3637" version="1">Aura de Feu</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3638" version="1">Les attaquants en mêlée subissent [1].</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3639" version="1">Lorsque vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; impliquant la &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, l'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, la &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou le &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;, vous pouvez relancer un des dés une fois.</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3640" version="1">Prodige</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3641" version="1">Vous avez affûté votre maîtrise de compétences particulières.
+Vous obtenez ainsi les avantages suivants : 
+
+- Augmentez une &lt;LSTag Tooltip="Abilities"&gt;Caractéristique&lt;/LSTag&gt; de votre choix de 1, pour un maximum de 20. Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; d'une &lt;LSTag Tooltip="Skill"&gt;compétence&lt;/LSTag&gt; de votre choix. 
+
+- Choissisez une &lt;LSTag Tooltip="Skill"&gt;Compétence&lt;/LSTag&gt; que vous maîtrisez déjà. Vous gagnez l'&lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; de cette compétence. 
+La compétence que vous choisissez ne doit pas déjà bénéficier d'un bonus de maîtrise doublé lié à un autre don, comme Doué.</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3642" version="1">Invoquer: Kit d'empoisonneur</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3643" version="1">Un kit d'empoisonneur contenant des fioles, des produits chimiques et d'autres équipements nécessaires à la création de poisons. </content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3644" version="1">Skulker</content>
+	<content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3645" version="1">You can try to hide when you are only &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Lightly Obscured&lt;/LSTag&gt;.
+
+When you are hidden from a creature and miss it with a &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt;, your attack doesn't reveal your position.
+
+Dim light doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LsTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; made with sight
+Implementation: If you miss a ranged attack you will try to hide. You have advantage on perception and stealth checks when obscured. If you start combat by attacking you have all your actions when combat starts.</content>
+  <content contentuid="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Second Chance</content>
+  <content contentuid="lz1016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Halfling
+Fortune favors you when someone tries to strike you. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1, to a maximum of 20.
+
+When a creature you can see hits you with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to force that creature to reroll. Once you use this ability, you can’t use it again until you roll initiative at the start of combat or until you finish a short or long rest.</content>
+  <content contentuid="lz1026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Orcish Fury</content>
+  <content contentuid="lz1036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Half-orc
+
+Your fury burns tirelessly. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; score by 1, up to a maximum of 20.
+
+When you hit with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Melee Weapon Attack&lt;/LSTag&gt; or &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+Immediately after you use your &lt;LSTag Type="Passive" Tooltip="RelentlessEndurance"&gt;Relentless Endurance&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to make one weapon attack.</content>
+  <content contentuid="lz1046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you hit with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Melee Weapon Attack&lt;/LSTag&gt; deal additional [1]</content>
+  <content contentuid="lz1056871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you hit with a &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; deal additional [1]</content>
+  <content contentuid="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Artificier en herbe</content>
+  <content contentuid="lz1076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vous avez appris une partie de l’inventivité d’un Artificier:
+
+Vous apprenez un sort mineur de votre choix dans la liste des sorts d'Artificier, et vous apprenez un sort de 1er niveau de votre choix dans cette liste. Il utilise votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; comme son &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modifier&lt;/LSTag&gt;.
+Vous pouvez lancer le sort de niveau 1 de ce don sans &lt;LSTag Tooltip="SpellSlot"&gt;emplacements de sort&lt;/LSTag&gt;, et vous devez terminer un &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; avant de pouvoir le lancer à nouveau de cette manière. Vous pouvez également lancer le sort en utilisant n'importe quel &lt;LSTag Tooltip="SpellSlot"&gt;emplacements de sort&lt;/LSTag&gt;.
+Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; avec un type d'outils d'artisan de votre choix, et vous pouvez utiliser ce type d'outil comme canaliser de lancement de sorts pour tout sort que vous lancez qui utilise l'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; comme caractéristique de lancer des sorts.</content>
+  <content contentuid="lz1086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Absorb elemental damage once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Take half damage from the next elemental attack targetting you, and deal an additional [1] of that element type on your next attack.</content>
+  <content contentuid="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Fade Away</content>
+  <content contentuid="lz1106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Gnome
+
+Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
+
+Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
+Immediately after you take damage, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to magically become &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisible&lt;/LSTag&gt; until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Remarkable Recovery </content>
+  <content contentuid="lz1126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; score by 1, to a maximum of 20.
+When you are successfully stabilized while dying, you regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier (minimum of 1).
+Whenever you regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; as a result of a spell, potion, or class feature (but not this feat), you regain additional hit points equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier (minimum of 1).</content>
+  <content contentuid="lz1136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Svirfneblin Magic</content>
+  <content contentuid="lz1146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Gnome (Deep Gnome)
+
+You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast &lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;Nondetection&lt;/LSTag&gt; on yourself at will, without needing a material component.
+
+You can also cast each of the following spells once with this ability: &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;Blindness&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Blur"&gt;Blur&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;. You regain the ability to cast these spells when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; is your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;modifier&lt;/LSTag&gt;for these spells</content>
+  <content contentuid="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Chef</content>
+  <content contentuid="lz1166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Time and effort spent mastering the culinary arts has paid off. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with cook’s utensils if you don’t already have it.
+As part of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. At the end of the &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+With one hour of work or when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can cook a number of treats equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. These special treats last 8 hours after being made. A creature can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to eat one of those treats to gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="lz1176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cook Special Food</content>
+  <content contentuid="lz1186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">As part of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. At the end of the &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra hit points.</content>
+  <content contentuid="lz1196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cook Special Treats</content>
+  <content contentuid="lz1206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">With one hour of work or when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can cook a number of treats equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. These special treats last 8 hours after being made. A creature can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to eat one of those treats to gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="lz1216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; you can summon food, lasting until a long rest. When consumed and the character takes a short rest they regain an extra 1d8 hit points.</content>
+  <content contentuid="lz1226871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can summon food, lasting until a long rest. Once consumed the character gains &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; in &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;</content>
+  <content contentuid="lz1236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Chef Prepared Special Food</content>
+  <content contentuid="lz1246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When consumed and the character takes a short rest they regain an extra 1d8 hit points.</content>
+  <content contentuid="lz1256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Chef Prepared Special Treats</content>
+  <content contentuid="lz1266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Once consumed the character gains &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; in &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;</content>
+  <content contentuid="lz1276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Use this version of &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt; and then Dismiss will unlock the full version of the spell.</content>
+  <content contentuid="lz1286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck: AttackRoll</content>
+  <content contentuid="lz1296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Halfling
+
+Your people have extraordinary luck, which you have learned to mystically lend to your companions whenever you see them falter. You're not sure how you do it, you just wish it, and it happens. Surely a sign of fortune's favor!
+
+When an ally you can see within 30 feet of you rolls a 1 on the d20 for an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use your reaction to let the ally reroll the die. The ally must use the new roll.
+When you use this ability, you can't use your Lucky racial trait before the end of your next turn</content>
+  <content contentuid="lz1306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck Used</content>
+  <content contentuid="lz1316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you use this ability, you can't use your Lucky racial trait before the end of your next turn</content>
+  <content contentuid="lz1326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck: SavingThrow</content>
+  <content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck</content>
+ <content contentuid="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Gunner</content>
+ <content contentuid="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Source: Tasha's Cauldron of Everything
+
+You have a quick hand and keen eye when employing firearms, granting you the following benefits:
+Increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score by 1, to a maximum of 20.
+You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.
+You ignore the loading property of firearms.
+Being within 5 feet of a hostile creature doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on your ranged &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Toggle on to remove &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; from making a ranged spell attack whilst in melee combat |Toggle on to use &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attack&lt;/LSTag&gt; roll instead of &lt;LSTag Tooltip="RangedSpellAttack"&gt;Ranged Spell Attack&lt;/LSTag&gt; roll | </content>
+ <content contentuid="lz1376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Crossbow Expert</content>
+ <content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Remove Poisoner Kits</content>
+ <content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Guile of the Cloud Giant</content>
+ <content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Source: Bigby Presents - Glory of the Giants
+
+Prerequisite: 4th Level, Strike of the Giants (Cloud Strike) Feat
+
+You’ve manifested the confounding magic emblematic of cloud giants, granting you the following benefits:
+
+Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1, to a maximum of 20.
+Cloudy Escape. When a creature you can see hits you with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to give yourself resistance to that attack’s damage. You then teleport to an unoccupied space that you can see within 30 feet of yourself. You can use this &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cloudy Escape</content>
+ <content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You can teleport to an unoccupied space that you can see within 10 metres.</content>
+ <content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When a creature you can see hits you with an attack roll you can use your reaction to give yourself resistance to that attack’s damage. You then teleport to an unoccupied space that you can see within 30 feet of yourself.</content>
+ <content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">End Cloudy Escape</content>
+ <content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">As a free action end Cloudy Escape</content>
+ <content contentuid="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Strike of the Giants</content>
+ <content contentuid="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Source: Bigby Presents - Glory of the Giants
+
+Prerequisite: Martial Weapon Proficiency or Giant Foundling Background
+
+You have absorbed primeval magic that gives you an echo of the might of giants. When you take this feat, choose one of the benefits. Once per turn, when you hit a target with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Melee Weapon Attack&lt;/LSTag&gt; or a &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; using a &lt;LSTag Tooltip="Thrown"&gt;Thrown&lt;/LSTag&gt; weapon, you can imbue the attack with an additional effect depending on the benefit you chose:
+
+Cloud Strike, Fire Strike, Frost Strike, Hill Strike, Stone Strike, or Storm Strike. 
+
+The saving throw DC for these effects equals 8 + your proficiency bonus + your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier.
+
+You can use this feat a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+</content>
+ <content contentuid="lz1486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cloud Strike</content>
+ <content contentuid="lz1496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d4 thunder damage. If the target is a creature, it must succeed on a &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, or you become invisible to it until the start of your next turn or until immediately after you make an attack roll or cast a spell.</content>
+ <content contentuid="lz1506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Fire Strike</content>
+ <content contentuid="lz1516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d10 fire damage.</content>
+ <content contentuid="lz1526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frost Strike</content>
+ <content contentuid="lz1536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d6 cold damage. If the target is a creature, it must succeed on a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, or its speed is reduced to 0 until the start of your next turn.</content>
+ <content contentuid="lz1546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Hill Strike</content>
+ <content contentuid="lz1556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d6 damage of the weapon’s type. If the target is a creature, it must succeed on a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or have the prone condition.</content>
+ <content contentuid="lz1566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Stone Strike</content>
+ <content contentuid="lz1576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d6 force damage. If the target is a creature, it must succeed on a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be pushed 10 feet from you in a straight line.</content>
+ <content contentuid="lz1586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Storm Strike</content>
+ <content contentuid="lz1596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The target takes an extra 1d6 lightning damage. If the target is a creature, it must succeed on a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, or it has disadvantage on attack rolls until the start of your next turn.</content>
+ <content contentuid="lz1606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">CloudStrike Attacker</content>
+ <content contentuid="lz1616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The Cloudstrike Target has disadvantage to attack this character until the start of your next turn or until immediately after you make an attack roll or cast a spell.</content>
+ <content contentuid="lz1626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cloudstrike Target</content>
+ <content contentuid="lz1636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">This character has disadvantage on attack rolls against the Cloudstrike Attacker</content>
+ <content contentuid="lz1646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Crossbow Expert - Extra Attack</content>
+ <content contentuid="lz1656871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you use the Attack action and attack with a one handed weapon, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack with a hand crossbow you are holding in your mainhand.</content>
+ <content contentuid="lz1666871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Ember of the Fire Giant</content>
+ <content contentuid="lz1676871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: 4th Level, Strike of the Giants (Fire Strike) Feat
+ 
+ You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:
+ Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+ 
+ Born of Flame. You have &lt;LSTag Tooltip="Resistant"&gt;Fire Resistance&lt;/LSTag&gt; to fire damage. 
+ Searing Ignition. When you take the Attack action on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice in a 15-foot-radius sphere centered on you must make a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the modifier of the ability increased by this feat). On a failed save, a creature takes fire damage equal to ld8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and it has the blinded condition until the start of your next turn. On a successful save, the creature takes half as much damage only. You can use your Searing Ignition a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (but no more than once per turn), and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1686871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Fury of the Frost Giant</content>
+ <content contentuid="lz1696871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: 4th Level, Strike of the Giants (Frost Strike) Feat
+ 
+ You've manifested the icy might emblematic of frost giants, granting you the following benefits:
+ Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+ Born of Ice. You have &lt;LSTag Tooltip="Resistant"&gt;Cold Resistance&lt;/LSTag&gt; to cold damage. 
+ Frigid Retaliation. Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can use your reaction to retaliate with a conjured blast of ice. The creature must make a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the modifier of the ability increased by this feat). On a failed save, the creature takes cold damage equal to ld8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and its speed is reduced to O until the end of its next turn. You can use this reaction a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1706871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Keenness of the Stone Giant</content>
+ <content contentuid="lz1716871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You've manifested the physical talents emblematic of stone giants, granting you the following benefits:
+ Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+ Cavernous Sight. You gain darkvision with a range of 60 feet. If you already have darkvision from another source, its range increases by 60 feet.
+ Stone Throw. As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can take a rock and make a magical attack with it. The attack is a ranged spell attack with a range of 60 feet that uses the ability score you increased with this feat as the spellcasting ability. On a hit, the rock deals ldl0 force damage, and the target must succeed on a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the spellcasting ability modifier) or have the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1726871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Shaper</content>
+ <content contentuid="lz1736871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Spellcasting Feature or Rune Carver Background
+ 
+ You've studied the magic of Giant runes, granting you the following benefits:
+ Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; before you can cast it in this way again. You can also cast this spell using any spell slots you have.
+ Rune Magic. You know a number of runes equal to half your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (rounds down), chosen from the Rune Spells table. Whenever you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+ 
+ You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your spellcasting ability for this feat is &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; (choose when you select this feat).
+ 
+ Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.</content>
+ <content contentuid="lz1746871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Soul of the Storm Giant</content>
+ <content contentuid="lz1756871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: 4th Level, Strike of the Giants (Storm Strike) Feat
+ 
+ You've manifested the tempest magic emblematic of storm giants, granting you the following benefits:
+ Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1, to a maximum of 20.
+ Maelstrom Aura. As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you surround yourself with an aura of magical wind and lightning that extends 10 feet from you in every direction but not through total cover. The aura lasts until the start of your next turn or unitl you are incapacitated.
+ While the aura is active, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to lightning and thunder damage. In addition, attack rolls against you have disadvantage, and whenever another creature starts its turn within the aura, you can force the creature to make a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the ability modifier of the score increased by this feat).
+
+On a failed save, the creature's speed is halved until the start of its next turn. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1766871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vigor of the Hill Giant</content>
+ <content contentuid="lz1776871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: 4th Level, Strike of the Giants (Hill Strike) Feat
+ 
+ You've manifested the resilience emblematic of hill giants, granting you the following benefits:
+ Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+ Bulwark. When you are subjected to an effect that would move you at least 5 feet or give you the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition, you can use your reaction to steady yourself. You aren't moved and don't have the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition.
+ Iron Stomach. Whenever you eat food as part of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; and spend one or more Hit Dice to regain hit points, you regain additional hit points equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier+ your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1786871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Born of Flame. You have &lt;LSTag Tooltip="Resistant"&gt;Fire Resistance&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1796871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Searing Ignition</content>
+ <content contentuid="lz1806871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Searing Ignition. When you take the Attack action on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice in a 15-foot-radius sphere centered on you must make a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the modifier of the ability increased by this feat). On a failed save, a creature takes fire damage equal to ld8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and it has the blinded condition until the start of your next turn. On a successful save, the creature takes half as much damage only. You can use your Searing Ignition a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (but no more than once per turn), and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1816871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Ember Of The Fire Giant Resource</content>
+ <content contentuid="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You regain all expanded uses when you finish a long rest.</content>
+ <content contentuid="lz1836871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Searing Ignition - Strength</content>
+ <content contentuid="lz1846871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Searing Ignition - Constitution</content>
+ <content contentuid="lz1856871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Searing Ignition - Wisdom</content>
+ <content contentuid="lz1866871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Born of Ice</content>
+ <content contentuid="lz1876871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Born of Ice. You have &lt;LSTag Tooltip="Resistant"&gt;Cold Resistance&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1886871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frigid Retaliation - Strength</content>
+ <content contentuid="lz1896871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frigid Retaliation - Constitution</content>
+ <content contentuid="lz1906871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frigid Retaliation - Wisdom</content>
+ <content contentuid="lz1916871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frigid Retaliation. Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can use your reaction to retaliate with a conjured blast of ice. The creature must make a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the modifier of the ability increased by this feat). On a failed save, the creature takes cold damage equal to ld8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and its speed is reduced to O until the end of its next turn. You can use this reaction a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1926871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Fury of the Frost Giant Resource</content>
+ <content contentuid="lz1936871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Frigid Retaliation</content>
+ <content contentuid="lz1946871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Movement speed is reduced to zero until the end of its next turn.</content>
+ <content contentuid="lz1956871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cavernous Sight</content>
+ <content contentuid="lz1966871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You gain darkvision with a range of 60 feet. If you already have darkvision from another source, its range increases by 60 feet.</content>
+ <content contentuid="lz1976871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Stone Throw</content>
+ <content contentuid="lz1986871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can take a rock and make a magical attack with it. The attack is a ranged spell attack with a range of 60 feet that uses the ability score you increased with this feat as the spellcasting ability. On a hit, the rock deals ldl0 force damage, and the target must succeed on a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the spellcasting ability modifier) or have the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1996871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Keenness of the Stone Giant Resource</content>
+ <content contentuid="lz2006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Stone Throw - Strength</content>
+ <content contentuid="lz2016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Stone Throw - Constitution</content>
+ <content contentuid="lz2026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Stone Throw - Wisdom</content>
+ <content contentuid="lz2036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bulwark.</content>
+ <content contentuid="lz2046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you are subjected to an effect that would move you at least 5 feet or give you the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition, you can use your reaction to steady yourself. You aren't moved and don't have the &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; condition.</content>
+ <content contentuid="lz20506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Iron Stomach.</content>
+ <content contentuid="lz2066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Whenever you eat food as part of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; and spend one or more Hit Dice to regain hit points, you regain additional hit points equal to your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier+ your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+ <content contentuid="lz2076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Maelstrom Aura</content>
+ <content contentuid="lz2086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you surround yourself with an aura of magical wind and lightning that extends 10 feet from you in every direction but not through total cover. The aura lasts until the start of your next turn or until you are incapacitated.
+ While the aura is active, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to lightning and thunder damage. In addition, attack rolls against you have disadvantage, and whenever another creature starts its turn within the aura, you can force the creature to make a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the ability modifier of the score increased by this feat).
+
+On a failed save, the creature's speed is halved until the start of its next turn. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz2096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Soul of the Storm Giant Resource</content>
+ <content contentuid="lz2106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Maelstrom Aura - Strength</content>
+ <content contentuid="lz2116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Maelstrom Aura - Wisdom</content>
+ <content contentuid="lz2126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Maelstrom Aura - Charisma</content>
+ <content contentuid="lz2136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">While the aura is active, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to lightning and thunder damage. In addition, attack rolls against you have disadvantage, and whenever another creature starts its turn within the aura, you can force the creature to make a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the ability modifier of the score increased by this feat).
+
+On a failed save, the creature's speed is halved until the start of its next turn. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz2146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Whenever another creature starts its turn within the aura, you can force the creature to make a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; (DC equals 8 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; + the ability modifier of the score increased by this feat).
+
+On a failed save, the creature's speed is halved until the start of its next turn. You can use this &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz2156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">The creature's speed is halved until the start of its next turn</content>
+ <content contentuid="lz2166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic Resource</content>
+ <content contentuid="lz2176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Intelligence</content>
+ <content contentuid="lz2186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Wisdom</content>
+ <content contentuid="lz2196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Charisma</content>
+ <content contentuid="lz2206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic</content>
+ <content contentuid="lz2216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"> You know a number of runes equal to half your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (rounds down), chosen from the Rune Spells table. Whenever you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can inscribe each rune you know to summon an item into your inventory. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, when the runes fade. While you are carrying the rune, you can cast the spells associated with those runes using any spell slots you have.|You can choose to inscribe any rune after a long rest|
+ 
+ You can also invoke a rune inscribed on an object you are carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your spellcasting ability for this feat is &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; (choose when you select this feat).</content>
+ <content contentuid="lz2236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Cloud (Fog Cloud)</content>
+ <content contentuid="lz2246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Death (Inflict Wounds)</content>
+ <content contentuid="lz2256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Dragon (Chromatic Orb)</content>
+ <content contentuid="lz2266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Enemy (Disguise self)</content>
+ <content contentuid="lz2276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Fire (Burning Hands)</content>
+ <content contentuid="lz2286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Friend (Speak with animals)</content>
+ <content contentuid="lz2296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Frost (Armor of Agathys)</content>
+ <content contentuid="lz2306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Hill (Goodberry)</content>
+ <content contentuid="lz2316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Journey (Longstrider)</content>
+ <content contentuid="lz2326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - King (Command)</content>
+ <content contentuid="lz2336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Mountain (Entangle)</content>
+ <content contentuid="lz2346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Stone (Sanctuary)</content>
+ <content contentuid="lz2356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Rune Magic - Storm (Thunderwave)</content>
+ <content contentuid="lz2366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You temporarily learn the 1st-level spells that correspond to the runes you inscribed (summoned and locked into your inventory), as specified on the Rune Spells table, and you know those spells until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+ 
+ You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your spellcasting ability for this feat is &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; (choose when you select this feat).</content>
+ <content contentuid="lz2376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">This rune is bound to your inventory</content>
+ <content contentuid="lz2386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Whilst this rune is in your inventory you can cast the spell with your spellslots. You can also cast this spell without using a spellslot once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. The runes disappear after a long rest.</content>
+ <content contentuid="lz2396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+</contentList>

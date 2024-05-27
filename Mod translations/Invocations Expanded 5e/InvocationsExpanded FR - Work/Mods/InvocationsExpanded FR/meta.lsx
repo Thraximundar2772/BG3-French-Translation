@@ -19,7 +19,7 @@
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
-          <attribute id="Tags" type="LSString" value="" />
+          <attribute id="Tags" type="LSString" value="Translation" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="1906ecdc-f3f8-40a7-bafa-319be8610593" />
           <attribute id="Version" type="int64" value="37154696925806592" />
