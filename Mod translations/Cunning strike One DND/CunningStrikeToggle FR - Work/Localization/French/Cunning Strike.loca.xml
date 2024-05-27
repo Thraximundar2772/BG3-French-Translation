@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h14bcfbd7gd524g4cd4g8134gb3cbc2527cbf" version="1">Frappe perfide (Mêlée)</content>
+	<content contentuid="h45636eacg3675g49ecg850cg01cff5026abd" version="1">Réduisez les dégâts de votre Attaque Sournoise pour ajouter un effet supplémentaire.</content>
+	<content contentuid="h8dc25221g064fg47c7g9093ga55f5bdeb14e" version="1">Frappe perfide (A distance)</content>
+	<content contentuid="h187c96c4g3aeeg4b7cga68agd88bb2691f99" version="1">Frappe perfide : Désarmement</content>
+	<content contentuid="h2aae80a8g42d0g49a5gb553g879b430f6802" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Dextérité ou lâcher son arme.</content>
+	<content contentuid="h2c658ad9g675cg4afdg9cf1g3607a0fb4cec" version="1">Frappe perfide : Poison</content>
+	<content contentuid="h33ef2fc6gfce5g4aa4g8f44g6cc587434ce1" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Constitution ou être &lt;LSTag Type="Status" Tooltip="POISONED_CUNNING_STRIKE"&gt;empoisonné&lt;/LSTag&gt; durant une minute ou jusqu'à qu'il réussisse un jet de sauvegarde à la fin de son tour.</content>
+	<content contentuid="h36d80776g7fd4g4ed7g8e8cg840145cd9ae6" version="1">Frappe perfide : Déséquilibre</content>
+	<content contentuid="h4f140c71g4282g4864ga17fgbe5987ebdd29" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Dextérité ou tomber &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;.</content>
+	<content contentuid="h5050e06cgf31ag4b9bgaf28gcdf9a5ed0857" version="1">Frappe perfide : Retraite</content>
+	<content contentuid="h79df83bcgf6f1g47dcgb305g33081b4cffb4" version="1">Renoncez à [1] dégâts d'Attaque Sournoise pour augmenter votre vitesse de déplacement de [2] et esquiver les attaques d'opportunités que vous provoquez jusqu'à la fin du tour.</content>
+	<content contentuid="hd8e74741g2e9eg4473gacc4g4b1f75efcb3f" version="1">Frappe dissimulée : Etourdissement</content>
+	<content contentuid="haa28c607g4fdfg4226gaacagb4986e2b762e" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Constitution ou être &lt;LSTag Type="Status" Tooltip="DAZED_ONEDND"&gt;Etourdi&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+	<content contentuid="h7472dfd8g9179g4c59g95a5g0ff9221ece35" version="1">Frappe dissimulée : Hors d'état</content>
+	<content contentuid="he8c10e2bgfc32g4050g9e50g6ed77c4ae2d7" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Constitution ou être &lt;LSTag Type="Status" Tooltip="KNOCKED_OUT_DEVIOUS_STRIKES"&gt;inconscient&lt;/LSTag&gt; durant une minute, jusqu'à qu'il subisse des dégâts ou réussisse un jet de sauvegarde à la fin de son tour.</content>
+	<content contentuid="h42f02006g7522g42f0gb3ebgfbfc0f18f291" version="1">Frappe dissimulée : Aveuglement</content>
+	<content contentuid="h353cb4d3g538ag4670ga4f9g40afb6b99040" version="1">Renoncez à [1] dégâts d'Attaque Sournoise. L'adversaire doit réussir un jet de sauvegarde en Dextérité ou être &lt;LSTag Type="Status" Tooltip="BLINDED_DEVIOUS_STRIKES"&gt;aveuglé&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+	<content contentuid="h81d56503ge06bg4a19gad23g2bde5241854c" version="1">Frappe perfide : Désarmement (Mêlée)</content>
+	<content contentuid="ha069dcb2g3b03g4c35g9d4eg847f3f11e1b1" version="1">Frappe perfide : Poison (Mêlée)</content>
+	<content contentuid="ha9c911bfgc8b5g4e52gb700g0be6c7bacd4f" version="1">Frappe perfide : Déséquilibre (Mêlée)</content>
+	<content contentuid="hbc5d1afbgbb0fg4e06gb2d7g59331878d8ff" version="1">Frappe perfide : Retraite (Mêlée)</content>
+	<content contentuid="h13504400gfccag48a8ga064g279ff07ddf76" version="1">Frappe dissimulée : Etourdissement (Mêlée)</content>
+	<content contentuid="h139f577dg2e98g4bf6gb5d7gb0bae02320f9" version="1">Frappe dissimulée : Hors d'état (Mêlée)</content>
+	<content contentuid="hccb1d3a5g55fag4e52g8c76gef56567f46b3" version="1">Frappe dissimulée : Aveuglement (Mêlée)</content>
+	<content contentuid="hcf56693bg77bcg4bbdgb847g8f80a75f6e84" version="1">Frappe perfide : Désarmement (A distance)</content>
+	<content contentuid="hde5dd453g88f4g4a26gb603gedf745d491f0" version="1">Frappe perfide : Poison (A distance)</content>
+	<content contentuid="hecd19217ge04fg4cf7ga020g3ea8567d4188" version="1">Frappe perfide : Déséquilibre (A distance)</content>
+	<content contentuid="hf83dcb4fgeb82g4378gb3d6gda7a66a1ccda" version="1">Frappe perfide : Retraite (A distance)</content>
+	<content contentuid="h78c57e45g305dg43ddga003gf8c9274b6790" version="1">Frappe dissimulée : Etourdissement (A distance)</content>
+	<content contentuid="heee64493g90e6g434egab2dga89471c8e64a" version="1">Frappe dissimulée : Hors d'état (A distance)</content>
+	<content contentuid="h87e7e908ga316g4c37g9780g0fa9f9cd4300" version="1">Frappe dissimulée : Aveuglement (A distance)</content>
+	<content contentuid="h93a98d4bg8638g4e72gb6dfg529b10c4af3b" version="1">Empoisonné (Frappe perfide)</content>
+	<content contentuid="hc03690edg453dg477cg906fgd7345f8eb711" version="1">Retraite astucieuse</content>
+	<content contentuid="h94bc68adg9322g4180g9976gc75d7f3ac10e" version="1">Assommé (One D&amp;D)</content>
+	<content contentuid="h95201c47gdce1g411egbec6gf15f0ec31254" version="1">Peut consommer votre &lt;LSTag Tooltip="Action"&gt;Action&lt;/LSTag&gt; à votre tour. Ne peut pas utiliser de &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réactions&lt;/LSTag&gt; ou d'&lt;LSTag Tooltip="BonusAction"&gt;Actions bonus&lt;/LSTag&gt;.</content>
+</contentList>
