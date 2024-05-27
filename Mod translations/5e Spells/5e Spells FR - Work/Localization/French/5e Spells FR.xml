@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentList date="26/10/2020 01:10">
+<contentList>
 	<content contentuid="h0b792bd3geaefg468agb33fg927ac94f786e" version="1">La cible est trop bas niveau pour utiliser ça.</content>
 	<content contentuid="h1618284ag0468g4bfdg8c6egf96dd1bd20c5" version="1">Lanceur de Rituel</content>
 	<content contentuid="hdd4d4f77g39e3g4092gad53ga173914d5b61" version="1">Peut lancer un sort sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
@@ -354,7 +354,7 @@
 	<content contentuid="788b3a44bc9348319001122c775ced56" version="1">A la capacité de cracher du poison sur une zone en forme de cône.</content>
 	<content contentuid="h0c47714cg3607g4f7cga8f2g08eefae6d2aa" version="1">Tourbillon de poussière</content>
 	<content contentuid="he531785age230g47fega786gcb76ecf270e3" version="1">Invoque une force élémentaire qui ressemble à un tourbillon de poussière.</content>
-	<content contentuid="h300e27a5g7a0bg4a3fg800dg03941fc68a61" version="1">Si le diable de poussière se déplace à travers une surface boueuse, il supprime la surface et génère un nuage [1] qui se déplace avec le diable de poussière, &lt;LSTag Type="Status" Tooltip ="SNEAKING_HEAVILY_OBSCURED"&gt;Fortement obscurcissant&lt;/LSTag&gt; la zone.</content>
+	<content contentuid="ha7d13afega06ag4c91gb8e2gbcaeb1360d59" version="1">Si le diable de poussière se déplace à travers une surface boueuse, il supprime la surface et génère un nuage [1] qui se déplace avec le diable de poussière, &lt;LSTag Type="Status" Tooltip ="SNEAKING_HEAVILY_OBSCURED"&gt;Fortement obscurcissant&lt;/LSTag&gt; la zone.</content>
 	<content contentuid="hbc378123g725ag48fbgb2b7g9fa634337771" version="1">Les créatures qui terminent leur tour à moins de [1] du Tourbillon de poussière prennent [2] et sont repoussées [3].</content>
 	<content contentuid="h05136948g66d7g46a3g8bebgaedc86091a81" version="1">Tourbillon de poussière : Déplacer</content>
 	<content contentuid="h57a1996fgbc7bg4d46g8ae8g3ea1e4b3b8d0" version="1">Permettez au Tourbillon de poussière de se déplacer jusqu'à [1].</content>
@@ -606,8 +606,16 @@
 	<content contentuid="345abb07-bf64-48bb-8175-375424f87962" version="1">Cône de froid</content>
 	<content contentuid="669ed387-7951-4ce8-a2f9-740f1b1160d4" version="1">Un souffle d'air froid est propulsé de vos mains, infligeant [1] aux créatures affectées.</content>
 	<content contentuid="edae0945-9a25-4321-8e15-4b739d8d6ecd" version="1">Si elle réussit son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, la cible subit tout de même la moitié des dégâts.</content>
-	<content contentuid="f1251932-62f1-4884-a249-783d042771e9" version="1">Invocation de volée</content>
-	<content contentuid="ebdfc939-adab-4a60-ba50-8416f01e7ef2" version="1">Vous tirez une munition non magique avec une arme à distance ou lancez une arme non magique dans les airs et choisissez un point à portée. Des centaines de reproductions de cette munition ou de cette arme tombent en une véritable pluie de projectiles puis disparaissent, infligeant [1] aux créatures affectées par le tir.</content>
+	<content contentuid="hf1251932g62f1g4884ga249g783d042771e9" version="1">Invocation de volée</content>
+	<content contentuid="hebdfc939gadabg4a60gba50g8416f01e7ef2" version="1">Vous tirez une munition non magique avec une arme à distance ou lancez une arme non magique dans les airs et choisissez un point à portée. Des centaines de reproductions de cette munition ou de cette arme tombent en une véritable pluie de projectiles puis disparaissent, infligeant [1] aux créatures affectées par le tir.</content>
+	<content contentuid="h89bf4e76gc243g4ea1gb2c6gc857ba3ba5c2" version="1">Invocation de volée : Ammunition</content>
+	<content contentuid="h8f514ae1ge2e6g4347gb7fega1ce78d3569a" version="1">Tirez une munition depuis une arme à distance en l'air. Des centaines de doubles de munitions tombent en volée d'en haut puis disparaissent, blessant les créatures dans un rayon de [1].</content>
+	<content contentuid="hf595bbdeg2dc3g4711ga7a6gd5884301a672" version="1">Invocation de volée : Arme contondante</content>
+	<content contentuid="h42522707g014fg4d43gba4dg5d80401a4947" version="1">Lancez une arme en l'air. Des centaines de copies de l'arme tombent en volée d'en haut puis disparaissent, blessant les créatures dans un rayon de [1].</content>
+	<content contentuid="hfee65bcbg68f4g43cbgb231ge8f09b6f3606" version="1">Invocation de volée : Arme tranchante</content>
+	<content contentuid="hc183347cg2045g4b87g8ecfg0dd929506cda" version="1">Lancez une arme en l'air. Des centaines de copies de l'arme tombent en volée d'en haut puis disparaissent, blessant les créatures dans un rayon de [1].</content>
+	<content contentuid="haf8411d1g7990g4bb9ga0fdg333e818eda18" version="1">Invocation de volée : Arme perforante</content>
+	<content contentuid="hcb0c878ag93f8g43e1ga2acg5e48f2e9b723" version="1">Lancez une arme en l'air. Des centaines de copies de l'arme tombent en volée d'en haut puis disparaissent, blessant les créatures dans un rayon de [1].</content>
 	<content contentuid="cd235fbb-284b-4689-b538-db9c7eb6ef32" version="1">Contagion</content>
 	<content contentuid="6f1aeb88-1e7a-43b5-a0be-0512f2ec3b70" version="1">Votre toucher est vecteur de maladie. Effectuez une attaque contre une créature à portée. Si l'attaque touche, la cible est &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonnée&lt;/LSTag&gt; et doit effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; à la fin de chacun de ses tours.</content>
 	<content contentuid="f04b97a8-af68-4d7f-b2bd-1b8ecd77fae0" version="1">Si la créature &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonnée&lt;/LSTag&gt; réussit trois &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; d'affilée, le sort se termine. En revanche, si elle en échoue trois d'affilée, elle n'est plus &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonnée&lt;/LSTag&gt; mais contracte alors une maladie aléatoire.</content>
@@ -702,9 +710,9 @@
 	<content contentuid="b3d9e8f4-5a5b-4ac4-b444-982b19e1a2d1" version="1">Se téléporte sur la cible de votre Frappe de vent d'acier.</content>
 	<content contentuid="397966e0-826b-4e2a-a62b-86c75bdbd970" version="1">Convocation d'esprit draconique</content>
 	<content contentuid="3b1ea766-b51c-468a-8a36-e31e29a0a549" version="1">Vous pouvez faire appel à un esprit draconique qui ressemble à un dragon chromatique, gemme ou métallique et qui se bat à vos côtés.</content>
-	<content contentuid="9f43b7a1-7256-446f-bb67-835fe6537648" version="1">Chromatique</content>
+	<content contentuid="9f43b7a1-7256-446f-bb67-835fe6537648" version="1">Convocation d'esprit draconique : Chromatique</content>
 	<content contentuid="0dcf2040-520a-49f7-a8bc-d0fab42a9880" version="1">Vous faites à un esprit draconique qui ressemble à un dragon chromatique qui se bat à vos côtés.</content>
-	<content contentuid="cdc068e3-f9cd-474f-a421-88e5b8601951" version="1">Gemme</content>
+	<content contentuid="cdc068e3-f9cd-474f-a421-88e5b8601951" version="1">Convocation d'esprit draconique : Gemme</content>
 	<content contentuid="97f2f626-2157-498e-90de-72f733f7b1b9" version="1">Vous faites à un esprit draconique qui ressemble à un dragon gemme qui se bat à vos côtés.</content>
 	<content contentuid="h9939b043g2f5cg4bb3g9fc2g920ebbd3a379" version="1">Carquois magique</content>
 	<content contentuid="hcc528f00g79f0g4f54ga56bg3c7330c5dfdf" version="1">Transmutez votre carquois pour qu'il produise une réserve inépuisable de munitions non magiques. Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pour effectuer deux attaques à l'arme à distance.</content>
