@@ -1,29 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentList date="4/28/2024 18:00">
+<contentList>
 <!-- Doc CL_Cantrips.loca -->
-	<content contentuid="h68119a70g25acg450egb27bg6424c0c425d5" version="1">Echelle : 100%</content>
-
-	<content contentuid="h0feeced7g80acg442cgbe24g93e0a7ae3730" version="1">Echelle : 75%</content>
-	<content contentuid="heec8ead7g2b28g4276ga7b5g634cebfdcf45" version="1">Echelle : 80%</content>
-	<content contentuid="hf2fb65f4g331cg49dcg886ag891c801a4bcc" version="1">Echelle : 85%</content>
-	<content contentuid="hcf110024g3de3g4c84gb7d3g18304b5c18a2" version="1">Echelle : 90%</content>
-	<content contentuid="h22c3b9f2g0cdfg4ff2gb65fg1ec84ed0176a" version="1">Echelle : 95%</content>
-
-	<content contentuid="h498158e6g4f66g4a51gbf04g61cbf7c743be" version="1">Echelle : 105%</content>
-	<content contentuid="h4918074bg332fg4a37gbecag1d2bea7af94b" version="1">Echelle : 110%</content>
-	<content contentuid="h162b1ddcgce4eg4419g8963g878a797ddbdb" version="1">Echelle : 115%</content>  
-	<content contentuid="haeece1a9g26c4g46e5gab5ag0c4d7acb94d0" version="1">Echelle : 120%</content>
-	<content contentuid="h93702f2dg10ffg4ab7g8f77ge370e2591be9" version="1">Echelle : 125%</content>
-
-	<content contentuid="h777cd9afg6335g406dg95dbgc5c8c3c0641f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Le changement n'est pas visible dans l'Editeur de personnage.</content>
-	<content contentuid="h142bbb7ag692dg482cgae34ged1cbcf34e77" version="1">L'échelle de votre personnage augmente de [1]. </content>
-	<content contentuid="hc740782eg6c42g4418g8387gaaf71c89176b" version="1">Echelle du personnage </content>
-	<content contentuid="ha0ad4567g6876g4048g8e11gf9eb4418a3f3" version="1">Sélectionnez votre taille</content>
-
+	<content contentuid="h53662f6fg863dg4684gb425gb2355bc8023a" version="1">Lueur de chandelles</content>
+	<content contentuid="hc42a9957g5559g4088g9eafg53dcfe1539c9" version="1">Une lumière magique suit chacun de vos mouvements.</content>
+	<content contentuid="h32e80497gbd1ag49a7g9e68g8932d7ff43f8" version="1">Eteindre les chandelles</content>
+	<content contentuid="h374e8c0bgb794g4e36g8fbbg28c7f1b7885e" version="1">Estompe le sort Lueur de chandelles.</content>
+	<content contentuid="h1249de57g9339g44eag905bgd25ed6cb6925" version="1">Savon Magique</content>
+	<content contentuid="hb66c3785g9b09g4bf8gbc4agee11d8fd566e" version="1">Une créature que vous touchez est débarrassée de toute saleté et crasse. La cible récupère [1] et a un avantage aux jets de Charisme.</content>
+	<content contentuid="hff8fafd2gb71dg4f34g84b6gfdae7081cb47" version="1">Projeter un objet</content>
+	<content contentuid="h83949c3egba87g4ae6g85f5g8430fe91bfd7" version="1">Votre force de volonté déplace tout objet proche sur une courte distance.</content>
+	<content contentuid="h7ea34630gb77fg425bg8690ge56d606c9feb" version="1">Perce-oreille</content>
+	<content contentuid="h8f768cc5g64f3g41ecga859g19b7a6b66262" version="1">Cette créature a un désavantage aux jets de Perception.</content>
+	<content contentuid="hdd8ddf67g6da7g469cgad20g62d4a59a224d" version="1">Vous faites en sorte qu'une chanson, une pensée ou une histoire reste coincée dans une seule créature à portée de la tête. Pendant toute la durée du sort, la créature est désavantagée aux jets de Perception.</content>
+	<content contentuid="hec3896cbg0446g4a71gb804g996da1d413a2" version="1">Morsure de puce</content>
+	<content contentuid="haac6047dg7df9g4446ga294gc1e176110a93" version="1">Une créature que vous pouvez voir, dans un rayon de 10 pieds, subit [1].</content>
+	<content contentuid="hd18d552eg12adg4a1ag9174gbb4943d644a7" version="1">Lame de Givrevent</content>
+	<content contentuid="h5c7c1146g954fg444dgb950g07a45d461c8d" version="1">De la glace magique incruste votre arme, provoquant des dégâts de froid lors de son attaque.</content>
+	<content contentuid="ha9a599a3g04aag4553gb879gfbac33b413dd" version="1">Froideur</content>
+	<content contentuid="h910a5465g4709g44d0gbc47g3ea332b4f31b" version="1">La cible commence à ressentir un froid anormal. À moins qu’elle ne soit résistante aux dégâts du froid, elle deviendra glacée et distraite, ce qui lui donne un désavantage aux jets de Perception.</content>
+	<content contentuid="ha893fa2dga107g43ccg9ed2geeafea14cf0c" version="1">Fondre</content>
+	<content contentuid="h49060678ge152g4d7ega334gb744bea23403" version="1">Vos mains deviennent anormalement chaudes. Vous pouvez toucher quelqu'un pour infliger [1]. La cible perd également le statut Frigorifié, si elle l'avait déjà.</content>
 
 <!-- Doc CL_DeathKnight.loca -->
 	<content contentuid="h0ac042b8g9c9eg40f3g88dag83496ad4b8a8" version="1">Chevalier de la mort</content>
 	<content contentuid="h8f688ae8g8104g4542g94cfge4d0b1d5318c" version="1">Lier votre chemin à la liberté</content>
+
+<!-- Doc CL_Doot_Utils.loca -->
+	<content contentuid="h32a6c28cga0b5g48e6gbc8ag858ce837bc13" version="1">Invoquer un instrument</content>
+	<content contentuid="hd91a9d03g444dg4432g8259g23f1042a02d7" version="1">Invoquez un instrument à votre main. &lt;br&gt;&lt;br&gt;Veux avez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt; tant que l'instrument est équipé.Vous ne pouvez en avoir qu'un à la fois.</content>
+	<content contentuid="ha54bfb6fgebe7g4528g96d8gd397f5e6f0ef" version="1">Instrument invoqué</content>
+	<content contentuid="h859768f9g48d8g4b86gb60agfb0580745418" version="1">Un instrument invoquable accordé par Tom Cardy.Sa surface crépite avec une énergie interdimensionnelle.</content>
+	<content contentuid="hcacffa4bg58dfg4a01g90b8g657a0cb7bd40" version="1">Invoquer un Tambour</content>
+	<content contentuid="h8a059456g07a6g4b18ga3dag6ce609973408" version="1">Invoque un Tambour.</content>
+	<content contentuid="he8bc074cgf3dbg42f8gac0cgb371ea5fa621" version="1">Tambour invoqué</content>
+	<content contentuid="h6d8daffaga54ag41f0g8392g5acf35a82507" version="1">Invoquer une Flûte</content>
+	<content contentuid="h6ee6f084g4621g4963g897dgc8676d170116" version="1">Invoque une Flûte.</content>
+	<content contentuid="h602d0691g4b46g47cegb5c7g67495a557115" version="1">Flûte invoquée</content>
+	<content contentuid="hca73b951g41a9g4022gbf86gaa1dbbcf442a" version="1">Invoquer du Futh</content>
+	<content contentuid="h7df4122dgc0f8g4103g8898gc2358214de92" version="1">Invoque un Futh.</content>
+	<content contentuid="hd9eeb157g5f64g4dadga080g6e5552e70a8c" version="1">Invoqué de Futh</content>
+	<content contentuid="hea2fd679gb8f5g474cgb34dg7c22bf7ff27f" version="1">Invoquer une Lyre</content>
+	<content contentuid="h6cc10b60gabb6g4ccfga866gd31e4653787d" version="1">Invoque une Lyre.</content>
+	<content contentuid="h7d6bf66cgd8c7g4dadga81eg00005d681be0" version="1">Lyre invoquée</content>
+	<content contentuid="hcfbdceedgfcd4g47e6g9172gb3af17a47bf6" version="1">Invoquer un Violon</content>
+	<content contentuid="h504c7480gd0d2g443bg93ffg9f7daf5d7ae7" version="1">Invoque un Violon.</content>
+	<content contentuid="h105a7e87gc33eg450ag811eg1ac07a488f89" version="1">Violon convoqué</content>
+
+<!-- Doc CL_Interrupts.loca -->
+	<content contentuid="h97f8c3dcg1cd9g419cgb518g0040d95d529d" version="1">Rupture</content>
+	<content contentuid="h603bf287g7bf2g4653ga30fgb6af1a84ee58" version="1">Lorsque vous effectuez une &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Frappe à mains nues&lt;/LSTag&gt; contre un adversaire, vous pouvez dépenser 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; pour les laisser sous les effets de &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; pendant 9 tours.</content>
+
+<!-- Doc CL_Items.loca -->
+	<content contentuid="h685376d9g6551g45ebgae2ag0a174dbfa69f" version="1">Une ancienne lame rouillée, elle est à vos côtés depuis aussi longtemps que vous vous en souvenez.Vous voyez les lettres M.M.gravé sur le pommeau.</content>
+	<content contentuid="hfe18eb17g59bdg4775g9075ga19f49080baf" version="1">Lame d'inhumation ancienne</content>
+	<content contentuid="h9b8f317cgbfcdg4d77g8dcfgbca848fdd9c4" version="1">Casque ancien</content>
+	<content contentuid="hfaafcf46g583dg4a61gaf8bge3c7c368ebf5" version="1">Vous vous êtes réveillé en portant ce casque, il vous semble familier et sous la visière, vous voyez les initiales M.M.</content>
 
 <!-- Doc PreRelease CL_OneDnD_DeflectAttacks.loca -->
 	<!-- CL_Passive_OneDnD_DeflectAttacks -->
@@ -37,6 +68,32 @@
 	<content contentuid="h8902d741ac1a40dba37d677bf13a346cff05" version="1">Utilisez vos réflexes pour rediriger une attaque avec une arme vers votre attaquant.</content>
 	<!-- CL_Projectile_OneDnD_DeflectAttacks -->
 	<content contentuid="h45778f72253e4a2993cdf3acd197f8503cb0" version="1">Redirigez une attaque avec une arme vers votre attaquant.</content>
+
+<!-- Doc CL_OneDnD_InstinctivePounce.loca -->
+	<content contentuid="hd545fca6ee8e42a596c140d008fa8fe888e1" version="1">Bond instinctif</content>
+	<content contentuid="h759b8ff41f0245c2a603e9303a1d7b9e5dea" version="1">Dans le cadre de l'action bonus que vous effectuez pour accéder à votre &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, vous pouvez vous déplacer jusqu'à la moitié de votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse&lt;. ;/LSTag&gt;. Vous pouvez &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Sauter&lt;/LSTag&gt; une fois ce tour sans consommer une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; supplémentaire.</content>
+
+<!-- Doc CL_OneDnD_Invocations.loca -->
+	<content contentuid="he797db34g1067g4f6ag856fg724a79b73b3e" version="1">Saut d'un autre monde</content>
+	<content contentuid="hee9d290bgffa7g44f3g88c1g22ff573c0248" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] en ne dépensant que [2] de mouvement. &lt;br&gt; &lt;br&gt;Au Niveau 5, un Occultiste lévitera à la place.</content>
+	<content contentuid="h46b856cdg19c8g4078gbe8cg6479d200e086" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] long et [2] haut en ne dépensant que [3] de mouvement.</content>
+	<content contentuid="hd0e2de34g392fg492bgb37egf64249b78fe8" version="1">Lévitation d'un autre monde</content>
+	<content contentuid="hcc7fce92gf73eg4256g94e6g64df00712c41" version="1">Une fois à chacun de vos tours, vous pouvez léviter jusqu'à [1] fr distance et [2] de haut en ne dépensant que [3] de mouvement.</content>
+
+	<content contentuid="h75ba11c8g2d28g4730gb95dg34d60aae3276" version="1">Leçons des Premières: Légèrement blindés</content>
+
+	<content contentuid="h5c219d74gb398g48feg9f42g672b1ad54d56" version="1">Leçons des Premières: Musicien</content>  
+	<content contentuid="hc90d87d7g7c2bg4f03g8291g72d38c20204c" version="1">Vous gagnez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt;, et pouvez &lt;LSTag Type="Spell" Tooltip="CL_Shout_Doot"&gt;invoquer par magie un instrument de votre choix&lt;/LSTag&gt;.</content>
+
+<!-- Doc CL_OneDnD_MagicalCunning.loca -->
+	<content contentuid="he3994e0age8a9g4a2aga110gbd18834d2a86" version="1">Ruse magique</content>
+	<content contentuid="h937f0745ge0c7g4551g92b6g296afa8d73a1" version="1">Réapprovisionnez la moitié de vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; (arrondi au supérieur) en dehors du combat. Si vous êtes un &lt;LSTag Type="Passive" Tooltip="CL_Passive_OneDnD_EldritchMaster"&gt;Maître Occultiste&lt;/LSTag&gt;, reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; à la place.</content>
+
+	<content contentuid="hdaccd32fg87aeg485cgb693g4798f117dab1" version="1">Maitre Occultiste</content>
+	<content contentuid="h2f3a6fcdgcd22g4a11ga776g220c277183c5" version="1">Lorsque vous utilisez votre &lt;LSTag Type="Spell" Tooltip="CL_Shout_OneDnD_MagicalCunning"&gt;Fonction de Ruse magique&lt;/LSTag&gt;, vous reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts de Occultiste&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h3447775cga1e3g40cdgbec2g82df09b818fd" version="1">Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
+	<content contentuid="hb5964197g407eg4b94ga512g1ebc7258729c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
 
 <!-- Doc PreRelease CL_OneDnD_MartialArts.loca -->
 	<!-- Monk: Level 1 -->
@@ -85,64 +142,6 @@
 	<!-- CL_Shout_OneDnD_StepOfTheWind -->
 	<content contentuid="h3ad7aa4d82a0423fb838e87f1db56bc24170" version="1">Déplacement aérien</content>
 	<content contentuid="hc3b19cbb1a9e4d03b3decaadac6b9e3d3ad5" version="1">Vous concentrer sur la vitesse. Votre &lt;br&gt;&lt;Br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de mouvement&lt;/LSTag&gt; est doublé. Vous vous déplacez sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaque d'opportunité&lt;/LSTag&gt;. Sauter ne nécessite plus une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; et la distance est doublée.</content>
-
-<!-- Doc CL_Doot_Utils.loca -->
-	<content contentuid="h32a6c28cga0b5g48e6gbc8ag858ce837bc13" version="1">Invoquer un instrument</content>
-	<content contentuid="hd91a9d03g444dg4432g8259g23f1042a02d7" version="1">Invoquez un instrument à votre main. &lt;br&gt;&lt;br&gt;Veux avez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt; tant que l'instrument est équipé.Vous ne pouvez en avoir qu'un à la fois.</content>
-	<content contentuid="ha54bfb6fgebe7g4528g96d8gd397f5e6f0ef" version="1">Instrument invoqué</content>
-	<content contentuid="h859768f9g48d8g4b86gb60agfb0580745418" version="1">Un instrument invoquable accordé par Tom Cardy.Sa surface crépite avec une énergie interdimensionnelle.</content>
-	<content contentuid="hcacffa4bg58dfg4a01g90b8g657a0cb7bd40" version="1">Invoquer un Tambour</content>
-	<content contentuid="h8a059456g07a6g4b18ga3dag6ce609973408" version="1">Invoque un Tambour.</content>
-	<content contentuid="he8bc074cgf3dbg42f8gac0cgb371ea5fa621" version="1">Tambour invoqué</content>
-	<content contentuid="h6d8daffaga54ag41f0g8392g5acf35a82507" version="1">Invoquer une Flûte</content>
-	<content contentuid="h6ee6f084g4621g4963g897dgc8676d170116" version="1">Invoque une Flûte.</content>
-	<content contentuid="h602d0691g4b46g47cegb5c7g67495a557115" version="1">Flûte invoquée</content>
-	<content contentuid="hca73b951g41a9g4022gbf86gaa1dbbcf442a" version="1">Invoquer du Futh</content>
-	<content contentuid="h7df4122dgc0f8g4103g8898gc2358214de92" version="1">Invoque un Futh.</content>
-	<content contentuid="hd9eeb157g5f64g4dadga080g6e5552e70a8c" version="1">Invoqué de Futh</content>
-	<content contentuid="hea2fd679gb8f5g474cgb34dg7c22bf7ff27f" version="1">Invoquer une Lyre</content>
-	<content contentuid="h6cc10b60gabb6g4ccfga866gd31e4653787d" version="1">Invoque une Lyre.</content>
-	<content contentuid="h7d6bf66cgd8c7g4dadga81eg00005d681be0" version="1">Lyre invoquée</content>
-	<content contentuid="hcfbdceedgfcd4g47e6g9172gb3af17a47bf6" version="1">Invoquer un Violon</content>
-	<content contentuid="h504c7480gd0d2g443bg93ffg9f7daf5d7ae7" version="1">Invoque un Violon.</content>
-	<content contentuid="h105a7e87gc33eg450ag811eg1ac07a488f89" version="1">Violon convoqué</content>
-
-<!-- Doc CL_Interrupts.loca -->
-	<content contentuid="h97f8c3dcg1cd9g419cgb518g0040d95d529d" version="1">Rupture</content>
-	<content contentuid="h603bf287g7bf2g4653ga30fgb6af1a84ee58" version="1">Lorsque vous effectuez une &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Frappe à mains nues&lt;/LSTag&gt; contre un adversaire, vous pouvez dépenser 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; pour les laisser sous les effets de &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; pendant 9 tours.</content>
-
-<!-- Doc CL_Items.loca -->
-	<content contentuid="h685376d9g6551g45ebgae2ag0a174dbfa69f" version="1">Une ancienne lame rouillée, elle est à vos côtés depuis aussi longtemps que vous vous en souvenez.Vous voyez les lettres M.M.gravé sur le pommeau.</content>
-	<content contentuid="hfe18eb17g59bdg4775g9075ga19f49080baf" version="1">Lame d'inhumation ancienne</content>
-	<content contentuid="h9b8f317cgbfcdg4d77g8dcfgbca848fdd9c4" version="1">Casque ancien</content>
-	<content contentuid="hfaafcf46g583dg4a61gaf8bge3c7c368ebf5" version="1">Vous vous êtes réveillé en portant ce casque, il vous semble familier et sous la visière, vous voyez les initiales M.M.</content>
-
-<!-- Doc CL_OneDnD_InstinctivePounce.loca -->
-	<content contentuid="hd545fca6ee8e42a596c140d008fa8fe888e1" version="1">Bond instinctif</content>
-	<content contentuid="h759b8ff41f0245c2a603e9303a1d7b9e5dea" version="1">Dans le cadre de l'action bonus que vous effectuez pour accéder à votre &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, vous pouvez vous déplacer jusqu'à la moitié de votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse&lt;. ;/LSTag&gt;. Vous pouvez &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Sauter&lt;/LSTag&gt; une fois ce tour sans consommer une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; supplémentaire.</content>
-
-<!-- Doc CL_OneDnD_Invocations.loca -->
-	<content contentuid="he797db34g1067g4f6ag856fg724a79b73b3e" version="1">Saut d'un autre monde</content>
-	<content contentuid="hee9d290bgffa7g44f3g88c1g22ff573c0248" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] en ne dépensant que [2] de mouvement. &lt;br&gt; &lt;br&gt;Au Niveau 5, un Occultiste lévitera à la place.</content>
-	<content contentuid="h46b856cdg19c8g4078gbe8cg6479d200e086" version="1">Une fois à chacun de vos tours, vous pouvez sauter à [1] long et [2] haut en ne dépensant que [3] de mouvement.</content>
-	<content contentuid="hd0e2de34g392fg492bgb37egf64249b78fe8" version="1">Lévitation d'un autre monde</content>
-	<content contentuid="hcc7fce92gf73eg4256g94e6g64df00712c41" version="1">Une fois à chacun de vos tours, vous pouvez léviter jusqu'à [1] fr distance et [2] de haut en ne dépensant que [3] de mouvement.</content>
-
-	<content contentuid="h75ba11c8g2d28g4730gb95dg34d60aae3276" version="1">Leçons des Premières: Légèrement blindés</content>
-
-	<content contentuid="h5c219d74gb398g48feg9f42g672b1ad54d56" version="1">Leçons des Premières: Musicien</content>  
-	<content contentuid="hc90d87d7g7c2bg4f03g8291g72d38c20204c" version="1">Vous gagnez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt;, et pouvez &lt;LSTag Type="Spell" Tooltip="CL_Shout_Doot"&gt;invoquer par magie un instrument de votre choix&lt;/LSTag&gt;.</content>
-
-
-<!-- Doc CL_OneDnD_MagicalCunning.loca -->
-	<content contentuid="he3994e0age8a9g4a2aga110gbd18834d2a86" version="1">Ruse magique</content>
-	<content contentuid="h937f0745ge0c7g4551g92b6g296afa8d73a1" version="1">Réapprovisionnez la moitié de vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; (arrondi au supérieur) en dehors du combat. Si vous êtes un &lt;LSTag Type="Passive" Tooltip="CL_Passive_OneDnD_EldritchMaster"&gt;Maître Occultiste&lt;/LSTag&gt;, reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;emplacements de sorts Occultiste&lt;/LSTag&gt; à la place.</content>
-
-	<content contentuid="hdaccd32fg87aeg485cgb693g4798f117dab1" version="1">Maitre Occultiste</content>
-	<content contentuid="h2f3a6fcdgcd22g4a11ga776g220c277183c5" version="1">Lorsque vous utilisez votre &lt;LSTag Type="Spell" Tooltip="CL_Shout_OneDnD_MagicalCunning"&gt;Fonction de Ruse magique&lt;/LSTag&gt;, vous reconstituez tous vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts de Occultiste&lt;/LSTag&gt;.</content>
-
-	<content contentuid="h3447775cga1e3g40cdgbec2g82df09b818fd" version="1">Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
-	<content contentuid="hb5964197g407eg4b94ga512g1ebc7258729c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Tous les &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacements de sorts Occultiste&lt;/LSTag&gt; doivent être dépensés.</content>
 
 <!-- Doc CL_OneDnd_PactBlade.loca -->
 	<content contentuid="hd8d71343g6d98g4099g8a53g093b6242d2d5" version="1">Arme du Pacte de Liaison : Arme principale de mélée</content>
@@ -202,8 +201,21 @@
 	<content contentuid="hc2388340ged04g440fg83fegbe0dafeac6e2" version="1">Lancez un grain de lumière sur une cible. Jusqu'à la fin de votre prochain tour, la cible émet une faible lumière dans un rayon de [1] et ne peut pas bénéficier de l'état  &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
 	<content contentuid="h1df3df79g481dg4a14g95ccga98e09876c4f" version="1">Émet une faible lumière dans un rayon de [1] et ne peut pas bénéficier de l'état &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
 
+<!-- Doc CL_OneDnD_Wizard.loca -->
+	<content contentuid="h3367e79e51974558ab25112d00d805e280g2" version="1">Ecole</content>
+	<content contentuid="h324bf00e771b46b9ad0f5a289443f5c85dg7" version="1">Tout en étudiant la magie, vous vous êtes également spécialisé dans un domaine d’études académique. &lt;br&gt;Choisissez l'une des compétences suivantes que vous maîtrisez : Arcanes, Histoire, Nature ou Religion. Vous possédez une expertise dans la compétence choisie.</content>
+	<content contentuid="hbebb173e1cc84698b3f30045b16d71a1e0gg" version="1">Savant d'Abjuration</content>
+	<content contentuid="hdd568159299e4117a8250535e2554a706478" version="1">Savant de Conjuration</content>
+	<content contentuid="h7396088086cf445bbf8dc6a8e9841efd7566" version="1">Savant de Divination</content>
+	<content contentuid="h6b0af769fdb5409282baf3071b22c2f317g1" version="1">Savant d'Enchantement</content>
+	<content contentuid="hde8bebdebd95409ea13b39610c0e50c78f86" version="1">Savant d'Evocation</content>
+	<content contentuid="h412ea8b925eb4e5aa8c778cc8367ebba9980" version="1">Savant d'Illusion</content>
+	<content contentuid="h1b11dab27a674b378515b18778e31de49324" version="1">Savant de Necromancie</content>
+	<content contentuid="h4e8d483919cb4c91ad6686f93faa52333305" version="1">Savant de Transmutation</content>
+	<content contentuid="h505b48a7de8840119e89bd90fb3bfbdc4ed4" version="1">Votre spécialisation dans une école de sorts arcaniques vous permet d'apprendre de la magie supplémentaire dans la discipline de votre choix. Choisissez un sort supplémentaire à ajouter à votre grimoire.</content>
+	
 <!-- Doc CL_Pact_Utils.loca -->
-	<content contentuid="h0618b761g0c55g433ega275g4afb455db063" version="1">Désélectionnez l’attribut de la Lame du Pacte de votre choix.</content>
+	<content contentuid="h0618b761g0c55g433ega275g4afb455db063" version="1">Désélectionnez l’attribut de lame du Pacte que vous avez choisi.</content>
 	<content contentuid="h6d72bd66g82deg4e26gb21eg85e85cdea1b3" version="1">Révoquer un attribut du pacte</content>
 	<content contentuid="h1dd2a01ag5bffg451aga90egeb608b2b1c4f" version="1">Attribut du Pacte</content>
 	<content contentuid="h0e6cc8e3ge38fg452cg8eefg20b247e52693" version="1">Vous pouvez sélectionner un attribut à utiliser pour votre Lame du Pacte.</content>
@@ -219,6 +231,33 @@
 	<content contentuid="h22386c7cg0c82g49e1gb319gc8f0802f1d07" version="1">Vous sélectionnez l'Intelligence comme attribut à utiliser pour votre lame de pacte.</content>
 	<content contentuid="hb63f25c0ga078g4399gaa2eg870d9896870a" version="1">Attribut du Pacte(Sagesse)</content>
 	<content contentuid="h98aa09c6g3628g44ebg94c6g2193d25a7c4e" version="1">Vous sélectionnez la Sagesse comme attribut à utiliser pour votre Lame du Pacte.</content>
+
+<!-- Doc CL_Passives.loca -->
+	<content contentuid="hd03949f2gf5ddg4995ga4b2ge6c19ada1cec" version="1">Aura Magique (Avantage)</content>
+	<content contentuid="h4cd1b29bg2b68g4edag93eag17903dc2d060" version="1">Aura Magique (Soin)</content>
+	<content contentuid="h3ac92584ga7afg46d7ga6fdg1c248c746966" version="1">Aura Magique (Dégâts)</content>
+	<content contentuid="he617ad50g9705g4074gb9a5ge11b1fb04aec" version="1">Communication avec les animaux</content>
+	<content contentuid="haa2a6bafg712dg477egb241gbcdcd360b364" version="1">Vous pouvez converser avec des animaux.</content>
+	
+<!-- CL27 - NellsRelo Mod Data-->
+	<content contentuid="h94ef940dg611bg41a8g84acgfcc9ccff1c7c" version="1">Cadre squelettique</content>
+	<content contentuid="h2da4d06eg9f70g4d9bga1ebg40456caad359" version="1">En tant que squelette, le Poison n'a aucun effet sur vous, bien que vous soyez vulnérable aux dégâts contondants.</content>
+	<content contentuid="h5bcb3c31gc511g4bc3gbf7bgde64d29ab296" version="1">Bénédiction de la Reine corneille</content>
+	<content contentuid="h6dc6d54fgbbdeg4b6cgadc8g3922b34328e3" version="1">Vous gagnez une résistance à tous les dégâts jusqu'au début de votre prochain tour après avoir utilisé Bénédiction de la Reine corneille.</content>
+	<content contentuid="h944f4b4fg2729g407eg938bg212cef76a9ea" version="1">Invocation immatérielle.</content><!-- CL_IndestructibleSummon_AI_Ignore -->
+	<content contentuid="h8650857ag3b36g4bfdg8270g8b1ad613d9df" version="1">Coup de sort</content>
+	<content contentuid="h310edba2gc8a3g4ed1g95f5g4dc2692eb452" version="1">Ce personnage est capable d'ajouter son modificateur de Sagesse pour les attaques avec des armes de mêlée et à distance, et inflige 1d4 dégâts de Force supplémentaires.</content>
+	<content contentuid="h081b6aeag04c8g4b18gac40gc2d7dd3cb6c8" version="1">Manteau de Mort</content> 
+	<content contentuid="hd6ca677dgac1dg44c8g8217g1991c20f616f" version="1">Votre aura nécrotique devient suffisamment épaisse pour blesser les ennemis qui vous frappent.</content>
+	<content contentuid="haecff2fbgf630g478cga6d5g0fe1e73b03e1" version="1">Arme Maudite</content> 
+	<content contentuid="hd22bba2egdc74g4118ga101g1176e4e6a351" version="1">Gagnez des dégâts nécrotiques égaux à votre modificateur de Sagesse sur vos attaques de mêlée.</content>
+	<content contentuid="hcd3a67eag4adbg4153g9ce9g822e5cfd65d5" version="1">Nécrose</content> 
+	<content contentuid="ha6656f5bg2442g4b02g96e0g650352b38d7f" version="1">Serment de la Couronne</content>
+	<content contentuid="h66810eb1g38f3g40f4g8aedgecb83ad4cf7e" version="1">Le serment de la Couronne est prêté aux idéaux de la civilisation, qu'il s'agisse de l'esprit d'une nation ou de la fidélité à un souverain. Les Chevaliers qui prêtent ce serment se consacrent au service de la société, et en particulier des lois justes qui maintiennent la cohésion de la société.
+
+	Ces Paladins sont les gardiens vigilants des murs, luttant contre les marées chaotiques de la barbarie qui menacent de détruire tout ce que la civilisation a construit, et sont communément appelés Gardiens, Exemplaires ou Sentinelles. Souvent, les Chevaliers qui prêtent ce serment sont membres d'un ordre de chevalerie au service d'une nation ou d'un souverain, et prêtent leur serment dans le cadre de leur admission dans les rangs de l'ordre.</content>  <content contentuid="hc8873c54gadb5g48edgb75dg400b616d6168" version="1">Oath of the Crown Tenets</content>
+	<content contentuid="h684b40b3g24e0g4c7fg9860g975aef23dd36" version="1">Les principes du serment de la Couronne sont souvent fixés par le souverain auquel son serment est prêté, mais mettent généralement l'accent sur les principes suivants :&lt;br&gt;&lt;br&gt;Loi. La Loi est primordiale. C'est le mortier qui maintient ensemble les pierres de la civilisation, et il doit être respecté.&lt;br&gt;&lt;br&gt;Loyauté. Votre parole est votre lien. Sans loyauté, les serments et les lois n'ont aucun sens.&lt;br&gt;&lt;br&gt;Courage. Vous devez être prêt à faire ce qui doit être fait pour le bien de l’ordre, même face à des obstacles insurmontables. Si vous n’agissez pas, qui le fera ?&lt;br&gt;&lt;br&gt;Responsabilité. Vous devez faire face aux conséquences de vos actes et vous êtes responsable de remplir vos devoirs et obligations.</content>
+	<content contentuid="h987c5b0dg7b16g4a07gacd4g5ac78e018cb7" version="2">Ne pas respecter leurs principes amènera le paladin à abandonner son serment et à devenir quelque chose de très différent.</content>
 
 <!-- Doc CL_Passives_Advantage.loca -->
 	<content contentuid="hd03b39b5a9204059b60fd526febf7e0bc4g1" version="1">Avantage contre le Charme</content>
@@ -515,32 +554,6 @@
 	<content contentuid="h23719014gb55dg4f20g9f31gbf57fc9ce27e" version="1">Vous êtes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégats de Force, et subissez le double des dégats des attaques de Force d'origine Non-Magique.</content>
 	<content contentuid="hd240cf6fg102cg4b64g9b9dgf0811047d3ec" version="1">Vulnérabilité Psychique (Non-Magique)</content>
 	<content contentuid="hc7150afbg2ca5g41f9g8538gadf10ad0c96f" version="1">Vous êtes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégats Psychiques, et subissez le double des dégats des attaques Psychiques d'origine Non-Magique.</content>
-
-<!-- Doc CL_Passives.loca -->
-	<content contentuid="hd03949f2gf5ddg4995ga4b2ge6c19ada1cec" version="1">Aura Magique (Avantage)</content>
-	<content contentuid="h4cd1b29bg2b68g4edag93eag17903dc2d060" version="1">Aura Magique (Soin)</content>
-	<content contentuid="h3ac92584ga7afg46d7ga6fdg1c248c746966" version="1">Aura Magique (Dégâts)</content>
-	<content contentuid="he617ad50g9705g4074gb9a5ge11b1fb04aec" version="1">Communication avec les animaux</content>
-	<content contentuid="haa2a6bafg712dg477egb241gbcdcd360b364" version="1">Vous pouvez converser avec des animaux.</content>
-	<!-- CL27 - NellsRelo Mod Data-->
-	<content contentuid="h94ef940dg611bg41a8g84acgfcc9ccff1c7c" version="1">Cadre squelettique</content>
-	<content contentuid="h2da4d06eg9f70g4d9bga1ebg40456caad359" version="1">En tant que squelette, le Poison n'a aucun effet sur vous, bien que vous soyez vulnérable aux dégâts contondants.</content>
-	<content contentuid="h5bcb3c31gc511g4bc3gbf7bgde64d29ab296" version="1">Bénédiction de la Reine corneille</content>
-	<content contentuid="h6dc6d54fgbbdeg4b6cgadc8g3922b34328e3" version="1">Vous gagnez une résistance à tous les dégâts jusqu'au début de votre prochain tour après avoir utilisé Bénédiction de la Reine corneille.</content>
-	<content contentuid="h944f4b4fg2729g407eg938bg212cef76a9ea" version="1">Invocation immatérielle.</content><!-- CL_IndestructibleSummon_AI_Ignore -->
-	<content contentuid="h8650857ag3b36g4bfdg8270g8b1ad613d9df" version="1">Coup de sort</content>
-	<content contentuid="h310edba2gc8a3g4ed1g95f5g4dc2692eb452" version="1">Ce personnage est capable d'ajouter son modificateur de Sagesse pour les attaques avec des armes de mêlée et à distance, et inflige 1d4 dégâts de Force supplémentaires.</content>
-	<content contentuid="h081b6aeag04c8g4b18gac40gc2d7dd3cb6c8" version="1">Manteau de Mort</content> 
-	<content contentuid="hd6ca677dgac1dg44c8g8217g1991c20f616f" version="1">Votre aura nécrotique devient suffisamment épaisse pour blesser les ennemis qui vous frappent.</content>
-	<content contentuid="haecff2fbgf630g478cga6d5g0fe1e73b03e1" version="1">Arme Maudite</content> 
-	<content contentuid="hd22bba2egdc74g4118ga101g1176e4e6a351" version="1">Gagnez des dégâts nécrotiques égaux à votre modificateur de Sagesse sur vos attaques de mêlée.</content>
-	<content contentuid="hcd3a67eag4adbg4153g9ce9g822e5cfd65d5" version="1">Nécrose</content> 
-	<content contentuid="ha6656f5bg2442g4b02g96e0g650352b38d7f" version="1">Serment de la Couronne</content>
-	<content contentuid="h66810eb1g38f3g40f4g8aedgecb83ad4cf7e" version="1">Le serment de la Couronne est prêté aux idéaux de la civilisation, qu'il s'agisse de l'esprit d'une nation ou de la fidélité à un souverain. Les Chevaliers qui prêtent ce serment se consacrent au service de la société, et en particulier des lois justes qui maintiennent la cohésion de la société.
-
-	Ces Paladins sont les gardiens vigilants des murs, luttant contre les marées chaotiques de la barbarie qui menacent de détruire tout ce que la civilisation a construit, et sont communément appelés Gardiens, Exemplaires ou Sentinelles. Souvent, les Chevaliers qui prêtent ce serment sont membres d'un ordre de chevalerie au service d'une nation ou d'un souverain, et prêtent leur serment dans le cadre de leur admission dans les rangs de l'ordre.</content>  <content contentuid="hc8873c54gadb5g48edgb75dg400b616d6168" version="1">Oath of the Crown Tenets</content>
-	<content contentuid="h684b40b3g24e0g4c7fg9860g975aef23dd36" version="1">Les principes du serment de la Couronne sont souvent fixés par le souverain auquel son serment est prêté, mais mettent généralement l'accent sur les principes suivants :&lt;br&gt;&lt;br&gt;Loi. La Loi est primordiale. C'est le mortier qui maintient ensemble les pierres de la civilisation, et il doit être respecté.&lt;br&gt;&lt;br&gt;Loyauté. Votre parole est votre lien. Sans loyauté, les serments et les lois n'ont aucun sens.&lt;br&gt;&lt;br&gt;Courage. Vous devez être prêt à faire ce qui doit être fait pour le bien de l’ordre, même face à des obstacles insurmontables. Si vous n’agissez pas, qui le fera ?&lt;br&gt;&lt;br&gt;Responsabilité. Vous devez faire face aux conséquences de vos actes et vous êtes responsable de remplir vos devoirs et obligations.</content>
-	<content contentuid="h987c5b0dg7b16g4a07gacd4g5ac78e018cb7" version="2">Ne pas respecter leurs principes amènera le paladin à abandonner son serment et à devenir quelque chose de très différent.</content>
 
 <!-- Doc CL_Races.loca -->
 	<content contentuid="h976d56ddgba92g413agbd32gd85dd2551d8f" version="1">Shadar-Kai</content>
@@ -911,8 +924,8 @@
 	Les moines de cette tradition sont capables d'utiliser leurs &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Points de Ki&lt;/LSTag&gt; pour créer des effets similaires aux sorts d'illusion traditionnels en utilisant des techniques de respiration contrôlée.</content>
 
 <!-- Doc ActionRessources - CL_ChannelAura.loca -->
-	<content contentuid="h9a045badg24cag489bg9d6bg6014e7b4f032" version="1">Récupération de Rage</content>
-	<content contentuid="h8def66aegfe9eg460fgb0c8ga311484f0fa0" version="1">Vous récupérez une utilisation de votre &lt;LSTag Type="ActionResource" Tooltip="Rage"&gt;Rage&lt;/LSTag&gt; après un &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt; et toutes les utilisations après un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h1a3f0207g7ee4g49bdg8c72g235fb5a8483c" version="1">Canaliser une Aura</content>
+	<content contentuid="hbe5e9d35g605fg402fga8a3g73a0e0aa9985" version="1">Le nombre de fois où vous pouvez canaliser de la magie brute dans une aura.</content>
 
 <!-- Doc ActionRessources - CL_PsionicEnergy.loca -->
 	<content contentuid="hddd2bdb2g7ce9g4e39g9e29g98c17df3ac68" version="1">Dés d'Energie Psionique</content>
