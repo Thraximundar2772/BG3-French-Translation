@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h95482012g6105g49d0g8e0ag953c1a6c8e7e" version="1">Charge de Moulinet</content>
+	<content contentuid="hdbf50659g238ag45e5gbc8ag0678cbd4b00d" version="1">Charge de mouvement de Moulinet</content>
+	<content contentuid="hc8099edbgad1eg45aegb11dgb218cbe91a99" version="1">Mouvement bonus de Moulinet</content>
+	<content contentuid="h7a594827gc106g4723g898fg34075cdae392" version="1">Lorsque vous prenez l'action Attaquer à votre tour, votre vitesse augmente de [1] jusqu'à la fin de votre tour, et si une attaque avec une arme que vous réalisez avec cette action touche une créature, vous pouvez également utiliser une des figures suivantes. Vous ne pouvez utilisez qu'une seule option de Moulinet par tour.</content>
+	<content contentuid="ha0d1571cg4bbcg4b1eg9007gb86e2ac507d2" version="1">En prenant l'action d'attaquer, votre vitesse de déplacement augmente de [1] jusqu'à la fin du tour.</content>
+	<content contentuid="h26d4e352gb9c2g4320g886dgdcbde9207221" version="1">Moulinet défensif</content>
+	<content contentuid="ha731bb34g95c1g430dga2e8g1c43c4553a2a" version="1">Vous pouvez dépenser une utilisation d'Inspiration bardique afin que la lame inflige [1] dégâts supplémentaires à la créature que vous venez de toucher. Augmentez votre CA de [2] jusqu'au début de votre prochain tour.</content>
+	<content contentuid="hab98b9c9gb110g44d7g999fge225a5ddf97f" version="1">Moulinez votre arme de façon défensive, infligez [1] dégâts supplémentaires à la créature et augmentez votre classe d'armure de [2] jusqu'au début de votre prochain tour.</content>
+	<content contentuid="h5c59f094g6340g4898g9644gbc1e12b0a0d6" version="1">Moulinet mobile</content>
+	<content contentuid="h28fc1113g81c0g4542g94a4gecae18643627" version="1">Vous pouvez dépenser une utilisation d'Inspiration bardique pour que votre arme inflige [1] dégâts supplémentaires à la créature que vous venez de toucher. Vous pouvez également repousser la cible de [2] de vous puis si vous le souhaitez vous &lt;LSTag Type="Spell" Tooltip="Target_BladeFlourish_Mobile_FollowUp"&gt;téleporter&lt;/LSTag&gt; jusqu'à [3] de la cible.</content>
+	<content contentuid="h4905fa9eg341dg480cgba18ga77f22252a89" version="1">Moulinez rapidement votre arme en attaquant votre cible, infligez [1] dégâts supplémentaires à la créature et repoussant la cible de [2], puis vous pouvez immédiatement utiliser votre réaction pour vous &lt;LSTag Type="Spell" Tooltip="Target_BladeFlourish_Mobile_FollowUp"&gt;téleporter&lt;/LSTag&gt; jusqu'à [3] de la cible.</content>
+	<content contentuid="h170eeedfgd85ag45ddg96dfgd0e959088799" version="1">Moulinet tranchant</content>
+	<content contentuid="h7846f611g6a60g4c5cg9c3bgacd769c7e625" version="1">Vous pouvez dépenser une utilisation d'Inspiration bardique pour que votre arme inflige [1] dégâts supplémentaires à la créature que vous venez de toucher et à une autre créature de votre choix que vous pouvez voir et qui est située à [2] ou moins de vous.</content>
+	<content contentuid="h26f02f21g1e8ag46ddg8473g5ad6dbeb8dbb" version="1">Moulinez votre arme de façon imprévisible, infligez [1] dégâts supplémentaires à la créature, et vous permettant d'immédiatement infliger [1] dégâts à une autre créature à [2] de vous.</content>
+	<content contentuid="h49c664dag3917g4fb8gbe09g938679fd7ed0" version="1">Infligez [1] dégâts à la victime de votre moulinet imprévisible.</content>
+	<content contentuid="h3e6a32cbg2549g4287gbe20g3a2a0e53eb0c" version="1">Moulinet (Lancer)</content>
+	<content contentuid="h9ca3fedagd58eg4e8dg948cge33a5189aa86" version="1">Moulinet défensif (Lancer)</content>
+	<content contentuid="hdae114b8gf358g4dbag8becg78c28480a326" version="1">Moulinet mobile (Lancer)</content>
+	<content contentuid="he3f8a2ecg298fg4f7eg9ecdgb17e1c325dca" version="1">Moulinet tranchant (Lancer)</content>
+	<content contentuid="h3fb84037gedf9g4e9egb646g694814b4e278" version="1">Moulinet (Attaques à mains nues)</content>
+	<content contentuid="h4007251bg3e47g4c86g8510ge8681d14e1c7" version="1">Moulinet défensif (Attaques à mains nues)</content>
+	<content contentuid="hee23fdc4gdff3g4c88g9e14g7d27e4b2f8ff" version="1">Moulinet mobile (Attaques à mains nues)</content>
+	<content contentuid="hf572bed0g9bb2g42aegb95ag496262af2d21" version="1">Moulinet tranchant (Attaques à mains nues)</content>
+	<content contentuid="h9f10029age2ceg47dfgb5b0g45ee3593ddda" version="1">Moulinet mobile Enchaînement Prêt !</content>
+	<content contentuid="hf9e90016ge417g4d2ag862dga32392a33b8b" version="1">Moulinet tranchant Enchaînement Prêt !</content>
+</contentList>
