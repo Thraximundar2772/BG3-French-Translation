@@ -2,28 +2,14 @@
 <contentList>
 	<content contentuid="he944165eg03f9g4e76gb88fg3be59edbccaf" version="1">Domaine de Force</content>
 	<content contentuid="h90775d77g14d8g47cfg9adegf9603187f04b" version="1">Force</content>
-	<content contentuid="h1024f17cgdddeg499egb6f3gdcd4fad84d" version="1">Il revient à Rhonas d'inculquer cet enseignement à ceux
-		qui entreront dans l'au-delà, mais pour lui, les mots.
-		n'ont pas d'importance. La force ne s'enseigne pas.
-		Elle doit être développée par la pratique et l'entraînement.
-		Rhonas démontre ses enseignements par son exemple,
-		plutôt qu'en donnant à ses élèves un enseignement académique.
-		Il invite les habitants de Naktamun à se tenir près d'
-		Hekma et à le regarder s'élancer dans le désert pour combattre
-		les pires horreurs. Il les encourage à observer sa force indomptable,
-		car même s'ils ne l'égaleront jamais, ils peuvent aspirer à la vaincre.
-		Il les encourage à observer sa force indomptable, car même s'ils ne
-		l'égaleront jamais, ils peuvent aspirer à l'imiter. Il les invite
-		à scruter chacun de ses mouvements et à mettre en pratique ce qu'ils voient.</content>
+	<content contentuid="h1024f17cgdddeg499egb6f3gdcd4fad84d" version="1">Il revient à Rhonas d'inculquer cet enseignement à ceux qui entreront dans l'au-delà, mais pour lui, les mots, n'ont pas d'importance. La force ne s'enseigne pas. Elle doit être développée par la pratique et l'entraînement. Il les encourage à observer sa force indomptable, car même s'ils ne l'égaleront jamais, ils peuvent aspirer à l'imiter. Il les invite à scruter chacun de ses mouvements et à mettre en pratique ce qu'ils voient.</content>
 	<content contentuid="h71214003g39c6g44efg9b62gfd4c28753a8d" version="1">Fort de la force</content>
 	<content contentuid="hf70ae5e5g8d00g4309gb468gf10973bb4741" version="1">Conduit Divin : Le trait de force</content>
-	<content contentuid="he675f37fge7a8g4c5egb49fg3f8a4b4e10ec" version="1">Au 2ème niveau, vous pouvez utiliser votre Charge de Conduit Divin pour améliorer votre force physique. 
-	Lorsque vous faites un jet d'attaque, un test d'aptitude ou un jet de sauvegarde en utilisant la Force, vous pouvez utiliser votre Charge de Conduit Divin pour gagner un bonus de +10 
-	au jet. </content>
+	<content contentuid="he675f37fge7a8g4c5egb49fg3f8a4b4e10ec" version="1">Au 2ème niveau, vous pouvez utiliser votre Charge de Conduit Divin pour améliorer votre force physique. Lorsque vous faites un jet d'attaque, un test d'aptitude ou un jet de sauvegarde en utilisant la Force, vous pouvez utiliser votre Charge de Conduit Divin pour gagner un bonus de +10 au jet. </content>
 	<content contentuid="h3ffc6159g4a7dg4addga48cgc486ac35fbc2" version="1">Donnez à un allié proche la gloire de votre dieu pour lui accorder un bonus de +[1] à ses jets</content>.
 	<content contentuid="hea566134g7587g4aaeg9d11g0eb6eed7429f" version="1">Bénédiction de Rhona</content>
 	<content contentuid="h099204eeg7b6dg48b1g8ab2g8a2cd439c15e" version="1">Au 6ème niveau, lorsqu'une créature située à moins de 30 pieds de vous fait un jet d'attaque, un test d'aptitude ou un jet de sauvegarde utilisant la Force, vous pouvez utiliser votre réaction pour accorder à cette créature un bonus de +10 au jet, en utilisant votre Charge de Conduit Divin. Vous faites ce choix après avoir vu le jet, mais avant que le DM ne dise si le jet réussit ou échoue.</content>
-	<content contentuid="he944165eg03f9g4e76gb88fg3be59edbccaf" version="1">Domaine de force</content>
+	<content contentuid="he944165eg03f9g4e76gb88fg3be59edbccaf" version="1">Domaine de Force</content>
 	<content contentuid="h90775d77g14d8g47cfg9adegf9603187f04b" version="1">Force</content>
 	<content contentuid="h1024f17cgdddeg499egb6f3gdcd4fad84d" version="1">La force est la troisième vertu de la société d'Amonkhet. Il revient à Rhonas d'inculquer cet enseignement à ceux qui veulent entrer dans l'au-delà, mais pour lui, les mots eux-mêmes n'ont pas d'importance. La force ne s'enseigne pas. Elle doit être construite par la pratique et l'entraînement.</content>
 	<content contentuid="h71214003g39c6g44efg9b62gfd4c28753a8d" version="1">La victoire de la force</content>
@@ -36,10 +22,10 @@
 	<content contentuid="ha4ecabc5g51e4g4c17g803ag1092f5a6f206" version="1">Au 2ème niveau, vous pouvez canaliser l'Avatar de Bataille une fois par repos long. Devenez puissant, comme si vous aviez une taille de plus.</content>
 	<content contentuid="h4e099011ge4dfg4ddbg8d09gf694c72d6dd1" version="1">Charges de l'Avatar de Bataille</content>
 	<content contentuid="h78058550gc245g4db7g9595gcedc3e8fed52" version="1">Cette charge alimente votre Avatar de combat</content>
-	<content contentuid="h62c62f24gc394g4d41g9feag82b55848d4f9" version="1">Votre arme et vos attaques à mains nues infligent [1] dégâts supplémentaires. Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h62c62f24gc394g4d41g9feag82b55848d4f9" version="1">Votre arme et vos attaques à mains nues infligent [1] dégâts supplémentaires. Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétences&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
 	<content contentuid="h023f16fbg07d4g4056gbd4dge49d956a468f" version="1">Avatar de Bataille 2</content>
 	<content contentuid="hd8070c9bg8fb3g4400g859agfd72cfd1e3b7" version="1">Au 6ème niveau, votre lien avec l'Avatar de Bataille se renforce. Vous êtes également résistant aux dégâts non-magiques.</content>
-	<content contentuid="hac6b5c58g5d3bg49a9g9affg38bfbe8ef005" version="1">Vous êtes résistant aux dégâts non magiques. Vos attaques à l'arme et à mains nues infligent [1] points de dégâts supplémentaires. Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="hac6b5c58g5d3bg49a9g9affg38bfbe8ef005" version="1">Vous êtes résistant aux dégâts non magiques. Vos attaques à l'arme et à mains nues infligent [1] points de dégâts supplémentaires. Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétences&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
 	<content contentuid="h874f8863gfa77g49b0gb58cga349fef95ef5" version="1">Vous gagnez une charge supplémentaire d'Avatar de combat.</content>
 	<content contentuid="h07cfeb5cg6904g4d0ag8731gcfae1cb7beb7" version="1">Au 17ème niveau, vous gagnez une résistance aux dégâts contondants, perforants et tranchants des attaques non magiques.</content>
 </contentList>

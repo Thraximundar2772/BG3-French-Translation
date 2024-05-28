@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="0" build="49"/>
+    <version major="4" minor="0" revision="9" build="328"/>
     <region id="Config">
         <node id="root">
             <children>
@@ -9,19 +9,19 @@
                     <attribute id="Author" type="LSWString" value="Traximundar2772"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSWString" value="French Translation of the mod - Amonkhet - Strenght Domain - Cleric Subclass"/>
-                    <attribute id="Folder" type="LSWString" value="Strenght Domain"/>
+                    <attribute id="Folder" type="LSWString" value="Strength Domain FR"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="Strenght Domain FR"/>
+                    <attribute id="Name" type="FixedString" value="Strength Domain FR"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSWString" value="Translation"/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-		    <attribute id="UUID" type="FixedString" value="741f23d5-a2b7-4e7d-9b14-5cbc739e78e9"/>
+		    <attribute id="UUID" type="FixedString" value="1cd16873-da25-4bc3-ba4e-c63188d68580"/>
 		    <attribute id="Version" type="int32" value="36310271995674624"/>
                     <children>
                         <node id="PublishVersion">
