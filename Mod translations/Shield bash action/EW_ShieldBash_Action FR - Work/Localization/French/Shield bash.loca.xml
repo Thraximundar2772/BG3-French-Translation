@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h11b2cc45g38b5g448cg8bd9gc8194f052f18" version="1">Grand coup de bouclier</content>
+	<content contentuid="h8c6efe18ga806g4874g87c7g0fb1874d36e9" version="1">Grand coup de bouclier (Tomber à terre)</content>
+	<content contentuid="hc1fca8d6g6b2dg4983g89ffg9a4d36ceeeeb" version="1">Grand coup de bouclier (Bousculer)</content>
+	<content contentuid="hb41beca6g28c8g42a5ga5a8gd7dfd3e95625" version="1">Frappez une créature avec votre bouclier pour la repousser.</content>
+	<content contentuid="h24932f97g0850g47degbb76g67cc4910ae59" version="1">Frappez une créature avec votre bouclier pour la faire tomber &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt; ou la repousser.</content>
+	<content contentuid="h0a6d9b68g9b39g454fgb960g000a75991929" version="1">Frappez une créature avec votre bouclier pour la faire tomber &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;.</content>
+	<content contentuid="h00756f74g13a2g419egb13agab72d61fbd2b" version="1">Bouclier léger</content>
+	<content contentuid="he89191a1g7a51g4003g8fceg7518f9140b95" version="1">Bouclier lourd</content>
+	<content contentuid="h668eb934g56a8g4a74ga807g5c7a2e6567e8" version="1">Frappez une créature avec votre bouclier pour potentiellement l'&lt;LSTag Type="Status" Tooltip="DAZED"&gt;étourdir&lt;/LSTag&gt;.</content>
+	<content contentuid="h1b31cf3fg4d9cg4a9ag983bg5c870659a8b7" version="1">Coup rapide</content>
+</contentList>
