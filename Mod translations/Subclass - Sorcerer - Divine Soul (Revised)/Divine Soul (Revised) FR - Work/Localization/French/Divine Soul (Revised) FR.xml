@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="c5e3a46d-4ee5-4773-8e6e-446f165ad75b" version="1">Âme divine</content>
+	<content contentuid="00f46972-765c-4394-855d-76015450edb0" version="1">Votre magie provient d'une source divine. Quels que soient vos ancêtres - peut-être des anges - une chose est sûre : vous êtes un réceptacle de la magie divine.</content>
+	<content contentuid="429358d5-5673-4cc2-b2e4-3bdd846b716b" version="1">Magie divine</content>
+	<content contentuid="dc88ceda-df9e-45df-82c4-03b66d3a5988" version="1">Votre héritage divin vous donne accès aux sorts de clerc.</content>
+	<content contentuid="aa96a0e8-b23f-4407-8df1-1573d3482294" version="1">Favorisés par les dieux</content>
+	<content contentuid="83566078-5ef9-4936-a67e-c3ca23ac2430" version="1">Si vous ratez un &lt;LSTag Tooltip=« SavingThrow »&gt;jet de sauvegarde&lt;/LSTag&gt; ou si vous ratez un &lt;LSTag Tooltip=« AttackRoll »&gt;jet d'attaque&lt;/LSTag&gt;, vous pouvez ajouter [1] au total.</content>
+	<content contentuid="320c2ff2-933f-4c9a-af2f-250d798ff2f3" version="1">Charge favorisée par les dieux</content>
+	<content contentuid="1202f179-28cf-40c7-af3e-98312c9ec228" version="1">Point utilisé pour améliorer ses chances de réussir un &lt;LSTag Tooltip=« SavingThrow »&gt;jet de sauvegarde&lt;/LSTag&gt; ou un &lt;LSTag Tooltip=« AttackRoll »&gt;jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="43017e56-745f-484f-958c-9fb41783351c" version="1">Métamagie : Guérison Maximale</content>
+	<content contentuid="5908c61f-a2f2-4158-82b4-25bd66c7d7a1" version="1">Les sorts de soins restaurent le maximum de points de vie possible. &lt;br&gt;&lt;br&gt;Coûte 1 point de sorcellerie par &lt;LSTag Tooltip=« SpellSlot »&gt;emplacements de sorts&lt;/LSTag&gt; niveau utilisé. &lt;LSTag Tooltip=« Cantrip »&gt;sort mineur&lt;/LSTag&gt; coûtent également 1 point de sorcellerie.</content>
+</contentList>
