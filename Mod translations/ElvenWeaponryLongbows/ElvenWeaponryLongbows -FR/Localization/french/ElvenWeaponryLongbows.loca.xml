@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hcdbb6707g5d1dg4140g91c0g9731a2562a72" version="1">Le rôdeur elfique typique entretenait personnellement et améliorait son arc long, utilisant une grande variété de pièces personnalisées.</content>
+	<content contentuid="hd726e253gd3e5g41e8g9a48ge6e4b692c794" version="1">Arc Long d'Elfe Rôdeur</content>
+	<content contentuid="h74ce5e41g8413g428ag91d9g969b8f1be904" version="1">Œil Aiguisé</content>
+	<content contentuid="h3d3ebf49geeccg487bgb936g2ebe57d9a693" version="1">Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt; pour tirer avec votre arc long.</content>
+	<content contentuid="he7576149ge7dcg466eg8d88gb43b8227caf8" version="1">Tir Rapide</content>
+	<content contentuid="hfa16a24dg87c0g4dacga652g05aeb6c37e28" version="1">Appui Supérieur (À Distance)</content>
+	<content contentuid="h934f3460gd0a1g4d0cgbb91g95015cd58da0" version="1">Tirez avec votre arc long donne &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; et infligez des dégâts bonus égaux à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Maîtrise&lt;/LSTag&gt;. Vous ne pouvez pas utiliser cette attaque si vous avez &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; contre la cible.</content>
+	<content contentuid="hb304541cg064dg4410gb7f8gc24393d4cb57" version="1">Tir Mortel</content>
+	<content contentuid="h7415459eg487fg4b46ga5b9ge82088e7d1d5" version="1">Le savoir-faire supérieur de l'arc long elfique en fait l'une des armes les plus redoutées à travers Faerûn.</content>
+	<content contentuid="h7762a6a8gd12dg4ccbgafb9g49c3f804db7e" version="1">Arc Long Elfe</content>
+	<content contentuid="h6a81834cg171eg4c05gb5c2g60b330b978d7" version="1">Parmi les elfes, les arcs longs sont vénérés et même transmis comme des héritages familiaux. Les meilleurs ont des siècles d'existence et n'ont pas encore perdu de leur éclat.</content>
+	<content contentuid="hc2f742a2g6322g4215g8d18g6793c4aca296" version="1">Arc Long Elfe Relique</content>
+	<content contentuid="h499ac737g21e2g40feg8ee5g9e4dc4dac662" version="1">"La forêt a autant d'yeux que de feuilles." - Lithien Echginiel, Capitaine Rôdeur de la Lune</content>
+	<content contentuid="h2845c26dg1548g42e8gad04g76b6e800bd22" version="1">Arc Long Elfe Féerique</content>
+	<content contentuid="h9d5c7530g4da2g4622g96bfg01b96419f6f1" version="1">Bénédiction Féerique</content>
+	<content contentuid="h24b5b240g0bb0g477bgb2d9g5f08c213cefe" version="1">Sentinelle de la Forêt</content>
+	<content contentuid="h4ee9b78bgb373g4150g9591g26b3dd41d431" version="1">Embuscade</content>
+	<content contentuid="hed072c62g3aadg45d8g88b8g9c8dc7065746" version="1">La sève d'arbre Sussur coule toujours à travers l'arc, imprégnant ses flèches et réduisant au silence sa proie.</content>
+	<content contentuid="hd2ef7778g740fg4a9fga3cfg15bbe1a7dd36" version="1">Arc Long Elfe Sussur</content>
+	<content contentuid="h4172c12dgf91cg4837gb619ga2fe3cccf436" version="1">Le Véritable Tireur d'Éclairs</content>
+	<content contentuid="h579dfae0gae9ag4116g982agff87bf6bc7cf" version="1">"Cela peut être... déplaisant de traiter avec les Zhentarim, mais je ne peux contester leurs résultats. Même les arcs des Rôdeurs de la Lune sont comme des jouets face à cela." - Alebersam, Chasseur de Seldarine</content>
+	<content contentuid="h55daf931gc1ecg4ec4ga493ge35084c0f23d" version="1">Arc Long Elfe Tueur</content>
+	<content contentuid="h7d98cf25gb726g4a91gb5bbg3ed739f27a17" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; à distance contre les bêtes et les monstruosités ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h711bd09cg8eb1g4ab6gabfeg581abb6fa13d" version="1">Chasseur Vétéran</content>
+	<content contentuid="h99e1a828g5c7eg48fdgbacag35ff59b2fdf1" version="1">"Catti-brie repéra une meilleure cible. Elle dirigea l'arc vers l'arrière du navire et envoya une flèche d'argent en traînée. Elle explosa dans le bras de la catapulte, fissurant le bois." - R.A. Salvatore, Le Joyau du Halfelin</content>
+	<content contentuid="hfbf60bd9ge8ddg47bcgba2egaae0c4ec1b85" version="1">Taulmaril, le Cherche-Cœur</content>
+	<content contentuid="h2af23591g6ed8g44a7g8fd2g5251d64c8cf9" version="1">Cette arme ignore la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de Force et de Foudre.</content>
+	<content contentuid="he76f784cg48e4g4eafga170g1acbad3257bf" version="1">Perforant</content>
+	<content contentuid="hd0ad3bf7g5a7ag4fd9g8c54g483e09fbc4f1" version="1">Vise les Yeux, Boo!</content>
+	<content contentuid="he48f4323gd96ag4403g8770g9ce11cee5287" version="1">Flèche d'Argent</content>
+	<content contentuid="hb97deb42g8e08g4ffbgb7e6g41c875a10ba9" version="1">Tirez deux flèches d'argent qui infligent chacune un [1] supplémentaire.</content>
+	<content contentuid="h238af4c7gbddfg47f8gab3bg1a9ce39e7507" version="1">Un envoi d'arcs longs de... Attendez ! Comment ont-ils pu faire tenir tout cela dans cette caisse?</content>
+	<content contentuid="hdb578eecg1b62g49a8g919eg22f8eca0789a" version="1">Caisse d'Arcs Longs Elfiques</content>
+	<content contentuid="hfae970e1g27d6g49efg8cceg041b38971f48" version="1">L'écorce vieillie du sussur qui compose les branches de l'arc a perdu son pouvoir. Elle pourrait probablement être réénergisée en utilisant une arme fonctionnelle.</content>
+	<content contentuid="h871be43agf6c7g43dcgb3bag663b30313ea2" version="1">Pièces d'Arc Prêtes à l'Infusion</content>
+	<content contentuid="hec886025g974eg4f36gb746geca40e16dde7" version="1">Il vous électrocute légèrement lorsque vous le touchez. Parfait pour améliorer un arc de foudre.</content>
+	<content contentuid="hae04fb25g2427g440bg91c1gc1ddbdee0c9c" version="1">Corde d'Arc Électrifiée</content>
+	<content contentuid="h8c1f0eebg9fb4g4773g9355gce0e11d3d009" version="1">Rien n'améliore une arme mieux que l'étincelle du génie elfique.</content>
+	<content contentuid="hf8994ddagc1a1g472cgb7aag1fd80fd101d4" version="1">Inflige un [1] supplémentaire aux cibles &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprises&lt;/LSTag&gt;.</content>
+	<content contentuid="hba5dea95ge8a6g4985g8381g5e6608f84416" version="1">Embuscade en Forêt</content>
+	<content contentuid="hfd417845ga48ag400eg9520gbf1479a1e880" version="1">Une bague de fiançailles drow. L'insigne de la Maison Corax est gravé sur le sceau.</content>
+	<content contentuid="he138c6c0gd037g4857gad68g36dd726cd9b4" version="1">Anneau du Chasseur de l'Ombre</content>
+	<content contentuid="h4b51246cg4d72g49ebga67ag58c6023bc837" version="1">Lorsqu'il est Obscurci dans l'ombre, les &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Attaques à Distance&lt;/LSTag&gt; du porteur infligent un [1] supplémentaire.</content>
+	<content contentuid="h61b37452g2c10g4e6egb23dgd0824202e193" version="1">Chasseur de l'Ombre</content>
+	<content contentuid="h5c0512d7g8943g4541g8bdagfc1e34dab356" version="1">Tir de Foudre</content>
+	<content contentuid="h5cfd49f0g65ccg46cdg986dg4598ec95bd55" version="1">Nécessite un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; avant utilisation.</content>
+	<content contentuid="h344db2adg49afg457ag9798g3d02f54ffd80" version="1">Tirez une flèche de foudre magique, infligeant un [1] supplémentaire et possiblement &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Électrisant&lt;/LSTag&gt; votre cible pendant 2 tours.</content>
+	<content contentuid="h31d07c7bg03d7g4b0dg9ad3g597fa81d3ca7" version="1">'Je prie pour que mon âme glisse à travers la lune et les étoiles avec toi, Père des Elfes.' - Une prière de Corellon</content>
+	<content contentuid="hbfdb5cffg762bg429cgb1d2g9083c7d6f423" version="1">Arc Long du Rôdeur de la Lune</content>
+	<content contentuid="h71a6eadbg003ag4b7cg996bg40e1d57ce413" version="1">Les attaques de cette arme peuvent infliger &lt;LSTag Type="Status" Tooltip="GUIDING_BOLT"&gt;Guiding Bolt&lt;/LSTag&gt;. Tir Mortel peut être utilisé avec un coût supplémentaire de [1] au lieu d'une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h62220a27g460eg43b1g851fg8a098808c43d" version="1">Flèches de Clair de Lune</content>
+	<content contentuid="h5a79e054g7815g4974g9b38g52263e10fb38" version="1">Tir Mortel (Action Bonus)</content>
+	<content contentuid="h1550aa80ge944g47c5gb9f5gff0005b9fade" version="1">Tir Mortel (Mouvement)</content>
+	<content contentuid="hc9954206gf15cg4253g8974g2751f8497c0d" version="1">Pas si Perçant</content>
+	<content contentuid="he91e01b9g8a7dg4b4fg87b4g72b46988361c" version="1">Vous n'avez pas besoin de bonus aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; car vous êtes un dur à cuire.</content>
+	<content contentuid="hd8ef0cf5gcd0dg4cf5gba60g81a66852e9c4" version="1">Carquois Elfique</content>
+	<content contentuid="hddb14f16g4eedg4ea2ga245g34b24edcbef5" version="1">Fabriqué avec les meilleurs matériaux pour toujours garder les flèches tranchantes.</content>
+	<content contentuid="haa998364g3cb7g4ac8g9f43g3837018a2f58" version="1">Carquois du Rôdeur Elfe</content>
+	<content contentuid="ha3bb6453gfa7eg485egb715gf56200d6ea87" version="1">Carquois du Rôdeur de la Lune</content>
+	<content contentuid="hf3f8bb55gc6a6g4688g9dc4g7b1f45979053" version="1">Carquois du Chasseur de l'Ombre</content>
+	<content contentuid="h07f0a451gafd3g4578g8af3ge3ba60f38d48" version="1">Carquois d'Anariel</content>
+	<content contentuid="h10e15bf6g94e0g4d2cgbaaag05a7b21d3a82" version="1">Flèches Elfiques</content>
+	<content contentuid="h28a413e3g07e1g4969g8a0bgd0d505b1cfa6" version="1">Les attaques à l'arc du porteur infligent un [1] supplémentaire.</content>
+	<content contentuid="h833194beg5a76g425ag9972gb15dffcc1e94" version="1">Lorsqu'il manie un arc, le porteur peut utiliser &lt;LSTag Type="Spell" Tooltip="EW_Projectile_Lightning_Shoot"&gt;Tir d'Argent&lt;/LSTag&gt;.</content>
+	<content contentuid="h0d824115g7efcg479cga30ageaa603d5480d" version="1">Lorsque vous portez le Carquois d'Anariel, les attaques avec cette arme peuvent possiblement renverser les cibles &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À Terre&lt;/LSTag&gt;.</content>
+	<content contentuid="h2f772745gc4dcg4863gb148gcaa3f982979d" version="1">Tirs de Force</content>
+	<content contentuid="h843055bcgf162g4867ga365g8fdb71f44df6" version="1">"Un cadeau puissant, en effet, que la Dame Anariel a donné au clan !" - R.A. Salvatore, Streams of Silver</content>
+</contentList>
