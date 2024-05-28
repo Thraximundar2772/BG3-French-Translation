@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h27c5ff2fgd70dg4e71ga8dag4c73148e6fcb" version="1">Ce Fléau est une arme appréciée par Loviatar, capable d'infliger le courroux de la Déesse à ses ennemis. Ce grand pouvoir a un prix et l'utilisateur doit payer une pénitence pour gagner les bénédictions de Loviatar.</content>
+	<content contentuid="h7985721cg9edcg4f19gae2eg48afb32970ee" version="1">Fléau de La Vierge de la Douleur</content>
+	<content contentuid="hcd4dd757g77cag49beg968fgec5334c1d997" version="1">Forgé par les Drows de Menzoberranzan, cette lame empoisonne tout ce qu'elle touche. Cependant, son porteur devient &lt;LSTag Tooltip="Immune"&gt;Immunisé&lt;/LSTag&gt; au Poison.</content>
+	<content contentuid="h2ed2b143g8696g4b10gaaadg63abaf5c36bf" version="1">Crochet de Lolth</content>
+	<content contentuid="h69edb82bgd94ag431ag9e8egca2532cceb04" version="1">Mask, le Dieu des Assassins, vous fait don de sa dague imprégnée d'un mélange de produits chimiques et de magie et conçue pour neutraliser rapidement les ennemis.</content>
+	<content contentuid="h47610189g5aa5g4fc7gaca0g3fef656d5b7f" version="1">Dague Mutilante de Mask</content>
+	<content contentuid="h830a3855g6353g490fg93e9g4972ef433d95" version="1">Une arbalète de poing imbuée de ce puissant Dieu lui accordant une meilleure portée.</content>
+	<content contentuid="h61fe2181g3befg4205g820bg528b19c5dd0d" version="1">Arbalète de Kord</content>
+	<content contentuid="h2f898868g5517g49bfg84acg709f42341b53" version="1">Cette arbalète est une oeuvre d'art dont les carreaux qu'elle tire sont infusés d'une magie divine.</content>
+	<content contentuid="h21451838geb2fg493fgb7cdgf3ce8ef989f4" version="1">Arbalète de Corellon Larethian</content>
+	<content contentuid="h6a44a60agb6d5g4376g954ag282e3ab28765" version="1">Ce bouclier de la Déesse du Panthéon Halfelin est capable d'absorber une partie des dégâts que subit son porteur.</content>
+	<content contentuid="h55984cd6gd666g477dg8ffcgad02cdbdfc83" version="1">Bouclier de Yondalla</content>
+	<content contentuid="h1a0532c6g6c3ag4516g94d8g0f1f07e6f844" version="1">Sac Suspicieux</content>
+	<content contentuid="h73f90216g71aag46ecg919eg573811ccff6d" version="1">Arbalète de Baine</content>
+	<content contentuid="hf66ea2bag1606g4b0cg9c87g8ce6158ccfa5" version="1">Cette arbalète lourde, conçue pour le Dieu Tyrannique, peut être chargée avec des carreaux supplémentaires pour déclencher une salve dévastatrice. Pour qu'un mortel puisse exploiter le plein potentiel de cette arbalète, il est également possible de serrer excessivement le mécanisme pour augmenter la portée et les dégâts, mais il y a un risque que l'arme se retourne contre lui en cas de serrage excessif.</content>
+	<content contentuid="he89d30bfg9805g4005ga28ege355e1cb7456" version="1">Rugissement de Tiamat</content>
+	<content contentuid="h655022a9g5933g406bga09ag1cb25292e1b5" version="1">Cette épée, légère et brûlante, a été insufflée de la magie de la Reine des Dragons. Son porteur ne connaîtra plus la douleur liée au feu et peut même faire appel à un Dragon Rouge, digne successeur de Tiamat, pour l'assister au combat. </content>
+	<content contentuid="hefe2da47g9b4fg40fdga900ga3e4c1ab6d03" version="1">Marteau Affamé de Moradin</content>
+	<content contentuid="h8bbf8c86gb8f9g442ega4acg929cc45a995d" version="1">Ce Marteau de Guerre a soif de combat et vous pousse à satisfaire ce désir.</content>
+	<content contentuid="h44978df8g1338g42b6ga5d1g6f6de5aa2ae9" version="1">Le Dieu de l'artisanat du panthéon Gnome vous fait don de son anneau, décuplant ainsi votre énergie.</content>
+	<content contentuid="h6f8f8c94g94e5g456bg96eag1160011e7513" version="1">Anneau de Pouvoir de Gond</content>
+	<content contentuid="h7163c6d1gb2ffg42a0gbfa5g2fbef86e258b" version="1">Hache du Dieu Funeste</content>
+	<content contentuid="hac183187g3d25g47f5g8c34gf5dfe201a57a" version="1">Cette hache dégage une énergie nécrotique qui paralyse ceux qui ont la malchance d'être touchés.</content>
+	<content contentuid="hd13a1311g81bfg41bcgb640ge442984803f4" version="1">Épée de la Vierge de Glace</content>
+	<content contentuid="hf31cf50egd979g49a7g8914g6f5f8d140972" version="1">L'enchantement, placé dans cette grande épée par Aurile, tire la chaleur de son environnement et refroidit tout ce qu'elle touche.  Une partie de la chaleur absorbée par la lame est transmise à son porteur, le protégeant du froid et l'empêchant de glisser sur le sol gelé qui l'entoure.</content>
+	<content contentuid="hebd0ca34gffd9g4125g9d08g277e1888bf9e" version="1">Helm, souvent représenté en armure, est très vénéré par les paladins. Son bouclier vous accordera une meilleure protection lors de vos batailles. </content>
+	<content contentuid="had856bc9gb3dbg4692gbaccg5d80ae89ed4d" version="1">Bouclier du Protecteur</content>
+	<content contentuid="h40f310bfga9eag4e2dgafb2gbbda7055f0a5" version="1">Ce bâton du Dieu Untamo émet des ondes d'énergie curative qui guérissent tout ce qu'il touche. Cependant, la puissance du bâton épuise la cible et l'endort. Le bâton refuse d'infliger des blessures aux autres.</content>
+	<content contentuid="hfba19e38g54a2g45fbgab53gccca58709beb" version="1">Bâton du Rêveur</content>
+	<content contentuid="h47e78c13gfe4dg49a5gb448g667ece0dd387" version="1">Sac à dos éphémère</content>
+	<content contentuid="he5a01f23g01e3g4c0fg94eeg28a62ae7f5fc" version="1">Ce sac à dos ne semble pas être entièrement dans ce royaume et semble s'estomper lentement pour retourner d'où il vient, mais son contenu semble stable.</content>
+	<content contentuid="h6abb7e57ga0d0g4607gbb1bg42085489c8fd" version="1">Sac d'Arcs</content>
+	<content contentuid="h6afa41b4g5926g41e6ga3f7ga3584478e5a7" version="1">Ce sac contient des armes à distance très meurtrières.</content>
+	<content contentuid="hbbbbdd2ag8fe4g479agabcagaf81fb744cb9" version="1">Sac d'Armes</content>
+	<content contentuid="h5c37fc93g0732g428dg9016g02170532a527" version="1">Ce sac peut contenir toutes sortes d'armes de mêlée.</content>
+	<content contentuid="ha7c5ed97ga89fg4a25g8411g1079e6c9c5aa" version="1">Sac d'Armures</content>
+	<content contentuid="h5c312613g25ddg4770gb01ag4edeb3f147c8" version="1">Ce sac assez lourd est rempli à ras bord de magnifiques armures.</content>
+	<content contentuid="h6dbf415eg8f98g45dagbf41gf8f89f0b6e40" version="1">Vous pouvez voir le feu se tordre à l'intérieur de la pierre ornée sur cette bague, comme s'il essayait de s'échapper. Si vous la tenez fermement, vous pourrez peut-être libérer cette énergie.</content>
+	<content contentuid="hd62e5540g163fg4a95gb9cag4660ba613356" version="1">Anneau de Géant de Feu</content>
+	<content contentuid="he334c657gf590g41c0gb6fagfbe3704f8215" version="1">Vous pouvez voir le gel se tordre à l'intérieur de la pierre ornée sur cette bague, comme s'il essayait de s'échapper. Si vous la tenez fermement, vous pourrez peut-être libérer cette énergie.</content>
+	<content contentuid="hb2b9bb20gb303g404bg897eg97d9c03be65e" version="1">Anneau de Géant de Glace</content>
+	<content contentuid="640ecace42414c6ea9b810ccdf5ff3d2" version="1">Vous pouvez voir le feu se tordre à l'intérieur de la pierre ornée sur cette bague, comme s'il essayait de s'échapper. Si vous la tenez fermement, vous pourrez peut-être libérer cette énergie.</content>
+	<content contentuid="8320c56665444329b4d940566c11add7" version="1">Anneau de Surtur</content>
+	<content contentuid="09f05206ee90486bade43eff33d1a5b4" version="1">Vous pouvez voir le gel se tordre à l'intérieur de la pierre ornée sur cette bague, comme s'il essayait de s'échapper. Si vous la tenez fermement, vous pourrez peut-être libérer cette énergie.</content>
+	<content contentuid="524b30daaa4340019f38928b2d3040a1" version="1">Anneau de Thrym</content>
+	<content contentuid="h972be674ga19eg43b7ga928g3b3ab6d62a74" version="1">Circlet de la Déesse Verte</content>
+	<content contentuid="h9c14c263g834cg4918g9a13gbdb1baa29844" version="1">Ce cercle a des épines acérées qui pointent vers l'extérieur, vous pouvez voir qu'elles peuvent cependant se tordre vers l'intérieur dans certaines circonstances.</content>
+	<content contentuid="h948a7104gc50dg4af7gacd1gea13dcc6890a" version="1">Cette armure a été bénie par Shar, si vous regardez bien, vous pouvez voir des ombres se déplacer à travers elle.</content>
+	<content contentuid="h08a6549dg5a5eg443dga7e2gc6a18b70a01b" version="1">Armure de la Dame Sombre</content>
+	<content contentuid="0ab87731-efa2-4a15-8db1-71f096ae078c" version="1">Cette coutille, infusée de la puissance de Talos, vibre de puissance. Vous pouvez libérer toute dans puissance dans un coup de tonnerre dévastateur.</content>
+	<content contentuid="67eff79a-5e6e-4f44-b459-d75178e7ad10" version="1">Coutille du Seigneur des Tempêtes</content>
+	<content contentuid="b9ef77a5-8d37-4b86-bd9a-f9eb94d17897" version="1">Ces gants ont été infusés de la force du Dieu de la Guerre Tempus.</content>
+	<content contentuid="40ca8594-3f83-49c8-9a11-7eecee54a707" version="1">Gants du Seigneur des Batailles</content>
+	<content contentuid="b066455bfbc949a68d7c6961cfdcc0aa" version="1">Don de Loviatar</content>
+	<content contentuid="01cb410f827a4de094660f6a95dd7aae" version="1">Ayant prouvé votre dévotion à Loviatar, elle vous accorde sa grâce.</content>
+	<content contentuid="1e2927a2811c4bc389f51971271e9788" version="1">Chargée et verouillée </content>
+	<content contentuid="bb3648238a78485a84c76222be3cd650" version="1">L'arbalète à répétition est entièrement chargée et prête à tirer une salve.</content>
+	<content contentuid="23e05c61fea2448b9be3d2fd3d449c91" version="1">Pacte des Ténèbres</content>
+	<content contentuid="7d59d3bce3e744af82ae0bfc18c09b89" version="1">Faites un pacte avec Erythnul, vous pourrez choisir le type de challenge auquel vous participerez pour obtenir des récompenses.</content>
+	<content contentuid="c7d8543fb79748b7a15db060dc732568" version="1">Morsure</content>
+	<content contentuid="a17dc6dbe50341d6a77a8aa2ab9f2f67" version="1">Vous arrachez un morceau de chair d'un ennemi proche pour regagner de la santé.</content>
+	<content contentuid="b3e0518caed349a1a8946172ddb5b88e" version="1">Soin du Bâton du Sommeil</content>
+	<content contentuid="d205bf93cbdf4eda8e449e50386b9b44" version="1">Vous vous soignez mais vous tombez dans un sommeil profond pendant 2 tours.</content>
+	<content contentuid="5dda6f9f517c41fb838f6e846cd9a8bc" version="1">Résurrection du Bâton du Sommeil</content>
+	<content contentuid="f6a1a639d0ef4b11a3989f891a8db111" version="1">Vous conjurez le pouvoir du bâton pour resucciter un allié.</content>
+	<content contentuid="175a0972b329409281801bd3b72df72b" version="1">Forte Tension</content>
+	<content contentuid="cc4a800c9e5644019a6c65d2f71efe10" version="1">L'arbalète grince de manière inquiétante mais est prête à tirer.</content>
+	<content contentuid="8fc161fb0e2246eb8a8b846fb66c919b" version="1">Don du Marteau</content>
+	<content contentuid="833d0246946f4625acff91a4dce2df1f" version="1">Satisfaire le désir du Marteau vous renforce.</content>
+	<content contentuid="f0a424564bb84cdeb448cbf160933896" version="1">Épée de la Vierge de Glace</content>
+	<content contentuid="5d9ed505d0c04c6ea0139ecb673f1980" version="1">Le froid extrême rend les mouvements difficiles</content>
+	<content contentuid="70bcdecbd8784e12bad81de20919f08a" version="1">Anneau de Géant de Feu</content>
+	<content contentuid="42d7fc4f750e4e569bac9ee83f50d5b1" version="1">Le Feu fait rage en vous.</content>
+	<content contentuid="ed76926f04fe4b8cbd56ba5580bcf5b5" version="1">Anneau de Surtur</content>
+	<content contentuid="1671e0e8754b4a798c3aa3e9836a2fdc" version="1">Le Feu du Dieu du panthéon des Géants fait rage en vous.</content>
+	<content contentuid="51d0329ddd2744569d3c3d8bbfe6faed" version="1">Anneau de Thrym</content>
+	<content contentuid="f604ee8f588641a48968f600878a3464" version="1">Le Gel du Dieu du panthéon des Géants tourbillonne en vous.</content>
+	<content contentuid="b2bd0c636dd34c439ce178eb1283ce87" version="1">Anneau de Géant de Glace</content>
+	<content contentuid="44133bb43a644021b3ffcbc5ccfb84f7" version="1">Si... froid...</content>
+	<content contentuid="1ca905d07c3f4b86b3fff924c444c8ba" version="1">Circlet de la Déesse Verte</content>
+	<content contentuid="3c4d3c1b2d87437eba88d5a241a7ce80" version="1">Restaure progressivement votre santé.</content>
+	<content contentuid="9ddf82deabed4e368a601a801b519a60" version="1">Épines du Circlet</content>
+	<content contentuid="23ec199180684698adbc9c35c8371a1c" version="1">Suite à vos actions, les épines se tournent vers l'intérieur...</content>
+	<content contentuid="bf3580346a6347f98b0a5931d224040c" version="1">Coutille Tempêtueuse</content>
+	<content contentuid="b66bd299e1a24434a342f4623964c467" version="1">Libère l'énergie contenue dans la coutille en une énorme onde de choc.</content>
+	<content contentuid="6b586c2481144493b82ec3b51d007842" version="1">Souffle de Feu</content>
+	<content contentuid="ad86e1fe7f1145bfadd1d0b9e535f32b" version="1">Vous crachez un torrent de flammes de dragon.</content>
+	<content contentuid="73fb866002f3412fa09b965bd26c2079" version="1">Balayage</content>
+	<content contentuid="2ca7c745e9264aea8d3f8d75fa216cc9" version="1">Vous griffez toute créature se trouvant devant vous.</content>
+	<content contentuid="4e9cdd55c5ab4eec84bd84b9bfcfcc2f" version="1">Invoquer un dragon</content>
+	<content contentuid="927645a7de29422a868c2d3ef82f7993" version="1">Vous invoquez un dragon rouge pour vous aider.</content>
+	<content contentuid="a8bf88ed9d9940aaa7d21d8359d7f836" version="1">Activate Ring of Fire</content>
+	<content contentuid="8765a2af9e2542cab5acf3f6276412fa" version="1">Activate your ring of fire to incinerate your enemies.</content>
+	<content contentuid="395b54ff38d6497d89204a3f9d1f05a4" version="1">Activate Ring of Ice</content>
+	<content contentuid="8608dbb6b44846dc8dffdedbf68d7bcc" version="1">Activate your ring to unleash frozen death upon your enemies.</content>
+	<content contentuid="d4a2ac8c7447459390b3e7122eea355b" version="1">Thorned Circlet of Healing</content>
+	<content contentuid="5a6ce858e53643709943c03123c28716" version="1">Slowly restores life over time.</content>
+	<content contentuid="23ff214562d5426785a15316fe1b1a66" version="1">Don de Loviatar</content>
+	<content contentuid="8898048a0361401ba043e18956b6ba79" version="1">Ayant prouvé votre dévotion à Loviatar, elle vous accorde sa grâce.</content>
+	<content contentuid="d978478dc1124b3a802a78ee865251aa" version="1">Châtiment de Loviatar</content>
+	<content contentuid="285b4b6f75db49559ecf2050edab2e8a" version="1">Ceux qui ont prouvé leur foi à Loviatar sont dignes de déchaîner le courroux de la déesse sur leurs ennemis.</content>
+	<content contentuid="1450b51eb4754b1ab2bce426c16ab630" version="1">Rechargement</content>
+	<content contentuid="69c87e421f8345b18100ff3a473cdb03" version="1">Chargez des carreaux supplémentaires dans l'arbalète pour préparer une énorme volée. Ce processus prend du temps, il est donc préférable de le faire avant d'entamer le combat.</content>
+	<content contentuid="67ef7d608f5440d5ab6dd5e0c2c796e8" version="1">Surtension</content>
+	<content contentuid="d141b00c67d046caad939e7fbe3f783e" version="1">Serrer excessivement le mécanisme de tir pour tirer plus loin et frapper plus fort. Il y a cependant un risque que cela se retourne contre vous.</content>
+	<content contentuid="afc7efc25ba54c5d9744c1c37c05d7bf" version="1">Carreaux infusés de Magie</content>
+	<content contentuid="f23193db7df34457aeac0997177a2fe0" version="1">Cette arbalète légendaire peut tirer des carreaux possédant des propriétés magiques. </content>
+	<content contentuid="76aceba076e04158921d023ad3311ea0" version="1">Salve d'arbalète à Répétition</content>
+	<content contentuid="e27aac3c71e74990a2948d7c4b95ea56" version="1">Vous tirez une salve de carreaux pour toucher plusieurs ennemis.</content>
+	<content contentuid="e596bcfb10f546b2872f6e141ccd20bb" version="1">Tir en Surtension</content>
+	<content contentuid="8b075485b196487a925064f1228112ac" version="1">Vous tirez un coup dévastateur à longue distance.</content>
+	<content contentuid="0b0388ede3ae481fa33e03fd9054c642" version="1">Flamme de dragon Concentrée</content>
+	<content contentuid="7f6a9721c9fe429495e27a2fb21d095c" version="1">Crachez une boule de flamme de dragon qui créera une surface incroyablement chaude.</content>
+	<content contentuid="3971dcb094954a698673c4cbf9946959" version="1">Explosion brûlante</content>
+	<content contentuid="fb909531b59e4e4b97afe48ca0e60c8e" version="1">Provoque de multiples explosions de feu.</content>
+	<content contentuid="dd97092912a04fb0b4fb385852fcf9cc" version="1">Marteaux Bélliqueux</content>
+	<content contentuid="51a40328ed1947638744fe520f9052b1" version="1">Le Marteau vous transmet sa rage et sa soif de combat.</content>
+	<content contentuid="23eb422c495d4f39a967aa151ccd220c" version="1">Armure de la Dame Sombre</content>
+	<content contentuid="7dc4dce44f12449ea80918f469af0333" version="1">Les ténèbres vous envahissent.</content>
+	<content contentuid="75923a9aad3c4651a1905d018130bffe" version="1">Cercle Épineux</content>
+	<content contentuid="e1ccf8afbd224f0bbde263b239094ca1" version="1">Les épines tranchantes du Circlet de la Déesse Verte vous entourent votre tête.</content>
+	<content contentuid="83a5bdcae290463d86c55c73767465e8" version="1">Cercle Épineux</content>
+	<content contentuid="ad18bbc9a19c4c1ca424e0c258d37852" version="1">Des épines tranchantes comme des rasoirs entourent votre tête.</content>
+	<content contentuid="39579f9ebd014233b655ff8ccf81c8d0" version="1">Anneau de Géant de Feu</content>
+	<content contentuid="289c7d76993949da87c1f6c9112b776a" version="1">Le Feu brûle en vous.</content>
+	<content contentuid="c152de6c3dd946838363c179c47d59b6" version="1">Anneau de Géant des Glaces</content>
+	<content contentuid="08fc1374ff8b45789faab85a1d32e95a" version="1">La glace remplit vos veines.</content>
+	<content contentuid="c1954b6612be42e88371b9cdb4a5ac74" version="1">Invoquer un élémentaire de lave</content>
+	<content contentuid="b7e227feb3df43d8b8dbf1915a7a5124" version="1">Invoquez un élémentaire de lave qui se battra pour vous.</content>
+	<content contentuid="ed7df05e20314dacbd3187667882166d" version="1">Anneau de l'Oméga</content>
+	<content contentuid="e4df611e3ed84877b815157a57fa3e9c" version="1">La légende raconte que cet anneau provient de la création du Monde et a été porté par Ao, Dieu des dieux, lui-même. L'anneau est doté d'un pouvoir phénoménal.</content>
+	<content contentuid="f4ddfc394d7c4fa99b47cf36dc93bf6b" version="1">Cimeterre du Souverain de la Force et de l'Acier</content>
+	<content contentuid="29f08f418a774ece911994e0d9d51d81" version="1">Cette lame au tranchant remarquable est capable d'exposer les faiblesses de la cible pour lui porter des coups dévastateurs.</content>
+	<content contentuid="9561e4e833c6498daa00818fcba58737" version="1">Exposer les faiblesses</content>
+	<content contentuid="175c7398295443a9b50e24e28354b6d2" version="1">Le cimeterre sonde la cible en exposant ses faiblesses.</content>
+	<content contentuid="2b3e4d352ca4493a99f58d259e0279fc" version="1">Faiblesses Exposées</content>
+	<content contentuid="39c9340675514ed78d7fb040fdeab95d" version="1">Augmentation des dégâts infligés par les attaques tranchantes.</content>
+	<content contentuid="e6e2dfcbddf34dc2873d5823728fe27f" version="1">Anneau de la Princesse des Parias</content>
+	<content contentuid="11d608d01ae14d238f7c2388aa99430d" version="1">La Déesse des Assassins vous fait don de sa grâce en vous accordant cet anneau serti d'une pierre incroyablement tranchante. Elle ferait probablement très mal si quelqu'un vous donnait un coup de poing alors que vous la portez.
+Le résultat que vous devenez &lt;LSTag Tooltip="AttackRoll"&gt;obtenir au dé&lt;/LSTag&gt; pour que votre attaque se traduise par un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; est réduit de 3. Cet effet est cumulable. </content>
+	<content contentuid="5f00df15d4a042fd925cf0dd4f87fe78" version="1">Bâton de la Mère Sombre</content>
+	<content contentuid="2644b687cae24469ba063645c541a403" version="1">Ce bâton a été imprégné du pouvoir de Lolth elle-même, ce qui permet à son utilisateur d'obtenir temporairement la bénédiction de Lolth en se transformant en l'un de ses élus.</content>
+	<content contentuid="b494ebebfd3541a7aca7d45e74c680aa" version="1">Bénédictions de Lolth</content>
+	<content contentuid="5cfe64a53c8945adbf17152dfd57a45a" version="1">Utilisez le pouvoir infusé dans le bâton pour recevoir une bénédiction de Lolth.</content>
+	<content contentuid="f5fccc8eb1be41c8aeb6829438cb8141" version="1">Renoncer :  Forme d'Araignée</content>
+	<content contentuid="f7354672354b40d0b4983726dee79bf4" version="1">Reprenez votre forme originelle.</content>
+	<content contentuid="41864d1a81274078bf0e1b580bea4ac5" version="1">Bénédiction de Lolth: Araignée Géante</content>
+	<content contentuid="40f8030e34a740259037b0fe62d8308e" version="1">Laissez le pouvoir de Lolth vous envahir et transformez-vous en araignée géante.</content>
+	<content contentuid="61bad08ca8bc4d31abefbd8376b7cf38" version="1">Bénédiction de Lolth: Petite Araignée</content>
+	<content contentuid="5695b27b7c2a405692f5616d2cd25dec" version="1">Laissez le pouvoir de Lolth vous envahir et transformez-vous en une petite araignée.</content>
+	<content contentuid="2fc51cc7e3fc42b8a5240964f8a6073b" version="1">Bénédiction de Lolth: Matriarche</content>
+	<content contentuid="e180217e0b9d4cbd94abd1edcfb779b1" version="1">Laissez le pouvoir de Lolth vous envahir et transformez-vous en une araignée matriarche.</content>
+	<content contentuid="982a551ddb664701aa003d48db95c805" version="1">Bénédiction de Lolth: Araignée Géante</content>
+	<content contentuid="dbcfb735d16e4dcebad572cb41b6df3d" version="1">Bénédiction de Lolth: Petite Araignée</content>
+	<content contentuid="4d7ac9f1742b42d1885f82df2db5cb85" version="1">Bénédiction de Lolth: Matriarche</content>
+	<content contentuid="a8c29a7ce225482e81f017d10373a176" version="1">Petite Toile d'Araignée de Lolth</content>
+	<content contentuid="87353af88f1846c68b68f8a30f69961b" version="1">Lancez une petite toile pour ralentir vos ennemis.</content>
+	<content contentuid="3ea2e9b678e74edab8746a2abdd1d01a" version="1">Grande Toile d'Araignée de Lolth</content>
+	<content contentuid="7535f7286fa64f2aa51ad8a9e2d74408" version="1">Lancez une grande toile pour ralentir vos ennemis.</content>
+	<content contentuid="e04dbefe5bb6497ab329980315cc2283" version="1">Manteau d'Akadi</content>
+	<content contentuid="df8dc1417eca412189e5d5769a847f3f" version="1">La Dame des Vents vous a doté de sa grâce, vous permettant ainsi de voler et de vous protéger des chutes.</content>
+	<content contentuid="9ccd6595ccee49da8559ec1d7f18a0a4" version="1">Pacte Noir - Fureur</content>
+	<content contentuid="77e2bb4fb6b54f13903c7bff7012f735" version="1">Concluez un pacte avec Erythnul en acceptant de vous déchaîner en massacrant tous ceux que vous rencontrerez.</content>
+	<content contentuid="5581b4fe709b4dc4af59b175382dfca4" version="1">Pacte Noir - Tier 1</content>
+	<content contentuid="646ea5bc9cb247919df78d2d717b0877" version="1">Concluez un pacte avec Erythnul en acceptant de combattre un ennemi de premier rang. Si vous l'emportez, vous serez récompensé.</content>
+	<content contentuid="bf17c627ff0f41c99b866ca161e1a94a" version="1">Pacte Noir - Tier 2</content>
+	<content contentuid="3100381e758f44268af9c0cdbbb2f38f" version="1">Concluez un pacte avec Erythnul en acceptant de combattre un ennemi de second rang. Si vous l'emportez, vous serez récompensé.</content>
+	<content contentuid="d4365dcc8fa643deae51dae4c9fe4994" version="1">Pacte Noir - Tier 3</content>
+	<content contentuid="3040c2d4a06948fdb638ce340f2ef7b7" version="1">Concluez un pacte avec Erythnul en acceptant de combattre un ennemi de troisième rang. Si vous l'emportez, vous serez récompensé. Soyez prévenu, cette bataille sera difficile.</content>
+	<content contentuid="fba5f6ba087942bb88bda7bf9bfa9695" version="1">Pacte Noir - Tier 4</content>
+	<content contentuid="5840ef47d6924773af0db6ef3e0fdd3b" version="1">Concluez un pacte avec Erythnul en acceptant de combattre un ennemi de quatrième rang, si vous l'emportez, vous serez récompensé. Soyez averti, cette bataille sera incroyablement dangereuse.</content>
+	<content contentuid="09424bca87dc40aaa57212fa8ec650fa" version="1">Butin légendaire</content>
+	<content contentuid="6d9d616ec251400a990ba83a4205baf8" version="1">La récompense pour avoir abattu un ennemi au nom d'Erythnul.</content>
+	<content contentuid="bd9ceb1be81c4dca9b20c883332237f4" version="1">Attaques pernicieuses</content>
+	<content contentuid="bd1da4ef1750495c85399099d5552b76" version="1">Cette créature se bat avec acharnement.</content>
+	<content contentuid="e51f1e62ee0e4ec5a36fb4c83ba60f19" version="1">Le sac invoqué ne restera pas longtemps dans ce royaume, mais son contenu, lui, y restera.</content>
+	<content contentuid="1510ee7f669443f9beb05f4c3e6795b2" version="1">Invocation: Dragon de Bronze squelettique</content>
+	<content contentuid="4307dfdf1edc49c0aeac581fbf9ecab9" version="1">Invoquez un Dragon de Bronze squelettique pour vous aider.</content>
+	<content contentuid="837120af39774a5e8e92a8b83055affa" version="1">Draconique</content>
+	<content contentuid="3caa8040eea44a92b88613aeb8aadf01" version="1">Pouvoir draconique.</content>
+	<content contentuid="f5a5baf6f9d643bb9322e4ae17aadda0" version="1">Test Dragon 1</content>
+	<content contentuid="e050ca47bb48412a9e943c32983a1267" version="1">Test Dragon 2</content>
+	<content contentuid="74b90700ad9a414c998f095cbf003d93" version="1">Test Dragon 3</content>
+	<content contentuid="c76d2913a11745b48016e36d499b3ccf" version="1">Bâton du Seigneur Liche</content>
+	<content contentuid="de1e2dfc7c3849d6bc5cd19640b7a7c4" version="1">Ce bâton exsude le pouvoir de Velsharoon, l'Archimage Nécromant, qui peut transfèrer une partie de la vie de ceux qu'il frappe à son porteur ainsi que rappeler temporairement certaines des créatures, dont l'essence a servi à sa création, à la vie.</content>
+	<content contentuid="9e585ee2188c4bc69f255420317077b5" version="1">Invoquer des goules</content>
+	<content contentuid="c49b3fb64f5d4a5a8399b02fa94851a3" version="1">Invoque des goules pour exécuter vos ordres.</content>
+	<content contentuid="2f44c02702ed4cb7a9a0a7c4ccb38cec" version="1">Invocation de goules 1</content>
+	<content contentuid="6b7e5c9e54a44fd98594d415131f4b5c" version="1">Invoque une goule de niveau 3 pour exécuter vos ordres.</content>
+	<content contentuid="d37981762c6d40b6b9f6f982f64a8f30" version="1">Invocation de goules 2</content>
+	<content contentuid="2447cc210af2477bbf88916ecd69ba30" version="1">Invoque deux goules de niveau 5 pour exécuter vos ordres.</content>
+	<content contentuid="5ebd9c91d3a8403ea3f5e44c18fe8476" version="1">Invocation de goules 3</content>
+	<content contentuid="abbf4838c65f4658bdc811a5616de686" version="1">Invoque trois goules de niveau 7 pour exécuter vos ordres.</content>
+	<content contentuid="22d8b887e4a74e75a8efce883b9299bc" version="1">Invocation de goules 4</content>
+	<content contentuid="19cccc8d38904843899b03a36dbf53bd" version="1">Invoque quatre goules de niveau 9 pour exécuter vos ordres.</content>
+	<content contentuid="a3676cbfed26483caf3f35295b861d54" version="1">Effet du Bâton du Seigneur Liche</content>
+	<content contentuid="4367231483f34c14a024e359bc527ca5" version="1">Le toucher du bâton nécrotique est débilitant.</content>
+	<content contentuid="6956e86c25d4482e8075c5134c1514fc" version="1">Décomposition des goules</content>
+	<content contentuid="389cb94e2cda4cdeb78f8124f8b553b6" version="1">Cette goule invoquée par magie retourne lentement d'où elle vient.</content>
+	<content contentuid="2ab2738b6dc54b92a0ef298958355f6f" version="1">Goule invoquée</content>
+	<content contentuid="2a383f7c2e304e1d860dc6c4321acbb8" version="1">Radieuse</content>
+	<content contentuid="d52e5dc43a814497bd88da80bf78c04a" version="1">La flamme animant cette épée ne peut être éteinte.</content>
+	<content contentuid="b24fd31adcd64f41aa18a9dd93c9f952" version="1">Checkmate</content>
+	<content contentuid="05303e89dc834c22bad54a2447b88e09" version="1">Les runes infernales gravées dans le filigrane de cette arme nimbée de flammes prouvent que cette épée fut celle jadis portée par la Chevalière Rouge.</content>
+	<content contentuid="96d14ca7f2d04163b00a53da584503f9" version="1">Furie Céleste</content>
+	<content contentuid="e5029f1bda0c41ce9fef8089ca37ce8a" version="1">Arme d'une grande finesse, la Furie céleste est dotée d'une lame flexible mais incassable, affûtée comme celle d'un rasoir. La lame brillait d'une teinte violette pâle et claquait d'électricité lorsqu'elle était dégainée.</content>
+	<content contentuid="fa4d6d3b729f4275850a9b3ee6d55dce" version="1">Foudre Céleste</content>
+	<content contentuid="7887caca395046bcba3fc5c59d88c963" version="1">La Foudre s'abat sur l'endroit ciblé.</content>
+	<content contentuid="0dbb3f833c1f4be297fda53ac25a7816" version="1">Aveuglement céleste</content>
+	<content contentuid="6d66b52a2f274b0ba0e5f67b8cfd3f70" version="1">Utilisez le pouvoir de la fureur Céleste pour aveugler brièvement une cible.</content>
+	<content contentuid="3a0265472bd74784bf4e0f4d1cd11185" version="1">Flèche Revigorante</content>
+	<content contentuid="dbbc85aa52a64d20bd6bf9560f3eb622" version="1">Tire un carreau possédant un pouvoir curatif.</content>
+	<content contentuid="7f778498acaf4bcf9cc7a1e2c902f54d" version="1">Arbalète aux Carreaux Magiques</content>
+	<content contentuid="d56c7fec212640d6ae6765421c7fe620" version="1">Cette arbalète tire des carreaux infligeant des dégâts magiques supplémentaires.</content>
+	<content contentuid="8b7880a5cfae4fdbb5c30d8ecaddc1fa" version="1">Avatar de Shar</content>
+	<content contentuid="addb0a0c335c4ee1996adc27ca43bc89" version="1">Transformé en un avatar de Shar</content>
+	<content contentuid="cbb6b44b60ce471391cde2132b8e78be" version="1">Ténèbres de Shar</content>
+	<content contentuid="94c2e8350e984aeca9c66666bc96e918" version="1">Propage les ténèbres sur une large zone.</content>
+	<content contentuid="f613cb7becc747269e3bc88e9f06ee35" version="1">Vision obscure de Shar</content>
+	<content contentuid="60b1cc00149a422590e6260eb86ea2ad" version="1">Shar vous permet de voir clairement même dans les conditions les plus sombres.</content>
+	<content contentuid="88e8318b83884e979420995c42f71b91" version="1">Avatar de Shar</content>
+	<content contentuid="a10329a694a54d8aaa3c446ebaba7f35" version="1">Se transformer en un avatar de Shar</content>
+	<content contentuid="43bc76bffc04463ea14cc2aa7c84e117" version="1">Reprendre sa forme originelle</content>
+	<content contentuid="19817f6c1d4f4a1ba19a44d79c483721" version="1">Renoncez au pouvoir de Shar pour reprendre votre forme normale.</content>
+	<content contentuid="6d9d025ec6fe490b85f87768f5939a28" version="1">Passif: Anneau de la Princesse des Parias</content>
+	<content contentuid="8a290963193b40bbaa4e1420158b7c1b" version="1">Le résultat que vous devenez &lt;LSTag Tooltip="AttackRoll"&gt;obtenir au dé&lt;/LSTag&gt; pour que votre attaque se traduise par un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; est réduit de 3.</content>
+	<content contentuid="7de1f822307947ecb9e15672a0b68665" version="1">Fureur Céleste</content>
+	<content contentuid="7f4d735247bf485983e3250195f2c77f" version="1">Fureur Céleste: dégâts de Foudre</content>
+	<content contentuid="8517eba731b84479867dd4c377a5791c" version="1">Necrotic Staff</content>
+	<content contentuid="b2bc1485c2bf4cd1887330d37b14c4c4" version="1">Necrotic Staff necrotic damage.</content>
+	<content contentuid="2f1de42396f44defbf3f248661c12502" version="1">Crossbow of Great Range Effect</content>
+	<content contentuid="865cd57fc03740d59d0956d0178cf4fc" version="1">Crossbow of Great Range force damage.</content>
+	<content contentuid="4c7d33f7d3994e7c9bec4ace8ad66b65" version="1">Effet de l'Épée de la Vierge de Glace</content>
+	<content contentuid="b3485694343f4e08b0b3d91a95e63aae" version="1">L'épée de glace inflige des dégâts de froid.</content>
+	<content contentuid="f8a3308df8504ffa9b5547bc740d1361" version="1">Effet du Fléau de La Vierge de la Douleur</content>
+	<content contentuid="58b372b2635d49318841dea8d1c56f0f" version="1">Fléau de de La Vierge de la Douleur inflige des dégâts radiants.</content>
+	<content contentuid="60ff18438adc469eadedccb1ce5e83ad" version="1">Effet du Crochet de Lolth</content>
+	<content contentuid="d4c3ef827c6d4cb09e65089ec872418b" version="1">Crochet de Lolth inflige des dégâts de Poison.</content>
+	<content contentuid="c507d569a2394fe1ae633ad0a8058f0c" version="1">Effet de la Dague Mutilante de Mask </content>
+	<content contentuid="32fb741c40414af699205779f9a4ee6f" version="1">Crippling Dagger damage.</content>
+	<content contentuid="6f7f9ea5ec32442ba587a84ce3b40c4f" version="1">Sharp Ring Effect</content>
+	<content contentuid="b3f97f41c6f343b09cf3110fa9b2c22a" version="1">Sharp Ring damage.</content>
+	<content contentuid="681afb4c891b42a29e18d91ca51b9964" version="1">Hache de Silvermane</content>
+	<content contentuid="3300492a66174111b2946a9bffda8e81" version="1">Cette grande hache porte le symbole de Moradin et une phrase en langue naine : 
+"
+Que les démons tombent devant moi, pour la plus grande gloire de mon clan, alors que je me tiens debout sur leurs cadavres entassés et que je hurle le nom du Forgeur d'âmes.
+Elle devient de plus en plus puissante à chaque coup porté à un ennemi, infligeant des dégâts psychiques d'autant plus importants que l'ennemi a été touché plusieurs fois récemment.</content>
+	<content contentuid="f8c26cfafc214b828a3e1c707f2b90aa" version="1">Hache de Silvermane : Premier coup asséné</content>
+	<content contentuid="f242d2f0b8ab40f7aab8705cdfd2b747" version="1">Hache de Silvermane : Second coup asséné</content>
+	<content contentuid="7c79576938b44b1faeec8889b2906e3d" version="1">Hache de Silvermane : Troisième coup asséné</content>
+	<content contentuid="7c993037421f4999b6d88aa30fadc8a2" version="1">Hache de Silvermane : Quatrième coup asséné</content>
+	<content contentuid="faa0b52f1972465ca093da340aa36238" version="1">Hache de Silvermane : Cinquième coup asséné</content>
+	<content contentuid="83aeece3832d4db1981a298bed078f40" version="1">Hache de Silvermane : Sixième coup asséné</content>
+	<content contentuid="0073a2ffead5433fa0091bbecff58793" version="1">Hache de Silvermane : Septième coup asséné</content>
+	<content contentuid="d789f744b0194e6fbb7ca970a130e25a" version="1">Hache de Silvermane : Huitième coup asséné</content>
+	<content contentuid="3903efd8b69b495abc50ee9e5f3cddda" version="1">Hache de Silvermane : Neuvième coup asséné</content>
+	<content contentuid="3e9ac920a12b46eabf24f1e7c866c4e7" version="1">Hache de Silvermane : Dixième coup asséné</content>
+	<content contentuid="7f9f0ec4b6f44a6998f0585a94d015ac" version="1">Subit des dégâts accrus de la Hache de Silvermane.</content>
+	<content contentuid="5f2b348fd658431e90dccb3b5e60a10a" version="1">Vulnérabilité au froid</content>
+	<content contentuid="f54a11a6520145c5a3bb44b2e679cda5" version="1">Vulnérable aux dégâts de froid en raison de la proximité des bottes glaciaires.</content>
+	<content contentuid="36e66356448442268ed2708f3e5a7aaf" version="1">Aura des Bottes Glaciales</content>
+	<content contentuid="959a3274b32c48a3a2d778be49bef38d" version="1">Les ennemis proches subissent des dégâts de froid supplémentaires.</content>
+	<content contentuid="0b0c9671baaf490fa7d97c2d2613114b" version="1">Robe Glaciale</content>
+	<content contentuid="89811bb11ee2435d96c5d2846766a661" version="1">Chapeau Glacial</content>
+	<content contentuid="7ede651a4d3346068df7e166a3f459b6" version="1">Gants Glaciaux</content>
+	<content contentuid="dda6b770fde74f8eab823c5db671dee6" version="1">Bottes Glaciales</content>
+	<content contentuid="7ecb5c5d2f064be2a91679049e246620" version="1">Amulette Glaciale</content>
+	<content contentuid="d6b81726c76a4520bd988e89152f9854" version="1">Rétrécissement</content>
+	<content contentuid="9587d9f0923947c58a095e8f844c74e1" version="1">Réduction magique de la taille, ce qui est pratique pour se faufiler dans les endroits les plus étroits.</content>
+	<content contentuid="f9d03d16bbfc469ba2b97c349cbe3d8d" version="1">Agrandissement</content>
+	<content contentuid="f0fa822c76594222b73cb1831abd0b49" version="1">Augmentation magique de la taille, idéale pour dominer un champ de bataille.</content>
+	<content contentuid="03818ae5c5b3475fa8ae4849e3943785" version="1">Réversion</content>
+	<content contentuid="522e30eda055497a837da842039fa9bd" version="1">Retourne à la taille originale.</content>
+	<content contentuid="e619bd548abd416da2ba873b68c6a6d5" version="1">Agrandissement</content>
+	<content contentuid="225d85ef915f48fa82aeaa5740d8cf61" version="1">Agrandi par la magie.</content>
+	<content contentuid="ac22c29ec2c44ae2aa760e02ad5b43c5" version="1">Rétrécissement</content>
+	<content contentuid="76231fdd9fa14495ae831b50fb47b077" version="1">Réduit par la magie.</content>
+	<content contentuid="c61155d9552c4cda844b963f85eb271c" version="1">Pacte Noir</content>
+	<content contentuid="eb405ac28c34480e9809e9f3fbe0b174" version="1">Erythnul est satisfait de vos offrandes, mais il en demandera bientôt davantage.</content>
+	<content contentuid="7ff0768507f5447e89abb85858307e33" version="1">Erythnul considère que votre manque d'offrandes est une insulte, vous vous sentez affaibli.</content>
+	<content contentuid="09029a71d30e43819a81fe44008609e5" version="1">Erythnul s'agace de votre manque d'engagement envers le pacte que vous avez conclu, vous vous affaiblissez.</content>
+	<content contentuid="8657871608b2446ab7e4730a85f321f3" version="1">Erythnul est irrité par le fait que vous l'ignoriez, et vous vous affaiblissez encore.</content>
+	<content contentuid="d4d53c773e074ed2a180303ef283b5e6" version="1">Erythnul considère votre impertinence comme un affront à son pouvoir divin et draine donc votre énergie.</content>
+	<content contentuid="38eeb311e100427f9e8f91a88f1f8e4b" version="1">Erythnul vous punit d'avoir renié le pacte qui vous liait à lui.</content>
+	<content contentuid="e96ef31582f24bc8bdcc0c15f2b1884e" version="1">Pendant qu'il est actif, vous devrez invoquer des monstres pour les massacrer en offrande à Erythnul.</content>
+	<content contentuid="e6f352484102492ca4b847a47a777420" version="1">Erythnul est satisfait de vos actions.</content>
+	<content contentuid="61c04ab8a72144c9a9a2e880bd273a53" version="1">Éclosion de l'Araignée de phase</content>
+	<content contentuid="82c74b29bb7c496fa70030f3b73f34ef" version="1">Il s'agit plus d'un désagrément que d'une menace.</content>
+	<content contentuid="090e6ae1f1c74651a4fbfd8e842136b2" version="1">Araignée de phase</content>
+	<content contentuid="bf8251b27be541f7b1cc573fc9e807a1" version="1">Tant d'yeux...</content>
+	<content contentuid="060fc83d2f284b3db073277e9d40dc90" version="1">Matriarche des Araignées de Phase</content>
+	<content contentuid="0a78b0e7e8d846d49120eaccd7a61e0c" version="1">Une reine araignée, sûrement en train de garder quelque chose de sympathique... des oeufs, peut-être ?</content>
+	<content contentuid="6b5453291058413ebdd7e3438b27002d" version="1">Sang acide.</content>
+	<content contentuid="0ebcf6c8dc024f45b18b3dda530a403d" version="1">Saigne de l'acide lorsqu'il est blessé.</content>
+	<content contentuid="a918adedc82b41b99bc0a6b16bf21387" version="1">Pacte noir - Tier 5</content>
+	<content contentuid="bc02513eed9a43a7b5c394c2c41d147c" version="1">Concluez un pacte avec Erythnul en acceptant de combattre un ennemi de cinquième rang. Si vous l'emportez, vous serez récompensé. Attention, il y aura beaucoup d'araignées.</content>
+	<content contentuid="69742a52cf20441bb4e861dfb836a9d3" version="1">Araignées</content>
+	<content contentuid="b3ded3a38e704a569b749b574531eda6" version="1">Des araignées qui sortent du sac d'oeufs.</content>
+	<content contentuid="c24a7d2c11f34611bff69a93b674033d" version="1">La Faux du Moissonneur</content>
+	<content contentuid="c47955570b9c4931b2dc9deb35487681" version="1">Touché par la Mort elle-même.</content>
+	<content contentuid="92c460161ddb4162a63960ea5ea01c58" version="1">Fauche</content>
+	<content contentuid="e8f018796b1843579bfbe87223dd5329" version="1">Inflige des dégâts nécrotiques en transformant les points de vie en points de vie temporaires.</content>
+	<content contentuid="7f63d5bcda5d489c9b4c4d983a164176" version="1">Aura de mort</content>
+	<content contentuid="c346636b5ab74b65b546031ad68ce5a8" version="1">Une aura nécrotique qui rend vulnérable aux dégâts nécrotiques.</content>
+	<content contentuid="a1d41952b8c841df8410ffc1a733689d" version="1">Vulnérable aux dégâts nécrotiques.</content>
+	<content contentuid="509099ec68954728a82d06c9d6c64134" version="1">Lyre de Branchala</content>
+	<content contentuid="5fb8ce8488be47d299583edc70559263" version="1">Une lyre magique ayant appartenu à Branchala elle-même.</content>
+	<content contentuid="42b107a9a1a14cfaa4ee2a1bb5361b5d" version="1">Berceuse</content>
+	<content contentuid="a956eb42b98a4a6b9408a58fa5a70eb2" version="1">Jouez une berceuse apaisante qui incitera les cibles à s'endormir.</content>
+	<content contentuid="f47f209eac4b42639486eea2496cc836" version="1">Explosion à la concussion</content>
+	<content contentuid="329d4be74fe6429ab3152367a9c86262" version="1">Déclenche une explosion qui provoque une vague de dégâts.</content>
+	<content contentuid="5d874001fc4a40f089504ad5d9a72766" version="1">Chant de réparation</content>
+	<content contentuid="5e4cebd6e2b945cfb94152a19c318140" version="1">Jouez un chant magique qui vous soigne, ainsi que les alliés proches, et vous donne le même nombre de points de vie temporaires.</content>
+	<content contentuid="ffa087bb4871451a812c9bd39b5cd5e2" version="1">&lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; temporaires</content>
+	<content contentuid="adbe0cd5e80747c9a2e9e13c0d818320" version="1">Soutenu par un chant de réparation.</content>
+	<content contentuid="70bad5cb6ebd43d084d2f4037baedbe3" version="1">Quand le porteur inflige [1], il gagne &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Acuité Arcanique&lt;/LSTag&gt;.</content>
+	<content contentuid="3c690272a73b4f09a459ddc1c2094b53" version="1">Acuité du Froid</content>
+	<content contentuid="4004d8ed0e584db4b797f22bb05bd116" version="2">Lancer : Dégâts Radiants</content>
+	<content contentuid="4361900528b7428d9705590253ed39f0" version="1">Marteau Saint</content>
+	<content contentuid="7d5d7de8b5af4460a5bf9ebffa8124a4" version="1">Ce marteau est imprégné de puissance divine et inflige des dégâts radiants supplémentaires.</content>
+	<content contentuid="f53a11f11ed2467ebbf17fb8b177ec7f" version="1">Heaume Sacré</content>
+	<content contentuid="e9daa12b7fef4558a34ad1674977bcef" version="1">Ce casque est imprégné d'un pouvoir divin.</content>
+	<content contentuid="8e348b61b6084d04a6185457cc11f6d8" version="1">Jambières Sacrées</content>
+	<content contentuid="7f52efe6dc214a7ab35579fce0b6c5cd" version="1">Ces jambières sont imprégnées d'un pouvoir divin.</content>
+	<content contentuid="bfda4262a75046caa6163d35c287ccaa" version="1">Gantelets sacrés</content>
+	<content contentuid="72be75bd33f548b4a9ed697c1393c062" version="1">Ces gantelets de plaque sont imprégnés d'un pouvoir divin.</content>
+	<content contentuid="f1c0b24386764b338755b214a5368e76" version="1">Cuirasse sacrée</content>
+	<content contentuid="50948175ea714041874930fed062b019" version="1">Cette cuirasse est imprégnée d'un pouvoir divin.</content>
+	<content contentuid="1f2a912b7f854bbda5a8f9eaa3f87318" version="1">Tir au grappin</content>
+	<content contentuid="3922a093240b4fc38234cfd708106e3f" version="1">Tirez sur votre cible et attirez la vers vous.</content>
+	<content contentuid="e96489ab753d43ad90fcd363e3c70961" version="1">Tirez sur deux cibles et attirez les vers vous.</content>
+	<content contentuid="18dc257df4ae4b22bb975d5a5c853b67" version="1">Passif: Arc à grappin</content>
+	<content contentuid="29d9e5e0ce824c90bab3685405e3273f" version="1">Inflige [1] supplémentaire(s).</content>
+	<content contentuid="3173be093f064c84be57b5749c0a5784" version="1">Effet: Arc à grappin </content>
+	<content contentuid="095b985c5f8d4118b712113a26a03403" version="1">Inflige [1] supplémentaire(s).</content>
+	<content contentuid="051953c6ba53490fa4dca4a9a4fbc6c6" version="1">Arc à grappin</content>
+	<content contentuid="fa4b6a670498453ab51f636ee27ec7a7" version="1">Cet arc est équipé d'un grappin qui peut être utilisé pour attirer les cibles.</content>
+	<content contentuid="1ee958aa84694d468281d39e50753c03" version="1">Arc à grappin : Attaque Rapide</content>
+	<content contentuid="065ea446ff1f407ab4694643877e1dd9" version="1">Effectuez une attaque rapide en utilisant votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="6c13369dcbb4403d89a311a20443c75c" version="1">Anneau d'Erythnul</content>
+	<content contentuid="790cb639b77e4c14a13686b99c14d0bc" version="1">Cet anneau permet de conclure un pacte noir avec Erythnul, le Dieu du Massacre.</content>
+	<content contentuid="d480d71e51b3477c8e2c23e2c9beaf50" version="1">Déblocage du Pacte Noir</content>
+	<content contentuid="4e4e7657086247d0aa9c7b31b825161b" version="1">Pacte Noir</content>
+	<content contentuid="5266ec4fdc74466c841dc57e2f1fff58" version="1">Ce sort débloque définitivement les capacités du Pacte Noir qui vous lie à Erythnul. Une fois formé, même la mort ne peut rompre ce lien.</content>
+	<content contentuid="01e2fd8a69cb4460a3b64f7130cd3a25" version="1">Natures Flute</content>
+	<content contentuid="761c1423262a452f8867a1ac3074369c" version="1">Cette flûte joue en harmonie avec la nature.</content>
+	<content contentuid="07e19add6f7049ef88dbdf9224a996f6" version="1">Mélodie de l'Ami de la Nature</content>
+	<content contentuid="66e7873f0c924170ba47229c5ed23ecc" version="1">Jouez une mélodie qui charmera toute créature dont l'intelligence n'est pas supérieure à 8.</content>
+	<content contentuid="a4d73e95ffa84e94ae59a824f2c88197" version="1">Mélodie d'une Nature craintive</content>
+	<content contentuid="c90e6e3b60f845df93f8027d7cd79770" version="1">Jouez une mélodie qui effraie les plantes et les animaux.</content>
+	<content contentuid="b0a3efe8d3164f44bca7c9dfbeac59b5" version="1">Chant du loup</content>
+	<content contentuid="a1593d3ca3bf425c999dd401a0940ba7" version="1">Invoquez un compagnon loup.</content>
+	<content contentuid="32115c74d55d4da0b3bfe77d9ab9dbce" version="1">Dague du Roi Rampant</content>
+	<content contentuid="2b8a2ee53439487187013eb86813b613" version="1">Cette dague, jadis outil du Dieu maléfique Torog, dégouline de sang. Même lorsque vous la nettoyez, le sang revient. Une aura sombre entoure la dague, promettant de la puissance, mais il y aura un prix à payer pour cette puissance.</content>
+	<content contentuid="d291b23b4d794102b4c873e1e954b5fa" version="1">Sacrifice du sang</content>
+	<content contentuid="0f9b2e1b6f854bcf9a6fb820c54bf75e" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1 et augmente les dégâts de l'arme pendant 1 tour.</content>
+	<content contentuid="999bc1b9756c488f8dea49aacbda31b6" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 2 et augmente les dégâts de l'arme pendant 2 tours.</content>
+	<content contentuid="360040414a8747c4aa6c305935f702e8" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 3 et augmente les dégâts de l'arme pendant 3 tours.</content>
+	<content contentuid="4a1f8479cead426aac9c4d708c57bece" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 4 et augmente les dégâts de l'arme pendant 4 tours.</content>
+	<content contentuid="4d3b297f038544e5a0a9d1dc01d7454c" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 5 et augmente les dégâts de l'arme pendant 5 tours.</content>
+	<content contentuid="1f02e5dc78f347649c0e5ba12d5fa6dc" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 6 et augmente les dégâts de l'arme pendant 6 tours.</content>
+	<content contentuid="7492f376593643a3821fa894eb244fd2" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 7 et augmente les dégâts de l'arme pendant 7 tours.</content>
+	<content contentuid="27507afcddb44f97ba6428487da1a9c2" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 1 et augmente les dégâts de l'arme pendant 8 tours.</content>
+	<content contentuid="c911094297a345dcaccf3ebe6b577ef6" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure un &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau 9 et augmente les dégâts de l'arme pendant 9 tours.</content>
+	<content contentuid="40b405f1a22c47329004f23b53db9faf" version="1">Enfoncez la dague dans votre propre chair pour la nourrir. Restaure les &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;points d'Action&lt;/LSTag&gt; et les &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Actions bonus&lt;/LSTag&gt; et augmente les dégâts de l'arme pendant 10 tours.</content>
+	<content contentuid="7022255e027148ee9954028f9d714575" version="1">Sacrifice du sang</content>
+	<content contentuid="51629a83297441b1be3fdd9efd556b09" version="1">Nourrir la dague de sang augmente les dégâts de l'arme de 1d6 + votre Niveau.</content>
+	<content contentuid="36f222aed81e4d879f910e03810f8fbf" version="1">Explosion d'une force inouïe</content>
+	<content contentuid="f60216f546ea41d88fb2e0fea10afbf0" version="1">Lorsqu'une force irrésistible rencontre un objet inamovible, rien de bon ne se produit.</content>
+	<content contentuid="a0cca0af20ca4e26bdba96c84d6fee8a" version="1">Force Inarrêtable</content>
+	<content contentuid="9075a8d90b2e4184be57e8ce8ea6947b" version="1">Cette Force Inarrêtable ignore complètement toute résistance aux dégâts contondants.</content>
+	<content contentuid="92feece638f441559ddd14f08be88eef" version="1">La Force Inarrêtable</content>
+	<content contentuid="1a10fd641d2243f091d89ca7dfa292fd" version="1">Ce Marteau ignore complètement toute résistance aux dégâts contondants... à condition que la cible ne soit pas un objet inamovible.</content>
+	<content contentuid="d5fb7a309ccc41e39f766ea5a63cf0d7" version="1">L'Objet Inamovible</content>
+	<content contentuid="56a7f5189607448e9062b87953a09f8e" version="1">Cet objet inamovible offre une immunité totale aux dégâts contondants, tant qu'il n'est pas frappé par La Force Inarrêtable.</content>
+</contentList>
