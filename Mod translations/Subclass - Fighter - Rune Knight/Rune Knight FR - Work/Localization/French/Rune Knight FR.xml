@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    <content contentuid="runeknight5e" version="1">Chevalier Runique</content>
-    <content contentuid="runeknight5edescript" version="1">Les Chevaliers Runiques renforcent leur habileté martiale en utilisant le pouvoir surnaturel des runes, une pratique ancienne qui a pris naissance chez les géants.</content>
+    <content contentuid="runeknight5e" version="1">Chevalier runique</content>
+    <content contentuid="runeknight5edescript" version="1">Les Chevaliers runiques renforcent leur habileté martiale en utilisant le pouvoir surnaturel des runes, une pratique ancienne qui a pris naissance chez les géants.</content>
     <content contentuid="haa3dc0b1gb777g46f3g8dc8g597eba8a3e81" version="1">Sculpteur de Runes</content>
     <content contentuid="h1280feaag8905g4074g9b15gdbf122367b8d" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="SleightOfHand"&gt;Escamotage&lt;/LSTag&gt; et vous pouvez utiliser des Runes magiques pour améliorer vos capacités.</content>
     <content contentuid="h0b2fc354gf4a4g404bg9c06gd3815e2fb41d" version="1">Magie Runique</content>

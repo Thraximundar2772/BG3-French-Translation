@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="battlerager5e" version="1">Voie du Fou de guerre</content>
+	<content contentuid="battlerager5e" version="1">Fou de guerre</content>
 	<content contentuid="battlerager5edescript" version="1">Appelés Kuldjargh (littéralement "Idiot à la hache") en nain, les Fous de Fuerres sont des nains adeptes des Dieux de la guerre et suivent la voie du Fou de guerre. Ils se spécialisent dans le port d'une armure volumineuse à pointes et se jettent dans le combat, frappant avec leur corps même et s'abandonnant à la fureur de la bataille.</content>
 	<content contentuid="hd6f883d7g8abdg45ebg9551gda82b5e59275" version="1">Kuldjargh</content>
 	<content contentuid="hb26c9949g2d67g4d29ga7f1g391879f0fd9f" version="1">Armure du Fou de guerre</content>
@@ -22,7 +22,7 @@
 	<content contentuid="h17547d81ge9a9g4b5ega43ag87e3545987fe" version="1">Gagnez [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Point(s) de vie temporaire&lt;/LSTag&gt; de &lt;LSTag Type="Passive" Tooltip="RecklessAbandon"&gt;Attaque imprudente&lt;/LSTag&gt;. </content>
 	<content contentuid="h7208377dg6089g4ea9gbc1cgeb747e653bb1" version="1">Vous pouvez utiliser l'action &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Foncer&lt;/LSTag&gt; comme une &lt; LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pendant que vous êtes &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;.</content>
 	<content contentuid="hdcfb552eg41a9g44d2gb70dg6f8a478c95b3" version="1">Chatiment hérissé</content>
-	<content contentuid="h4beb30dfgab5eg4919gba17g2ce4f973360f" version="1">Lorsqu'une créature à moins de [1] de vous vous touche avec une Attaque en mêlée, l'attaquant prend [2] si vous êtes &lt; LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, n'êtes pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;, et portez une armure moyenne métallique.</content>
+	<content contentuid="h4beb30dfgab5eg4919gba17g2ce4f973360f" version="1">Lorsqu'une créature à moins de [1] de vous vous touche avec une Attaque en mêlée, l'attaquant prend [2] si vous êtes &lt; LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt;, n'êtes pas &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacité&lt;/LSTag&gt;, et portez une armure moyenne métallique.</content>
 	<content contentuid="h4a1ccf74g3f7bg4192ga739g729cf72571b9" version="1">Armure à Pointe</content>
 	<content contentuid="h59a1b929ged8ag4a6eg93f2g4366ff64d341" version="1">L'entité a attaché des pointes à son armure qui peut être utilisée comme une arme.</content>
 
