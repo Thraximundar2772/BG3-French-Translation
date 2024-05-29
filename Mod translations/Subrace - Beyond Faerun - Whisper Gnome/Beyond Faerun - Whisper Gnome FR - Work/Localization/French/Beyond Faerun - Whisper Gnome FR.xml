@@ -1,4 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="UUID" version="1">Texte rataché à cet UUID à traduire. Ne jamais toucher le UUID</content>
+	<content contentuid="h8341f940g6e6fg4a8fgb886g7d8700a356eb" version="1">Gnome chuchoteur </content>
+	<content contentuid="h994d4971g7572g4c71gbf97g6898dc73ca72" version="1">Les gnomes chuchoteurs sont des gnomes d'Eberron, une planète située dans les profondeurs du plan éthéré. Peu d'autres gnomes peuvent rivaliser avec leurs pouvoirs de furtivité. </content>
+	<content contentuid="haf323f02g48c1g4edag8648g67b557f302cd" version="1">Eberronien </content>
+	<content contentuid="h8aa33126g28f9g41edga405gd451d39f1295" version="1">De la planète Eberron </content>
+	<content contentuid="h0da16f43g682ag4b4bg9c33gb171cbea6868" version="1">Entraînement à l'agilité </content>
+	<content contentuid="h6e0a950bgf2ceg4e57ga078g24704be7d70e" version="1">Né quelque part dans l'espace sauvage </content>
+	<content contentuid="hec6fb971g0c9dg44d8gac7fga89f9d59860f" version="1">Ombres et chuchotements </content>
+	<content contentuid="h25f8f8a2g88a3g4a0cga53eg7a6806ce497a" version="1">Traversez les ombres avec aisance, vous avez &lt;LSTag Tooltip="Avantage"&gt;Advantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; de furtivité . Ajoutez également deux fois votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; au &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; de furtivité.Vous disposez également d'une vitesse de déplacement standard et d'une vision dans le noir. </content>
+	<content contentuid="hd28210dbgabb9g4db8gb3e2gde3d9f6b53e7" version="1">Chuchotement </content>
+	<content contentuid="hb70464c0g0dc7g4dbdgb27cgbc9de33341a3" version="1">Créez une sphère insonorisée à l'endroit où vous vous trouvez. Tous ceux qui s'y trouvent ont&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; et &lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; aux dommages causés par le tonnerre. </content>
+	<content contentuid="hb52cbe11g87c4g430bgbce6g0ff53c8e9a1d" version="1">Frappe silencieuse </content>
+	<content contentuid="he7b214dagf973g406egb50bgeda4ed3f3cb9" version="1">Grâce à votre agilité, frappez votre cible en la réduisant au silence et en lui infligeant des dégâts psychiques. </content>
+	<content contentuid="ha5e643ceg9326g4036ga7eeg0ab37ad1ab9d" version="1">Chuchotements dissimulés </content>
+	<content contentuid="h25959919ge71bg4fb8gac8fgcd327b7d4f12" version="1">Fondez vous et vos alliés dans l'environnement, pour devenir &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; et gagnez un bonus de +[1] au &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; de furtivité, aussi longtemps que vous restez immobile. </content>
 </contentList>
