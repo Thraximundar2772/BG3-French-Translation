@@ -9,10 +9,10 @@
     "ConformPath": null
   },
   "PAK": {
-    "ExtractInputPath": "",
-    "ExtractOutputPath": "",
-    "CreateInputPath": "",
-    "CreateOutputPath": "",
+    "ExtractInputPath": "C:\\Users\\remim\\Downloads\\BG3-French-Translation\\Mod translations\\Subrace - Beyond Faerun - Whisper Gnome",
+    "ExtractOutputPath": "C:\\Users\\remim\\Downloads\\BG3-French-Translation\\Mod translations\\Subrace - Beyond Faerun - Whisper Gnome",
+    "CreateInputPath": "C:\\Users\\remim\\Downloads\\BG3-French-Translation\\Mod translations\\Subrace - Beyond Faerun - Whisper Gnome\\Beyond Faerun - Whisper Gnome FR - Work",
+    "CreateOutputPath": "C:\\Users\\remim\\Downloads\\BG3-French-Translation\\Mod translations\\Subrace - Beyond Faerun - Whisper Gnome\\ZZ-Uploads\\Beyond Faerun - Whisper Gnome FR- 1.0\\Beyond Faerun - Whisper Gnome FR- 1.0.pak",
     "CreatePackageVersion": 0,
     "CreatePackageCompression": 4
   },
@@ -38,5 +38,5 @@
     "SavePath": ""
   },
   "SelectedGame": 4,
-  "Version": "1.19.3"
+  "Version": "1.19.5"
 }
