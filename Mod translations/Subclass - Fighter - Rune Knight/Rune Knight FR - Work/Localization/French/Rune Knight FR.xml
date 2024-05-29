@@ -114,4 +114,8 @@
     <content contentuid="h195a04b9g71f7g4468g9d7cg00c47aa92ebb" version="1">Maître des Runes</content>
     <content contentuid="h6e00fed3g8ff3g4439ga72dgcc5ffccae8af" version="1">Vous pouvez invoquer chaque Rune que vous connaissez depuis votre &lt;LSTag Type="Passive" Tooltip="RuneCarver"&gt;Sculpteur de Runes&lt;/LSTag&gt; deux fois, plutôt qu'une seule fois, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
     <content contentuid="h6199befdgffaag47ecgb3abgda052a04ff27" version="1">Gigantisme Runique</content>
+
+
+	
+	
 </contentList>
