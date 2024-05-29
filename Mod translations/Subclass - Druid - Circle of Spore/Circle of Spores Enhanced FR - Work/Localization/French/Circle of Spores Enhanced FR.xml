@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="26/10/2020 01:10">
+  <content contentuid="haff06ffagf61ag4c3dg8dd6g030265ca5ede" version="1">Cercle des spores</content>
+  <content contentuid="heccbdb85g83e4g4000gbf41gea4f919e2228" version="1">Corps fongique</content>
+  <content contentuid="h74a40396g18bcg4090gb6eegdd5924795241" version="1">Les spores fongiques présentes dans votre corps vous altèrent : vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt;, et n'importe quel &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; contre vous compte est considéré comme un coup normal, sauf si vous êtes incapable d'agir.</content>
+</contentList>
