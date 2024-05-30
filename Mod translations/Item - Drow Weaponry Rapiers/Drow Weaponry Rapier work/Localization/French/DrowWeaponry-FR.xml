@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf192891agee34g44eagbf4bg1bd6dbdf94ab" version="1">Un envoi de rapières drows provenant du Bazar de Menzoberranzan.</content>
+	<content contentuid="h583e22adg487bg4cdag9051g62147fd55241" version="1">Caisse de Rapières drows</content>
+	<content contentuid="hf5a1f7d6gc387g474cgab54g06c92eba04a1" version="1">Rapière drow</content>
+	<content contentuid="hf614c684g7831g409ag874dge5c57d9ee370" version="1">Description</content>
+	<content contentuid="h3b9fe70fge39dg421fg9d2fg255e60f44568" version="1">Les armes de duel drows sont les Baguettes et les Dagues Elfiques.</content>
+	<content contentuid="h73cdba97g6df7g4211gb087g1650004ebeaf" version="1">Arme de Duel Drow</content>
+	<content contentuid="h6b915fd8g3398g4661gbc48gb5d5580967df" version="1">En utilisant une Rapière drow en double, vous avez -[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque au Corps à Corps&lt;/LSTag&gt;, à moins que votre arme secondaire ne soit une Dague ou une &lt;LSTag Type="Passive" Tooltip="EW_DrownDuelWeapons_Passive"&gt;Arme de Duel Drow&lt;/LSTag&gt;. Ce malus est supprimé si vous avez le Don &lt;LSTag Type="Passive" Tooltip="DualWielder_PassiveBonuses"&gt;Combat à deux mains&lt;/LSTag&gt;.</content>
+	<content contentuid="h92c00d36gad06g4485ga86fge5231b3f7892" version="1">Tactiques Spécialisées</content>
+	<content contentuid="h958d0370gc9a4g4292gb586gb8f7cacd7150" version="1">Escrime de Menzoberranzan</content>
+	<content contentuid="h8ed22299gf244g45c1g84e1gab32a59990f6" version="1">Combattre avec une main vide ou une &lt;LSTag Type="Passive" Tooltip="EW_DrownDuelWeapons_Passive"&gt;Arme de Duel Drow&lt;/LSTag&gt; en main secondaire est une condition préalable à certaines actions passifs des armes drows. Si vous avez le Don ou le style de combat &lt;LSTag Type="Passive" Tooltip="FightingStyle_Dueling"&gt;Duelliste&lt;/LSTag&gt;, vous obtenez également son bonus de dégâts tout en tenant une &lt;LSTag Type="Passive" Tooltip="EW_DrownDuelWeapons_Passive"&gt;Arme de Duel Drow&lt;/LSTag&gt; en main secondaire.</content>
+	<content contentuid="hf8c1b8b4g9100g4cffga026gb1fa46a109d4" version="1">Au lieu de son &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur de Dextérité&lt;/LSTag&gt;, le porter ajoute son &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de Caractéristique de Lancement de Sort&lt;/LSTag&gt; à ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h9f38a974g5f01g491ag9820g69d25df754f5" version="1">LMage de mélée</content>
+	<content contentuid="h8575f1f5gbc47g4e4fg9354gcb72af7da20b" version="1">Escrime de Menzoberranzan Manquant</content>
+	<content contentuid="h01cfe530g4387g4ad3g8e18g24071c0df6df" version="1">Digne Rival</content>
+	<content contentuid="haa998e17ge8c9g40f8ga571gbce500337fef" version="1">Coup d'Escrime</content>
+	<content contentuid="hb05f5771gbfd1g47a2g81feg879955bdf246" version="1">Attaquez votre cible avec une vitesse redoutable.</content>
+	<content contentuid="h8bb527a5gc20cg453dgac59g4235a1cd4301" version="1">"Alors... ce gros croc d'araignée était en fait une rapière ? Ou elle avait une rapière en elle ? Et c'est moi qui fais des choses bizarres ?" - Annelace Stormchild, Sorcier Moonranger</content>
+	<content contentuid="hb8d5d0a7gd857g453bg9d13g790309ce9356" version="1">Croc de la Reine</content>
+	<content contentuid="hcffcb49dg7cb8g4b0ag8b38g37ccb6c26456" version="1">Enduisez votre arme de venin d'araignée. Ses attaques peuvent &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonner&lt;/LSTag&gt; les ennemis. Vous pouvez également utiliser &lt;LSTag Type="Spell" Tooltip="DW_Projectile_Spider_Spit"&gt;Crachat d'Araignée&lt;/LSTag&gt;. (Vous pouvez activer ou désactiver cette option.)</content>
+	<content contentuid="hbdf5a66dg68dag4aaegad42g090fa36faed3" version="1">Enduit de Poison</content>
+	<content contentuid="he14f4ba7g9fbag4b06gbaa1geb83b32c36c0" version="1">Assurance du Contrebandier</content>
+	<content contentuid="haa192df0g33e2g4135gb210g9f47b3410dc7" version="1">Libérez une explosion de jus d'araignée collants, créant une surface empoisonnée et pouvant &lt;LSTag Type="Status" Tooltip="DC_POISON_SLOW"&gt;Ralentir&lt;/LSTag&gt; votre cible.</content>
+	<content contentuid="hd203141agef1ag4539gaef3g1371588f690c" version="1">Crachat d'Araignée</content>
+	<content contentuid="hecc1e183gf819g46fag9119gf63973ce7f84" version="1">La cible peut toujours être ralentie.</content>
+	<content contentuid="hb5109acdge5fdg42aegaa6fga9c0d9bcc9bc" version="1">"Je ne romprais jamais un marché, à moins de recevoir une meilleure offre." - Zeki Bagcutter, Marchand Zhentarim</content>
+	<content contentuid="h9e08b16bg3120g4b67gafeeg633601f84070" version="1">Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque au Corps à Corps&lt;/LSTag&gt; contre les cibles affecter par &lt;LSTag Type="Status" Tooltip="DW_STATUS_WORTHY_RIVAL"&gt;Digne Rival&lt;/LSTag&gt;.</content>
+	<content contentuid="hb2ef62bfgdb2eg42a8g998bg8820340382a9" version="1">Celui-là Me Doit de l'Or !</content>
+	<content contentuid="h233f3318g2706g422fga2b8g6e730b57ea12" version="1">Vous ne pouvez pas être ciblé tant que vous n'attaquez pas ou ne blessez pas une créature. Vous pouvez toujours subir des dégâts de sorts de zone.</content>
+	<content contentuid="he00dc801g34ffg4665gbbf5gdf10bb652afa" version="1">Faisons un Marché</content>
+	<content contentuid="hf306b3d1g1207g4a68g8d8cgc5362d50e6ba" version="1">"J'aime mes ennemis comme j'aime mes amants : enchaînés à mes pieds." - Lilith Corax, Héritière de la Maison Corax</content>
+	<content contentuid="ha32aa5d0gd4cfg408fga403g48c219b358f5" version="1">Piqûre de Loviatar</content>
+	<content contentuid="hf7233db1g5741g42e1g9339gbe321cfffae2" version="2">Vous devenez &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts Perforants, Tranchants et Contondants, mais vos attaques avec des armes de mêlée infligent [1] de dégâts supplémentaires. Ce montant passe à [2] si vous ne portez pas d'armure.</content>
+	<content contentuid="h138de46bg51ffg4a23gaa5ag0c824cd6cfb8" version="1">Partager la Douleur</content>
+	<content contentuid="hc968f3a8gf1b8g400ag82d5g8e17c39a1fc1" version="1">Immobilisez votre cible avec l'Amour de Loviatar, la &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restreignant&lt;/LSTag&gt; jusqu'à 3 tours.</content>
+	<content contentuid="hed6173e6g5e16g4761g86fdg7fd6e7342e48" version="1">Chaînes Adorables</content>
+	<content contentuid="ha44ba1cdg6458g4e3fg94c1g04d8d587855f" version="1">Si le porteur a &lt;LSTag Type="Status" Tooltip="GOB_CALMNESS_IN_PAIN"&gt;l'Amour de Loviatar&lt;/LSTag&gt; activé, les attaques avec cette arme peuvent &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Entravé &lt;/LSTag&gt; sa cible.</content>
+	<content contentuid="h187470f0g4980g4e7cgb8ffgaf098190aa43" version="1">Apprendre à la Dure</content>
+	<content contentuid="h26c32a55gde60g476dgba5fg2589723fd14a" version="1">"Mon frère l'a abandonné quand il a quitté Menzoberranzan à la poursuite de cette salope. Et pour une fois, je ne parle pas d'Eilistraee." - Lilith Corax, Héritière de la Maison Corax</content>
+	<content contentuid="h4414a981g0cf2g4093g87fbgc2484339f514" version="1">Héritage de Corax</content>
+	<content contentuid="h4d799abag44cag4c81gaf3aga1ccc60dd40b" version="1">Lorsque vous utilisez &lt;LSTag Type="Passive" Tooltip="DW_Menzoberranzan_Fencing_Passive"&gt;l'Escrime de Menzoberranzan&lt;/LSTag&gt;, les attaques avec des armes de mêlée infligent 2 dégâts supplémentaires. De plus, les ennemis ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur leurs &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; contre &lt;LSTag Type="Status" Tooltip="DW_STATUS_WORTHY_RIVAL"&gt;Digne Rival&lt;/LSTag&gt; et vous pouvez l'utiliser à chaque tour.</content>
+	<content contentuid="h1df7cda0gf690g4244gae61ge90983b3cfb8" version="1">Fierté de l'Escrimeur</content>
+	<content contentuid="h45bd101fg8b76g4b0agb638gf96cf8c341bf" version="1">Cette arme revient dans votre main lorsqu'elle est lancée, et vous ne pouvez pas être forcé de la lâcher.</content>
+	<content contentuid="h3004d3b6gc228g47a4gb1f5g0019f13f4f3a" version="1">Fiable</content>
+	<content contentuid="h057986a0g858cg4bbdg8408ge66236805613" version="1">Déchaînez une chaîne de frappes à grande vitesse, attaquant jusqu'à [1] ennemis à la fois.</content>
+	<content contentuid="h9ae0b8c3g4ea1g4417gbe2agadfae2625e21" version="1">Pluie de Duel</content>
+	<content contentuid="ha51ab445g22c0g4bfaga6ceg3a030bb7f181" version="1">"Parfois, la meilleure défense est une bonne attaque, et parfois vous voulez juste vous amuser." - Saurius Nightblade, Garde du corps de la Maison Corax</content>
+	<content contentuid="h91ea78adgedb5g4fa5gbb81ged2a97b9da21" version="1">Soif de Sang</content>
+	<content contentuid="h9de1a2ccg225cg4f62gb5a9gcc9254c677e3" version="1">Lorsque vous tuez une cible avec cette arme, vous entrez dans une &lt;LSTag Type="Status" Tooltip="DW_STATUS_KILLINGSPREA"&gt;Folie Meurtrière&lt;/LSTag&gt; pour 3 tours. Cet effet peut se cumuler jusqu'à 10 tours.</content>
+	<content contentuid="hfac0fe26g60bag40eegb821gfe0f03265a63" version="1">Sceau du Massacre</content>
+	<content contentuid="h660d5cc8g2ebeg48adg9399gd54fcc7f7dcb" version="1">Votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est réduite de 1, et vos &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque de Mêlée&lt;/LSTag&gt; ainsi que vos dégâts sont augmentés de 1. Ces effets sont multipliés par le nombre de tours restants de Folie Meurtrière.</content>
+	<content contentuid="h4ad9cef4g5fd6g44bcg96d3gc5a180c60737" version="1">Folie Meurtrière</content>
+	<content contentuid="h515d325ag758dg45cegb0c7g8daedf666bde" version="1">Lorsque vous utilisez &lt;LSTag Type="Passive" Tooltip="DW_Menzoberranzan_Fencing_Passive"&gt;l'Escrime de Menzoberranzan&lt;/LSTag&gt;, votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est réduite de 2 et lorsque vous obtenez un résultat de 2 ou moins pour les dégâts, vous relancez le dé et prenez le résultat le plus élevé. De plus, le résultat nécessaire pour obtenir un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; en attaquant est réduit de 1. Ce nombre passe à 2 si vous ne portez pas d'armure.</content>
+	<content contentuid="h62ca5fa8g323dg4a4bgb8f1g34a10abfa364" version="1">Escrime de Combat de Fosse</content>
+	<content contentuid="h3655981ag5ab8g498fg8fd9g50a73ad037e0" version="1">"Tant que je vivrai, je n'oublierai jamais le massacre que j'ai vu à Aslanfell, ni les visages des survivants dont la santé mentale a été à jamais touchée." - Lithien Echginiel, Capitaine des Moonrangers</content>
+	<content contentuid="h062a4395g925dg41d8g8312g3c4215944161" version="1">Mort Glaciale</content>
+	<content contentuid="hc97fefe3gb3e4g496cga059g625f59b2843f" version="1">Rempart glaciale</content>
+	<content contentuid="hceb4a3fdgb3f7g4990gbb10gb2397f7be2fc" version="2">La rapière crépite d'énergie glaciale. Les attaques avec cette arme infligent [1] de dégâts supplémentaires. Ce bonus passe à [2] si vous ne portez pas d'armure. (Vous pouvez activer ou désactiver cette option.)</content>
+	<content contentuid="h14572a93gcdffg4ab0g8da1gfb436dd41825" version="1">Cœur Gelé</content>
+	<content contentuid="hcee218dagf204g4546g8350g2f78fd4b277b" version="2">Vous infligez [1] de dégâts supplémentaires aux cibles affecté par &lt;LSTag Type="Status" Tooltip="DW_STATUS_WORTHY_RIVAL"&gt;Digne Rival&lt;/LSTag&gt;. Si &lt;LSTag Type="Passive" Tooltip="DW_Frozen_Heart_Passive"&gt;Cœur Gelé&lt;/LSTag&gt; est actif, vous infligez également [2] de dégâts supplémentaires. Lorsque vous tuez une cible avec cette arme, tous les ennemis proches peuvent être &lt;LSTag Type="Status" Tooltip="TERRIFIED"&gt;Terrifiés&lt;/LSTag&gt;.</content>
+	<content contentuid="h829f11cdg649cg43b0ga599g1425989dd411" version="1">Promesse de Mort</content>
+	<content contentuid="hdd1edaaeg794dg4ce3g99d7g45a27890aa4b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite l'Escrime de Menzoberranzan</content>
+	<content contentuid="h3b345b0dge99eg45b9ga324g7b9837c00a2d" version="1">Cet objet brille d'une lumière rayonnante dans un rayon de [1]. Les alliés dans la lumière ont +2 aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque à Distance&lt;/LSTag&gt;, &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SkillCheck"&gt;Tests de Perception&lt;/LSTag&gt; et peuvent &lt;LSTag Type="Status" Tooltip="SEE_INVISIBILITY"&gt;voir les cibles invisibles&lt;/LSTag&gt;. (Vous pouvez activer ou désactiver cette option.)</content>
+	<content contentuid="hf55d34dcg680eg4d4aga473g2e0e1e86c9eb" version="1">Lumière de la Vierge Noire</content>
+	<content contentuid="h2102a329g0609g467bgb747gb2713a79622b" version="1">"Passe ton épée sur mes chaînes, Dame d'Argent, que je puisse rejoindre ta danse." - Prière d'Eilistraee</content>
+	<content contentuid="h8b56cfc6gfcc1g4a7fg917cgdc446029a236" version="1">Les alliés dans la lumière ont +2 aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque à Distance&lt;/LSTag&gt;, &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SkillCheck"&gt;Tests de Perception&lt;/LSTag&gt; et peuvent &lt;LSTag Type="Status" Tooltip="SEE_INVISIBILITY"&gt;voir les cibles invisibles&lt;/LSTag&gt;.</content>
+	<content contentuid="h43a1a0d1ge664g4f04ga6cdg43fbcb47171a" version="1">Guide d'Eilistraee</content>
+	<content contentuid="hc1af28ebgb389g43b7gaa15g25c300cf1b03" version="1">Si le Guide d'Eilistraee est actif, les attaques avec cette arme peuvent infliger &lt;LSTag Type="Status" Tooltip="GUIDING_BOLT"&gt;Rayon traçant&lt;/LSTag&gt;.</content>
+	<content contentuid="hac071d43g48f3g4a09ga6ceg4e84806d5126" version="1">Marque du Mal</content>
+</contentList>
