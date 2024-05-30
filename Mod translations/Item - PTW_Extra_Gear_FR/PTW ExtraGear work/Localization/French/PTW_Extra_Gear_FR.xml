@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h198a72e7gbf5fg4f84gad0ag8fd5c33ba497" version="1">Equipement de l'aventurier</content>
+	<content contentuid="h8c528b14g58d1g40b8g88b8gd2e1beb19742" version="1">Equipement de l'aventurier (coupe basse)</content>
+	<content contentuid="hb16ec0b6ge5c9g4edcg818eg658990348cb9" version="1">Equipement de l'aventurier (ceintures Bandit)</content>
+	<content contentuid="h362bcd82gcb18g44f3gb01dg319ed459337d" version="1">Equipement de l'aventurier (coupe basse, ceintures de bandit)</content>
+	<content contentuid="h616b81f5g5e8dg43beg9b68g6ef9300aa627" version="1">Cette tenue a quelque chose de la rebelle au sang bleu, de la princesse ou du prince bandit qui vole le butin et les cœurs.&lt;br&gt;&lt;br&gt;Nouveaux visuels pour les personnes qui n'aiment pas les humains forts.</content>
+	<content contentuid="hba464d46g9231g4b4ag9f2dg338577795e1a" version="1">Bottes de l'aventurier</content>
+	<content contentuid="hdde5dbceg2889g4147gb57dg5836f206012a" version="1">À semelle fine et très souples, ces bottes ont tout connu.</content>
+	<content contentuid="h80aaa1e9gc434g404cga608g0fa55a8aaa0f" version="1">Tunique de mage</content>
+	<content contentuid="hc9bf2c60gb32dg4f5cgac74gc38640312f58" version="1">Tunique de mage (à capuchon)</content>
+	<content contentuid="h8e173386gb031g443dgafe8g13872dcf4dce" version="1">L'intérieur de cette tenue est sombre et facetté comme du verre volcanique, mais la matière est légère et douce. Contre la peau, il produit une chaleur semblable à celle d'un feu de cheminée un jour de neige.&lt;br&gt;&lt;br&gt;Nouveaux visuels pour les femmes humanlikes non fortes.</content>
+	<content contentuid="hc546fd5bg4863g4931gbbc4g1981e7a91046" version="1">Peignoir usé</content>
+	<content contentuid="h8b60f344g2a34g4140g80degd91544bd9b11" version="1">Robe en soie</content>
+	<content contentuid="hc88d417cg18fdg4082g86edgb32f4bb24896" version="1">Fabriquée avec soin, cette robe vous protègera des intempéries. Elle ne pourra cependant pas faire grand-chose contre les coups d'épée.&lt;br&gt;&lt;br&gt;Visuels adaptés à toutes les morphologies.</content>
+	<content contentuid="hdcfd45c7gf825g4250gb016g55249cde822c" version="1">Plastron à collier de fourrure</content>
+	<content contentuid="h94ac9055g0061g4313gb538g85bb42dbbc67" version="1">Ce plastron est fabriqué dans le style spécialisé d'un mystérieux armurier d'Amn connu uniquement sous le nom de "Tailleur".</content>
+	<content contentuid="hf7a1cff8g6db6g4122g9167g09e09d63dbaf" version="1">Chemise à chaînes Mystran</content>
+	<content contentuid="hd8596fecgaba9g4607gb102gb410372d8d74" version="1">L'assemblage incroyablement fin et serré de ce courrier indique le travail de doigts de gnomes.&lt;br&gt;&lt;br&gt;Autres visuels de chemise à chaîne pour les femmes humanlikes non fortes.</content>
+	<content contentuid="h0361173ag9a30g4ed1gbcf6g7a6476a5b551" version="1">Lorsqu'un ennemi endommage le porteur, celui-ci gagne &lt;LSTag Type="Status" Tooltip="MAG_VIOLENCE"&gt;Wrath&lt;/LSTag&gt; pour 2 tours.</content>
+	<content contentuid="h8bf652c9g933ag4ff7gb84dg2741a4620813" version="1">Lorsque vous lancez un sort qui nécessite de la concentration, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt; pour [1] tours. &lt;br&gt;&lt;br&gt;Pendant que vous vous concentrez, vous ne pouvez pas être renversé &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; ou être déplacé contre votre volonté.</content>
+	<content contentuid="h7141352cgd4c3g4a9bg8ff8g4f59476bd1f3" version="1">Armure de plaque Astrale</content>
+	<content contentuid="h7bb406dbg7e54g45dag83e1g015a41ffb544" version="1">Fabriquée à partir de métaux étranges et constellée de rubis vibrants, cette armure semble étonnamment légère, comme si un soupçon de magie astrale suspendait son poids.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour les Githyanki et les Humains non forts.</content>
+	<content contentuid="h228621f3g464eg4f3eg94c8g89a26f083535" version="1">Persistance Astrale</content>
+	<content contentuid="hdb1fdda3g6ae4g4946g8dafg2892b2e6ccc7" version="1">Gants de plaque Astrale</content>
+	<content contentuid="ha8992c5dgdc9eg4bb1gbf14gd4eb87d835e9" version="1">Les entailles au bout des doigts de ces gants sont cerclées de minuscules météorites, tapissées de la riche lumière rouge de la flamme astrale.</content>
+	<content contentuid="hdd5d64d2g028ag46e8ga57agf7e035b30e90" version="1">Bottes de Plaque Astrale</content>
+	<content contentuid="hf7382bb6g26b9g404egbd5eg5a39cb25fdfc" version="1">Éraflées par endroits, roussies à d'autres et usées au niveau du talon, ces bottes portent les marques indélébiles de l'expérience.</content>
+	<content contentuid="h099d31dbg1892g4d5bga81dgb225b78336db" version="1">Colère ardente</content>
+	<content contentuid="h40937371gb87ag4343gbe87g81ae453feb43" version="1">Lorsque vous êtes touché par un ennemi dans un rayon de [1], il peut subir [2].</content>
+	<content contentuid="h150a19e6g4e15g45afg9dfagfd49a1c56897" version="1">Armure de demi-plaque dorée (ancienne)</content>
+	<content contentuid="hdede8dcfgec7cg4a53g9ee7gea6cc016c948" version="1">Armure de demi-plaque dorée +1 (Ancienne)</content>
+	<content contentuid="h76ce5236g424dg4e41g93f3gf21196861ea4" version="1">Des couches d'acier fondu, façonné et forgé ont été gravées d'un or délicieusement lumineux. Malgré son aspect cérémoniel, ce plastron peut résister aux coups d'armes courantes sans subir la moindre égratignure.&lt;br&gt;&lt;br&gt;Visuels pour tous les humanlikes et les dragonnaux mâles. Utilise l'Armure de Plaque +1 Jupe.</content>
+	<content contentuid="h622eb09bg07f1g41a6g8b8fg888bacc280af" version="1">Des couches d'acier fondu, façonné et forgé ont été gravées d'un or délicieusement lumineux. Malgré son aspect cérémoniel, ce plastron peut résister aux coups d'armes courantes sans subir la moindre égratignure.&lt;br&gt;&lt;br&gt;Visuels pour tous les humanlikes et les dragonnaux mâles. Utilise la jupe de l'armure de plaques +2.</content>
+	<content contentuid="h90312d55g63fcg4269gad55g77cdf4801fe6" version="1">Gantelets dorés</content>
+	<content contentuid="h961c0694gdafag47a6gbfc2gb56ad806a74e" version="1">De délicates torsades de fer magique, minutieusement dorées, ont été façonnées pour former ces gantelets fortifiants.</content>
+	<content contentuid="he55e8e2dg6173g4c05g8eb6g5e17d0fc7dc8" version="1">Grèves Dorée</content>
+	<content contentuid="hb4b752d9g7240g4821ga06dg0a1e9a844164" version="1">Le métal de ces cretons est agréablement chaud contre vos tibias, comme s'il était chauffé par votre simple présence.</content>
+	<content contentuid="h646d8903gf38cg4fffg9510g9875cd90e956" version="1">Cercle menaçant</content>
+	<content contentuid="h9deb67ceg528ag48e1gb51cg7f1bb84eb5f9" version="1">Manteau arcanique</content>
+	<content contentuid="h8e992be0g521bg4ddegb375ga10f3947cd7e" version="1">Que la route s'élève à votre rencontre, &lt;br&gt;Que le vent soit toujours dans votre dos.</content>
+	<content contentuid="he1198afeg11c1g4437gad5cg5518e292c8e8" version="1">Plus brillant que le soleil</content>
+	<content contentuid="hcb756b4fgbe27g4675g87adge8563c0225f0" version="1">De la lumière émane des volants de cette cape. Une créature qui endommage le porteur dans un rayon de [1] peut être enveloppée de &lt;LSTag Type="Status" Tooltip="FAERIE_FIRE"&gt;feu de la fée&lt;/LSTag&gt;.</content>
+	<content contentuid="h0aa1c820g2e76g406fga989ga11e30fa37f5" version="1">Plus vif que le vent</content>
+	<content contentuid="h6f97d6b1ga862g446dg9e38gee3892bd029e" version="1">Vous sentez un vent doux dans votre dos. Votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est augmentée de [1].</content>
+	<content contentuid="h2c7b00e2ge222g4b8bgb356g3cd9123e2d85" version="1">Gants Arcaniques</content>
+	<content contentuid="h0bfcac1bg49c2g4e90ga340g74667d19f39e" version="1">Caisse d'Armure</content>
+	<content contentuid="h6f36609eg35f2g4910gbcedgfd88236b7b84" version="1">Une solide caisse en métal. Les initiales E.G. sont estampillées sur son côté.</content>
+	<content contentuid="h6f3b432dg5845g46c1ga718gba4073a0d077" version="1">Draps d'Épaule Sauvages</content>
+	<content contentuid="h9869e287g2da4g4b42ga58fg2999031cfb4e" version="1">Fait de soie fine, cette cape décorative semble s'agiter sauvagement même dans la brise la plus légère.&lt;br&gt;&lt;br&gt;Une bande d'épaule pour les hommes, deux pour les femmes. Pas de physique pour les morphologies masculines robustes.</content>
+	<content contentuid="h4f1f7306g83e0g4e56gb929g62a62ca79c03" version="1">Armure de Plaque Lourde</content>
+	<content contentuid="h53745637g453bg4f74gb344g701bf186e6d0" version="1">De grandes plaques d'acier ont été martelées et frappées pour former une sorte de carapace, épaisse et dense - on peut presque sentir les coups de marteau, imprégnée de magie riche.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour tous les Humanlikes masculins et Dragonborn masculins. Pantalons de plaque, jupe originale (juste le haubert pour les Dragonborn mâles et les Humanlikes forts) sans physique.</content>
+	<content contentuid="hbfea56c1gaf0eg4f3bg8ab0gc6642e6bfa1c" version="1">Armure de Plaque Lourde (Asymétrique)</content>
+	<content contentuid="hd5b5abeegfb27g4e2bg86e3gaef08c075b82" version="1">De grandes plaques d'acier ont été martelées et frappées pour former une sorte de carapace, épaisse et dense - on peut presque sentir les coups de marteau, imprégnée de magie riche.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour tous les Humanlikes masculins et Dragonborn masculins. Pantalons de plaque, jupe d'Armure de Plaque +2 avec physique.</content>
+	<content contentuid="h569b67edg0700g48bcgbfceg1a13d64ecc71" version="1">Bottes de Plaque Lourde</content>
+	<content contentuid="hf67fe470g1dcdg488fga96bga527fc615f6e" version="1">Ces jambières dégagent une élégance tout en offrant une défense exceptionnelle contre toutes sortes de menaces.</content>
+	<content contentuid="hb2928671gfea4g46bcgab32g15e2c45d0480" version="1">Cape Riche</content>
+	<content contentuid="h9b7875f6gc6afg4011ga2c3g6f7b9e8d51e3" version="1">Draper dans cette cape opulente en fil d'or fait de vous une incarnation vivante de l'extravagance et de la haute société. Cependant, elle offre peu en termes de protection.&lt;br&gt;&lt;br&gt;A des poids/physiques médiocres pour certains types de morphologie.</content>
+	<content contentuid="ha6e8bdc6g8cedg40adga644g3a310470cf1e" version="1">Col en Fourrure de Cultiste (Cape)</content>
+	<content contentuid="h20693251g2ef4g4d7dg91c7gcc5ad9105d8f" version="1">Col en Fourrure de Cultiste (Coiffure)</content>
+	<content contentuid="hf078d121g8a27g4947gb07dg0a68fac11cdb" version="1">Cette mantille en fourrure vieillie transporte avec elle une aura étrange d'autorité.&lt;br&gt;&lt;br&gt;Visuels pour tous les types de morphologie.</content>
+	<content contentuid="hd8c010f0g134cg41c2gbddbg656b64a5edc1" version="1">Cape Opulente</content>
+	<content contentuid="h55087897gb103g4c2fg8e3eg219f9ec81956" version="1">Impressionnante et impeccable, cette cape est l'une des créations du maître Figaro qui n'a jamais vraiment pris.&lt;br&gt;&lt;br&gt;Visuels pour les Humanlikes minces et les Githyanki. NOTE : Les Humanlikes masculins utilisent le modèle de cape Githyanki Male, qui descend jusqu'aux épaules.</content>
+	<content contentuid="h553dee51g430ag4216g90e0gf5baa5df4d8a" version="1">Pour porter cette lourde cape tissée d'or errant et inutilisé, il faut que ses poches pèsent encore plus lourd.&lt;br&gt;&lt;br&gt;Visuels pour tous les types de morphologie.</content>
+	<content contentuid="h133d9c70g19c8g42a5gb44bgc7294a749639" version="1">Armure en Cuir Drow</content>
+	<content contentuid="hb28632f9gf3a4g45a0gae54gd9837d44f79b" version="1">Armure en Cuir Drow +1</content>
+	<content contentuid="h8cf1c29egd7edg43e0gb518g679db278666b" version="1">Souple, mais solide - cette armure fabriquée par les Drows se fond sans effort dans les ombres.&lt;br&gt;&lt;br&gt;Visuels pour tous les Humanlikes.</content>
+	<content contentuid="h303b040agb748g4f00ga288g753b0fc979b1" version="1">Cuir Drow</content>
+	<content contentuid="he9f5d1fbgae74g4765gb3a3ge9381053a925" version="1">Cuir du Pugiliste</content>
+	<content contentuid="h33a19d1cgefaag4b8ega72eg342c4970236d" version="1">A peine le sang tache l'armure qu'il est absorbé, comme s'il nourrissait quelque chose en elle.&lt;br&gt;&lt;br&gt;Visuels pour les Humanlikes et les Nains.</content>
+	<content contentuid="h51ae6ebcge07bg4846ga8d1g9498cf4d1983" version="1">Armure Briseuse d'Os</content>
+	<content contentuid="h79b712e4g165dg473dga174g262ae5346e40" version="1">Cette imposante armure est plutôt peu esthétique, bien que peu oseraient exprimer de telles opinions en présence du porteur.&lt;br&gt;&lt;br&gt;Visuels pour les Humanlikes et les Nains.</content>
+	<content contentuid="hae1214f8g8770g4c45ga201gec6d63c7bbe8" version="1">Bottes en Plaque de Cuir</content>
+	<content contentuid="h76ea4a6bg99c7g484egb7b6g9a7dc3767762" version="1">Sabatons Pointus</content>
+	<content contentuid="hdd191ce0g4f8ag4038g8508g8149229f882d" version="1">Égratignées à certains endroits, brûlées à d'autres, et usées à la semelle, ces bottes portent les marques indélébiles de l'expérience.&lt;br&gt;&lt;br&gt;Visuels pour les Humanlikes, les Dragonborn et les Nains.</content>
+	<content contentuid="he6c393f3g26e9g45a0g8c2eg506479b6a36f" version="1">Armure de Plaques Sharran</content>
+	<content contentuid="h1f4a5502g368cg4696ga2c9gad4b509a1aea" version="1">L'aspect de Shar se faufile à travers les motifs et les spallières de cette lourde armure de plaques, et toute lumière projetée à proximité semble presque frémir en s'éloignant, effrayée.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour les Humanlikes minces.</content>
+	<content contentuid="hc15c9b9dg2120g408eg82e0g2dbc08355874" version="1">Armure de Plaques Sharran (Alt)</content>
+	<content contentuid="h956ae725g4a8bg4385g9d08g8fd59625f215" version="1">L'aspect de Shar se faufile à travers les motifs et les spallières de cette lourde armure de plaques, et toute lumière projetée à proximité semble presque frémir en s'éloignant, effrayée.&lt;br&gt;&lt;br&gt;Jupe alternative, visuels personnalisés pour les Humanlikes minces.</content>
+	<content contentuid="hd07a5547gfdbag4b15gabdbgafd58754a483" version="1">Bottes de Plaques Sharran</content>
+	<content contentuid="hf02965cdgf1f4g4085gb0cfg13f25d64f34b" version="1">Gantelets de Plaques Sharran</content>
+	<content contentuid="h255aa63fg42cfg4546g8579g91e4a29f26ba" version="1">Gantelets de Plaques Sharran (Alt)</content>
+	<content contentuid="h74ca4ae5gd71bg48b8g8940g3929f964c52b" version="1">Casque de Plaques Sharran</content>
+	<content contentuid="h5c259cd3gdc33g4c2eg977ag419b73031f2a" version="1">Orné d'un diadème éventail de pointes de lance, ce casque évoque un aspect effrayant, presque extraterrestre, qui fait référence à Shar. Car elle est étrange et terrible en effet.&lt;br&gt;&lt;br&gt;Casque ouvert pour les Humanlikes.</content>
+	<content contentuid="h69577880g983ag4b58ga354g33f19a847e92" version="1">Armure de Plaques Selunite</content>
+	<content contentuid="hd63ed678g9058g4d8dg9754g5db5e87e12a0" version="1">Que tous ceux sur qui ma lumière tombe soient les bienvenus s'ils le désirent.&lt;br&gt;Comme la lune d'argent croît et décroît, ainsi en va-t-il de toute vie.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour tous les Humanlikes et les Dragonborn mâles.</content>
+	<content contentuid="h680bbb64gaa5fg49a9gac7fg58682ca35d1f" version="1">Bottes de Plaques Selunite</content>
+	<content contentuid="h9a8a86e7g79b4g4395g8301g51c5d9100da7" version="1">Gantelets de Plaques Selunite</content>
+	<content contentuid="h97d9fae1g0ed2g4f06gb8f1gecb5b2dbf8a4" version="1">Casque de Plaques Selunite</content>
+	<content contentuid="h4f10112fgf20dg4449gac2ag0551cc6794cb" version="1">Armure de Plaques Dorées</content>
+	<content contentuid="hfc74fd29g55f5g4509g9f29gaf1480d7a9d5" version="1">Armure de Plaques Dorées +1</content>
+	<content contentuid="hc355223fgedcdg4e34g898bgd80e2b9e24e4" version="1">Des feuilles superposées d'acier fondu, façonné et forgé ont été gravées d'un or lumineux et sucré. Malgré son apparence cérémoniale, cette cuirasse peut encaisser des coups d'armes courantes sans subir la moindre égratignure.&lt;br&gt;&lt;br&gt;Visuels pour tous les Humanlikes, Githyanki et Dragonborn mâles. Utilise des épaulières de l'Armure de l'Agilité.</content>
+	<content contentuid="h91534ec5gcebbg49a2g998eg9b7438cce79d" version="1">Armure de Plaques Dorées (Alt)</content>
+	<content contentuid="h77fd9248gfb88g4c2egb0dfg34c2b574e91d" version="1">Armure de Plaques Dorées +1 (Alt)</content>
+	<content contentuid="h2e4494efgc238g4f57g89ccg7dd86767d198" version="1">Des feuilles superposées d'acier fondu, façonné et forgé ont été gravées d'un or lumineux et sucré. Malgré son apparence cérémoniale, cette cuirasse peut encaisser des coups d'armes courantes sans subir la moindre égratignure.&lt;br&gt;&lt;br&gt;Visuels pour tous les Humanlikes, Githyanki et Dragonborn mâles. Utilise des épaulières de l'Armure de Plaques.</content>
+	<content contentuid="h9dc44614g2228g401bg9c1cgfe2d3a67c1b3" version="1">Armure en Cuir Drow (Alt)</content>
+	<content contentuid="h8715018ag04c4g4425g8c71gb2f13bfa177b" version="1">Armure en Cuir Drow +1 (Alt)</content>
+	<content contentuid="h72d9515cg46bbg4742g877dg43b29019a177" version="1">Armure du Gardien de Nuit</content>
+	<content contentuid="hfa34f790g3fd0g434dgaae4gac21defba295" version="1">Armure du Gardien de Nuit (Alt)</content>
+	<content contentuid="h583ca505gef50g4debga10bg0816f49d2a64" version="1">Gantelets du Gardien de Nuit</content>
+	<content contentuid="ha922682fg250cg4ccegb6f3g4943f8e6fa1a" version="1">Gantelets du Gardien de Nuit (Alt)</content>
+	<content contentuid="had770514g606fg48c1gac01g8c18b6a234db" version="1">Bottes du Gardien de Nuit</content>
+	<content contentuid="hf227447eg486ag4002g8733gf66d66455436" version="1">Casque du Gardien de Nuit</content>
+	<content contentuid="hb1ad19d4ga8d1g4369ga56fgc368d49f36f0" version="1">Fabriquée par les mains d'un artiste, cette armure d'écailles exquise semble capable de détourner n'importe quelle lame.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour les Humanlikes féminins.</content>
+	<content contentuid="h927ab60fg781eg4f2aga478g01a1c9c8fbd8" version="1">Étoffes Monastiques</content>
+	<content contentuid="hbf0bf46dg3c37g43c4g9ef6g04e9527855dd" version="1">Étoffes Monastiques (Pantalon en Cuir)</content>
+	<content contentuid="h0eb433aeg9653g4f18g9cffgf3465159600b" version="1">Étoffes Monastiques (Sans Manches)</content>
+	<content contentuid="h8066e101gb657g465dg829fg1cf6d315716f" version="1">Étoffes Monastiques (Sans Manches, Pantalon en Cuir)</content>
+	<content contentuid="he2773107g9e94g4643ga820g6f540e3512a5" version="1">La condition impeccable de ce vêtement malgré des années d'entraînement martial témoigne d'un propriétaire extrêmement discipliné.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour tous les Humanlikes et Githyanki.</content>
+	<content contentuid="hc686ab37g5ee5g48bcgb618gc1e41d11a2f2" version="1">Cotte de Mailles en Acier Sombre</content>
+	<content contentuid="hd05c343ega289g4c9bg8b7ag0145ebcd5bfe" version="1">Fabriquée à partir de chaînes épaisses et robustes, lâchement ajustées, cette armure simple protège son porteur avec une trame impénétrable de métal enchanté.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour tous les Humanlikes et Dragonborn mâles.</content>
+	<content contentuid="h2997bb4bg35deg483egbe63g44624578a0e0" version="1">Chaîne en Acier Sombre</content>
+	<content contentuid="h700b273dg7ec5g470eg88e3g4fe623ce6bae" version="1">Vous subissez [1] de moins de dégâts tranchants et perforants. De plus, vous bénéficiez de la &lt;LSTag Tooltip="Résistance"&gt;Résistance&lt;/LSTag&gt; aux dégâts d'Acide.</content>
+	<content contentuid="h57106ab9g001cg4cd8gad94ga60a17bfafac" version="1">Armure de Harper</content>
+	<content contentuid="h66f6e893g6f6bg4aa9g928ag96a9a09c34c1" version="1">Armure de Harper (Alt)</content>
+	<content contentuid="h201ac550g7752g4886g8feege4a12d388ef0" version="1">Nous sommes les Harpers. Nous sommes les Protecteurs du Seigneur des Royaumes, Fous, tous ― mais les Dieux regardent et sourient glorieusement sur nous. &lt;br&gt;Pleurez pour nous, veillez sur nous et espérez en nous. Nous ne te décevrons pas.&lt;br&gt;&lt;br&gt;Visuels personnalisés pour les Humanlikes minces.</content>
+	<content contentuid="h89ff6aa4gdd24g4da6g8352gd472d2605e6d" version="1">Gants de Harpiste</content>
+	<content contentuid="hb45306b4g8055g4361g8653g7f6895f6aadb" version="1">Bottes de Harpiste</content>
+	<content contentuid="hdf38cc39g6901g46f8ga38eg9e449ff5f0d7" version="1">Capuche du Harpiste</content>
+	<content contentuid="h15106255g31edg429eg924fg88cd9528cb87" version="1">Tenue du Marcheur des Terres (Jupe A, Pantalon Simple)</content>
+	<content contentuid="h9b20adaeg4175g4d47gb20bg507132f8ef2d" version="1">Tenue du Marcheur des Terres (Jupe B, Pantalon Brodé)</content>
+	<content contentuid="hb497696bgdb4eg4306g83abg504bf3aef04c" version="1">Tenue du Marcheur des Terres (Sans Manches, Jupe A, Pantalon Brodé)</content>
+	<content contentuid="hca5352acg9f9ag4eb8gbf09ge86bde4ff2ca" version="1">Tenue du Marcheur des Terres (Sans Manches, Jupe B, Pantalon Simple)</content>
+	<content contentuid="hb497696bgdb4eg4306g83abg504bf3aef04c" version="1">Tenue du Marcheur des Terres (Sans Manches, Jupe A, Pantalon Brodé)</content>
+	<content contentuid="hca5352acg9f9ag4eb8gbf09ge86bde4ff2ca" version="1">Tenue du Marcheur des Terres (Sans Manches, Jupe B, Pantalon Simple)</content>
+	<content contentuid="hefcc6b26g5a47g48a3ga961gdf5dca8b158a" version="1">Le matériau de cette armure a la texture rugueuse d'une ronce et le parfum d'un jardin de roses au printemps.&lt;br&gt;&lt;br&gt;Visuels pour tous les Humanlikes.</content>
+	<content contentuid="h13702c45gafcag40efga167gb656192aca42" version="1">Courtes Bottes de Marcheur des Terres</content>
+	<content contentuid="h648be36bg9369g41b2ga095g10b214fdca8c" version="1">Gants de Marcheur des Terres</content>
+	<content contentuid="h59fd390eg48aag40d4g90b7g8cfc2313f3c0" version="1">Brassards de Marcheur des Terres</content>
+	<content contentuid="hcfc48760g550dg4edbgbc12gfbf12d3f9bd3" version="1">Andouillers de Marcheur des Terres</content>
+	<content contentuid="hfe9b92aeg02f3g41a7gbecag0d0f421ea66c" version="1">Armure d'Écailles Selunites</content>
+	<content contentuid="hd51e4421g8adbg4881gbb46g953232096fac" version="1">Bien des aventuriers se sont retrouvés engloutis par la sombre gorge d'un donjon sans nom, désirant un aperçu de la lumière. &lt;br&gt;&lt;br&gt;Visuels personnalisés pour les Humanlikes féminins minces.</content>
+	<content contentuid="h4be841bfged2ag47c4ga623g81be4c208638" version="1">Courte Cape</content>
+	<content contentuid="hd85d4e22gb746g4435g9bceg8ef85d726b8c" version="1">Faite de soie fine, cette cape décorative semble s'agiter sauvagement même à la brise la plus douce.</content>
+	<content contentuid="h6bcdba49gfc45g4dcbgbb70gfca26a4e3856" version="1">Enchantement Subtil</content>
+</contentList>
