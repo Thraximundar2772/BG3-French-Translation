@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Dependencies"/>
+                <node id="ModuleInfo">
+                    <attribute id="Author" type="LSWString" value="kusanagi942 / Thraximundar2772"/>
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSWString" value="Adds new Symbiotic Entity visuals and support for higher level Circle of Spores progression."/>
+                    <attribute id="Folder" type="LSWString" value="CircleofSporesEnhanced FR"/>
+                    <attribute id="GMTemplate" type="FixedString" value=""/>
+                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
+                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+                    <attribute id="MenuLevelName" type="FixedString" value=""/>
+                    <attribute id="Name" type="FixedString" value="Circle of Spores Enhanced FR"/>
+                    <attribute id="NumPlayers" type="uint8" value="4"/>
+                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="Tags" type="LSWString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Add-on"/>
+                    <attribute id="UUID" type="FixedString" value="b6f0701d-0c6d-4294-ba82-d15842fbcf27"/>
+                    <attribute id="Version64" type="int64" value="36028839968636928"/>
+                    <children>
+                        <node id="PublishVersion">
+                            <attribute id="Version64" type="int64" value="36028839968636928"/>
+                        </node>
+                        <node id="Scripts"/>
+                        <node id="TargetModes">
+                            <children>
+                                <node id="Target">
+                                    <attribute id="Object" type="FixedString" value="Story"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
