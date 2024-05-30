@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    <content contentuid="99c1e12b-c42a-4f5e-8f54-93a872203eff" version="1">Métamagie : Sort effrayant</content>
+    <content contentuid="99c1e12b-c42a-4f5e-8f54-93a872203eff" version="1">Métamagie : sort effrayant</content>
     <content contentuid="b658d6c8-84a4-4a7a-9052-0031bb1a1e2c" version="1">La cible est effrayée par le lanceur de sorts.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par sort.</content>
-    <content contentuid="bfef4598-bd6d-4323-a650-3d4c080bde78" version="1">Métamagie : Sort renforcé</content>
+    <content contentuid="bfef4598-bd6d-4323-a650-3d4c080bde78" version="1">Métamagie : sort renforcé</content>
     <content contentuid="18f6a18a-086e-492f-8ba7-f8fc342ecc6a" version="1">Augmente les dégâts en lançant deux fois le dé de dégâts de chaque sort et en gardant le plus grand.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par sort.</content>
-    <content contentuid="h13be03aagfbfdg40b5g94c8g792f43b18f9d" version="2">Métamagie : Sort renforcé</content>
+    <content contentuid="h13be03aagfbfdg40b5g94c8g792f43b18f9d" version="2">Métamagie : sort renforcé</content>
     <content contentuid="h579a28c1gd57ag4fddga371g4f4f852fb089" version="8">Augmentez le coût des sorts qui infligent des dégâts directs de [1] point de sorcellerie pour obtenir un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur leurs jets d'attaque.&lt;br&gt;&lt;br&gt;Vous pouvez utiliser Sort renforcé en supplément d'autres métamagies.</content>
-    <content contentuid="b67943af-2d75-4195-a419-0663f5d3d86d" version="1">Métamagie : Sort bénéfique</content>
+    <content contentuid="b67943af-2d75-4195-a419-0663f5d3d86d" version="1">Métamagie : sort bénéfique</content>
     <content contentuid="bd0082d0-8e05-4d59-8ff4-44ab10487803" version="1">Les sorts qui ont un des &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; obtiennent un bonus de [1]. &lt;br&gt;&lt;br&gt;Coûte [2] points de sorcellerie par sort.</content>
-    <content contentuid="0287fd8d-84da-4799-a59f-a6b5d75aa7f0" version="1">Métamagie : Sort maximisé</content>
+    <content contentuid="0287fd8d-84da-4799-a59f-a6b5d75aa7f0" version="1">Métamagie : sort maximisé</content>
     <content contentuid="f29e1f76-9c88-4dee-9923-81e924388937" version="1">Maximise les dégâts infligés par les sorts.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par niveau d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; utilisés.</content>
     <content contentuid="99519c8c-0611-47eb-936c-3e4f0c97a4e5" version="1">Dégâts maximisés.</content>
-    <content contentuid="689cae2f-e4ff-44cc-84ce-180aa6727a03" version="1">Métamagie : Sort perçant</content>
+    <content contentuid="689cae2f-e4ff-44cc-84ce-180aa6727a03" version="1">Métamagie : sort perçant</content>
     <content contentuid="259166d2-1d55-416e-82f8-20a96e4d4467" version="1">Permet aux sorts qui infligent des dégâts d'ignorer la résistance correspondante. Coûte [1] point de sorcellerie.</content>
-    <content contentuid="e04344f9-0869-41d5-9d20-f24436328a4d" version="1">Métamagie : Sort revigorant</content>
+    <content contentuid="e04344f9-0869-41d5-9d20-f24436328a4d" version="1">Métamagie : sort revigorant</content>
     <content contentuid="7c5a2258-ad8c-45b2-84d3-e14a32f06425" version="1">Les sorts qui ciblent une seule créature retirent les statuts &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralysé&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt;. Coûte [1] point de sorcellerie par sort.</content>
-    <content contentuid="e29c98b4-2cdd-4cf4-8025-fc4e74ed108c" version="1">Métamagie : Sort à tête chercheuse</content>
+    <content contentuid="e29c98b4-2cdd-4cf4-8025-fc4e74ed108c" version="1">Métamagie : sort à tête chercheuse</content>
     <content contentuid="a18df986-9ac8-4974-97b9-d1cf872daa08" version="1">Vous confère un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par sort.</content>
-    <content contentuid="0c593a86-7a4a-4b72-b4a0-c3a1e191211e" version="1">Métamagie : Sort tempétueux</content>
+    <content contentuid="0c593a86-7a4a-4b72-b4a0-c3a1e191211e" version="1">Métamagie : sort tempétueux</content>
     <content contentuid="b0bc6550-9678-4d3d-8530-fce9d32f77b6" version="1">Une tempête accompagnent vos sorts, repoussant vos ennemis. Les cibles sont repoussés de [1] et peuvent les faire tomber sauf s'ils réussisent un jet de sauvegarde en force. &lt;br&gt;&lt;br&gt;Coûte [2] points de sorcellerie par sort.</content>
-    <content contentuid="e38654de-fd40-4f34-96c6-25a5886af1a9" version="1">Métamagie : Sort triplés</content>
+    <content contentuid="e38654de-fd40-4f34-96c6-25a5886af1a9" version="1">Métamagie : sort triplés</content>
     <content contentuid="1468eac4-3b98-4861-9a24-579a9a78235e" version="1">Les sorts qui ne ciblent qu'une créature peuvent cibler deux cibles supplémentaires.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par niveau d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; utilisés. Les &lt;LSTag Tooltip="Cantrip"&gt;Sort mineurs&lt;/LSTag&gt; coûte [1] point de sorcellerie.</content>
     <content contentuid="abf47b5d-81df-4814-b1f5-2345f6252ac3" version="1">Pour les sorts qui n'envoient pas de projectile, les cibles doivent être suffisamment proches les unes des autres.</content>
-    <content contentuid="f483cb4e-5023-44a7-808e-9873d0e18cbe" version="1">Prouesse : Sort triplés</content>
+    <content contentuid="f483cb4e-5023-44a7-808e-9873d0e18cbe" version="1">Prouesse : sort triplés</content>
     <content contentuid="22df217f-83a3-4eb1-8c7d-ec0cd575906f" version="1">Les sorts qui ne ciblent qu'une créature peuvent cibler deux cibles supplémentaires.&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; utilisés mais draine la santé de l'incantateur. Les &lt;LSTag Tooltip="Cantrip"&gt;Sort mineurs&lt;/LSTag&gt; coûtent également [1] point de sorcellerie.</content>
     <content contentuid="961ab996-debe-488d-af38-dff37f2c29bb" version="1">Ciblez deux créatures de plus.</content>
-    <content contentuid="b15e99d6-d7ce-456e-a02e-f20c0727d8c5" version="1">Prouesse : Sort accéléré</content>
+    <content contentuid="b15e99d6-d7ce-456e-a02e-f20c0727d8c5" version="1">Prouesse : sort accéléré</content>
     <content contentuid="d18a0b55-dede-47dc-9b24-568b960bc55e" version="1">Les sorts canalisent l'énergie brute de la Trame à travers le corps du lanceur pour accélérer leurs sorts.&lt;br&gt;&lt;br&gt;Le processus consomme [1] point de sorcellerie mais blesse l'incantateur de [2] dégâts par niveau de sort.</content>
-    <content contentuid="500659dc-d664-43f2-9e44-cb9e9f99d1b4" version="1">Métamagie : Sort d'assistance</content>
+    <content contentuid="500659dc-d664-43f2-9e44-cb9e9f99d1b4" version="1">Métamagie : sort d'assistance</content>
     <content contentuid="d70fd724-0215-4c70-bfd9-215f3b82262c" version="1">Aide les ensorceleurs à déterminer si une fleur de Sussureau annihilie leur magie. &lt;br&gt;&lt;br&gt; Le coût des points de sorcellerie dépend du cas d'utilisation.</content>
 </contentList>
