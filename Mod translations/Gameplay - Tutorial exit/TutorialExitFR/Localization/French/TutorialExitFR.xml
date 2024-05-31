@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h8a03c9e3geb34g45begbf20gd974633e461b" version="1">Sortie de secours</content>
+	<content contentuid="hf891a628g1f41g45a3g981eg7e03f343377d" version="1">Téléporte hors du vaisseau, le sort est activable tant que vous êtes sur le vaisseau.&lt;br&gt;&lt;br&gt;Vous serez récompensés avec les objets suivants: (1x Épée Lame de Longueflamme, 100x pièces d'or, 1x Parchemin de Simulacre de vie, 1x Parchemin de Communication avec les morts, 6x potions de guérison)</content>	
+	<content contentuid="h74e25ef6g6314g4459g87ebgaac3aadb054a" version="1">Sauver Ombrecoeur</content>
+	<content contentuid="h18811ce6g7720g4ad9gad35gcfdbb2705bf2" version="1">Téléporte à Ombrecoeur, mais souvenez-vous, ce sort ne peut être utilisé qu'une seule fois. Vous la trouverez déjà sortie du caisson. Lui parler est optionnel. Vérifiez que la clé en or est dans votre inventaire, elle ouvre le reliquaire ouvragé. Le coffre de départ et le reliquaire ouvragé se trouvent près de la console.</content>
+	<content contentuid="hf9f781f8g8b3dg4081g9985g7c6d54b12fba" version="1">Sauver 'Nous'</content>
+	<content contentuid="hd129f5f4g9239g4376g8fd6g6426e06b6208" version="1">Téléporte au dévoreur d'intellect 'Nous', qui vous suivera automatiquement. Le sort n'est utilisable qu'une seule fois.</content>  
+
+	<content contentuid="h58240e6cg84ffg4c5bga240g405d65bfbaa1" version="1">Sauver Ombrecoeur est optionnel :&lt;br&gt;Parlez lui et acceptez qu'elle se joigne à vous si vous le souhaitez.&lt;br&gt;Ouvrez le reliquaire ouvragé pour gagner des points d'expérience.&lt;br&gt;Ensuite, utilisez le sort "Sortie de secours" pour quitter le niveau.</content>
+	<content contentuid="he200a766geea0g4d4bgaf5egb2262caa204c" version="1">Maintenant cliquez sur le Transponder&lt;br&gt;Vous quitterez le vaisseau et le tutoriel&lt;br&gt;Bonne aventure !</content>
+	<content contentuid="h35be50c2g63a1g4a86g840ag34c67b0698ea" version="1">Félicitations !&lt;br&gt;Vous avez libéré "Nous" et vous avez gagné un nouvel ami.&lt;br&gt;Parlez-lui (optionnel)</content>
+	<content contentuid="h52782fedga1d6g4cf3g91b8g4e3447830689" version="1">Ne soyez pas trop gourmand !!&lt;br&gt;Vous avez déjà eu assez de points d'expérience&lt;br&gt;et ce coffre ne vous en donnera pas d'autre.</content>
+</contentList>

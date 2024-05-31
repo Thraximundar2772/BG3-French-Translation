@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_WeaponTraining_Name" version="1">Entraînement aux armes</content>
+	<content contentuid="LHB_WeaponTraining_Description" version="1">Vous vous êtes longuement exercé au maniement de diverses armes, ce qui vous a permis d'obtenir les avantages suivants :
+- Augmentez votre Force ou votre Dextérité de 1, jusqu'à un maximum de 20.
+- Maitrîse de toutes les armes martiales</content>
+	<content contentuid="LHB_WeaponTraining_PassiveDescription" version="1">Vous vous êtes beaucoup entraîné avec différentes armes et avez acquis la maîtrise de toutes les armes martiales.</content>
+</contentList>
