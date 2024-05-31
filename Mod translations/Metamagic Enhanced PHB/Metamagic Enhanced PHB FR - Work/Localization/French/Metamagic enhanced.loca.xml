@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_Metamagic_Distant_Description" version="1">La portée des sorts autres que de mêlée est doublée. Les sorts de mêlée ont une portée de [3].&lt;br&gt;&lt;br&gt;Coûte [1] point de sorcellerie par sort.</content>
+	<content contentuid="LHB_Metamagic_Empowered_Description" version="1">Les sorts qui utilisent des emplacements de sorts supérieur à leur niveau de base gagnent un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Coûte 1 point de sorcellerie par sort.</content>
+	<content contentuid="LHB_Metamagic_Seeking_Name" version="1">Métamagie: sort à tête chercheuse</content>
+	<content contentuid="LHB_Metamagic_Seeking_Description" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; de vos sorts ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Coûte 2 points de sorcellerie par sort.</content>
+	<content contentuid="hdbe1358dg52f7g4826ga2aeg188985988092" version="1">Vous pouvez utiliser cette métamagie en supplément d'autres métamagies.</content>
+	<content contentuid="LHB_MetamagicAdept_Name" version="1">Adepte de la métamagie</content>
+	<content contentuid="LHB_MetamagicAdept_Description" version="1">Vous apprenez deux options de métamagie de votre choix de la classe de ensorceleur. 
+
+De plus, vous gagnez 2 points de sorcellerie à dépenser en métamagie. Vous regagnez ces points de sorcellerie à la fin d'un long repos.</content>
+	<content contentuid="LHB_Spellseeking_Name" version="1">Bénédiction du chercheur de sort</content>
+	<content contentuid="LHB_Spellseeking_Description" version="1">Les gants puisent dans votre lignée magique pour augmenter votre limite de &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Point de sorcellerie&lt;/LSTag&gt; de 1.</content>
+</contentList>
