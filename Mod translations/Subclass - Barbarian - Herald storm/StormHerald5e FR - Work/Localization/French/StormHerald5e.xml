@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="stormherald5e" version="1">Héraut des tempêtes</content>
+	<content contentuid="stormherald5edescript" version="1">Les barbares qui suivent la voie du héraut des tempêtes apprennent à transformer leur rage en un manteau de magie primale qui tourbillonne autour d'eux. Lorsqu'ils sont en fureur, les barbares de cette voie puisent dans les forces de la nature pour créer de puissants effets magiques.</content>
+	<content contentuid="h478d4258gb846g4daeg8981g614f203d1ea4" version="1">Aura de tempête</content>	
+	<content contentuid="h3ab32fe1gc926g4d91g97dfgd1e9ac4904b1" version="1">Votre aura possède un effet qui s'active lorsque vous entrez en &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, et vous pouvez réactiver l'effet à chacun de vos tours par une &lt;LSTag Tooltip="BonusAction"&gt;Action bonus&lt;/LSTag&gt;. L'effet de votre aura dépend de l'environnement choisi, comme détaillé ci-dessous. Votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de la caractéristique d'incantation&lt;/LSTag&gt; est la constitution pour les effets de votre aura qui demande un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="hfc7a2f31g3665g46f2g9e8bg95b692f5a0b5" version="1">Désert</content>	
+	<content contentuid="h9ad4c267g76c1g40e7gbaebge063a69a27b0" version="1">Mer</content>	
+	<content contentuid="h11872a75gba9bg4d86g8176g8157a9a3b723" version="1">Toundra</content>	
+	<content contentuid="h3342dda2g9eaag48c0gbbdbge1ce6b248300" version="1">Vous émanez une aura magique de tempête pendant que vous êtes en rage.</content>	
+	<content contentuid="hc9cc2a8cgcc7bg44b3g9b90g0c46d1f31d34" version="1">Rage (Désert)</content>	
+	<content contentuid="h8cc1b149ga4f8g4b00g80a5g3722c1b0b0b8" version="1">Vous pouvez utiliser votre rage pour dégager une aura magique, faisant appel à la chaleur brûlante des déserts arides.</content>
+	<content contentuid="hd7e0010bge516g4cacg8ac0g4bda77290b7d" version="1">Inflige [1] points de dégâts supplémentaires avec les armes de mêlée et les armes improvisées utilisant la Force.&lt;br&gt;&lt;br&gt;&lt;b&gt;Aura de tempête (Désert) : &lt;/b&gt;Émaner une aura magique tempétueuse dans un rayon de [2] qui inflige [3] de dégâts à toutes les autres créatures à portée lorsque vous entrez en rage.</content>
+	<content contentuid="h902ccc30g7b60g43aag9604gcd28b65c4e5a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Votre aura de feu inflige 2 dégâts et augmentent lorsque vous atteignez certains niveaux dans cette classe, passant à 3 au niveau 5, 4 au niveau 10, 5 au niveau 15 et 6 au niveau 20.</content>	
+	<content contentuid="hf4ad3363g488dg4415gb337gd32f8566b2b7" version="1">Activation de l'aura de tempête</content>	
+	<content contentuid="h85a2b64bg2d90g4390ga79fg8154ed246b0b" version="1">Infligez [1] de dégâts toute les créatures à portée de votre Aura de tempête.</content>	
+	<content contentuid="hc4463250g7027g4d4bg8d49ge6f7228cea66" version="1">Rage (Mer)</content>	
+	<content contentuid="hb7efa71fg262ag4a63g809cg05157115bb00" version="1">Vous pouvez utiliser votre rage pour dégager une aura magique, faisant appel à la foudre des côtes ravagées par les tempêtes.</content>
+	<content contentuid="h43d23f9cg3776g4474gaa7fg06152d8a0cce" version="1">Inflige [1] points de dégâts supplémentaires avec les armes de mêlée et les armes improvisées utilisant la Force.&lt;br&gt;&lt;br&gt;&lt;b&gt;Aura de tempête (Mer) : &lt;/b&gt;Émaner une aura magique tempétueuse dans un rayon de [2] qui inflige [3] de dégâts à une créature de votre choix à portée lorsque vous entrez en rage.</content>
+	<content contentuid="h7610c68bg66dag4e11gbee1gaa2fee399989" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Votre aura de foudre inflige 1d6 de dégâts et augmentent lorsque vous atteignez certains niveaux dans cette classe, passant à 2d6 au niveau 10, 3d6 au niveau 15 et 4d6 au niveau 20.</content>	
+	<content contentuid="he18565f9g6143g4352g8f0fgd1a6dc6bd5ed" version="1">Infligez [1] de dégâts à une créature à portée de votre Aura de tempête.</content>
+	<content contentuid="hc1447e18g24fbg45c2g8fdcg9ee26f25bc6a" version="1">Enchaînement de l'aura de la mer</content>	
+	<content contentuid="h125755f5g1224g4377g90d9gbdc474573f4f" version="1">Rage (Toundra)</content>	
+	<content contentuid="hc17bd525g9bd4g4b91g8427gc89d378b5eb4" version="1">Vous pouvez utiliser votre rage pour dégager une aura magique, faisant appel au froid des étendues gelées du bout du monde.</content>
+	<content contentuid="h74878e37g8469g447dg9309gc2f2fc53a766" version="1">Inflige [1] points de dégâts supplémentaires avec les armes de mêlée et les armes improvisées utilisant la Force.&lt;br&gt;&lt;br&gt;&lt;b&gt;Aura de tempête (Toundra) : &lt;/b&gt;Émaner une aura magique tempétueuse dans un rayon de [2] qui vous donne des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt; à vous et vos alliés à portée lorsque vous entrez en rage.</content>
+	<content contentuid="h36494ad5gf6b3g438ag8a8cg508868e1b9a0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Les points de vie temporaires obtenus sont de 2 and augmentent lorsque vous atteignez certains niveaux dans cette classe, passant à 3 au niveau 5, 4 au niveau 10, 5 au niveau 15 et 6 au niveau 20.</content>	
+	<content contentuid="h790d9830ge0c9g42d4g8fc5g279e35610de9" version="1">Vous obtenez ainsi que tous les alliés au sein de votre Aura de tempête des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt;.</content>		
+	<content contentuid="h801588e4g3ec1g4db4g8228gc694fe99a7cd" version="1">Changement d'aura de tempête</content>
+	<content contentuid="he8a71119g1803g4835g9c5agca71ade939cf" version="1">Vous pouvez modifier l'environnement choisi pour votre Aura de tempête.</content>
+	<content contentuid="h237a864dgee6cg4aa7gb604g8ca886878e17" version="1">Âme des tempêtes</content>	
+	<content contentuid="h8f54dcacg0f9fg4488g9777g4a377e95ae28" version="1">Votre &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Aura de tempête&lt;/LSTag&gt; vous accorde certains avantages en fonction de l'environnement que vous avez choisi, même s'il n'a pas été activé.</content>	
+	<content contentuid="h8666a6c0g4e54g4887g8c24g239be39e1e43" version="1">Est &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de feu et ne peut pas être &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlé&lt;/LSTag&gt;.</content>	
+	<content contentuid="h34bd6967geeb6g4f82ga935g1b670c52e718" version="1">Enflammer un objet</content>	
+	<content contentuid="h0b73b42egb95dg41cfg8313g946b7cbefee2" version="1">Toucher un objet inflammable qui n'est pas porté ou transporté par quelqu'un d'autre., &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlez&lt;/LSTag&gt; le.</content>
+	<content contentuid="hfede5162g5cd0g40f0gb690g3280cce61f81" version="1">Est &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de foudre et ne peut pas être &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Foudroyé&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; Votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de mouvement&lt;/LSTag&gt; augmente de [1] lorsque vous vous tenez debout sur des surfaces d'eau.</content>	
+	<content contentuid="hc6bbaa96g3418g4bf8g97abgd36463fae708" version="1">Est &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de froid.&lt;br&gt;&lt;br&gt;Vous obtenez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les jets de sauvegarde pour éviter de glisser sur les surfaces gelées.</content>	
+	<content contentuid="hecdd2e1ag427fg490eg9aa7g5af1819b4213" version="1">Eau gelée</content>	
+	<content contentuid="h35b4ccfdgb85ag4dbcgb8aagbb3265cda7a6" version="1">Toucher une surface mouillée de [1] et geler la.</content>
+	<content contentuid="h0014259cg72bfg40a4g96e4gfa06ae2422cb" version="1">Tempête protectrice</content>
+	<content contentuid="hb1e77ca3g8fa0g4a7fga48bg3f872b6aeae7" version="1">Les alliés dans le rayon de votre &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Aura de tempête&lt;/LSTag&gt; obtiennent &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; conféré par &lt;LSTag Type="Passive" Tooltip="StormSoul"&gt;Âme des tempêtes&lt;/LSTag&gt;.</content>
+	<content contentuid="he663023fg7349g4253g9aa6g79d9d0be1114" version="1">Protégé par la tempête</content>
+	<content contentuid="h1e2ede14g7972g4d47gb508g32ba34be7bff" version="1">Toutes les créatures de votre choix situées dans votre Aura de tempête obtiennent la résistance aux dégâts que vous avez acquis grâce à la capacité Âme des tempêtes.</content>
+	<content contentuid="h6686fe78g16b6g40cbga189g5c1fd1ff2fdf" version="1">Tempête déchaînée</content>
+	<content contentuid="he3254981gdbbbg4761gb4abg0eeb2303815a" version="1">Vous pouvez faire appel à la puissance de votre &lt;LSTag Type="Status" Tooltip="STORMAURA_DESERT"&gt;Aura de tempête&lt;/LSTag&gt; en utilisant votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour frapper les ennemis à portée.</content>
+	<content contentuid="h865b2400ge671g4fe3g8c98gedec8612d7b4" version="1">Déclenche une vague de tonnerre qui peut faire tomber votre cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;.</content>
+	<content contentuid="h6ecbbb20g8232g4f68ga647g5a03cf81a309" version="1">Tente de recouvrir votre cible de givre magique, réduisant sa vitesse de déplacement à 0.</content>
+	<content contentuid="hfd06be17g7d0ag4872g93c2g3c04b347595f" version="1">Couvert de glace</content>
+	<content contentuid="h7a41a753ga360g4dfdgafddg0ccee2442aa3" version="1">La cible ne peut pas bouger.</content>
+	<content contentuid="h95efa0b2g9dc5g4586gba0agdbb7fbcbde7e" version="1">La cible n'était pas dans l'aura lorsqu'elle a été activée.</content>
+	<content contentuid="h72ad9b4fg399fg404bg9086gc3c4f378c871" version="1">Esprits de la glace</content>
+	<content contentuid="h0bc4ee5cg0a11g49d8g9b87ge0cd3045ca1c" version="1">La cible obtient des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt; par les esprits de la toundra gelée.</content>
+
+</contentList>
+
