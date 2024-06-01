@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h279ddcacgcaebg44a5gb300ga5fd0e5cd659" version="1">Boucliers Extras</content>
+	<content contentuid="hb989894cg3953g4856ga7bag8b44481e5196" version="3">Extras dans tous les sens du terme</content>
+	<content contentuid="h9e604f5aged38g4367gb2f2g2f450201bb58" version="1">Bouclier céleste (Or)</content>
+	<content contentuid="h45dcd50ag55c0g44e2g862cg6f1aaed64ce7" version="1">Bouclier céleste (Argent)</content>
+	<content contentuid="hdf8f8900g39fbg454bgaa76g3b15c9fd0f26" version="3">Ce bouclier offre une protection inégalée, canalisant l'énergie divine pour protéger son porteur.</content>
+	<content contentuid="h0db17f70gc4efg4f17g95c8gb549e3440b5d" version="1">Bouclier de la Sentinelle Divine (Or)</content>
+	<content contentuid="hc7d84cfag1969g4abdga57dg4d668f814113" version="1">Bouclier de la Sentinelle Divine (Argent)</content>
+	<content contentuid="h68d82f85gf1c2g4853gb9cbg4a378507456d" version="3">Fortifié d'un pouvoir sacré, ce bouclier élève votre défense à des niveaux divins.</content>
+	<content contentuid="hcbe32a2egc802g44b5ga226g992127861270" version="1">Bouclier du Dragon (Or)</content>
+	<content contentuid="haab02ddbgcc4fg41ecg8e66g6413203448e7" version="1">Bouclier du Dragon (Argent)</content>
+	<content contentuid="h442c4637g0ffdg40efgbe50g1d9447728b5b" version="3">Avec son essence draconique, ce bouclier assure une force et une protection impressionnantes.</content>
+	<content contentuid="h035d890fgd934g4901ga3b5gdf20e037ca5f" version="1">Bouclier du Saint Guerrier (Or)</content>
+	<content contentuid="hee6f8491g2ad1g4becg8c0fg2a0f292b9cd5" version="1">Bouclier du Saint Guerrier (Argent)</content>
+	<content contentuid="h5828ea98g536fg4a0fg9a74gb8b373f9a813" version="3">Rayonnant de sainteté, ce bouclier offre une défense inégalée contre toutes les formes d’obscurité.</content>
+	<content contentuid="hc4c2f1bfg065cg4734gb2cdg44182eb36ba4" version="1">Bouclier du Noble Chevalier (Or)</content>
+	<content contentuid="h56776504g20c2g4261g87a5g304d8d1fe388" version="1">Bouclier du Noble Chevalier (Argent)</content>
+	<content contentuid="hbe2b677fg6d94g441cga7d1g8a1f1b233dd0" version="3">Incarnant l'esprit de chevalerie, ce bouclier offre une protection exceptionnelle dans tout conflit.</content>
+	<content contentuid="hc20d68dbg7833g4f61ga410g6bb564e3e708" version="1">Bouclier de la Garde Royale (Or)</content>
+	<content contentuid="h86dbc171g497ag4bafg9cf7g0187c7cab296" version="1">Bouclier de la Garde Royale (Argent)</content>
+	<content contentuid="hb9a3cf00g828eg482fgb5eagf3594b81b3b6" version="3">Ce bouclier symbolise la loyauté et la force, offrant une protection inébranlable aux défenseurs royaux.</content>
+	<content contentuid="h4b700c0bg4c8eg4bb6ga01fg324a325a31ad" version="1">Lumière divine</content>
+	<content contentuid="hd60cbb91g344eg4548g8fffg79304250f480" version="1">Bénédiction de la Sentinelle Divine</content>
+	<content contentuid="hcb5f7348gff6cg4e30g8c81g73a795cc36b7" version="2">Les aberrations, les célestes, les élémentaires, les fées, les démons et les morts-vivants ont un &lt;LSTag Tooltip="Disadvantage"&gt;désavantage&lt;/LSTag&gt; sur leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous. Ils ne peuvent pas vous charmer, effrayer ou posséder. Vos attaques de mêlée infligent [1] supplémentaires.</content>
+	<content contentuid="h1650d37bgc6cfg4538g8347g70a25c9f8642" version="1">Coeur valliant</content>
+	<content contentuid="h0e8d71cfgdafcg4886gb5f7g0156a6b0b3b8" version="2">Vous ne pouvez pas être effrayé et vous avez un &lt;LSTag Tooltip="Advantage"&gt;avantage&lt;/LSTag&gt; sur tous vos &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h791440f0g1200g4249g8ba0g2877033b6a49" version="1">Héritage noble</content>
+	<content contentuid="h80e716a2g6403g422eg821eg91cc0cee2bb9" version="2">Vous avez une &lt;LSTag Tooltip="Proficiency"&gt;maîtrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="History"&gt;histoire&lt;/LSTag&gt;, &lt;LSTag Tooltip="Persuasion"&gt;persuation&lt;/LSTag&gt; et &lt;LSTag Tooltip="Insight"&gt;perspicacité&lt;/LSTag&gt;. Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;bonus de maîtrise&lt;/LSTag&gt; est doublé pour les &lt;LSTag Tooltip="AbilityCheck"&gt;tests de compétence&lt;/LSTag&gt; en question.</content>
+	<content contentuid="h0419a5c1g5cc9g4caagb72cgbcf87052cf7e" version="1">Empressement</content>
+	<content contentuid="h5fe2ca7bg00e1g4a34g9d86g11c911c6691b" version="3">Vous restaurez immédiatement votre &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; et &lt;LSTag Tooltip="Bonus_Action"&gt;action bonus&lt;/LSTag&gt; au début du combat.</content>
+</contentList>
