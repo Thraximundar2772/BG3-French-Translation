@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hac50e7ccg7e02g49c1ga7adg8103e058f6eb" version="1">Câliner quelqu'un (Musclé)</content>
+	<content contentuid="hb8ebc9fcg997fg4118g9e56gb5c1feadfa4d" version="1">Permet de câliner la cible (corps de type musclé)</content>
+	<content contentuid="h4e313d79gc673g42e7gbf55gee3fd9cdf8b8" version="3">Câlin inversé (Musclé -&gt; Petit)</content>
+	<content contentuid="h833a51f2gd4c0g4b59g84fag00bd420db193" version="3">Permet de câliner les races petites (gnomes, nains, halfelins). Utilisez le sort normal sur toutes les autres cibles pour éviter les bugs.</content>
+	<content contentuid="h9499f999gc245g4d80gbec6gc3d86c979f53" version="3">Câliner quelqu'un (Standard)</content>
+	<content contentuid="h02a1bb6bg1048g4715g9e5bg647009918358" version="1">Permets de câliner la cible (corps de type standard)</content>
+	<content contentuid="hf6e36fa7g5e08g4426gad76g49c80c7caad3" version="1">Câlins</content>
+	<content contentuid="h74bcfd8ag304eg4914g972eg9f80140835f9" version="1">Outil: Debug</content>
+	<content contentuid="h86b32d90gc1d3g48d0gbf2cgf558d5638732" version="1">Lancez le sort sur le PNJ s'il vous suit après un câlin inversé. Le sort doit être lancé par la personne auquel le PNJ est lié. </content>
+	<content contentuid="h3e93df76g7dd1g4a1bgb55dg1f5e751b7aac" version="1">Câliner quelqu'un (-&gt; Masculin standard)</content>
+	<content contentuid="had7cdaa8gc854g48f1g85a7g5e83354a774b" version="1">Sorts de câlins</content>
+	<content contentuid="he05783ecg8b62g4df9gb0b9gd87dfea8c439" version="3">Câlin inversé (Standard -&gt; Petit)</content>
+</contentList>
