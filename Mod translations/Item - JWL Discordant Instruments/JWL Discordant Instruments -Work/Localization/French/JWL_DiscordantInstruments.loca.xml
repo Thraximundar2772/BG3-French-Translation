@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="haf038fc3gea65g4152g8be9g5187a945b436" version="1">Chanson Sentiente</content>
+	<content contentuid="hc4d6ff19g9a80g430cgbaa2g273a20e49f86" version="1">Un enchantement magique qui permet à quiconque d'acquérir la &lt;LSTag Tooltip=&quot;Proficiency&quot;&gt;Maîtrise&lt;/LSTag&gt; des instruments de musique.</content>
+	<content contentuid="ha186c9ffgfbedg4c4fg9d06g344347885a7f" version="1">Mélodie Entraînante</content>
+	<content contentuid="h1c9dbd81g06fdg4b5eg85d2gfb6fa8c04e3f" version="1">Votre chanson précédemment tourne en boucle dans votre tête.</content>
+	<content contentuid="hb940fd04g538dg4b61g81b3g709de6372382" version="1">Un barde jouant une chanson restaure une charge d'Inspiration Bardique, mais doit attendre avant de pouvoir en restaurer une autre.</content>
+	<content contentuid="hd9c18a19gb30cg46abg8748ge720e57dc85d" version="1">Un barde jouant cette chanson restaure une charge d'Inspiration Bardique, mais doit attendre avant de pouvoir en restaurer une autre.</content>
+	<content contentuid="heea41e66g06d4g4feega335g882f905d40bb" version="1">Jouez de votre instrument pour restaurer deux de vos emplacements d'Inspiration Bardique.</content>
+	<content contentuid="h0d93bd89g2802g478fgb7dbg1bbe7461e582" version="1">Sac à Dos à la Mode</content>
+	<content contentuid="ha19d37bcga852g4234gbb06g471c184e73d1" version="1">Un sac en toile élégant avec des sangles en cuir. Ça donne envie de partir à aventurier!</content>
+	<content contentuid="heda4c85age794g4cf8g9b01ge92df2f3d786" version="1">Votre capacité de transport est augmentée à 120% de sa valeur de base.</content>
+	<content contentuid="hd71087fege40dg4875gb80eg4aea2cb98460" version="1">Alarme Psionique</content>
+	<content contentuid="h7e2a0d8fg1379g48e7ga23agf773f98e4baa" version="1">Vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surpris&lt;/LSTag&gt;.</content>
+	<content contentuid="h7ef7c832g6883g46f9ga63egfe6ac408b669" version="1">Grenouille en Cuir Montée sur Épaule</content>
+	<content contentuid="h864d0c9eg29d0g4d1cgbb92g3e0ee0e09b2c" version="1">Une base en cuir solide avec des sangles robustes utilisées pour attacher confortablement et en toute sécurité une arme à votre dos.</content>
+	<content contentuid="h179c9e7dgbc6bg40bfga76eg5d3bea28d044" version="1">Solidement Fixé</content>
+	<content contentuid="h291fbb29gb863g4516gb16agcff49cc2c615" version="1">Tant que vous avez une Glaive, une Grande Masse, une Hallebarde, un Marteau de Guerre, une Lance, un Bâton, une Trident ou un Marteau de Guerre équipé dans votre main principale et rien dans l'autre main, vos attaques principales sont des &lt;LSTag Type="Spell" Tooltip="Target_UnarmedAttack"&gt;Attaques à Mains Nues&lt;/LSTag&gt;.</content>
+	<content contentuid="h374f226fg7464g4d2fga8b6gb83b0291e2b3" version="1">Carte Annotée de la Côte des Épées</content>
+	<content contentuid="h5b9eed9egedd6g441bg844cg684b0f645cac" version="1">Une carte couverte de notes marquant des lieux d'intérêt. Comprend un atlas au dos rempli de faits utiles sur la région.</content>
+	<content contentuid="h129f6f7bg8551g4b05g84f9g9709c075177f" version="1">Bouteille Fumeuse Éternelle</content>
+	<content contentuid="h84d817ecgc99bg45e4ga402g6d0da384028f" version="1">Fumée sortant de la bouche plombée de cette bouteille en laiton.</content>
+	<content contentuid="h641496bdg3745g4ae1gbfcagc6f12af63ec3" version="1">Utilisez une action pour ouvrir la bouteille et créer un &lt;LSTag Type="Spell" Tooltip=""&gt;Brouillard&lt;/LSTag&gt; dans un rayon de 1,5 mètre autour du lanceur. Vous pouvez utiliser une autre action pour dissiper le Brouillard.</content>
+	<content contentuid="he6100dc2g41a1g4712g98d2ga16f229ef429" version="1">Carafe d'Hydromel Inépuisable</content>
+	<content contentuid="h7fbf749bgc076g4dbbg838bg52a6d4ea9862" version="1">Peu importe combien de fois vous versez le flacon, la carafe ne semble jamais ce vidée.</content>
+	<content contentuid="hc871842agb1a7g4ac2g9f40ge0d8827c4d24" version="1">État d'Ivresse</content>
+	<content contentuid="hbf81d249gc12dg4206gafcegc2b54d4be618" version="1">Le simple fait de tenir cette carafe suffit à vous rendre &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Ivre&lt;/LSTag&gt;.</content>
+	<content contentuid="h3a39ac63g9fa9g4a9cg9df3g72c4b58766fa" version="1">Corde de Réparation</content>
+	<content contentuid="h388b16f6g2e3bg4c50ga3b1gf32ca3d60285" version="1">Enrouler cette corde autour d'un objet ou d'un construct endommagé le réparera magiquement.</content>
+	<content contentuid="hb6d68dc6g53a2g4f17g9d37g5f839caa7a81" version="1">Pièce de Cuivre Curieuse</content>
+	<content contentuid="hbdf5413agd697g4619gaba2gd462616d1c14" version="1">Cette pièce apparemment anodine vibre d'une énergie magique.</content>
+	<content contentuid="h6fc056e2g9e47g40a6gbd62g431d58358d2c" version="1">Lancer de Pièce</content>
+	<content contentuid="h9d81d02aga9feg4478g9ea9gbabcb7a0ece6" version="1">Lancez la pièce sur un espace inoccupé au sol, créant l'illusion de plusieurs pièces dévalant, incitant les créatures à proximité à enquêter. La pièce revient ensuite immédiatement à son propriétaire, laissant derrière elle un double illusoire.</content>
+	<content contentuid="h4e3db738ga8aeg49c0gade1g186a92439978" version="1">Pièce Illusoire</content>
+	<content contentuid="heaf74714g4980g4ad3g84efg5aab7f51fe85" version="1">Balance de l'Harmonie</content>
+	<content contentuid="h1e3eafe9ga606g449cgaf2fg0349992e8027" version="1">Cette balance porte des symboles célestes sur un plateau et des symboles démoniaques sur l'autre.</content>
+	<content contentuid="h9945da84gae43g4c1egb237g1159de62f125" version="1">Pipe à Bulles de Galder</content>
+	<content contentuid="hb38b12ffg47dbg424bg90afg0959bdafe7d2" version="1">Une pipe ayant appartenu au légendaire magicien Galder Fendt l'Immortel.</content>
+	<content contentuid="h6f2f299dgce78g4e46gbe1dg18a3e1921f77" version="1">Trousse de Secours</content>
+	<content contentuid="ha7930679g7090g4390g9136gdbf730456f69" version="1">Un ensemble d'outils utilisés pour traiter les blessures sur le terrain.</content>
+	<content contentuid="h9feab2e7g52b5g4455ga485g021f03b0811d" version="1">Soins des Blessures</content>
+	<content contentuid="h4addf87dg5166g40cfg9467gd2110e037825" version="1">Soignez les blessures d'une créature. La cible doit attendre avant de pouvoir être soignée à nouveau.</content>
+	<content contentuid="h92d55a11g15efg413dgb442g169c11e4ef68" version="1">Tendresse et Soins</content>
+	<content contentuid="h6d894e2cgd309g4fceg8d28ge1d055a6b53e" version="1">Vous avez récemment reçu des soins médicaux.</content>
+	<content contentuid="hc34502b5gdf82g49bfg8afcgb1b03931bda8" version="1">Perche Rétractable</content>
+	<content contentuid="h086ed752gd84cg4d77g8425gd90ce6fc5823" version="1">Une tige en bois enchantée qui peut s'étendre ou se rétracter.</content>
+	<content contentuid="hd3914dfcg3a26g4ff3g9682ga9dd70f4b89b" version="1">Saut à la Perche</content>
+	<content contentuid="h5b84c8edg3ba5g4233g9418g7eb1d06d36e1" version="1">Votre distance de &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Saut&lt;/LSTag&gt; est augmentée de [1].</content>
+	<content contentuid="h1e15e6ebg8ae1g40cfg9677g25dd23123a2e" version="1">Pierre à Aiguiser Portable</content>
+	<content contentuid="h19b3ae37g5128g4905gab1fg7361a8482cf0" version="1">Une pierre tranchante utilisée pour garder les armes tranchantes et perforantes prêtes pour le combat.</content>
+	<content contentuid="h4c56c12bg12abg44aega499g784a977841aa" version="1">Appliquer la Pierre à Aiguiser</content>
+	<content contentuid="h43583a48g1d2eg4ebegae88ge18b483bab06" version="1">Aiguisez votre arme de mêlée perforante ou tranchante équipée actuellement, recevant un bonus de +1 aux jets d'&lt;LSTag Tooltip="AttackRoll"&gt;Attaque&lt;/LSTag&gt; et de Dégâts.</content>
+	<content contentuid="h10c2d9f0g11ecg428dgb8a8g696c1aa1ba38" version="1">Aiguisée</content>
+	<content contentuid="h819ba449g2892g4b83gb4f4g9cc47eb2e1d0" version="1">Bonus de +1 aux jets d'&lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; et de Dégâts.</content>
+	<content contentuid="h14890274gb7d3g44fagbef3g2bbd9735e854" version="1">Le bibelot qui accorde cette effet doit rester sur la personne qui l'a utilisé sans quoi il perd l'effet.</content>
+	<content contentuid="ha84e637cg248fg426cg86a4g3b9d811d5052" version="1">Ceinture de Nanisme</content>
+	<content contentuid="hf015fb2fg57d8g4698ga997g35f2e8f1ec43" version="1">Une ceinture en cuir épaisse bien faite avec une gravure runique carrée sur le devant.</content>
+	<content contentuid="h8fd61985g33c0g4e87g9502gc424d4cbf8c1" version="1">Excellence Naine</content>
+	<content contentuid="h659e139dg985ag49degb9feg909c48372856" version="1">Un nain portant cette ceinture a &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les tests d'&lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; et de &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+	<content contentuid="hda711983gaa8dg4857g8009g6e7fad1586f9" version="1">Bougie d'Invocation</content>
+	<content contentuid="h39c74846g1ebag40aagb85dg948bcd217aa3" version="1">Une fine chandelle dédiée à diverses divinités.</content>
+	<content contentuid="h6464bc22gfd08g4349gad10g8d70ed230120" version="1">Chaleur Sacrée</content>
+	<content contentuid="h737ae331g5f76g4ffag8528gd91bdf1e21dd" version="1">Imprégnez votre arme de lumière.</content>
+	<content contentuid="h93101549gc2acg425ag92f7gf0b846a2f2ae" version="1">De plus, un druide ou un clerc gagne un emplacement de &lt;LSTag Tooltip="SpellSlot"&gt;sort de niveau 1&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="h623f78f1gb4cbg477aga12cg22b6926a343a" version="1">Carquois Efficace</content>
+	<content contentuid="hadade399g5e64g4096ga708g87fbc6bf17b8" version="1">Contient un petit espace extradimensionnel capable de contenir plus qu'un carquois moyen.</content>
+	<content contentuid="h46b292c7g8d64g4d24g90c1g9ca1974a655d" version="1">Flèches Lourdes</content>
+	<content contentuid="h616f433dg87d5g4972g8692g432763c60834" version="1">Lorsque vous infligez des dégâts avec une attaque à distance, vous avez une chance d'appliquer le statut &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignement&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="h5b8a7ee7g6f68g4337gacb6g4630d3cd0ef2" version="1">Imprimante de Flèches</content>
+	<content contentuid="h19dc5fb0ga3e1g4bd9gb0ceg9784b119bf35" version="1">L'&lt;LSTag Type="Spell" Tooltip="Projectile_MainHandAttack"&gt;Attaque à Distance&lt;/LSTag&gt; peut tirer un projectile supplémentaire.</content>
+	<content contentuid="hf3c62884g46c4g46d6g8c6fg697f192c1e67" version="1">Restaurez un emplacement de &lt;LSTag Tooltip="SpellSlot"&gt;sort&lt;/LSTag&gt; jusqu'au niveau 3.</content>
+	<content contentuid="h67779633g3038g4c0egb964g0a03d5a4ab50" version="1">Perle de Pouvoir</content>
+	<content contentuid="h8da5be35gee44g449fg89d8gd54ae1946393" version="1">Cette perle d'apparence tout à fait banale est une aide puissante pour tous les lanceurs de sorts.</content>
+	<content contentuid="hbc003cabg3c5fg4bd6gb907g9e17af69aa0a" version="1">Éventail Venteux</content>
+	<content contentuid="h1cee36f1g0e89g4811gb715g5de886def36e" version="1">Un éventail enchanté capable de créer une puissante rafale d'air.</content>
+	<content contentuid="h374a53a6g16b2g4066gae63gcd527f730e01" version="1">Sablier de Perception Distordue</content>
+	<content contentuid="hc98011b4gfe13g4457gafb0gb75206ced927" version="1">Les sables du temps se trouvent à l'intérieur.</content>
+	<content contentuid="he227c5c6g528ag4f35g9398gc49ae35d72e6" version="1">Retournez le Sablier</content>
+	<content contentuid="hf1b27892g4c28g4676g8c73gf5ad04cbdcb8" version="1">Devenez &lt;LSTag Type="Status" Tooltip="HASTE"&gt;Rapide&lt;/LSTag&gt;: gagnez une action et gagnez +2 à la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="h5297aa60g4494g406fga6efg73a32e332fb3" version="1">Rubis du Mage de Guerre</content>
+	<content contentuid="hf2317ec1gad89g4a62g9ac5g52212d83fd4a" version="1">Une gemme puissante prisée par les sorciers qui préfèrent régler leurs différends de près.</content>
+	<content contentuid="h8a88701cg10f5g42ddg94eagcd734b23794e" version="1">Attachez le rubis à votre arme de mêlée principale, ajoutant votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de Capacité de Lancement de Sorts&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; à la place de votre Force ou Dextérité.</content>
+	<content contentuid="h0f4e566fg3f6bg4ce4g89adg55aee118e396" version="1">Lentille d'Observation Astucieuse</content>
+	<content contentuid="hd9f196c4gf184g4f3cga691g0a491bd6554c" version="1">Tenir la lentille devant votre œil vous remplit d'énergie magique.</content>
+	<content contentuid="h97e52670g70f7g4e8cg8433g757385833675" version="1">Broche de Protection</content>
+	<content contentuid="hb17cc4aeg7fefg44efg8ebfg2c0f0b6fad11" version="1">Une broche en forme de tortue qui protège celui qui la porte.</content>
+	<content contentuid="hc0a37439gd64eg4443g9860g76bfff9bd648" version="1">Déviation Puissante</content>
+	<content contentuid="hbf15a81dg68fag4239g839fg90fcd4fac3e6" version="1">Confère &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de Force. Immunité contre Projectiles Magiques.</content>
+	<content contentuid="hd7eb3531g379bg4fa0g8876gd518bbb80b33" version="1">Docent</content>
+	<content contentuid="h524983dcgbdb3g42c1gbed3g62b6f9a35849" version="1">Un petit objet métallique d'environ 5 centimètres de diamètre orné de fragments de Pierre draconique.</content>
+	<content contentuid="hcc5200fbgf65dg412fgb75cg277bc53f1a03" version="1">Orbe du Professeur</content>
+	<content contentuid="hd5c059d6g4ee6g4402g9179gb342e8f4e5ad" version="1">Une sphère sentiente avec la personnalité d'un érudit.</content>
+	<content contentuid="h773d7a38gecf5g4d07gae34g1655aa8b2cd2" version="1">Chaîne Lieuse d'Âme</content>
+	<content contentuid="h8e87a508gea2ag4013g9b2cg7be758f99b03" version="1">Tout ce qui est attaché à l'extrémité de cette chaîne est magiquement lié jusqu'à l'aube suivante.</content>
+	<content contentuid="h7ef8bae8g17ceg44aagbe3eg6f5b09c81592" version="1">Tapis Magique Peureux</content>
+	<content contentuid="h256135d6gf4c0g4505g91afg63221b04baea" version="1">Ne vous attendez pas à ce qu'il reste dans les parages lorsqu'il est menacé.</content>
+	<content contentuid="h3f0a8d55gfa44g43d7gba9cg567d798ba886" version="1">Montez sur le Tapis</content>
+	<content contentuid="h1a327a96g2cd0g457egacafg0544f277a211" version="1">Dé d'Harbin</content>
+	<content contentuid="hc6205f9eg6331g4165ga359gc499ed0e3063" version="1">Un dé de jeu apparemment ordinaire qui est censé porter chance.</content>
+	<content contentuid="h677d9987g59b7g412fg8b71gd00cd6ccd284" version="1">Protection contre la Malchance</content>
+	<content contentuid="h4b50acc2gf8e5g4ca4ga89fg2544d969e5e3" version="1">Lorsque vous obtenez un 1 lors d'un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'Attaque&lt;/LSTag&gt; ou d'un &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt;, vous relancez le dé et utilisez le nouveau résultat.</content>
+	<content contentuid="hee3481a5ga901g41f9gb2c4ge39b3e947baf" version="1">Ceinture de Force de Géant du Givre</content>
+	<content contentuid="hde99a42egacd3g4aa1g940ag4e8910ae8941" version="1">Confère à son porteur une immense puissance physique.</content>
+	<content contentuid="h01c22d83ge3c8g4632g955cg24409e5a6f82" version="1">Bol de Commandement de l'Eau</content>
+	<content contentuid="h275f6e5agee5dg4f8agae74g0ae472ccd727" version="1">Un bassin de 30 centimètres de diamètre et environ moitié moins de profondeur. Il vibre d'énergie magique.</content>
+	<content contentuid="h89e67e34gdeb4g4cb7ga678g7e7a7e3bff65" version="1">Yeux de Charme</content>
+	<content contentuid="hb81d7a9dg110bg4e68ga681gceb2ae36ed06" version="1">Deux lentilles magiques avec une monture assortie.</content>
+	<content contentuid="h7d9fa01ag199cg4788g9027g5a8a1232bf6b" version="1">Regard Envoûtant</content>
+	<content contentuid="h58b16969gd457g4443g8260g9255a37e1364" version="1">Placez les lentilles sur votre visage pour tenter de &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmer&lt;/LSTag&gt; jusqu'à 6 humanoïdes, les empêchant de vous attaquer. Vous gagnez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de Charisme&lt;/LSTag&gt; lors des dialogues.</content>
+	<content contentuid="hc5345370g60acg4d8dg96bagf664734ec704" version="1">Sac à dos Pratique</content>
+	<content contentuid="hcb0e4c84g67c9g4ae4g8118g58ada6c9c075" version="1">Un sac à dos composé de plusieurs petites poches extradimensionnelles.</content>
+	<content contentuid="h4cef8db3g5f4bg40bcg9483g1e91c369e74c" version="1">Votre capacité de transport est augmentée à 250% de sa valeur de base.</content>
+	<content contentuid="hb94697b8g8b9eg47eag8a61g924107401772" version="1">Insigne de la Garde</content>
+	<content contentuid="h7eadc0fbg23d8g4040g8b82g274f3f4649f3" version="1">Un insigne porté par les gardes de haut rang à Neverwinter. Il est loin de chez lui.</content>
+	<content contentuid="h869dada8g2013g4dd5gbe58gc174d0758e3a" version="1">Mimir</content>
+	<content contentuid="h9a7fe429ga01cg4bc8g9091gb922cfe22397" version="1">Aussi connu sous le nom de crâne parlant, cet objet magique agit comme une encyclopédie pour les érudits des plans extérieurs.</content>
+	<content contentuid="h947b0b3bg157dg4b10g8ac9g016602b32dfc" version="1">Sac sans Fond</content>
+	<content contentuid="hea2bcac8g4555g4f07g9fd1g8ee85ddca9ea" version="1">Une sacoche magique connectée à un grand espace extradimensionnel.</content>
+	<content contentuid="h39329b8ag5d8cg4ae3gbde9g9083488807e0" version="1">Votre capacité de transport est augmentée à 1000% de sa valeur de base.</content>
+	<content contentuid="hd707b9d0g1aa7g4fd1g8089ga8eeadc9ef16" version="1">Passe-Partout</content>
+	<content contentuid="h70a5e031g4caag435eg89d7g7df5f456c4d5" version="1">Capable de changer de forme pour s'adapter à n'importe quelle serrure.</content>
+	<content contentuid="ha89debd2g4961g46ebga995ga75f4ad8e34c" version="1">Entraves Dimensionnelles</content>
+	<content contentuid="haf61664cg581eg4d1bga305g5bcb9cc2b04a" version="1">Lorsqu'elles sont activées, ces entraves se lient à un espace extradimensionnel immuable.</content>
+	<content contentuid="h391e9376g3114g4bbdgab05gd9edbd551a3b" version="1">Tentez d'&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Entraver&lt;/LSTag&gt; (&lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; 30) un ennemi. Il ne peut pas bouger, les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; contre l'entité affectée ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; et les Jets d'Attaque et &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; de Dextérité de l'entité ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h5cd9b6f5g7346g48f1g825ag1dbab6dfadae" version="1">N'a aucun effet sur les créatures de taille Énorme ou Gigantesque.</content>
+	<content contentuid="h213ae66ag41fag409aga2a9gce32bca21ac3" version="1">Emblème de Gardien Renforcé</content>
+	<content contentuid="hda0c0377g4b97g4f3ag8e3ag06f190e37c2d" version="1">Une broche ornée de pierres précieuses et imprégnée de magie divine.</content>
+	<content contentuid="hcd98610dgc9edg4a0bgb2d6g8d3816c92273" version="1">Gluance de Kyrzin</content>
+	<content contentuid="h3fc85089gc5c9g4753g901fg16825d42681b" version="1">Une substance visqueuse et répugnante scellée dans un bocal qui se déplace et se tord lentement, comme si elle explorait sans fin l'intérieur du bocal.</content>
+	<content contentuid="hfc824c30g3d98g4ecag8027g6e894f74457d" version="1">Tablette de Cristal Noir</content>
+	<content contentuid="ha7d2a101gd98cg4decga069g2aade13352ea" version="1">Cette tablette révèle de nombreux secrets, dont la plupart devraient rester cachés.</content>
+	<content contentuid="h1f9a579eg61b7g4b51g9ed9g19b4bdffc355" version="1">Savoir Profane</content>
+	<content contentuid="h07bcf7e2gdd87g42c8gbf40g259d014e5143" version="1">Lisez la tablette pour frapper de &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Peur&lt;/LSTag&gt; le cœur d'une créature.</content>
+	<content contentuid="hac30fb99g0e58g4bf7g9a8ag36a7b1330bbf" version="1">Faites un jet de sauvegarde de Sagesse (&lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; 15), en cas d'échec devenez &lt;LSTag Type="MADNESS" Tooltip="FEARED"&gt;Fou&lt;/LSTag&gt;.</content>
+	<content contentuid="h264eedcag37c9g489bg83abg14b78fc8a778" version="1">Orbe de Skoraeus</content>
+	<content contentuid="hdf985259gef61g46c0g818dg170fce5c921c" version="1">Il est dit qu'elle est imprégné de la sagesse et de la puissance du dieu Skoraeus, cet orbe de pierre polie est veiné de cristal iridescent qui semble briller de l'intérieur.</content>
+	<content contentuid="h87214168gfe8dg4283g98afgfa4210d71e66" version="1">Vision Nocturne Exceptionnelle</content>
+	<content contentuid="h586ac412g1c99g4732ga346g821cdb828006" version="1">Compendium des Techniques Furtives</content>
+	<content contentuid="he45f73a0g8eaag4674g833fg4a57fd639d20" version="1">Ce livre présente plusieurs techniques martiales méconnues.</content>
+	<content contentuid="h5937a1adg46d2g457agbfefg86975e6f88d1" version="1">Orbe de Divination Imminente</content>
+	<content contentuid="h83181f16g92d0g4e8dgbe7ag9484f53f9a3d" version="1">Regarder dans cette boule de cristal révèle votre avenir immédiat.</content>
+	<content contentuid="h21059f48g08bfg42c2ga601gde03a1017252" version="1">Clairvoyance</content>
+	<content contentuid="hcf4f7239g386ag4598g8e6ag5e34b35ed445" version="1">Gagnez une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="h929b1d91g3949g4652g8873gc1178e91e947" version="1">Livre des Actes Exaltés</content>
+	<content contentuid="ha7f69d87ge013g44ecg9368g4f238fa6b8eb" version="1">Les écrits suprêmes sur la bonté dans tout le multivers.</content>
+	<content contentuid="hb941ba71gf583g4455gb475g6b0cd51f75d3" version="1">Au début de votre tour, vous vous soignez de [1].</content>
+	<content contentuid="hbf9396e5g3e78g4f39g93f7ge142367898a5" version="1">Protection contre le Poison</content>
+	<content contentuid="hd9fce87bg97e4g4e3bgadf3g367789b5587f" version="1">Le porteur ne peut plus être &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt;.</content>
+	<content contentuid="hdff40298g8708g4d55ga18cgcff4aba8924a" version="1">Livre des Ténèbres Ignobles</content>
+	<content contentuid="ha7ed7395g99f2g413bgae55gc66140a0b42b" version="1">Un tome d'une méchanceté indicible, une référence du mal, rédigé, édité et compilé par certaines des entités les plus puissantes et malfaisantes de tout le multivers.</content>
+	<content contentuid="hc0e432eagb51ag49c3g86c4gb430b50db13f" version="1">Pari Infernal</content>
+	<content contentuid="h922b1f5bg84a6g4e4dgb432g8dd80f67aba9" version="1">En combat, si vous ne causez aucun dégât, vous subissez [1] à la fin de votre tour.</content>
+	<content contentuid="h64b04b49gcb66g44cdg8d6dg0b2d6419d435" version="1">Inébranlable</content>
+	<content contentuid="he8f86af8g35c8g4d95g9637gd9033c8d605a" version="1">Les connaissances maudites qui circulent en vous empêchent la peur de vous affecter.</content>
+	<content contentuid="h251be558g1894g41d0g9581gd365d2ea404e" version="1">Distrait</content>
+	<content contentuid="h86fd6fe6g2ab4g4f14g918dg7fa235257ee0" version="1">Des pensées viles envahissent constamment votre esprit, vous recevez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="hb39f4e39g9111g4184g8a28gf3f795acd643" version="1">Influence Suspendue</content>
+	<content contentuid="hf0996e7egcb70g451dgbf82gd55ce037f617" version="1">Subir un coup critique a rendu la pierre d'Ioun temporairement inerte.</content>
+	<content contentuid="h3bbe848eg726cg4b04g9456g76680212f5da" version="1">Une petite pierre de la taille d'un ongle dédiée au dieu Ioun. Elle contient un pouvoir redoutable mais est vulnérable aux dommages.</content>
+	<content contentuid="h5a8212f7gf198g45d7g8f72g19fcfd89b502" version="1">Subir un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; rendra temporairement la pierre d'Ioun inerte.</content>
+	<content contentuid="he9335543gba9bg47a7g8641g44a240c88fae" version="1">Pierre d'Ioun Orageuse</content>
+	<content contentuid="hfe6b54c6gae88g492ag823bg092368d7fbc6" version="1">Pierre d'Ioun Verdoyante</content>
+	<content contentuid="hd23734c9gc708g4aadgb45eg8c607c5cc949" version="1">Pierre d'Ioun Rosée</content>
+	<content contentuid="h00ba6dd3g73e6g4cc4g92f5ga98c344f12d2" version="1">Pierre d'Ioun Ombreuse</content>
+	<content contentuid="h3eea610ag6630g4192gb1f7ge83d39da85f4" version="1">Pierre d'Ioun Écarlate</content>
+	<content contentuid="h73f4ad78g5067g44f6g8d66g34a2db440220" version="1">Pierre d'Ioun Radieuse</content>
+	<content contentuid="h359dbd0eg977bg434agbaaag77dc264ccd1b" version="1">Carquois du Cœur-de-Ronce</content>
+	<content contentuid="h347abdedg9762g4976ga6f4gea0174b771d4" version="1">Un carquois basique en bois. Préféré par les druides du bosquet.</content>
+	<content contentuid="h3d683cb5g8155g4977g806ag548adc75a4a4" version="1">Carquois du Chaos Élémentaire</content>
+	<content contentuid="h51b61a94ga154g42a7gb78ag9e1d8fdc8377" version="1">Chaque fente de ce carquois est connectée à un plan élémentaire différent.</content>
+	<content contentuid="hf5062f31g73a6g4ccbg9b8aga9264f2c0c3b" version="1">Sélectionner un Élément</content>
+	<content contentuid="hce61d7ddga770g49bdgb446gebda17bb8ee0" version="1">Sélectionnez de quel plan élémentaire tirer les flèches.</content>
+	<content contentuid="h382df9f6g68b9g4886g9a64g9cf86025bb15" version="1">Flèches de Feu</content>
+	<content contentuid="ha8437cb7geadeg4580ga75cg58ae90ab2d19" version="1">Flèches de Givre</content>
+	<content contentuid="h2bafe10fg281bg4bddg963eg328df652adbd" version="1">Flèches de Foudre</content>
+	<content contentuid="ha9e8c6d1g7712g4124ga978g16045fb4a23f" version="1">Flèches Empoisonnées</content>
+	<content contentuid="h75c58fc6gd3f5g4930gb333g06ae579a88af" version="1">Grandes Flèches Supérieures</content>
+	<content contentuid="h49ebc71eg6248g48fag822dgec8c1bed2336" version="1">Flèches Élémentaires</content>
+	<content contentuid="hd6991854g4b8eg432dgbe6fg845d94e91083" version="1">Flèches Élémentaires : Feu</content>
+	<content contentuid="hc76876f9gae27g49bfgb67egdd38b0140dcb" version="1">Flèches Élémentaires : Givre</content>
+	<content contentuid="h60fca6ceg0140g4bdag8a36g52dc2f9e7277" version="1">Flèches Élémentaires : Foudre</content>
+	<content contentuid="h223e91e2g443dg4659gaeb5g84f4da7a9cd1" version="1">Flèches Élémentaires : Poison</content>
+	<content contentuid="hf5adc3b5g903cg4997g9d2bg03f42e18eff6" version="1">Vos attaques à distance infligent un [1] de plus.</content>
+	<content contentuid="hcfd62a55g0209g45bcg92efgb178b5963dc0" version="1">Avantage du Chasseur</content>
+	<content contentuid="hf5fdb8d0g25b5g4255g9d07gb99d4740011d" version="1">Grand Avantage du Chasseur</content>
+	<content contentuid="h190f5f91g3ed8g490bg8082g8c885c7962b7" version="1">Avantage Suprême du Chasseur</content>
+	<content contentuid="h0ffc60e7g082bg440bg9aebg41ea6c34c29e" version="1">Recevez un bonus de +[1] aux jets d'attaque avec une &lt;LSTag Tooltip="RangedWeaponAttack"&gt;arme à distance&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Ranger&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="hf7d90eefga60bg45b3gbabcg14e4bd0a77a1" version="1">Recevez un bonus de +[1] aux jets d'attaque et de dégâts avec une &lt;LSTag Tooltip="RangedWeaponAttack"&gt;arme à distance&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Ranger&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="h0077ffd5g7f31g4645g9b48g75b90f91e7ef" version="1">Avantage du Soldat</content>
+	<content contentuid="hc1c15525gfea2g4421g87bdgd0b2ca6a9881" version="1">Grand Avantage du Soldat</content>
+	<content contentuid="h394f316cg79acg41ffgb6ecgeb6fb249ef59" version="1">Frappes Étudiées</content>
+	<content contentuid="hb6bb954cg36cag4fe6g904cgf3699f03d513" version="1">Recevez un bonus de +[1] aux jets d'attaque avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;arme de mêlée&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Guerrier&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="h63b2bc2ag0c9ag46e4gaecfg7c4eeaad31a4" version="1">Recevez un bonus de +[1] aux jets d'attaque et de dégâts avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;arme de mêlée&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Guerrier&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="h17aa76abg3229g4964gad26g22c99ff639f2" version="1">Carquois Dimensionnel</content>
+	<content contentuid="h128c5420g5daeg417bg9d44g981071cd7673" version="1">Chaque fois qu'une flèche est tirée de ce carquois, une autre apparaît immédiatement à sa place.</content>
+	<content contentuid="h8877f418g67feg41c0gb9a5g55f2bfd95d77" version="1">Grimoire des Arts Verts</content>
+	<content contentuid="h6c4e810ag96a2g42c0ga2aegdf97ac298a27" version="1">Une collection de sorts druidiques détaillés dans ce tome.</content>
+	<content contentuid="h22d7f9d0g5e74g45a9g8d5fg6defec5c57ee" version="1">Tome de Guérison Céleste</content>
+	<content contentuid="h1250ef38ga988g495bgbedcg12f3988a1186" version="1">Ce tome décrit diverses magies de guérison.</content>
+	<content contentuid="hda0fdc6egca3bg4884gb8dcg38b905d029d0" version="1">Libération de la Sérotonine</content>
+	<content contentuid="h1ba4552fga99fg410bg90e3g69f566129168" version="1">Chaque fois que vous soignez une autre créature, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Acuité Arcanique&lt;/LSTag&gt; pendant 2 tours.</content>
+	<content contentuid="h25b7b5c3gc00ag4248g9b7dga8175291bddb" version="1">Livre aux Multiples Sorts</content>
+	<content contentuid="hd74fee8cgaa93g4920g9ae7g6c2e4b2eaa86" version="1">Un épais tome en cuir enchanté, populaire parmi les jeunes sorciers.</content>
+	<content contentuid="h4960abddg9469g4453g9a95g4c4d83fd7b81" version="1">Vous gagnez un bonus de +[1] aux jets d'attaque de &lt;LSTag Tooltip="AttackRoll"&gt;sort&lt;/LSTag&gt;.</content>
+	<content contentuid="h69ae35ccg2b7dg49bfg8d29g625cef5435eb" version="1">Codex des Arcanes</content>
+	<content contentuid="ha1197285g58f3g4f96g9694g15457348265f" version="1">Un tome légendaire de grand pouvoir.</content>
+	<content contentuid="hf1be896bgf910g4eceg92d4g908c73c186d9" version="1">Enchantement Arcanique Supérieur</content>
+	<content contentuid="h2791cca4gb50ag4d3egb442gfc17bc7abcb3" version="1">Archives Infernales</content>
+	<content contentuid="h3d88bae2gb454g43a6g97dcg173c8913bf97" version="1">Une chronologie de divers démons bien connus à travers l'histoire.</content>
+	<content contentuid="h8ef49014g58dag4a7dga856gaad8f3c1936f" version="1">Main Guidante</content>
+	<content contentuid="h85ab0ea3gca94g412bg9d4bg7e526570b85e" version="1">Le premier &lt;LSTag Tooltip="AttackRoll"&gt;sort d'attaque&lt;/LSTag&gt; lancé en combat touche toujours.</content>
+	<content contentuid="ha2c3be5fg54ddg4a8eg9829gd8fdd12008ff" version="1">Tome de la Connaissance Perdue</content>
+	<content contentuid="hc1618943g517bg4a3dga002g3e5170745100" version="1">Un ancien tome en grande partie illisible. Les quelques pages restantes contiennent des secrets ésotériques que peu de gens étaient censés connaître.</content>
+	<content contentuid="h7ef59719g4ff0g43b1g87fag14140d859fcf" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Malédiction&lt;/LSTag&gt; sans dépenser de case de sort.</content>
+	<content contentuid="hbc68319eg7c6dg43edg8f90ge16f89486261" version="1">Tome de la Pensée Claire</content>
+	<content contentuid="hc94bfd0dgb604g4dfdg9b7eg82de2c804458" version="1">Tenir ce tome détend l'esprit, empêchant les pensées intrusives ou distrayantes.</content>
+	<content contentuid="hc90fc3b6g6386g4c94ga122gf127b3957c93" version="1">Voleur de Vitalité</content>
+	<content contentuid="h6a4b1552gf5a4g403ag9686g0bff0933854e" version="1">En infligeant des dégâts à une créature ennemie avec une &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;arme de mêlée&lt;/LSTag&gt;, il y a [1]% de chance de restaurer une &lt;LSTag Tooltip="SpellSlot"&gt;case de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="hb38b0f7bgee0dg410aga666g43c07ebc4955" version="1">Tome des Courants Éthérés</content>
+	<content contentuid="hf836a685g21eag4cb9ga9fegbb68f8c26b10" version="1">Des fragments arcaniques de la trame émanent des pages.</content>
+	<content contentuid="h7e18c6e6g7fb5g433cg96ccg01f7dbe46f29" version="1">Culture Élédrique</content>
+	<content contentuid="h99447434ga47dg41a1g8c22ge46eb37f8600" version="1">&lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Décharge Occulte&lt;/LSTag&gt; a [1] projectile supplémentaire.</content>
+	<content contentuid="h88a15951g9866g436bg8eb8gef1745a038df" version="1">Obole en Acier de Deuil</content>
+	<content contentuid="h27028342g779ag43cdga44dg85dc9835869d" version="1">Une pièce usée en acier de deuil, un métal formé sous des champs de bataille imprégnés de sang.</content>
+	<content contentuid="hbde62135g16e0g45f2gb1c4g467ad9b3a3d8" version="1">Broche du Serpent de Mer</content>
+	<content contentuid="h06749d6eg08ceg4cb0ga4d7g4f267580ca0a" version="1">Une broche dédiée à Omgar, le légendaire serpent de mer.</content>
+	<content contentuid="h2867de5fged3dg4d12g80fegb1e5012c7b7c" version="1">Frappes du Serpent</content>
+	<content contentuid="h0158e0f1g8943g4e61g8e64g52cb6b80abfe" version="1">Vos attaques de mêlée ont une chance d'infliger &lt;LSTag Type="Status" Tooltip="ALCH_TOXIN_SERPENTVENOM_CONDITION"&gt;Toxine de Croc de Serpent&lt;/LSTag&gt;.</content>
+	<content contentuid="ha5683a94gca7ag4476g801egcc9fb1d057ce" version="1">Grenouille en Cuir de Loup</content>
+	<content contentuid="h1dbb03f8g4e1fg4124g821ag263d5fbee261" version="1">Grenouille en Cuir de Dragon</content>
+	<content contentuid="hcdfcfb2dgd621g4757ga45agc38399153514" version="1">Poids d'Entraînement</content>
+	<content contentuid="h60c6445dgd49ag40f6g96afgeeb6674e0f6f" version="1">Recevez un bonus de +[1] aux jets d'attaque à &lt;LSTag Tooltip="AttackRoll"&gt;main nue&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Moine&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="hecbf2ba5g2932g429dgbe53gf64882290a11" version="1">Recevez un bonus de +[1] aux jets d'attaque et de dégâts à &lt;LSTag Tooltip="AttackRoll"&gt;main nue&lt;/LSTag&gt;. Si le porteur a au moins [2] niveaux dans la classe de &lt;i&gt;Moine&lt;/i&gt;, le bonus passe à +[3].</content>
+	<content contentuid="h2f7cdf09g2f86g493eg8251g64dffceab790" version="1">Pied-de-Biche en Acier</content>
+	<content contentuid="hfbb53114gc5e2g4357g9ecagd0ee9bd7cf55" version="1">Un outil robuste et utile.</content>
+	<content contentuid="h718fcad2gafbag4ad8g9e5fgb821b4230426" version="1">Tant que vous n'êtes pas en combat, vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les tests d'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;.</content>
+	<content contentuid="h7002c787gc9bag4fe5gb6beg1c01952acaba" version="1">Ceinture de Rappel Primal</content>
+	<content contentuid="h7ed0d5c5g7628g4de2g99c2g1c862f8ebc0f" version="1">Une ceinture confortable en peau ayant appartenu à un berserker.</content>
+	<content contentuid="ha077071bg8662g4b09gbff2gb3f34c0ea8f8" version="1">Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les attaques contre les bêtes.</content>
+	<content contentuid="h5077d1c1gc36eg4958ga2dfgfa481a38e7b2" version="1">Ceinture du Chef de Raid</content>
+	<content contentuid="h6daea693gf1b9g4d01gb771g1715263acbfb" version="1">La ceinture d'un champion redoutable.</content>
+	<content contentuid="h908a800fg775eg4cf7g8001g0ddb1b7b5611" version="1">Ceinture de l'Harmonie Interdite</content>
+	<content contentuid="hecc2d9d5g29d4g4da5g8bf0gaa460828639e" version="1">Une ceinture célébrant l'équilibre impossible entre Shar et Séluné.</content>
+	<content contentuid="hb5b63d88gafd6g4989g915cgb7096596ecf6" version="1">Totem de la Bête</content>
+	<content contentuid="h3e349385g1a09g408eg93e3gd4d27d1d82df" version="1">Une petite idole en bois sculptée en forme de plusieurs bêtes différentes.</content>
+	<content contentuid="h0f7518b4g8148g4a93g9cc9g5e5acd94cd6e" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="h460b90a5g45b3g468cg9f9fgb23925173eb0" version="1">Totem de la Terreur</content>
+	<content contentuid="h3d7ded3eg5c26g4300gadb6g9d2077772869" version="1">Quelle que soit la signification de cet objet, il est d'une grande importance pour l'Illithid.</content>
+	<content contentuid="h7611d9e7g25dfg42a8ga65ag166a225a8a89" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="JWL_Status_TotemDread"&gt;Soif de Domination&lt;/LSTag&gt; pour [1] tours. Si vous ne faites pas de dégâts, vous subissez [2] à la fin de votre tour.</content>
+	<content contentuid="h33da9203gcb89g40e2g9a52g2801595ccd0a" version="1">Soif de Domination</content>
+	<content contentuid="hb1b78ad1gcbe7g4fefg826ag347cb4cd675a" version="1">Gagnez un bonus de +[1] aux &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;attaques au corps à corps&lt;/LSTag&gt; et aux jets de dégâts.</content>
+	<content contentuid="h33a48aafg0af1g4c73ga354ga580c1fb44bc" version="1">Totem Spirituel</content>
+	<content contentuid="h3e25c4c3gde11g494egb582g6226c1785e2a" version="1">Une petite idole en bois dédiée à des esprits forestiers renommés.</content>
+	<content contentuid="hf7a84260gca0dg4f20g95f9g11ba487f16b0" version="1">Gardien Fantasmal</content>
+	<content contentuid="hd1631a77g33afg40ffg926fg3d6d23d70508" version="1">Lorsque vous n'êtes pas &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Enragé&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changé de forme&lt;/LSTag&gt;, si votre santé tombe en dessous de [1]% vous gagnez &lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;"Invisibilité Supérieure"&lt;/LSTag&gt; pour [2] tours.</content>
+	<content contentuid="hce864aabg41fdg405egba6cg1d45f6a85bec" version="1">Totem de Dragon Orné</content>
+	<content contentuid="h24d77d52gb0dag4d31g8203gcd776fa7aa85" version="1">Soigneusement fabriqué par des artisans de l'autre côté de la mer, ce totem est imprégné d'un grand pouvoir.</content>
+	<content contentuid="h9e35a2dcge824g4205g84f9g2e34128be73e" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="ALCH_POTION_FLYING"&gt;Vol&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="hb0bda3f1g61d9g4220gac7fg234f6a23f3a5" version="1">Fiole de Puits de Sang Booyahg</content>
+	<content contentuid="hec8ce9bdgf679g42d6g8698g28844948c2bd" version="1">Les sorciers gobelins, ou "Booyahgs" agissent comme guérisseurs chamaniques pour leur tribu.</content>
+	<content contentuid="hc8aab3fdg7b49g408dga247g4087360849ff" version="1">Sang Sorcier</content>
+	<content contentuid="h6a57224cgf25fg40e1ga2d2gcd3b3721ae7a" version="1">Augmente votre &lt;LSTag Tooltip="DifficultyClass"&gt;DC de Sort&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h07ffb6e7g2d7dg421bgb851g1f49cd34aba6" version="1">Fiole de Puits de Sang Corrompu</content>
+	<content contentuid="h44db5c33g5fffg49fdgb98egbc98277cb684" version="1">Le sang dans cette fiole est impur mais puissant.</content>
+	<content contentuid="h915dd495g17f2g4e00gb69fg803f3608d735" version="1">Lorsqu'une attaque au corps à corps vous touche, l'attaquant a une chance de souffrir de &lt;LSTag Type="Status" Tooltip="ACID"&gt;Acide&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="hdc8fb06agfaa4g4259gb834ge143ac95662f" version="1">Sang d'Ahmarreld</content>
+	<content contentuid="hc2c2962ag21eeg41a9g85e9g686515ee5020" version="1">Une fiole de puits de sang provenant de l'ancien et puissant sorcier Ahmarreld.</content>
+	<content contentuid="h995da508g3f05g4b5bg9689g07584b5555a4" version="1">Lorsque vous infligez des dégâts avec un sort mineur, vous avez [1]% de chance de restaurer un emplacement de sort de niveau 1.</content>
+	<content contentuid="he8c5ad1ag2839g4840gacdfg2e258a8ed05f" version="1">Fiole de Dragon Sanglant</content>
+	<content contentuid="h73b9280cg1e59g4d9dgbd31gd0f6d7c24786" version="1">Le sang d'un puissant dragon est contenu à l'intérieur.</content>
+	<content contentuid="he21cf481gf24fg4afagb458g2edf34392160" version="1">Le mélange enchanté à l'intérieur puise profondément dans votre lignée, augmentant vos &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Points de Sorcellerie&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h6f918201g54f0g4fc8g9e9fg8cf53338b703" version="1">Fiole de Dragon Sanglant : Épuisée</content>
+	<content contentuid="h3ad30dfeg74a5g43e1gaed3g0a2bab8e257a" version="1">Les &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Points de Sorcellerie&lt;/LSTag&gt; accordés par la fiole de puits de sang sont épuisés. Un &lt;LSTag Tooltip="LongRest"&gt;Repos Long&lt;/LSTag&gt; les restaurera.</content>
+	<content contentuid="h800250a4g649bg43eeg894fg5c510024d01a" version="1">Sifflet de Maître des Chiens</content>
+	<content contentuid="h7d17fa78g9b6dg447bg81degc99462598962" version="1">Un sifflet métallique capable de produire un sifflement strident utilisé pour attirer l'attention des animaux à proximité.</content>
+	<content contentuid="ha06bd265gb0cfg4f69g8472gb1caa99461ff" version="1">Sifflet d'Entraînement</content>
+	<content contentuid="h25afced1g24d6g4d9bgb8b6g49f9bea8df40" version="1">Les créatures invoquées du porteur dans [1] reçoivent &lt;LSTag Type="Status" Tooltip="JWL_Status_WhistleBeastBuff"&gt;Attentif&lt;/LSTag&gt;, ce qui leur accorde +[2] à leur &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;, leurs attaques et jets de dégâts. N'a aucun effet sur les Morts-vivants ou les Constructs.</content>
+	<content contentuid="h33f3ce24g457dg4d63g96bbg164b0efcd217" version="1">Attentif</content>
+	<content contentuid="hb4d48282g9835g419aga449g0485648971a4" version="1">La créature a un bonus de +[1] à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;, à ses attaques et jets de dégâts.</content>
+	<content contentuid="ha631b96bgb447g43a0ga41fg434214b2d294" version="1">Carillon Lycan d'Argent</content>
+	<content contentuid="hc1a8211bg79dag40d1g90eeg1f4f3fdacab9" version="1">Le son de ce carillon émane du tissage.</content>
+	<content contentuid="h102b66d2g810dg49c5g89ecg47411d8cf0f5" version="1">Cloches d'Argent</content>
+	<content contentuid="h1dd773ecg5ad7g40cdg9e94gb8bfda9c2f50" version="1">Les créatures invoquées du porteur dans [1] reçoivent &lt;LSTag Type="Status" Tooltip="JWL_Status_WhistleBeastBuff"&gt;Inspiré&lt;/LSTag&gt;, augmentant leur vitesse de déplacement de [2] et leur accordant +[3] à leur &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;, leurs attaques et jets de dégâts. N'a aucun effet sur les Morts-vivants ou les Constructs.</content>
+	<content contentuid="he1479633g5c28g4815g8dd7gedfe502373b9" version="1">Inspiré</content>
+	<content contentuid="hf48a6d83g8c5fg4d10g98f9gbc44417438b0" version="1">La créature a une vitesse de déplacement supplémentaire de [1] et un bonus de +[2] à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;, à ses attaques et jets de dégâts.</content>
+	<content contentuid="h55a5b521g64d7g4043g9517g4edfcc4355fd" version="1">Sifflet du Cerbère</content>
+	<content contentuid="ha772e4e1g77c9g4bfeg84ebgce7bf99c847a" version="1">Ce sifflet émet un son terrible qui plonge les créatures dans une frénésie.</content>
+	<content contentuid="ha4e22634g9128g4dddga41cge55c88a6b5d0" version="1">Bourdonnement Continu</content>
+	<content contentuid="h4e389111g119bg46aeg9333gebe4b8e6ac4f" version="1">Les créatures invoquées par le porteur dans [1] reçoivent &lt;LSTag Type="Status" Tooltip="JWL_Status_WhistleCerberusBuff"&gt;Enragé&lt;/LSTag&gt;, obtenant une &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;Attaque Supplémentaire&lt;/LSTag&gt;, un bonus de +[2] aux jets d'attaque et [3] points de vie supplémentaires maximum. Cet effet évolue avec le niveau du personnage. N'a aucun effet sur les Morts-vivants ou les Constructs.</content>
+	<content contentuid="h56548455g57b5g4339ga161g7005fc45e869" version="1">Enragé</content>
+	<content contentuid="hbd51fc39g5a09g4b1dgbfdcg85482ebf3e24" version="1">La créature a une &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;Attaque Supplémentaire&lt;/LSTag&gt;, un bonus de +[1] aux jets d'attaque et [2] points de vie supplémentaires maximum. Cet effet évolue avec le niveau du personnage.</content>
+	<content contentuid="h94877d54gbafeg4b2aga23fg88b2f6530037" version="1">Sifflet de Sorcière</content>
+	<content contentuid="h421b2f40g894eg4594g87f4g9c3edd119e54" version="1">Un sifflet taillé dans l'os. Son son strident semble éveiller les Morts-vivants.</content>
+	<content contentuid="h32c50380g8becg4444g8128g3101e1a61be5" version="1">Gémissement de Banshee</content>
+	<content contentuid="h47d93a72gc85fg4de7gb191g4a504185180c" version="1">Les créatures invoquées Morts-vivants du porteur dans [1] reçoivent &lt;LSTag Type="Status" Tooltip="JWL_Status_WhistleWitchBuff"&gt;Contact Funèbre&lt;/LSTag&gt;, ajoutant [2] aux attaques. Cet effet évolue avec votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt;.</content>
+	<content contentuid="h5861773dg99b0g4cd9gb3e6g4b9739fbe6a5" version="1">Contact Funèbre</content>
+	<content contentuid="haca3a816gc467g4376g829bgf7b568bbd766" version="1">Vos attaques infligent un supplément de [1]. Cet effet évolue avec le &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; de l'invocateur.</content>
+	<content contentuid="hf5e09b1eg7364g4363gbfb3g462c3cdfca75" version="1">Fémur Thayen</content>
+	<content contentuid="h4bea37c5g2aa7g42aegb2dfg5747beb9ca01" version="1">Le fémur d'un autrefois grand nécromancien.</content>
+	<content contentuid="h992f7657g2d5bg4396ga200gb8c040d932d5" version="1">Bavardage Constant</content>
+	<content contentuid="h07f271f9g13e5g4b7aga5a6gffce01cf0f2c" version="1">Les créatures invoquées Morts-vivants du porteur dans [1] ont une chance d'infliger &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Peur&lt;/LSTag&gt; pendant 2 tours lorsqu'elles infligent des dégâts à une créature avec une attaque au corps à corps.</content>
+	<content contentuid="hc263741eg94ceg4e0cg98f0g22ff3a54f314" version="1">Chance d'infliger &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Peur&lt;/LSTag&gt; lors de dégâts avec des attaques au corps à corps.</content>
+	<content contentuid="he2146d72g3d2eg4389g8222g3e236e5d39a1" version="1">Cloche Gloussante</content>
+	<content contentuid="h514b9a04g2741g4db6gb6d8gb49d83eb57ca" version="1">Une cloche consciente qui peut communiquer télépathiquement avec les Morts-vivants à proximité.</content>
+	<content contentuid="h9c228ce1g19fdg4697g87f1g7a6bbd39b11e" version="1">Elle Sonne Pour Toi</content>
+	<content contentuid="hba613187gef97g41ecga20cgc383e27dbcf0" version="1">Les créatures invoquées Morts-vivants du porteur dans [1] utilisent votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; et ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les attaques contre une cible qui n'a pas tous ses points de vie, à condition qu'elle ne soit pas un construit, une gelée, une plante ou un élémentaire.</content>
+	<content contentuid="h9bfaa917ge884g4a27ga08fg2cd825b99915" version="1">Entité affectée utilise le &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Compétence&lt;/LSTag&gt; de l'invocateur et a &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les attaques contre une cible qui n'a pas tous ses points de vie, à condition qu'elle ne soit pas un construit, une gelée, une plante ou un élémentaire.</content>
+	<content contentuid="h4a5326aaga75ag4348ga87fg51c83fe194ec" version="1">Briseur de Contrats</content>
+	<content contentuid="h043aaeb2g0379g462eg86c8g0abf03bbe1ae" version="1">Le violon doré de Raphaël. Il rayonne d'un pouvoir incroyable.</content>
+	<content contentuid="h72ce85ebg558bg448ag9a32g6ad78de3d9d0" version="1">Charmes Diaboliques</content>
+	<content contentuid="h297f440bgf832g4be1gbd65g8c330664a8ef" version="1">Lorsqu'une attaque au corps à corps vous touche, l'attaquant est &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt; pendant 1 tour. Cet effet ne peut se produire qu'une fois par tour.</content>
+	<content contentuid="he5b984a1g4c73g4c0dgb275g2a48f01475fe" version="1">Sac de Tours</content>
+	<content contentuid="h00cfd621ga3abg460bgae62gfeb99d95d55b" version="1">Un sac rempli de petites boules rondes. Il semble n'avoir pas de fond.</content>
+	<content contentuid="h42e8410dg0582g49e7g9789g9de950350e0f" version="1">Lancez l'une des boules à l'intérieur du sac, créant un petit nuage de fumée qui &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveugle&lt;/LSTag&gt; et &lt;LSTag Type="Status" Tooltip="SNEAKING_HEAVILY_OBSCURED"&gt;Obscure Lourdement&lt;/LSTag&gt; les créatures à l'intérieur.</content>
+	<content contentuid="hdc3f1921g5680g4b3cg97a3gf500bcbac62e" version="1">Pierre de Bonne Chance</content>
+	<content contentuid="hbd4995d0gb53eg4f3dga8b4g4f14ae7bf802" version="1">Une pierre sculptée censée apporter de la chance à son propriétaire.</content>
+	<content contentuid="h116fd689g69b5g4f7bg866dg4dd19537234b" version="1">Gagnez 2 &lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;Points de Chance&lt;/LSTag&gt;.</content>
+	<content contentuid="h878ce15bg1a60g448fg9333gfc98b88d444a" version="1">Pierre de Bonne Chance : Épuisée</content>
+	<content contentuid="hc161ddc0g2fc8g4ccdgb52cg988c32698edf" version="1">Les &lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;Points de Chance&lt;/LSTag&gt; accordés par la pierre sont épuisés. Un &lt;LSTag Tooltip="LongRest"&gt;Repos Long&lt;/LSTag&gt; les restaurera.</content>
+	<content contentuid="hd0061522ge5a4g4b6dg8edegd8d74eed220d" version="1">Entrelacement du Tissage</content>
+	<content contentuid="h70a91b63g4d6cg4685gab9agb6f9544c4082" version="1">Frappez une créature avec la clé, les &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenciant&lt;/LSTag&gt; pour 3 tours.</content>
+	<content contentuid="hf56a3781ge203g4f68ga4f2gee9818b1ac9c" version="1">Bannière de Guerre des Gobelins</content>
+	<content contentuid="h6c751992g41d7g4f44g873ag5270967be0e3" version="1">Une petite bannière portée par un gobelin au combat. Elle revigore les alliés proches avec des énergies toxiques.</content>
+	<content contentuid="h8c942f84g5a21g4cefga90eg9b6387fa7fda" version="1">Corruption Absolue</content>
+	<content contentuid="h87c08893gb9d9g422bg8fb2gbff604eb96f6" version="1">Vous et les alliés proches dans un rayon de [1] infligez un bonus supplémentaire de [2].</content>
+	<content contentuid="h6d3375acgb5c5g447ag98c4g0c67e3f905f1" version="1">L'entité affectée inflige un bonus supplémentaire de [1] avec ses attaques.</content>
+	<content contentuid="h7d5b83e2gd1ecg4bdcga0e9ga0b7fd064100" version="1">Bannière de Guerre en Acier du Deuil</content>
+	<content contentuid="hea62a36bg6f01g4f3fgb2a3g56e489820338" version="1">Une bannière en tissu avec une poignée en acier du deuil, un métal formé sous les champs de bataille trempés de sang, fabriqué en hommage à un chevalier inconnu.</content>
+	<content contentuid="h2f47412bgb3d8g4e9cg843egabd782d5bbab" version="1">Souvenez-vous des Défunts</content>
+	<content contentuid="hb6ca31a7g534eg40a3gb4aag7c8a0eef5055" version="1">Vous et les alliés proches dans un rayon de [1] obtenez un bonus de +[2] à la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="hbe6d1f0dg8806g4448gbff5g9bcc906624a0" version="1">L'entité affectée obtient un bonus de +[1] à la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h3aec4dceg1826g4248gb86ege30797f806a4" version="1">Bannière de Guerre Consacrée</content>
+	<content contentuid="h2bca3197gfd3dg4821gb410g67314fd05ca9" version="1">Une bannière dédiée à, et supposément bénie par, le dieu Savras.</content>
+	<content contentuid="hb8ce9867ga25ag4c9bg8be0g694d1bb36acc" version="1">Courage Radieux</content>
+	<content contentuid="h5c06d5f0gb4feg46e6g9076g97538156c965" version="1">Vous et les alliés proches dans un rayon de [1] infligez un bonus supplémentaire de [2] et infligez &lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;Orbe Rayonnant&lt;/LSTag&gt; avec des attaques. L'effet secondaire ne peut se produire qu'une fois par tour par cible.</content>
+	<content contentuid="h1fcc3d53g1d88g4d06gbd18gb02b50feaf35" version="1">L'entité affectée inflige un bonus supplémentaire de [1] et inflige &lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;Orbe Rayonnant&lt;/LSTag&gt; avec des attaques. L'effet secondaire ne peut se produire qu'une fois par tour par cible.</content>
+	<content contentuid="hbe3c8e51g573fg4205g9ec0gd60aacdd7b55" version="1">Étendard de Guerre du Pouvoir Infernal</content>
+	<content contentuid="hb4b5c788g5a3dg4de6g81edg9f9b89dbadeb" version="1">Forgée dans les flammes de l'enfer avec du fer infernal, cette bannière métallique tordue contient l'âme d'un quasit à l'intérieur.</content>
+	<content contentuid="hf6bdc4fbg9425g4934ga102g2e49f33cf1f9" version="1">Représailles du Quasit</content>
+	<content contentuid="h189a3126g1df0g4bb8gb4ecgdd23d771b39e" version="1">Vous et les alliés proches dans un rayon de [1] obtenez un bonus de +[2] aux jets d'attaque d'arme et infligez [3] aux attaquants ennemis après avoir été touché par une attaque au corps à corps. L'effet secondaire ne peut se produire qu'une fois par tour par cible.</content>
+	<content contentuid="h9334bf00g0459g4b50gaeb2g0f817b27dadc" version="1">L'entité affectée bénéficie d'un bonus supplémentaire de +[2] aux jets d'attaque d'arme et inflige [3] aux attaquants ennemis après avoir été touchée par une attaque au corps à corps. L'effet secondaire ne peut se produire qu'une fois par tour par cible.</content>
+	<content contentuid="h33aa6c10ge766g47a3g8f20ge523bb432725" version="1">Fidèle Dévot</content>
+	<content contentuid="h6a6336cdge766g447dg9fa3gd730d21ae04d" version="1">Si vous êtes un adepte de cette divinité, vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie maximum&lt;/LSTag&gt; augmentent de [1]. Cet effet évolue avec votre niveau.</content>
+	<content contentuid="h34928a6ag6133g4798gb825g22fb15f51b11" version="1">Symbole Sacré de Kelemvor</content>
+	<content contentuid="hc7f5cd59g17dbg4c01gae23g95151b0c035e" version="1">Une petite pièce de pierre ancienne avec le symbole de Kelemvor gravé dessus.</content>
+	<content contentuid="h056322b9g3133g4a74g94fcg870752f5a500" version="1">Équilibrer les Scales</content>
+	<content contentuid="h41345d5eg81deg4336g8edcgbd7b9c2bc9b7" version="1">Vos attaques au corps à corps infligent un supplément de [1] et [2].</content>
+	<content contentuid="hf0015675gcc57g4b31ga36agebbbae1f8c88" version="1">Symbole Sacré de Silvanus</content>
+	<content contentuid="hd0b62233gaec6g4b49g9b23g497b53984317" version="1">Un jeton en bois lisse sculpté avec le symbole de Silvanus sur le devant.</content>
+	<content contentuid="h314a1cdcgaf9bg48e8g9a68g6e8bc950867a" version="1">Bienfait du Père Chêne</content>
+	<content contentuid="ha65071ecgcd87g458fga9f9gaef18c7e32e1" version="1">Vous restaurez un supplément de [1] en soignant une créature, y compris vous-même.</content>
+	<content contentuid="he46f5b3fgbd4cg4070g87aag4d843112c4f1" version="1">Symbole Sacré de Lolth</content>
+	<content contentuid="hb29aac07g04bfg4fdeg94e5g9929008f05f8" version="1">Une petite broche affichant fièrement l'emblème de la Reine Araignée.</content>
+	<content contentuid="haa668900g567ag4dd2ga782g1b695b41410e" version="1">Baiser de l'Araignée</content>
+	<content contentuid="hce08c682gc2d1g4402g9866g7c8e509fd48e" version="1">Infliger avec succès des dégâts à une créature &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonnée&lt;/LSTag&gt; avec une attaque au corps à corps garantit un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt;. L'effet ne peut se produire qu'une fois par combat.</content>
+	<content contentuid="h586bceb4g7624g4f8dgaac0g09adbe9f5680" version="1">Symbole Sacré de Moradin</content>
+	<content contentuid="hd6bbb286g851fg4a95g850bg4f07d7b22b8d" version="1">Une agrafe de ceinture ornée du symbole du dieu nain Moradin.</content>
+	<content contentuid="h0c4f6289g13d6g4f4ag8977gd11dd0930847" version="1">Rempart de l'Omni-Marteau</content>
+	<content contentuid="hc1ce535cg2d9bg4a36ga6f5gc8edba675aee" version="1">Soigner une autre créature a 25% de chance de vous mettre &lt;LSTag Type="Status" Tooltip="SANCTUARY"&gt;Sanctuaire&lt;/LSTag&gt; sur vous-même pendant 2 tours.</content>
+	<content contentuid="h92bcd7c7g3a15g4d81ga198g68dbebbe76fd" version="1">Symbole Sacré de Bahamut</content>
+	<content contentuid="hf7d1cd6ag9661g4f7dg84f5g2e61455c530c" version="1">Une petite épingle, destinée à être portée sur la poitrine, arborant le blason de l'Ange des Sept Cieux.</content>
+	<content contentuid="hb46154fagbb2fg4a01g9fbdg0f879b1230f7" version="1">La Justice Intérieure</content>
+	<content contentuid="h2a866ad9gc795g4ccagbbd1ga09a0ca21b17" version="1">Lorsque vous infligez des dégâts avec un sort de niveau, vous vous soignez de [1].</content>
+	<content contentuid="h90d32ee1gb12bg41d6ga445gf7a02b10e858" version="1">Symbole Sacré d'Eilistraee</content>
+	<content contentuid="h487c6e70gdebfg4f3ag9afbg4e2251c1e9ab" version="1">Un petit jeton dédié à la déesse elfe noire de l'épée, de la beauté et de la liberté.</content>
+	<content contentuid="hca2427eag5ae6g4bdfg801cg74eb4646d6e9" version="1">Marque de la Lune Messagère</content>
+	<content contentuid="hc6dbc548g719dg4548g871cg674bd40b61a0" version="1">Vous obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Compétence&lt;/LSTag&gt; avec les épées courtes, les épées longues et les épées à deux mains. De plus, vous bénéficiez d'un bonus de +2 aux jets d'attaque au corps à corps.</content>
+	<content contentuid="h7da956f2ga70bg4fe8g988bg4595a7e832a9" version="1">Symbole Sacré de Helm</content>
+	<content contentuid="ha116629cg3f8cg4004g830cg4c0fe89f3513" version="1">Une pièce de cuivre usée et vieillie. Malgré son âge, le symbole du dieu Helm est toujours clairement visible.</content>
+	<content contentuid="h79ecdbdfgbdeag46deg98aag429783a9362b" version="1">La Vigilance du Gardien</content>
+	<content contentuid="h5a53fc9bgcf86g4d66ga6f8g69f10db09ff5" version="1">Soigner une autre créature augmente son &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de 1 pendant 2 tours. De plus, vous restaurez un supplément de [1] en soignant une créature, y compris vous-même.</content>
+	<content contentuid="hbe55bbf0g3794g4d56g9a49g7f9da1a9debb" version="1">La &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de l'entité affectée est augmentée de 1.</content>
+	<content contentuid="haad3e91ag9fcbg408cg9d9fga82d7410022a" version="1">Symbole Sacré de Mielikki</content>
+	<content contentuid="h8f88a713g2b6eg45e9g8862g2cb1dfec5d50" version="1">Un petit jeton façonné sous la forme de Mielikki, la déesse des forêts.</content>
+	<content contentuid="h2feb84c0g7c38g4517ga5f9g977364fd4dfa" version="1">Les Vents Galopants</content>
+	<content contentuid="hf8f153ecg250fg4706gaec5g4a0f3859e9dc" version="1">Soigner une autre créature leur accorde &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt; pendant 1 tour et vous restaurez [1] de votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;.</content>
+	<content contentuid="h8a266007gacddg4700ga876g83d866fedd26" version="1">Symbole Sacré d'Ilmater</content>
+	<content contentuid="h8e871668gd6a4g480agb654g1a8f1a97f553" version="1">Un jeton simple et rudimentaire en bois peint dédié au Dieu Pleureur.</content>
+	<content contentuid="hf20fa9e6g2e6fg4c41g9558g2385e2ff3148" version="1">La Miséricorde d'Ilmater</content>
+	<content contentuid="hb7d81a93gabf3g4d41gb4a5g26912e01f0e7" version="1">Soigner une autre créature leur accorde &lt;LSTag Type="Status" Tooltip="JWL_Status_SymbolIlmater"&gt;Conservation d'Ilmater&lt;/LSTag&gt; pendant 1 tour. De plus, soigner une autre créature a 12% de chance de restaurer un emplacement de sort de niveau 1.</content>
+	<content contentuid="he70e5d81g1fa0g4991g8621g06ae522c1aec" version="1">L'entité touchée est imprégnée d'une stabilité radieuse. Seul un coup infligeant au moins [1] de dégâts peut lui causer des dommages.</content>
+	<content contentuid="h607cb9b3g9628g4c33ga19dgcb768b1f493e" version="1">Symbole Sacré de Correlon Larethian</content>
+	<content contentuid="h8e2a987ag05bfg42d0gaa19gbff4c1e8c994" version="1">Une petite épingle, destinée à être portée sur la poitrine, dédiée au dieu elfique de l'art et de la magie.</content>
+	<content contentuid="h196e6a71g1b68g4741gacefg5d15ef907b74" version="1">La Faveur du Protecteur</content>
+	<content contentuid="hdb2f3490g6e25g40b7gba3fga42664a7c9b7" version="1">Vous obtenez une charge supplémentaire de &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Canaliser la Divinité&lt;/LSTag&gt; ou &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Canaliser le Serment&lt;/LSTag&gt;, selon votre(s) classe(s) choisie(s).</content>
+	<content contentuid="h34da5138gdb27g4a62gb5afgba1d39d9aa7a" version="1">Esprit Inébranlable</content>
+	<content contentuid="hbd2f6f58g9ff7g4e6fg8936g39b7d5c6cfba" version="1">Vous devenez immunisé contre &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt;.</content>
+	<content contentuid="h9b4251bbgd911g4eddg8fa2g85d893f09538" version="1">Symbole Sacré de Corellon : Épuisé (Divinité)</content>
+	<content contentuid="hc0ce78d7gbdf4g4fceg805dgea751a5391f8" version="1">Les &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Charges Divines&lt;/LSTag&gt; accordées par le symbole sacré sont épuisées. Un &lt;LSTag Tooltip="LongRest"&gt;Repos Long&lt;/LSTag&gt; les restaurera.</content>
+	<content contentuid="hbb6cbad1gfc34g4307gbbf0gced9a31b437f" version="1">Symbole Sacré de Corellon : Épuisé (Serment)</content>
+	<content contentuid="h69d6e51eg1224g489dg85bcgc02d3e9f8a23" version="1">Les &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Charges de Serment&lt;/LSTag&gt; accordées par la pierre sont épuisées. Un &lt;LSTag Tooltip="LongRest"&gt;Repos Long&lt;/LSTag&gt; les restaurera.</content>
+	<content contentuid="h0a42c16cg335cg4c7agb82cgbfb12da4725e" version="1">Réparation Gracieuse</content>
+	<content contentuid="h5b79bb48g15e7g48c3gbc73g80af1e8492ee" version="1">Sur un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt;, vous vous soignez pour [1] tant que la cible n'est pas un construit, une gelée, une plante ou un élémentaire.</content>
+	<content contentuid="heef6c81eg3d98g4e79g8b9fge0ad61fc6ed7" version="1">Seul un Prêtre ou un Paladin peut en faire usage.</content>
+	<content contentuid="h8774fd7fgc239g4d90ga0e4gae878ab99707" version="1">Seul un Magicien peut en faire usage.</content>
+	<content contentuid="h21de6712g417bg463dgb592g9ea0b4dfe9f9" version="1">Seul un Ensorceleur peut en faire usage.</content>
+	<content contentuid="hd2bafb8dg046bg44bdgb0f4g7ced453d2d44" version="1">Seul un Sorcier peut en faire usage.</content>
+	<content contentuid="h9cf241b6gea45g4ce2gaf0fg99d09ed72ab7" version="1">Seul un Barbare ou un Druide peut en faire usage.</content>
+	<content contentuid="h070c392dg979bg45e7g84e2g3ce057e4c402" version="1">Les Githyankis ne peuvent pas communiquer avec Mimir.</content>
+	<content contentuid="h46972e03gf708g41e6gb609g9649294f9f1c" version="1">Seul un Barde peut en faire usage.</content>
+	<content contentuid="hdf2d75fbgb49fg4929g87ccge040b701a298" version="1">Seul un Guerrier ou un Moine peut en faire usage.</content>
+	<content contentuid="ha2076ef1g35ebg4943g9ba9g762d8ed481a7" version="1">Seul un Voleur peut en faire usage.</content>
+	<content contentuid="hd0146582g2796g4c82g9253ge653e4273a5c" version="1">Caisse à Babioles</content>
+	<content contentuid="hbd185ddcgab06g4f22g8d91g6ce6b413d25c" version="1">Une caisse pleine de babioles.</content>
+	<content contentuid="" version="1"></content>
+</contentList>
