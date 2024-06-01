@@ -8,7 +8,7 @@
 	<content contentuid="h4e9d582bg0f39g4183g8768g5b68545319ec" version="1">Humanoïde Draconique</content>
 	<content contentuid="hacd41eb8g051eg4ed2g8cf3g921ab6b24dfd" version="1">Les Demi-Dragons ont du sang draconique qui coule dans leur veine. Cela leur confère certaine compétences et capacités magiques innées, en fonction de la pureté de leur sang, ainsi que la capacité de prendre une Forme Draconique.</content>
 	<content contentuid="had6a25deg601dg4272ga2acgd90b77abbe5d" version="1">Les Demi-Dragons Inférieurs possèdent partiellement du sang draconique et ont parfois la capacité de prendre une forme Draconique. Les Véritables Dragons les considèrent comme leurs propres enfants, leurs "jeunes" n'ayant pas encore évolué pour devenir les êtres puissants et, dans certains cas ils sont aussi sages que sont les Dragons eux-mêmes.&lt;br&gt;&lt;br&gt; En général, ils possèdent certaines capacités magiques innées et sont capables d'apprendre une magie très puissante s'ils s'y intéressent. Ils n'ont souvent pas encore surmonté l'instinct draconique de base qui les pousse à vouloir leur propre trésor, ce que beaucoup de Véritables Dragons n'ont plus.</content>
-	<content contentuid="hd6688f72gda8dg4f20gb48eg5d32e738cdd8" version="1">Sur Silvenar, ceux qui sont capables d'utiliser la magie draconique dans sa forme la plus pure sont appelés "Âmes Draconiques". De nombreuses légendes entourent leur existence et tentent d'expliquer leurs liens avec les anciens Dragons. Cependant, bien qu'ils soient visiblement très difference, leurs talents et compétences draconiques, aussi vastes soient-ils, proviennent principalement de l'éducation de leur Maison respective ainsi sans celle-ci, ils semble banale, apparemment sans capacités remarquables.</content>
+	<content contentuid="hd6688f72gda8dg4f20gb48eg5d32e738cdd8" version="1">Sur Silvenar, ceux qui sont capables d'utiliser la magie draconique dans sa forme la plus pure sont appelés "Âmes Draconiques". De nombreuses légendes entourent leur existence et tentent d'expliquer leurs liens avec les anciens Dragons. Cependant, bien qu'ils soient visiblement très différents, leurs talents et compétences draconiques, aussi vastes soient-ils, proviennent principalement de l'éducation de leur Maison respective ainsi sans celle-ci, ils semble banales, apparemment sans capacités remarquables.</content>
 	<content contentuid="h0fe34e18gf562g4dc9g8a76gcd1ac38c6dd5" version="1">Âmes Draconiques (Silverian)</content>
 	<content contentuid="hf67b8fa1g9bbdg45a4g9e99g559ff34f6e91" version="1">Âmes Draconiques</content>
 	<content contentuid="h5c7d2279g9027g45a4g9582gc0b859aee1d4" version="1">Âmes Draconiques</content>
@@ -153,8 +153,8 @@
 	<content contentuid="hefaab3bbg53deg4a64g831dg10d8a99b0c6e" version="1">Les demi-dragons, les âmes draconiques et ceux ayant du sang draconique en général ont également un ancêtre non draconique. Faites votre choix.</content>
 	<content contentuid="hc551084bgf531g43efga108g119e1d494314" version="1">Origine: Provenance</content>
 	<content contentuid="h37a4221eg8ff3g497dgbf97g201dedd517a2" version="1">Les demi-dragons, les âmes draconiques et ceux ayant du sang draconique en général viennent d'ailleurs. Faites votre choix.</content>
-	<content contentuid="h34e3db27ga0efg4e71ga856g58fc49b4a91f" version="1">Baldurian</content>
-	<content contentuid="h4e3d251cgb0c5g4109ga343g29dc6a77861b" version="1">Vous venez de Baldur's Gate.</content>
+	<content contentuid="h34e3db27ga0efg4e71ga856g58fc49b4a91f" version="1">Baldurien</content>
+	<content contentuid="h4e3d251cgb0c5g4109ga343g29dc6a77861b" version="1">Vous venez de la Porte de Baldur.</content>
 	<content contentuid="h151f9e5dge594g4893g92f7g2e76de72cc7c" version="1">Outreterre</content>
 	<content contentuid="h6b9dabcfgad32g43ebg875bg462ef433aa2c" version="1">Vous venez de l'Outreterre.</content>
 	<content contentuid="h1e116017g5e72g4ef9g9511g602b0d397c69" version="1">Planaire</content>
@@ -187,9 +187,9 @@
 	<content contentuid="h4baf0183gb129g46bfg8fbeg050836b8994d" version="1">Vous êtes un Quart-Orc.</content>
 	<content contentuid="h5846e2b8g3ee0g4245g8b34gb8a1b1923551" version="1">Ancien</content>
 	<content contentuid="hc3b17a48g5985g43b8g9ac6gb8f503de9cc2" version="1">Vous êtes d'une race ancienne.</content>
-	<content contentuid="h50523b4dg99dag47dag82f9g7bc8a47cf778" version="1">Oublier</content>
+	<content contentuid="h50523b4dg99dag47dag82f9g7bc8a47cf778" version="1">Oubliée</content>
 	<content contentuid="h594f0a5ag1213g462bgb322ga43e0f587e3b" version="1">Vous ne connaissez pas l'origine de votre ancêtre non-Draconique.</content>
-	<content contentuid="h6ebef5d8g25f3g4040ga85dg9c07f0db7026" version="1">Origine oublier</content>
+	<content contentuid="h6ebef5d8g25f3g4040ga85dg9c07f0db7026" version="1">Origine Oubliée</content>
 	<content contentuid="h869fcf1bg383fg49b4g8455g98a35f4d53f8" version="1">Ruée de Valadrénaline</content>
 	<content contentuid="hab105763g494bg4c44g8e4cgabcff0a6fc1d" version="1">Ruée de Valadrénaline est une réaction magico-physiologique de votre corps, une réponse naturelle de crise pour ceux de la lignée Val, conçue comme une option de dernier recours pendant le combat.&lt;br&gt;&lt;br&gt;Si votre santé tombe en dessous de 25 % pendant le combat, votre Ruée de Valadrénaline s'active.&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt;, tous vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; et tous vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt;. Vous devenez résistant à tous les dégâts, vous ne pouvez pas être ralenti ou paralysé, de plus vous gagnez plus de mouvement et plus de points d'action. La Ruée de Valadrénaline prend fin une fois le combat terminé.&lt;br&gt;&lt;br&gt;Cependant, une telle capacité puissante n'est pas sans coût et cela va causer &lt;LSTag Type="Status" Tooltip="VAL_MAGICAL_DISTURBANCE"&gt;Perturbation Magique&lt;/LSTag&gt; durant les 5 prochains tours et vous souffrirez de &lt;LSTag Type="Status" Tooltip="VAL_MAGICAL_BURNOUT"&gt;Épuisement Magique&lt;/LSTag&gt; à la fin de la Ruée de Valadrénaline.</content>
 	<content contentuid="hc0f99fe1g8412g4e94g9b63gcdf8b0f4e44f" version="1">Épuisement Magique</content>
@@ -574,7 +574,7 @@
 	<content contentuid="h4e9d582bg0f39g4183g8768g5b68545319ec" version="1">Humanoïde Draconique</content>
 	<content contentuid="hacd41eb8g051eg4ed2g8cf3g921ab6b24dfd" version="1">Les Demi-Dragons ont du sang draconique qui coule dans leur veine. Cela leur confère certaine compétences et capacités magiques innées, en fonction de la pureté de leur sang, ainsi que la capacité de prendre une Forme Draconique.</content>
 	<content contentuid="had6a25deg601dg4272ga2acgd90b77abbe5d" version="1">Les Demi-Dragons Inférieurs possèdent partiellement du sang draconique et ont parfois la capacité de prendre une forme Draconique. Les Véritables Dragons les considèrent comme leurs propres enfants, leurs "jeunes" n'ayant pas encore évolué pour devenir les êtres puissants et, dans certains cas ils sont aussi sages que sont les Dragons eux-mêmes.&lt;br&gt;&lt;br&gt; En général, ils possèdent certaines capacités magiques innées et sont capables d'apprendre une magie très puissante s'ils s'y intéressent. Ils n'ont souvent pas encore surmonté l'instinct draconique de base qui les pousse à vouloir leur propre trésor, ce que beaucoup de Véritables Dragons n'ont plus.</content>
-	<content contentuid="hd6688f72gda8dg4f20gb48eg5d32e738cdd8" version="1">Sur Silvenar, ceux qui sont capables d'utiliser la magie draconique dans sa forme la plus pure sont appelés "Âmes Draconiques". De nombreuses légendes entourent leur existence et tentent d'expliquer leurs liens avec les anciens Dragons. Cependant, bien qu'ils soient visiblement très difference, leurs talents et compétences draconiques, aussi vastes soient-ils, proviennent principalement de l'éducation de leur Maison respective ainsi sans celle-ci, ils semble banale, apparemment sans capacités remarquables.</content>
+	<content contentuid="hd6688f72gda8dg4f20gb48eg5d32e738cdd8" version="1">Sur Silvenar, ceux qui sont capables d'utiliser la magie draconique dans sa forme la plus pure sont appelés "Âmes Draconiques". De nombreuses légendes entourent leur existence et tentent d'expliquer leurs liens avec les anciens Dragons. Cependant, bien qu'ils soient visiblement très différents, leurs talents et compétences draconiques, aussi vastes soient-ils, proviennent principalement de l'éducation de leur Maison respective ainsi sans celle-ci, ils semble banales, apparemment sans capacités remarquables.</content>
 	<content contentuid="h0fe34e18gf562g4dc9g8a76gcd1ac38c6dd5" version="1">Âmes Draconiques (Silverian)</content>
 	<content contentuid="hf67b8fa1g9bbdg45a4g9e99g559ff34f6e91" version="1">Âmes Draconiques</content>
 	<content contentuid="h5c7d2279g9027g45a4g9582gc0b859aee1d4" version="1">Âmes Draconiques</content>
@@ -719,8 +719,8 @@
 	<content contentuid="hefaab3bbg53deg4a64g831dg10d8a99b0c6e" version="1">Les demi-dragons, les âmes draconiques et ceux ayant du sang draconique en général ont également un ancêtre non draconique. Faites votre choix.</content>
 	<content contentuid="hc551084bgf531g43efga108g119e1d494314" version="1">Origine: Provenance</content>
 	<content contentuid="h37a4221eg8ff3g497dgbf97g201dedd517a2" version="1">Les demi-dragons, les âmes draconiques et ceux ayant du sang draconique en général viennent d'ailleurs. Faites votre choix.</content>
-	<content contentuid="h34e3db27ga0efg4e71ga856g58fc49b4a91f" version="1">Baldurian</content>
-	<content contentuid="h4e3d251cgb0c5g4109ga343g29dc6a77861b" version="1">Vous venez de Baldur's Gate.</content>
+	<content contentuid="h34e3db27ga0efg4e71ga856g58fc49b4a91f" version="1">Baldurien</content>
+	<content contentuid="h4e3d251cgb0c5g4109ga343g29dc6a77861b" version="1">Vous venez de la Porte de Baldur.</content>
 	<content contentuid="h151f9e5dge594g4893g92f7g2e76de72cc7c" version="1">Outreterre</content>
 	<content contentuid="h6b9dabcfgad32g43ebg875bg462ef433aa2c" version="1">Vous venez de l'Outreterre.</content>
 	<content contentuid="h1e116017g5e72g4ef9g9511g602b0d397c69" version="1">Planaire</content>
@@ -753,9 +753,9 @@
 	<content contentuid="h4baf0183gb129g46bfg8fbeg050836b8994d" version="1">Vous êtes un Quart-Orc.</content>
 	<content contentuid="h5846e2b8g3ee0g4245g8b34gb8a1b1923551" version="1">Ancien</content>
 	<content contentuid="hc3b17a48g5985g43b8g9ac6gb8f503de9cc2" version="1">Vous êtes d'une race ancienne.</content>
-	<content contentuid="h50523b4dg99dag47dag82f9g7bc8a47cf778" version="1">Oublier</content>
+	<content contentuid="h50523b4dg99dag47dag82f9g7bc8a47cf778" version="1">Oubliée</content>
 	<content contentuid="h594f0a5ag1213g462bgb322ga43e0f587e3b" version="1">Vous ne connaissez pas l'origine de votre ancêtre non-Draconique.</content>
-	<content contentuid="h6ebef5d8g25f3g4040ga85dg9c07f0db7026" version="1">Origine oublier</content>
+	<content contentuid="h6ebef5d8g25f3g4040ga85dg9c07f0db7026" version="1">Origine Oubliée</content>
 	<content contentuid="h869fcf1bg383fg49b4g8455g98a35f4d53f8" version="1">Ruée de Valadrénaline</content>
 	<content contentuid="hab105763g494bg4c44g8e4cgabcff0a6fc1d" version="1">Ruée de Valadrénaline est une réaction magico-physiologique de votre corps, une réponse naturelle de crise pour ceux de la lignée Val, conçue comme une option de dernier recours pendant le combat.&lt;br&gt;&lt;br&gt;Si votre santé tombe en dessous de 25 % pendant le combat, votre Ruée de Valadrénaline s'active.&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt;, tous vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; et tous vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt;. Vous devenez résistant à tous les dégâts, vous ne pouvez pas être ralenti ou paralysé, de plus vous gagnez plus de mouvement et plus de points d'action. La Ruée de Valadrénaline prend fin une fois le combat terminé.&lt;br&gt;&lt;br&gt;Cependant, une telle capacité puissante n'est pas sans coût et cela va causer &lt;LSTag Type="Status" Tooltip="VAL_MAGICAL_DISTURBANCE"&gt;Perturbation Magique&lt;/LSTag&gt; durant les 5 prochains tours et vous souffrirez de &lt;LSTag Type="Status" Tooltip="VAL_MAGICAL_BURNOUT"&gt;Épuisement Magique&lt;/LSTag&gt; à la fin de la Ruée de Valadrénaline.</content>
 	<content contentuid="hc0f99fe1g8412g4e94g9b63gcdf8b0f4e44f" version="1">Épuisement Magique</content>
