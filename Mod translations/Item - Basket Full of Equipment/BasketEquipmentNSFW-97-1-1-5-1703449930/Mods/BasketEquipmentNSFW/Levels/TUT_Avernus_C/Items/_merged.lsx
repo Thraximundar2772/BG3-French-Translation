@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>					
+				<node id="GameObjects">	
+					<attribute id="Description" type="TranslatedString" handle="h37b9ff63g1a94g4af8gb0afgec72fb4b4984" version="1" />				
+					<attribute id="DisplayName" type="TranslatedString" handle="h37f37464gd4d9g451dgb991g019016da85e0" version="1" />		
+					<attribute id="CanBePickedUp" type="bool" value="False" /> Toggles whether the object can be picked up.					
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_BASKET" />					
+					<attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" /> The level the item is located.
+					<attribute id="MapKey" type="FixedString" value="3c477fbd-1c4d-4640-9c0b-0bf2bc14e442" /> Generate new UUID.
+					<attribute id="Name" type="LSString" value="AMX_CHEST_1" />
+					<attribute id="TemplateName" type="FixedString" value="73882c7c-7624-4b62-93db-c9387b991113" /> points to CONT_GEN_Basket_Wicker_C.			
+					<attribute id="Tooltip" type="uint8" value="2" /> Value "2" means that the name of the object is shown when objects are highlighted.
+					<attribute id="TreasureOnDestroy" type="bool" value="True" /> You get the items even if the container is destroyed. Good to have just in case.						
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="AMX_CHEST_1_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="63deda87-5c21-83d2-d461-2089a2bdda60" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="63.01 22.1 -420.9" /> Change the position a little bit. The middle value is height.
+							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
+							<attribute id="Scale" type="float" value="0.5" /> This means that the object is half the size.
+						</node>						
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

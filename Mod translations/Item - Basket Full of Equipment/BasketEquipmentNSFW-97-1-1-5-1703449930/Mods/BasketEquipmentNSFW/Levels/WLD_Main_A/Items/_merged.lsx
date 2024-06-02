@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>				
+				<node id="GameObjects">	
+					<attribute id="Description" type="TranslatedString" handle="h37b9ff63g1a94g4af8gb0afgec72fb4b4984" version="1" />				
+					<attribute id="DisplayName" type="TranslatedString" handle="h37f37464gd4d9g451dgb991g019016da85e0" version="1" />
+					<attribute id="CanBePickedUp" type="bool" value="False" /> Toggles whether the object can be picked up.
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_BASKET" />					
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" /> The level the item is located.
+					<attribute id="MapKey" type="FixedString" value="1ad7bf92-47d3-4cd2-903f-9afb13205e28" /> Generate new UUID.
+					<attribute id="Name" type="LSString" value="AMX_CHEST_2" />
+					<attribute id="TemplateName" type="FixedString" value="73882c7c-7624-4b62-93db-c9387b991113" /> points to CONT_GEN_Basket_Wicker_C.	
+					<attribute id="Tooltip" type="uint8" value="2" /> Value "2" means that the name of the object is shown when objects are highlighted.
+					<attribute id="TreasureOnDestroy" type="bool" value="True" /> You get the items even if the container is destroyed. Good to have just in case.						
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758162" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="AMX_CHEST_2_TT" />
+								</node>
+							</children>
+						</node>
+						<node id="LayerList"> Keep everything under here unchanged. If you plan on placing your container around this same area.
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Crashsite_D" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="d092dace-9f6c-2013-c7da-de91e13f5974" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="05101262-e5a4-c68b-cf9e-49e296f639a6" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="202.0 1.0 242.0" /> Change the position a little bit. The middle value is height.
+							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
+							<attribute id="Scale" type="float" value="0.5" /> This means that the object is half the size.
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
