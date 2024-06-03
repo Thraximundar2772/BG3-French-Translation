@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="613"/>
+    <region id="ConditionErrors">
+        <node id="root">
+            <children>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60fd6917g0f5cg486dg82c0g315f287cbf54" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="TargetNotABunny"/>
+                    <attribute id="UUID" type="guid" value="a73e41d8-fcd5-4234-80e2-2fab2dae8ebc"/>
+                </node>
+				<node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b5f443cg66afg4564g8ec7gfe3046025284" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="NotHasGoldForBlackJack"/>
+                    <attribute id="UUID" type="guid" value="12e0d86b-4577-4bc3-acdc-b80a7dd97323"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+
+
+
