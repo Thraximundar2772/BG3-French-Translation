@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="ha28cc737g80ddg403ag998dg0fc8c97d95e1" version="1">Boo</content>
+	<content contentuid="h54332777g3888g4800ga669gef179576751b" version="1">Lapin miniature géant de l'espace</content>
+	<content contentuid="hae1b2eedgaf4eg46fcgac6cgd0a6cec27c06" version="1">La courtisane de Boo</content>
+	<content contentuid="ha3056a13ga5f3g466cg8f6bg7f1eb55357b9" version="1">Une des peluches de joie préféré de Boo</content>
+	<content contentuid="h5e02ba66g943ag49f7g9c51g4be68bccf322" version="1">Invoquer des courtisanes</content>
+	<content contentuid="ha714f291g409dg4ab8gbc7dga856eb6c3796" version="1">Boo invoque ses trois peluches de joie préférées.</content>
+	<content contentuid="h8525bc45g82f5g427egaebcg6d358a3ad067" version="1">Boo miam miam miam</content>
+	<content contentuid="haf53b49bgb35ag49b9g99f0g33195ed81d80" version="1">Boo mord la cible, qui MEURT.</content>
+	<content contentuid="haa6932fbgbb8fg48d5gb452g618fd3eed72e" version="1">Heureux</content>
+	<content contentuid="h098a60c1gb9e1g473bgaa19g5adbc83b6df3" version="1">Boo devient heureux quand il voit ses courtisanes préférées.</content>
+	<content contentuid="h40197872gb6ffg4ecbga4bbg9cc95c7c6a78" version="1">Jouer au BlackJack</content>
+	<content contentuid="h60d226aeg4908g4d1egae94g95e34e68bb3a" version="1">&lt;i&gt;Coûte 25 &lt;b&gt;pièces d'or&lt;/b&gt; pour jouer.&lt;/i&gt; &lt;br&gt; &lt;br&gt;Boo joue une partie de BlackJack. Soit il gagne de l'or, soit il perd de l'or, soit il mange des cartes.</content>
+	<content contentuid="hc2135ad8g56cdg4e5ega8e9gf33b1e1b5eea" version="1">Boo a joué une partie de BlackJack. Il est heureux.</content>
+	<content contentuid="hfccabaa0g1c4fg4128g982cgc8558ec05638" version="1">Mal au petit ventre</content>
+	<content contentuid="he504775bg7004g41c3g8048gb86a26434be6" version="1">Boo a mangé les cartes du BlackJack et il a mal à son petit ventre. </content>
+	<content contentuid="h34baa41cg637dg4fe5g8aa0g9de7f8e2278d" version="1">Table de BlackJack</content>
+	<content contentuid="hf8e154aag65dfg43e2g9892g6c5eefd477c3" version="1">Ressusciter le lapinou</content>
+	<content contentuid="hbc734723g1c2eg40f2g9904gcfb4a6ac8aad" version="1">Extrait le lapinou du pays des carottes éternelles pour le rammener dans le monde des vivants. </content>
+	<content contentuid="haaf8afa4ged0cg46f9ga41ag6af7de277414" version="1">Invoquer Boo</content>
+	<content contentuid="hfb93a40eg7cbbg4232gab09g0f14555ba135" version="1">Invoque Boo, le lapin miniature géant de l'espace. Boo peut &lt;LSTag Type="Spell" Tooltip="Shout_BooRabbit_SummonHookers"&gt;invoquer des courtisanes&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_BooRabbit_PlayBlackjack"&gt;jouer au BlackJack&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_RaiseRabbits"&gt;ressusciter le lapinou.&lt;/LSTag&gt; &lt;br&gt; &lt;br&gt; &lt;i&gt;Loué soit notre souverain suprême Lapinou. Notre seigneur et sauveur du pompon.&lt;/i&gt;</content>
+	<content contentuid="h6f668addg00ebg4499g9eaag822e9cee114e" version="1">Table de BlackJack</content>
+	<content contentuid="hb0dba665gc2a7g40f3gbc72g780be38133e7" version="1">Boo pas content</content>
+	<content contentuid="h3b7115efgb7aeg4ad3g9f4ag136f96f4131a" version="1">La table doit MOURRIR</content>
+	<content contentuid="h60fd6917g0f5cg486dg82c0g315f287cbf54" version="1">La cible n'est pas un lapinou.</content>
+	<content contentuid="h1b5f443cg66afg4564g8ec7gfe3046025284" version="1">Pas assez d'or.</content>
+</contentList>

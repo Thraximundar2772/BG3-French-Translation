@@ -1,0 +1,8 @@
+new spellset "BooRabbitSpells"
+add spell "Projectile_Jump"
+add spell "Target_RaiseRabbits"
+add spell "Shout_BooRabbit_SummonHookers"
+add spell "Shout_BooRabbit_PlayBlackjack"
+//add spell "Shout_BooRabbit_HUGEBNUY"
+//add spell "Target_BooMONCH"
+//add spell "Shout_BooRabbit_UNLEASHBNUYS"
