@@ -13,13 +13,13 @@
 	<content contentuid="16b3a93e-5021-4b21-b0cb-fba0479b4cad" version="1">Chomp</content>
 	<content contentuid="dcd2db00-dd3b-445f-9419-a4096ef6852a" version="1">Squelettes phosphorescents dans le noir</content>
 	<!--Lesser Skeleport-->
-	<content contentuid="f0ad3641-238e-4b40-b497-c7a456a0d768" version="1">Skeleport de Walkrana</content>
+	<content contentuid="f0ad3641-238e-4b40-b497-c7a456a0d768" version="1">Skeleport de Valkrana</content>
 	<content contentuid="55f8f821-4e5e-4f26-bc24-e7966bc8952d" version="1">Échangez les squelettes avec le cadavre de la cible ou les morts-vivants alliés à portée, même si vous ne pouvez pas voir votre cible. Ensuite, échangez le reste. Peut être lancé à nouveau pour une action bonus tant que le sort reste actif.</content>
 	<content contentuid="0e497a59-7bf6-43cc-a3b3-4c6dbf3c7fbe" version="1">Doit cibler un cadavre ou un mort-vivant ami.</content>
 	<content contentuid="27aa9e8d-0adc-4906-acfe-69427717b367" version="1">Téléportation de Valkrana</content>
 	<content contentuid="ea1e531e-fa7a-4cd6-89d7-5fde5cf758c1" version="1">Vous pouvez utiliser votre action bonus pour relancer la Téléportation de Valkrana sans dépenser d'emplacement de sort.</content>
 	<!--Negative Energy Field-->
-	<content contentuid="40b22273-389c-48dc-ba3d-44c556d42fb2" version="1">Champ d'énergie négative de Walkrana</content>
+	<content contentuid="40b22273-389c-48dc-ba3d-44c556d42fb2" version="1">Champ d'énergie négative de Valkrana</content>
 	<content contentuid="f5eace91-19c1-44f3-914d-2695c53b1ad0" version="1">Canaliser un champ épais de nécromancie qui nuit aux vivants et donne du pouvoir aux morts-vivants. &lt;br&gt;&lt;br&gt;Lorsqu'un allié mort-vivant entre dans la zone pour la première fois lors d'un tour ou y commence son tour, il reçoit [2] soins, ajoute [1] à ses attaques, gagne l'immunité au tour et voit sa vitesse de déplacement augmenter ; un ennemi vivant subira au contraire [1].&lt;br&gt;&lt;br&gt;De nombreux sorts de réanimation ne nécessitent pas de cadavre en raison de l'abondance d'énergie négative dans sa zone.</content>
 	<content contentuid="0805a107-9062-47bc-b516-2dde6827fc9d" version="1">Zone d'énergie négative</content>
 	<content contentuid="60d36730-abcc-4614-baf5-fbe375467405" version="1">De nombreux sorts de réanimation ne nécessitent pas de cadavres en raison de l'abondance d'énergie négative autour de vous.</content>
@@ -41,7 +41,7 @@
 	<content contentuid="ValkranaSpellbook_PerniciousMark_Desc" version="1">Marquez une cible pour la rendre &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de poison.</content>
 	<content contentuid="ValkranaSpellbook_PerniciousMark_Stat" version="1">Marqué par les morts. L'entité concernée est &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de Poison, ou perd sa &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; au Poison.</content>
 	<!--Corpse Grenade-->
-	<content contentuid="bcb7de9d-07c3-4bca-bb9a-ae5eafd9e837" version="1">Grenade de cadavre de Walkrana</content>
+	<content contentuid="bcb7de9d-07c3-4bca-bb9a-ae5eafd9e837" version="1">Grenade de cadavre de Valkrana</content>
 	<content contentuid="e04b0ee2-b960-488d-8870-bb73f6907167" version="1">Surchargez un cadavre ou un mort-vivant allié avec de l'énergie négative, le faisant exploser et endommageant toutes les créatures à proximité immédiate.</content>
 	<!--Arc Vivisector-->
 	<content contentuid="6d90d65a-7b98-4fe4-9f60-d7d062b0e58c" version="1">Arc vivisecteur de Valkrana</content>

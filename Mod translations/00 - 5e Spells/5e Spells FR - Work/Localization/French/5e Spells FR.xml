@@ -191,8 +191,8 @@
 	<content contentuid="h02d48687ga653g4978g9702ge57659329388" version="1">Lame de Verte-Flamme : Frappe Divine (Poison)</content>
 	<content contentuid="hfe528f39gec3bg4cbag908cgc1c2d41601e4" version="1">Lame de Verte-Flamme : Frappe Divine (Arme)</content>
 	<content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Vous frappez une cible avec une arme de mêlée, permettant au feu de se propager à un second ennemi situé à moins de [1] de votre cible, infligeant [2].</content>
-	<content contentuid="32f268b63e3e4801a74ad7943eacf3c0" version="1">Le feu appliqué à votre cible initiale peut se propager à une seconde cible proche.</content>
-	<content contentuid="b9d8673da2b94c1fb644ddcc057fd730" version="1">Ne peut pas être ciblé par la propagation du feu émis par la Lame aux flammes vertes.</content>
+	<content contentuid="32f268b63e3e4801a74ad7943eacf3c0" version="1">Peut lancer du feu vers un ennemi proche.</content>
+	<content contentuid="b9d8673da2b94c1fb644ddcc057fd730" version="1">Peut être ciblé par du feu émis par la Lame aux flammes vertes.</content>
 	<content contentuid="db5c91b4-e7db-4f8b-81a4-bb4a026d88e2" version="1">Flamme verdâtre </content>
 	<content contentuid="dac95e17-7fb6-4ebe-840b-5f92f409431f" version="1">Une flamme verdâtre jaillit de votre arme et se répand sur un ennemi proche.</content>
 	<content contentuid="h1e59de7fg2f54g4f51g9304g9aabd84e3f15" version="1">Saute de vent</content>
