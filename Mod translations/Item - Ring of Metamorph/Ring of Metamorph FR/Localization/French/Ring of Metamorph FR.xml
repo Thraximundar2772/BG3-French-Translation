@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hd47331d1g120dg4590g9db3g3d4ee3da87d2" version="1">Transformez un personnage en companion ou PNJ.</content>
+	<content contentuid="h3ede1096g0aa4g4d03gbd1ag78699a2a23cd" version="1">Anneau de métamorphose</content>
+	<content contentuid="hb68506d9g580fg457bg8c64g945d07f6d640" version="1">Métamorphose</content>
+	<content contentuid="hda1b462fg4894g4344g8232gd6facb10fd8b" version="1">Métamorphosé</content>
+	<content contentuid="ha3bcc3deg4411g4a27gb8c8ga4a368a56114" version="1">Transforme un personnage en companion ou PNJ.</content>
+	<content contentuid="hdb3aa424g6c79g46a7gaf53gccd3330a31ca" version="1">Ombrecoeur</content>
+	<content contentuid="hbc08f490g154eg4351g86eeg5a48783dc43c" version="1">Transformer en Ombrecoeur.</content>
+	<content contentuid="h451898abg9d46g481dg8d3dgdd98d0547435" version="1">Halsin</content>
+	<content contentuid="h100ab860gafd4g444bgb03bgac22fe4638ab" version="1">Transformer en Halsin.</content>
+	<content contentuid="h2b304645g2abag4c2eg9188g5a1207c896ac" version="1">Gale</content>
+	<content contentuid="h90960272g3227g4afcgaf6fg2faab728f7be" version="1">Transformer en Gale.</content>
+	<content contentuid="h2a09da68g891ag49e0g863dg3d7b2245095b" version="1">Astarion</content>
+	<content contentuid="h473f9607gf0feg4f83ga6b4gdb82945590e2" version="1">Transformer en Astarion.</content>
+	<content contentuid="h20b51c8bgf591g42b7gb699g1a6440e03b17" version="1">Wyll</content>
+	<content contentuid="hfdf7f222g9917g4205g8e99g27101701fb99" version="1">Transformer en Wyll.</content>
+	<content contentuid="h99346825g1bf7g419cg9d57g4c21460cd871" version="1">Lae'zel</content>
+	<content contentuid="hc1de41b3geaffg4446ga3c8gd826bcb1c001" version="1">Transformer en Lae'zel.</content>
+	<content contentuid="h80dfa692g53e3g4553g99d1g2812b61e95b9" version="1">Raphael</content>
+	<content contentuid="h6185809dg2ceeg40ddg95d8gb90c26380dbd" version="1">Transformer en Raphael en forme humaine.</content>
+	<content contentuid="h8a552e3dg309bg49efg833cg78b8363fe107" version="1">Transformer en Raphael en forme de diable.</content>
+	<content contentuid="h293fb8a1gb318g425fgac6agd12c6e349a66" version="1">Minthara</content>
+	<content contentuid="h8e8a9080g8199g4271gb6e4gda898030ddb7" version="1">Transformer en Minthara.</content>
+	<content contentuid="h59d25d05g6fb2g43e7g8d60g9565b949571a" version="1">Abdirak</content>
+	<content contentuid="h54f23959g92f7g4b8egb1a0gb95ecee1cc87" version="1">Transformer en Abdirak.</content>
+	<content contentuid="hb7708a04g978cg47c1g919eg3a46bd0ac179" version="1">Mizora</content>
+	<content contentuid="h01dd816cgf65ag4dcfg9259gabcf45311e26" version="1">Transformer en Mizora en forme humaine.</content>
+	<content contentuid="haab3cb61ga05dg409aga7bcg3b96e9ea7f4e" version="1">Transformer en Mizora en forme de diable.</content>
+	<content contentuid="h10b76ae5g4ccbg4b15g8941g84ca1d95c688" version="1">Karlach</content>
+	<content contentuid="h5481f785gfa59g46a9ga1b0gd3dd5def0a5d" version="1">Transformer en Karlach.</content>
+	<content contentuid="ha2ed83f5g0ab1g4e33gbf3fg0a6d3fdf422f" version="1">Alfira</content>
+	<content contentuid="hd3bef8begd78bg40afg8aaeg2c2697e817ae" version="1">Transformer en Alfira.</content>
+	<content contentuid="h17c15a2fga73eg4b07g9427g42883ab7217a" version="1">Aradin</content>
+	<content contentuid="h140d79ecg3fbbg450eg80edgb10469888b71" version="1">Transformer en Aradin.</content>
+	<content contentuid="ha8c90616g0953g4ac2gb509g607ae036face" version="1">Kagha</content>
+	<content contentuid="hf99b0994gb658g4819gb5f3g72a53df441c3" version="1">Transformer en Kagha.</content>
+	<content contentuid="h08998024ge575g4758g89d3ga870697e5877" version="1">Zevlor</content>
+	<content contentuid="hbbc8fa2bg5fc6g4e07g80d4g9d93f1f494d0" version="1">Transformer en Zevlor.</content>
+	<content contentuid="h5c76c388ge93eg4b19gae9bg8cd161d56a8c" version="1">Dammon</content>
+	<content contentuid="haaa93084g5551g4d75g8882ga6a480ead48e" version="1">Transformer en Dammon.</content>
+	<content contentuid="h7f720ef7g4b4ag4002g842cga663c083d79c" version="1">Rugan</content>
+	<content contentuid="h447d741bg193ag4df1gb7eag1bdaa161faed" version="1">Transformer en Rugan.</content>
+	<content contentuid="hb8f8d021ga75cg4edag89ebg683ff3d9e716" version="1">Nere</content>
+	<content contentuid="h6bc952c7g78eag43eag913bg95c09d9b8f24" version="1">Transformer en Nere.</content>
+	<content contentuid="h907cc52dge75dg4deeg9190ge41463af16d8" version="1">Omeluum</content>
+	<content contentuid="hde6adb42g5497g4e18gbf3cgb8c1f3c7ce54" version="1">Transformer en Omeluum.</content>
+	<content contentuid="hba56d874g21fcg496ega5eegb1e6672afb61" version="1">Blurg</content>
+	<content contentuid="h0685a3cdg76eeg4183g85d2g58cc482878bb" version="1">Transformer en Blurg.</content>
+	<content contentuid="ha158c044g11abg4acag9f82gbc2214262fc8" version="1">Withers</content>
+	<content contentuid="h251b3d27g87fbg4b09gae39g6daf1c5e2b8f" version="1">Transformer en Withers.</content>
+	<content contentuid="h29698950gdbbcg4e1dg9e32gfe66ef42e8be" version="1">Ethel</content>
+	<content contentuid="h06827575g628ag48c4gb00dg5998786330f5" version="1">Transformer en Ethel en forme humaine.</content>
+	<content contentuid="h9236fb61g8dc2g4691g9a30gada7c08f4bf6" version="1">Transformer en Ethel en forme sorcière.</content>
+	<content contentuid="hb3287f76gc74dg461cgbe1dg47aefa34d9a9" version="1">Jaheira</content>
+	<content contentuid="h2480ebf3g5023g42eagadb4g8dc118f013cb" version="1">Transformer en Jaheira.</content>
+	<content contentuid="h5bd0a008ge12ag4e5fg8b54g7a30e11fbb72" version="1">Minsc</content>
+	<content contentuid="h2041ec44ga404g4bb9gbb3eg003ee244f59d" version="1">Transformer en Minsc.</content>
+	<content contentuid="hee4182e0ge4b0g49d0gbc10g14c254dfb953" version="1">Dame Aylin</content>
+	<content contentuid="hd684794dgbbfag4420gbabag1f21d43b7e2e" version="1">Transformer en Dame Aylin en haillons.</content>
+	<content contentuid="h02877e8bg1f7ag4750gaa54ge9c8a03c5895" version="1">Isobel</content>
+	<content contentuid="h9f4fde35gc74ag4987g930cg286f5339a704" version="1">Transformer en Isobel.</content>
+	<content contentuid="h87177d18g7a12g4b3bg93b9g4bf1ab674a20" version="1">Rolan</content>
+	<content contentuid="hb1d30d67g28ccg42ebgaed5g61bc14a164b5" version="1">Transformer en Rolan.</content>
+	<content contentuid="h71891fa2gb1b8g4adega5a2g7678caeedb62" version="1">Ketheric</content>
+	<content contentuid="h9ba029dbge883g4525ga927g2e060e98917c" version="1">Transformer en Ketheric.</content>
+	<content contentuid="h090b2a0cg8ba4g4484ga900g17be716faf67" version="1">Gortash</content>
+	<content contentuid="hef6a9dcag20d1g44dcgbcd7g078980c77842" version="1">Transformer en Gortash.</content>
+	<content contentuid="hdf5b9d60g9602g4755gbe53g50577a7ab36d" version="1">Orin</content>
+	<content contentuid="had3d0b5dg4479g4c5fg89f3g98b5f2a9ef05" version="1">Transformer en Orin.</content>
+	<content contentuid="hd1cb5fcag3321g4a43g8ae2gcbbcd23ce2c2" version="1">L'Empereur</content>
+	<content contentuid="hd4b1c844ge5b4g4c88gb718gb224a6951ca7" version="1">Transformer en l'Empereur.</content>
+	<content contentuid="hb7b0bfc6g1bfbg4012g90a1gee5adc5a2c24" version="1">Invisible</content>
+	<content contentuid="h10b9fc2fg4594g44a7ga8dcgcd9ec0cec020" version="1">Rend le personnage invisible. Ce n'est pas une vraie invisibilité comme celle conférée par un sort. Si le personnage devient nu, utilisez "Annuler la Métamorphose" et ré-essayez. Il y a peut-être besoin de plusieurs essais. </content>
+	<content contentuid="ha963ad39g3a47g4a67g9787gbf097fc9a9c5" version="1">Annuler la Métamorphose</content>
+	<content contentuid="hb6a6a978g2812g402dgb6edgcf013883bf83" version="1">Annule la transformation.</content>
+</contentList>
