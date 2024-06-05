@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6ec8f930g943cg466bg9ca8g14a85805d15c" version="1">Un envoi sur le marché noir de poignards elfiques.</content>
+	<content contentuid="hbb15daeag257ag4a0dg8e53g078e3c9ab55e" version="1">Caisse de Poignards Elfiques</content>
+	<content contentuid="h998e25a9g5614g4c81ga23dg6145d8b2a9d7" version="1">Aussi bonne arme que comme outil.</content>
+	<content contentuid="h27a3647bg2a1bg49c9g8d91g8fa5872138ca" version="1">Poignard Elfe</content>
+	<content contentuid="h92e5715dg479ag4906g91e9gf38d3436836b" version="1">Poignard Elfe de Main Gauche</content>
+	<content contentuid="h6a241ebagd161g4e9dga00fg455e8c5a2b12" version="1">Arme de Duel Drow</content>
+	<content contentuid="h71122f36g3aaag4ae7gacbcg3f3f58e02839" version="1">Main Gauche</content>
+	<content contentuid="h019f9a3ag2e62g4467g9d6bg03b93182506b" version="1">En tenant une Rapière, un Scimitar ou une Épée dans votre main principale, votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1]. Cette capacité ne s'accumule pas avec "Escrime Menzoberranzan" ou "Lame et Poignard".</content>
+	<content contentuid="ha58a0882gd1feg440ega21dgd1c68426690c" version="1">Attaquez une cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prostrée&lt;/LSTag; ou &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralysée&lt;/LSTag;, infligeant un supplément de [1].</content>
+	<content contentuid="h96874088g2031g4638g86c0g4f8184a690e4" version="1">Coup de Grâce</content>
+	<content contentuid="hee7c0fb0g845bg4f6bgbf01gccd8d2cbf181" version="1">Aucun guerrier digne de ce nom ne se passerait d'un tel poignard de secours.</content>
+	<content contentuid="hf8beb61eg0cd1g4b6cgae3cgad0c3871959c" version="1">Poignard Elfe Tranchant</content>
+	<content contentuid="h939d3ef0gbf51g4097g8d1dg63b7227810b8" version="1">"J'en ai forgé des centaines lorsque j'étais apprenti. Mon maître disait que je n'aurais besoin de rien d'autre pour devenir un forgeron légendaire." - Nathaniel Silverhand, Forgeron des Rangers Lunaires</content>
+	<content contentuid="h608af5cegb0d0g4870g8331g375aa02d84c6" version="1">Poignard Elfe de Maître</content>
+	<content contentuid="h595fd01cg2e4ag43c9gbe53ga59a70ffcc1e" version="1">"Au lieu d'une bague, mon père a donné ça à ma mère pour leurs fiançailles. Oui... mon père a toujours été un type étrange." - Lithien Echginiel, Capitaine des Rangers Lunaires</content>
+	<content contentuid="h0feed838g15eeg4335g888cg8473a1b0018d" version="1">Le Cadeau de Giniel</content>
+	<content contentuid="h30ba2a2bg4ae5g4829g9b86gaa362bd370f2" version="1">Cette arme reviendra dans votre main lorsqu'elle sera lancée, et vous ne pourrez pas être forcé de la lâcher.</content>
+	<content contentuid="hd4e5b223g4336g441bgaa25g33a1eec371d0" version="1">Fiable</content>
+	<content contentuid="h2b8fea62gb5e7g4d70ga26agcb18c7a9657c" version="1">Mains Rapides</content>
+	<content contentuid="hd08a8b63g5936g4812g95e7g702d06b760fa" version="1">Équiper cette arme ne coûte qu'une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hde0c24f7gd67eg4683gb669gf70306dd13a9" version="1">'Tout guerrier honorable qualifierait cela de tricherie. À mon expérience, les guerriers honorables ne qualifient plus rien longtemps.' - Zeki Bagcutter, Marchand des Zhentarim</content>
+	<content contentuid="h27cb8b48g34d5g4808g8380gef8049bd4656" version="1">Couteau de l'Alchimiste</content>
+	<content contentuid="hf65fda86g5ecbg447eg814eg5d2bc4982d86" version="1">Lorsqu'il est enduit de poison, cette arme inflige un supplément de [1].</content>
+	<content contentuid="h2be33e08ga216g4726gaafcgb039d875cc87" version="1">Catalyseur</content>
+	<content contentuid="h0330c21fgf092g40fbgbb66ge80933577852" version="1">"J'aime Zeki. Je ne ferais jamais confiance à un homme qui ne peut pas être acheté." - Lilith Corax, Héritière de la Maison Corax</content>
+	<content contentuid="h82c9d889g5777g4b01gad38g1c623844ffb1" version="1">Couteau du Contrebandier</content>
+	<content contentuid="h95250ecdg9702g4bc2gaa01g153b735ec60f" version="1">Les jets d'&lt;LSTag Tooltip="AttackRoll"&gt;Attaque&lt;/LSTag&gt; avec cette arme en main secondaire bénéficient de l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hcb737576g91fcg4863gb86cg6d07c63dcba7" version="1">Frappe Rampante</content>
+	<content contentuid="habac4710g9a16g4a9eg8344g11be03dbf72c" version="1">"Nous leur apporterons la miséricorde d'Eilistraee... et des couteaux. Eh bien, surtout des couteaux." - Alebersam, Chasseur de la Seldarine</content>
+	<content contentuid="h04cdc971gc7e9g42b9g980dgcf14bcaf96bc" version="1">Miséricorde</content>
+	<content contentuid="h957c0b92g2c0cg4cedg8617g0a073c52ae79" version="1">Lors de l'utilisation de &lt;LSTag Type="Spell" Tooltip="EW_Target_Misericordia"&gt;Coup de Grâce&lt;/LSTag&gt;, cette arme inflige un supplément de [1].</content>
+	<content contentuid="h4beaa466gdd79g4ef4g9d0ege5e633bd8162" version="1">Dernier Souhait</content>
+	<content contentuid="h4d3a4f7fgae0bg4a7dg9117gc97c773c384f" version="1">Lors de l'utilisation de &lt;LSTag Type="Spell" Tooltip="Target_PiercingThrust"&gt;Coup d'Estoc&lt;/LSTag&gt;, cette arme inflige un supplément de [1].</content>
+	<content contentuid="h788f9496g6ed7g41f8gacc8ge11e9a7fdbd0" version="1">Briseur d'Armure</content>
+	<content contentuid="h7752b4ddg653bg466bga67bga6911ca44297" version="1">Bénissez un allié pendant [2] tours. Il gagne un bonus de +[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="habf702a6g947fg4427ga04cgdacbf3cb266b" version="1">Souhait d'Amour</content>
+	<content contentuid="h992371c3gb136g4e8ag9926ga86c8fc04b04" version="1">"Portez toujours avec vous les souvenirs de mes mains, de mes baisers, de mon couteau." - Lilith Corax, Héritière de la Maison Corax</content>
+	<content contentuid="h5bf56eebg97b5g4eb3g89ccg75c49e76c57c" version="1">Plainte</content>
+	<content contentuid="h0ef4ab06gf033g41dbg97f0ga098fc99961a" version="1">Cette arme inflige un supplément de [1] contre les Elfes, les Demi-Elfes et les Drows.</content>
+	<content contentuid="he9a3c60fg9804g4153g920ag3a7733ba5699" version="1">Tueur de Proches</content>
+	<content contentuid="ha8d20bbcgf827g45d5gbb8dg4858ba3f63fc" version="1">Marquez une cible comme étant la vôtre. Vos attaques contre elle infligent un supplément de [1].</content>
+	<content contentuid="h3579ee5cg0666g44c7ga59bg14c728f37c4d" version="1">Baiser du Tricheur</content>
+	<content contentuid="he3844ca1g7684g4c8dgbaaag0f9ce0fee516" version="1">Prend un supplément de [1] des attaques et des sorts de celui qui porte Plainte.</content>
+	<content contentuid="h35aada07g366bg4c2agbb9eg618b6d758440" version="1">'Ça n'a pas fait trop mal... enfin, pas trop.' - Annelace Stormchild, Magicienne Moonranger</content>
+	<content contentuid="h36ccdb93g2e84g41cfg8f59gbb0e83376815" version="1">Dague de Tisserand de Sorts</content>
+	<content contentuid="h8fa376b8g32d5g4e45g9e09gcbc44f19917e" version="1">Au lieu de son &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur de Dextérité&lt;/LSTag&gt;, l'entité affectée ajoute son &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur d'Attribut de Lancer de Sorts&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h930e6ec4gc76ag4b98gb77cgb56a00895215" version="1">Lanceur de Sorts au Corps à Corps</content>
+	<content contentuid="h666588d9ga90eg4524g9a78g2b22c922d4c9" version="1">En &lt;LSTag Tooltip="Concentration"&gt;concentrant&lt;/LSTag&gt; sur un sort, les attaques avec cette arme infligent un supplément de [1].</content>
+	<content contentuid="h6321fb6ega983g4439ga0bbg47caece4a11b" version="1">Conduit Arcanique</content>
+	<content contentuid="h24a44604g9187g4c35g827bg3c321ef2f8f5" version="1">Utilisez votre propre sang pour un peu d'énergie en cas de besoin. Sacrifiez [1] pour récupérer un emplacement de sort de niveau 1.</content>
+	<content contentuid="h2c7e5377gb6d6g4618g93d4g210f4f708d8a" version="1">Sang Arcanique</content>
+	<content contentuid="h957f8ec9g8153g4607gad6bg613d2fc30376" version="1">"Un ogre, poignardé à mort. Une vingtaine de blessures, et toutes faites alors qu'il était encore vivant. Ce n'est pas quelque chose que vous voyez tous les jours." - Lithien Echginiel, Capitaine Moonranger</content>
+	<content contentuid="h0a5d7003gb370g4b69gb86fgd5fc13b19ab2" version="1">Assassin de Bhaal</content>
+	<content contentuid="h1c84f6e7ge2ceg4030g8b03g210fad0840c6" version="1">Les attaques avec cette arme peuvent éventuellement infliger des &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Blessures béantes&lt;/LSTag&gt; pendant 3 tours.</content>
+	<content contentuid="h1a9a300cgc183g48b2g83a9g095cb656c8d1" version="1">Blessures Douloureuses</content>
+	<content contentuid="h022a2584g349dg47ecgbad3ga7a26e76dad4" version="1">Attaquez une cible remplissant les mêmes conditions qu'une attaque sournoise. Si vous touchez mais ne tuez pas votre cible, vous pouvez continuer à les attaquer en utilisant &lt;LSTag Type="Spell" Tooltip="EW_Target_BacktabStream_Follow"&gt;Frénésie du Coup dans le Dos (Suivi)&lt;/LSTag&gt; jusqu'à ce que vous manquiez ou les tuiez.</content>
+	<content contentuid="h984af428g12e5g4169g8060g6a3af61b7765" version="1">Frénésie du Coup dans le Dos</content>
+	<content contentuid="hea99c27cg608ag4c4fg917fg58b46d3f23d6" version="1">Frénésie du Coup dans le Dos (Suivi)</content>
+	<content contentuid="hd9e9517ag2bc2g4f4dgb455g1e1f67318e94" version="1">La Frénésie du Coup dans le Dos prend fin si vous attaquez une cible différente.</content>
+	<content contentuid="h18d410b5ge1c1g45fagb139g44043b5b95a2" version="1">Attaquez une cible de la Frénésie du Coup dans le Dos gratuitement jusqu'à ce que vous manquiez ou qu'ils meurent. Chaque attaque après la première a une pénalité cumulable de -1 aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h0f979d0bg2e9dg475bgb2adga2f11cca6107" version="1">Épée Courte Elfique</content>
+	<content contentuid="h8fc300a0g73e8g42d9gbbe9g9ba42fb0d81d" version="1">Frappe Rapide</content>
+	<content contentuid="hda72be9eg0d33g4b54g8afcg5867b1ba8bdb" version="1">Attaquez vos ennemis avec une vitesse surnaturelle</content>
+	<content contentuid="hbc832883gb64bg44f6g9a59g5e86d40c1bb9" version="1">Combattant Agile</content>
+	<content contentuid="h2d5e5e1ag34b4g42c2g986egd0b486e4ae11" version="1">Lorsque la main gauche du porteur est vide ou tient une dague ou une baguette, son initiative est augmentée de [1].</content>
+	<content contentuid="he5e5a768g7eebg40d9g946aga082951a7ae0" version="1">Épée Courte Elfique Tranchante</content>
+	<content contentuid="h3d807c6eg8360g47d7g834dgf9cfe58cd3b8" version="1">Épée Courte Elfique de Maître Artisan</content>
+	<content contentuid="hb4d3879fg330fg453bg8d2ag663ced3a0065" version="1">En utilisant &lt;LSTag Type="Spell" Tooltip="Target_PiercingThrust"&gt;Coup Perçant&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="EW_Target_Shortsword_BonusAttack"&gt;Frappe Rapide&lt;/LSTag&gt;, cette arme inflige un supplément de [1].</content>
+	<content contentuid="h93b5e4b3ga2b2g4db3g8513ge651a81648ca" version="1">Lame Courte Tisseuse de Sorts</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+	<content contentuid="00000000000000000000000000000" version="1">AAAAAAAAAAAAAAAAAAAAAA</content>
+</contentList>
