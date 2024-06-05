@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h731863c3g91adg4730g90f5g9ce65405bc5a" version="1">Un envoi du marché noir de arcs courts elfiques.</content>
+	<content contentuid="h2339e041g3024g4209gbc44g64393b014717" version="1">Caisse d'Arcs Courts Elfiques</content>
+	<content contentuid="hd1254bd8g24fbg4a47gb13dgab3176a8d10f" version="1">Alors que les elfes préfèrent généralement les arcs longs sur le champ de bataille, les arcs courts sont toujours utilisés lorsque la mobilité supérieure et le taux de tir sont nécessaires.</content>
+	<content contentuid="haaf63535g2963g400agaf65g30e26e13dce8" version="1">Arc Court Elfe</content>
+	<content contentuid="h02bd3068g2feeg4434g8cb4g522101fe04c8" version="1">Tir Mobile Avancé</content>
+	<content contentuid="h0363adf1g4f3bg4186g898cgc1f3997a672b" version="1">Feu Rapide</content>
+	<content contentuid="he19ad014gabfeg40f0g963dgdbe5876f0fcf" version="1">Tirez votre arc court deux fois en succession rapide.</content>
+	<content contentuid="h0b54fac0g3f49g4b83gbd56gb259d291a085" version="1">Combat Rapproché</content>
+	<content contentuid="h5bad0f7fgac11g4548g9995g72bed390f6c3" version="1">Lorsque vous effectuez des attaques avec un arc court à portée de mêlée, les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; ne sont pas effectués avec &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h620e5f8egb49fg4477gafa8gdb4fb2c35ab8" version="1">Arc Court Elfe de Voleur</content>
+	<content contentuid="h7aeee697g0e56g46f9ga2a5g0c78c6a6b7a0" version="1">Les voleurs et autres individus peu recommandables préfèrent des armes comme celle-ci, ce qui en fait une vue commune dans tout le Réseau Noir.</content>
+	<content contentuid="hcdfc0042gabeeg458agac45g1aefce80617a" version="1">Arc Court Elfe Enchanté</content>
+	<content contentuid="h27f0797cg335dg42e2g98a2g4340261e057e" version="1">Presque aussi mortel qu'un arc long pour une fraction du poids!</content>
+	<content contentuid="h98503f42g4005g4057g9f4dg9cfe0f11265b" version="2">Les arcs courts elfiques peuvent être tirés en succession rapide. Tous les tirs effectués de cette manière ont une pénalité de -[1] à leur &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; mais peuvent sélectionner une cible supplémentaire. Cela ne peut être utilisé qu'avec les tirs spéciaux des arcs courts elfiques. (Vous pouvez activer ou désactiver cela.)</content>
+	<content contentuid="he382a47ag1e68g4e09gb33bg9f696fca53a1" version="1">Lorsque le porteur réalise un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; avec cette arme, il gagne &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Élan&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h3dcb3ce4g8f7cg4dcdg904bg5aa815c33c69" version="1">Charge Critique</content>
+	<content contentuid="hfe3a8c14g3777g4206g9d53ga8fdab794e4b" version="1">Doit avoir Sprinté ce tour.</content>
+	<content contentuid="hcfdcc167g8e40g4c2dgbaebgc2ae34ec36ee" version="1">Après avoir utilisé Sprint, vous pouvez effectuer une attaque à distance en tant que &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h2781e4b7gc6a7g4108gb22cg71d31813cb91" version="1">Tir et Fuite</content>
+	<content contentuid="h6efe5271g3a51g486cgbda6g4df85fed869b" version="1">Tirez votre arc court avant de désengager. Le déplacement ne provoquera pas d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'Opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="h5e6eb1f1geabeg445eg8e1fg4ce7e99d9fa5" version="1">Tir Empoisonné</content>
+	<content contentuid="ha4a4a117g98c9g447cg8832gdb4bd4a2ba96" version="1">Tirez une flèche empoisonnée, infligeant un [1] supplémentaire et possiblement &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonnant&lt;/LSTag&gt; votre cible pendant 2 tours.</content>
+	<content contentuid="h2b5a8183g5158g4133gb964gdc4a59d84663" version="1">Tir Astucieux</content>
+	<content contentuid="hfc1fcba5g0c11g4bb9gacd1g32762601f6e1" version="1">Trompez en tirant une flèche à tête chercheuse qui atteint toujours votre cible.</content>
+	<content contentuid="h993b9308g5f85g4cd8gbb71g3803a165c424" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cette attaque ne bénéficiera pas de Feu Rapide ou de sources de dégâts supplémentaires des armes.</content>
+	<content contentuid="h49d7e576g325fg4551g95e0g9dd986eaf375" version="1">Tirez une flèche qui crée un nuage d'ombre là où elle atterrit et téléportez-vous dessus. Vous obtenez &lt;LSTag Type="Status" Tooltip="EW_BLINDED_INMUNITY"&gt;Forme d'Ombre&lt;/LSTag&gt; pendant 3 tours.</content>
+	<content contentuid="h0286a119g42e7g4c15gb5e0g2acd83e4bf25" version="1">Retraite dans l'Ombre</content>
+	<content contentuid="hc24a5bfegd349g4509g8658gaf5435ebabfa" version="1">Devenez comme une ombre. Vous avez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; de Discrétion, ne pouvez pas être &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt;, et le nombre nécessaire pour &lt;LSTag Tooltip="AttackRoll"&gt;réussir&lt;/LSTag&gt; un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; en attaquant est réduit de [1]. De plus, vous avez une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts Tranchants, Perforants et Contondants et une &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérabilité&lt;/LSTag&gt; aux dégâts Radiants.</content>
+	<content contentuid="h474e504egda38g4d24g80c1g7e2621fbc527" version="1">Volez l'arme de votre cible sur un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="h869e4296gfd23g4315gb5efgd492b3bec488" version="1">Vous N'en Aurez Pas Besoin</content>
+	<content contentuid="h41ae14f5g01a7g4c08gb7dcg8a9c7bf78c6c" version="1">En étant dans un nuage d'ombre, le nombre nécessaire pour &lt;LSTag Tooltip="AttackRoll"&gt;réussir&lt;/LSTag&gt; un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; en attaquant est réduit de [1]. Cet effet peut s'accumuler.</content>
+	<content contentuid="h2378919ag64b0g42f4g937bg2e6d1fda597e" version="1">Ils Ne Verront Pas Ça Arriver!</content>
+	<content contentuid="ha1af6304gc0a9g4e0fg97c8g2a87f14d19a4" version="1">"J'ai été surpris de voir Annelace participer au concours de tir à l'arc. J'aurais dû savoir qu'elle allait tricher." - Lithien Echginiel, Capitaine des Rangers Lunaires</content>
+	<content contentuid="h00b297f4gb611g4702g9b0ege8e33cbfd07b" version="1">Arc Court du Trompeur</content>
+	<content contentuid="h332c3126g8c04g4d78g9378g64ff86ab319f" version="1">Lorsque le porteur réussit un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; avec cette arme, il obtient &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibilité&lt;/LSTag&gt; pendant [1] tour.</content>
+	<content contentuid="h5a2233e5ga729g42f1ga0f8gd884072df6d7" version="1">Et Pour Mon Dernier Acte...</content>
+	<content contentuid="h577ebae2g6fd6g4bb3g8eecgd8ea0664b840" version="1">"Retiens ton souffle, concentre-toi et attends le bon moment. Ils ne s'y attendront jamais." - Alebersam, Chasseur Seldarine</content>
+	<content contentuid="hae46bb0fg47e4g4043g87d5g675318440407" version="1">Arc Court du Rôdeur</content>
+	<content contentuid="hf4f59768gc531g4ffag8864g7c0b8ed6f9c9" version="1">Lors du premier tour de combat, vous pouvez effectuer une &lt;LSTag Type="Spell" Tooltip="EW_Projectile_Shortbow_Opening"&gt;attaque spéciale à distance&lt;/LSTag&gt; gratuitement.</content>
+	<content contentuid="h58b3dfd5g8a0ag4ea4g9739g11b89f7d184c" version="1">Tir d'Ouverture</content>
+	<content contentuid="hdabbaddbg9339g4494g9197g8ac3f82c9c14" version="1">Prenez l'avantage en début de combat en tirant rapidement deux fois avec votre arc court.</content>
+	<content contentuid="h707d7033gc955g4fb1gbe59g3a0bb9c77ce8" version="1">Tirez une flèche sifflante, &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distrayant&lt;/LSTag&gt; éventuellement votre cible et donnant &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à vos alliés pour leur prochain &lt;LSTag Tooltip="AttackRoll"&gt;lancer d'attaque&lt;/LSTag&gt; contre elle.</content>
+	<content contentuid="h404f9f73g7379g48d8g98a2gf22374987297" version="1">Tir Distrayant</content>
+	<content contentuid="h2df9f7bfgf215g4a30g8a0egb458d7c37d40" version="1">&lt;LSTag Type="Status" Tooltip="SLOW"&gt;Ralentissez&lt;/LSTag&gt; votre cible sur un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="h35d60a26g973dg4314gbfccg260828cc959e" version="1">Restez Là!</content>
+	<content contentuid="hc9d18470g46f4g465fgbaaagb052a3c85f75" version="1">"Les recrues d'aujourd'hui sont paresseuses même dans leurs excuses. Hier seulement, l'une d'elles a réellement demandé une nouvelle épée parce qu''une ombre' lui a volé." - Nathaniel Silverhand, Capitaine des Rangers Lunaires</content>
+	<content contentuid="h44a9bfb9g5d13g4898g9058g2cd4eb21bb6b" version="1">Voleur Fantôme</content>
+	<content contentuid="hd0886f9fg05fcg4a22g847agc1e6ef9d25d3" version="1">Forme d'Ombre</content>
+	<content contentuid="h908081f0g6c68g4897g96f2g270161d9d586" version="1">"Chaque flèche résonnera avec le son de ma voix, vous glaçant jusqu'à l'âme." - Lilith Corax, Héritière de la Maison Corax</content>
+	<content contentuid="h777f79f3g1030g45d8gb192gccd747145b84" version="1">Chasseur Hurleur</content>
+	<content contentuid="hd64687f8g131cg4459g80d3g2c147f9593b0" version="1">Lorsque vous utilisez Feu Rapide, effectuez 2 tirs supplémentaires au lieu de 1.</content>
+	<content contentuid="hd0b17ecfg8296g4307g9c54gf5837903550f" version="1">Pluie de Flèches</content>
+	<content contentuid="h76592125ge94bg4bebg9fafge1ba77de812d" version="1">&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayer&lt;/LSTag&gt; votre cible pendant [1] tours sur un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="hff838ddfg71edg43d4ga732gd3afd0cc4d32" version="1">Cauchemar Vivant</content>
+	<content contentuid="h378a9c67g89b5g4610gb071gc38378f07ff7" version="1">"C'est propre! Mais maintenant, je dois nettoyer ma robe, mes cheveux, ma culotte... peut-être qu'un sort de feu serait plus rapide?" - Annelace Stormchild, Magicienne des Rangers Lunaires</content>
+	<content contentuid="h3e399730g8980g4bd5gac9fg335647e65203" version="1">Bénédiction de l'Assassin</content>
+	<content contentuid="hf6c22bcdg3674g4b39g85dag14cfe2998249" version="1">Le nombre que vous devez &lt;LSTag Tooltip="AttackRoll"&gt;lancer&lt;/LSTag&gt; pour obtenir un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; en attaquant est réduit de [1]. Cet effet peut s'accumuler.</content>
+	<content contentuid="h12007729g7d34g4dd2g9d37g763e3ec2ca34" version="1">Ruse</content>
+	<content contentuid="hb0fdc471g7a05g4e3agbdecgf66831d9f87d" version="1">Paralysé</content>
+	<content contentuid="hd788b3c5g0949g402aga25fg61d70708388e" version="1">Tirez une terreur pure sur votre cible, &lt;LSTag Type="Status" Tooltip="EW_HOWLING_PARALIZED"&gt;la paralysant&lt;/LSTag&gt; éventuellement pendant jusqu'à [1] tours.</content>
+	<content contentuid="hbf9e89b3ge1d0g4ae5ga27agcd348fb93352" version="1">Flèche Hurleuse</content>
+	<content contentuid="h7f3c690bg996ag4db5g9f7cgbcd967346df9" version="1">Un vieux anneau éclaboussé de peinture et de teinture.</content>
+	<content contentuid="ha33730a7g8089g4c25g8ae4gdb64e31fdac8" version="1">Anneau Sale</content>
+	<content contentuid="h26a6f1acg215bg49e4g9f48g2b950f44c03f" version="1">Les cibles peuvent toujours être Distrayantes.</content>
+	<content contentuid="haafd2cfag5db2g4c84gbb88gd184011e100a" version="1">Arc Court de Dryade</content>
+	<content contentuid="hdce78408g1792g414aga501ga40b195e6645" version="1">"Les Archères Dryades surveillent jalousement leur forêt, abattant tout intrus avant qu'ils ne puissent les voir." - Eleanor Reaver, 'Une étude sur les Dryades.'</content>
+	<content contentuid="h5148c553g06e0g4109gb4cdg9a8a33ac88a5" version="1">Étreinte de Dryade</content>
+	<content contentuid="h140d91e0g2bccg47bbgaf02gfe2fe8fb86b8" version="1">&lt;LSTag Type="Status" Tooltip="ENSNARED"&gt;Pris au Piège&lt;/LSTag&gt; votre cible sur un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="ha16a2cc0gb400g4deaga9a1ga74b47724f67" version="1">Flèches de Graines</content>
+	<content contentuid="h6b8d679eg16acg4b5fg97bagb80dc9f41bb8" version="1">Des mauvaises herbes surgissent du sol et étouffent la zone autour de la cible. Les créatures se déplaçant à travers les mauvaises herbes voient leur &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; réduite en quart.</content>
+	<content contentuid="000000000" version="1">AAAAAAA</content>
+	<content contentuid="000000000" version="1">AAAAAAA</content>
+</contentList>

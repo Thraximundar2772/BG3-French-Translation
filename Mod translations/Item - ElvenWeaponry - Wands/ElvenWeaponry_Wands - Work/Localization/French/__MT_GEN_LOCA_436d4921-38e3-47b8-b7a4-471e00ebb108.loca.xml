@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hb94c4869g3037g47e4g8f77g1ff2f52fc94c" version="1">Une collection de baguettes magiques, fraîchement arrivées du marché noir.</content>
+	<content contentuid="he6e5d74eg19dcg4688gaeb6gf6d158f5c8d2" version="1">Caisse de Baguettes</content>
+	<content contentuid="h7a21ae9eg50beg48a1ga406g54fed25c8748" version="1">"J'en avais une comme celle-ci pendant mes études! Mais je l'ai perdue lors d'un dîner après toute cette histoire avec une chèvre et un incendie... non, je jure que rien de tout cela n'était ma faute!" - Annelace Stormchild, Sorcière des Moonrangers</content>
+	<content contentuid="h8bfccdc6g93ccg4b8dgb1b6gd811e9d6b3e9" version="1">Baguette de Feu</content>
+	<content contentuid="h539066bcgc01bg4458g9129g2a23f19bed62" version="1">Canalisation</content>
+	<content contentuid="hbb843b97gca4fg49beg8039gcbeaf3a763e2" version="1">Lancez une explosion de flammes avec votre baguette, infligeant des dégâts de feu et pouvant &lt;LSTag Type="Status" Tooltip="BURNING"&gt;brûler&lt;/LSTag&gt; votre cible.</content>
+	<content contentuid="haf8de66fgff98g48dag9191g49bedc910704" version="1">Canalisation (Main Gauche)</content>
+	<content contentuid="h751a9efcga4d4g48f7g93d2g304b1dc17cf7" version="1">"Le Père Chêne nous offre de nombreux cadeaux, mais peu sont aussi dangereux que celui-ci." - Lithien Echginiel, Capitaine des Moonrangers</content>
+	<content contentuid="h0e820d63gc6dbg43c8g8aebg3f277d543f10" version="1">Scion d'Émeraude</content>
+	<content contentuid="h2eed71d7g942fg4830ga710gae9d6e34cd3f" version="3">Jusqu'au niveau [1], inflige un supplément de [2] et augmente la portée de [3] par niveau.</content>
+	<content contentuid="heeabe283gaf8eg4712g87f3gcc36fe8598d0" version="1">Les mauvaises herbes jaillissent du sol dans un nuage de fumées toxiques, étouffant la zone et infligeant [1]. Les créatures se déplaçant à travers les mauvaises herbes voient leur &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; divisée par quatre.</content>
+	<content contentuid="h1aed2720g9fd7g4591gab68g31cb4385304b" version="1">Croissance Toxique</content>
+	<content contentuid="hb346e20cg8539g4600gb62fgc3ccfa212673" version="1">Baguette</content>
+	<content contentuid="h0def4718g7929g4ba7gb8e4ga5716b0311e7" version="1">Les attaques de mêlée avec cette arme peuvent &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonner&lt;/LSTag&gt; leur cible.</content>
+	<content contentuid="habbd1a63g32dag4b9ega22dgd9a608f43269" version="1">Don de Chêne</content>
+	<content contentuid="hb759776cg948bg474ega518g7ffc281a4ef7" version="1">Le meilleur ami d'un sorcier.</content>
+	<content contentuid="h13d6b35eg4e81g4eb7ga474g42ea9743010a" version="1">Baguette Dorée</content>
+	<content contentuid="h0b6eb83cg6468g471egb343g835f6d220bc1" version="1">Quel genre de personne voit cette racine en décomposition, puant la non-mort, et se dit : "Bien sûr, c'est quelque chose que je veux porter sur moi?" - Annelace Stormchild, Sorcière des Moonrangers</content>
+	<content contentuid="h0581039fg03b2g4a53ga6c4g8d5291647b58" version="1">Épine de Myrkul</content>
+	<content contentuid="hf33a6e69ga715g4f5fg9cc6g5e6c8be47caf" version="2">Sélectionnez jusqu'à [1] cible(s) pour qu'elles subissent chacune [2] et empêchez-les de se soigner jusqu'à votre prochain tour. Les cibles mortes-vivantes reçoivent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hb00f8e0bg3e3dg4361g9b45gea3f7d57d351" version="1">Fouet des Morts-Vivants</content>
+	<content contentuid="hcbaaca2dgeed8g44ebg9c7ag732426f09bc8" version="1">Fouet des Morts-Vivants : Squelette</content>
+	<content contentuid="h28e6905ag3ea7g4d4bg8e59g0e05903eadb3" version="1">Fouet des Morts-Vivants : Zombie</content>
+	<content contentuid="h34ffd0f9g879eg4fc3g9b8bg54662c3f34db" version="1">Ajoute +[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque de Sort à Distance&lt;/LSTag&gt;.</content>
+	<content contentuid="hb0a28f1cgbd86g4ab0ga417g100416c399d0" version="1">Enchantement</content>
+	<content contentuid="hb598a3deg42cfg4da6g94c4g6d69c0777791" version="1">Les morts-vivants ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; contre le porteur.</content>
+	<content contentuid="h3bf42978gb3d4g4d4cga60bgcf8311155655" version="1">Seigneur des Morts-Vivants</content>
+	<content contentuid="h800659ffgd379g454cgb845g5b6a7b978ae2" version="1">"Il y en avait toujours un caché sous l'oreiller de ma sœur. Beaucoup d'assassins, et quelques amants, l'ont découvert bien trop tard." - Alebersam, Chasseur des Seldarines</content>
+	<content contentuid="h8fd7f59bg1b1fg45b9gb1cfgd3acf8636d07" version="1">Cadeau du Filou</content>
+	<content contentuid="h28cca3afg3223g414ega6e3g56f923d210a6" version="1">Lancez une rafale concentrée d'énergie de Force avec votre baguette.</content>
+	<content contentuid="ha4deddf5gc402g4759g9fb7g4a7f72a32b98" version="1">Lorsque vous touchez une créature avec un &lt;LSTag Type="Spell" Tooltip="EW_Projectile_TricksterBlast"&gt;Éclair Canalisé&lt;/LSTag&gt; du Cadeau du Filou, vous pouvez repousser la créature jusqu'à [1] loin de vous. (Vous pouvez activer ou désactiver cette option.)</content>
+	<content contentuid="h20e727feg2795g4fe3g940bg37c99ac51d71" version="1">Canalisation Repoussante</content>
+	<content contentuid="hcfd9b695geb07g4443g8e08ga00e1a88511d" version="1">Stratagème du Filou</content>
+	<content contentuid="hc92a8b0cg9f10g4cbfga220g814790edd1e1" version="1">La Dame Noire sourit à ceux qui voient la beauté plus profonde à l'intérieur.</content>
+	<content contentuid="hf7a17f97g30f6g4e42g8c5dga130b91b89d8" version="1">Baiser d'Eilistraee</content>
+	<content contentuid="hc956601cgb6eag4d16g9682g83638d9c8685" version="1">Faite du croc givré d'un dragon de glace, cette baguette est aussi mortelle que son souffle.</content>
+	<content contentuid="h0075747cgb462g4812g9058g3ede489cd4d8" version="1">Croc de l'Hiver</content>
+	<content contentuid="h0f3640a9g303ag43f7g879eg332f518229ca" version="3">Jusqu'au niveau [1], inflige des dégâts supplémentaires de [2] et augmente la zone de [3] par niveau.</content>
+	<content contentuid="h9a080dacg1802g4fb3gabaeg25faa0e9afd6" version="2">Faites éclater un tourbillon d'air glacial et de cristaux de neige condensée de votre baguette.</content>
+	<content contentuid="h5bc77858g5f41g4432g9d59g85411ab08b5d" version="1">'Ça brille comme de l'argent ET c'est magique? Sortons d'ici. Je n'ai pas l'or à dépenser pour UN AUTRE bibelot pour Annelace.' - Lithien Echginiel, Capitaine des Moonrangers</content>
+	<content contentuid="h73c3c7ebg6ac4g4195g8e6dg5c888ded1f8b" version="1">Baguette Blindée</content>
+	<content contentuid="hed3c7cc1g6f5ag45acg9f9fgaf76b76c65df" version="1">Bouclier de Mystra</content>
+	<content contentuid="hdb246c95g36e4g4852g87e7g76c490a7f7dd" version="1">Augmente votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="h2bcb96a5g0b7dg43a2g9514gaa401d052050" version="1">Parade</content>
+	<content contentuid="hb439c022ga6ebg45f1g858cgd5531bc1e68d" version="1">"C'est réparé maintenant! Peut-être. Ne le tenez pas trop près. Vous savez, juste au cas où." - Annelace Stormchild, Sorcière des Moonrangers</content>
+	<content contentuid="h9469e758gc30bg4127g8e90g1b19b29cae4d" version="1">Baguette Réparée de Tisse-sort</content>
+	<content contentuid="h6ce96f7egd13fg4c95gbf1cg0505b25a914d" version="1">Lancez un éclair de flammes avec votre baguette.</content>
+	<content contentuid="h40bee5a0gcca2g46f0g9031g9d942f07d8d9" version="1">Lancez une flamme brillante de votre baguette qui explose à l'impact, brûlant tout dans les environs.</content>
+	<content contentuid="hb5a4492eg9bd5g4a48g9054g8ffa3b530634" version="1">Chaud, Chaud, Chaud!</content>
+	<content contentuid="h78997d57gcaa0g44f5g9df7g63420abd6e20" version="1">En lançant &lt;LSTag Type="Spell" Tooltip="EW_Projectile_Wand_Fireball"&gt;Canalisation&lt;/LSTag&gt; avec cette arme, vous pourriez vous mettre &lt;LSTag Type="Status" Tooltip="BURNING"&gt;en feu&lt;/LSTag&gt;.</content>
+	<content contentuid="h48ab7b53ge8ceg4fabgbf99gb512974307eb" version="1">"C'est adorable, c'est scintillant, et ça laisse même échapper ces adorables petites étincelles d'énergie! ...Oh, et je suppose que ça peut aussi lancer des éclairs gigantesques." - Annelace Stormchild, Sorcière des Moonrangers</content>
+	<content contentuid="h2855b657g3e95g48eeg99d2g107bfc8d4b66" version="1">Baguette de Tempête</content>
+	<content contentuid="h4d3c9456g5177g4441g96a6g7c0bf10e7eb5" version="1">Quand le porteur inflige des dégâts avec un sort lancé depuis cette baguette, il gagne [1] &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Charges de Foudre&lt;/LSTag&gt;.</content>
+	<content contentuid="hcdf6edefg8865g42e3ga99dgb22491a310c5" version="1">Lancez un éclair de foudre avec votre baguette, pouvant &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Étourdi&lt;/LSTag&gt; votre cible.</content>
+	<content contentuid="h14d5fc4dge37cg4f04gbabfg6e48572de4c8" version="1">"Quand Raggar le Parjure est tombé dans la folie, il a sacrifié tous les enfants d'Aslanfell pour infuser sa baguette de leur sang. Ce qu'il lui restait après que Lithien et le capitaine défunt l'aient tué a été réclamé par Avernus. Espérons que c'est là qu'elle restera." - Nathaniel Silverhand, Forgeron des Moonrangers</content>
+	<content contentuid="h43031fc2g6af0g4832ga5b7gde50ff1227b6" version="1">La Baguette Interdite</content>
+	<content contentuid="h07fc4a15g67eeg4d60g9f95gfc8f1f96c17e" version="1">Affecte une cible supplémentaire par 2 niveaux.</content>
+	<content contentuid="h8db65c44ga3dag47e8g95a9g1bf2884aed31" version="1">Prix du Sang</content>
+	<content contentuid="hada480bdg6504g4113gaca2g2bc3c7544d7c" version="1">Coûte [1] à la fin de chaque tour.</content>
+	<content contentuid="hdc9207b8g6c06g412dgb087gb19d4be8d67d" version="1">Lors du lancement de sorts avec cette baguette, vous devez payer un péage avec votre propre &lt;LSTag Type="Status" Tooltip="EW_BLOOD_PRICE"&gt;sang&lt;/LSTag&gt;.</content>
+	<content contentuid="h01acc015gfa07g4a07g9f3bg62876a6e4b80" version="1">En offrant votre &lt;LSTag Type="Status" Tooltip="EW_BLOOD_PRICE"&gt;sang&lt;/LSTag&gt;, réduisez le nombre dont vous avez besoin pour obtenir un &lt;LSTag Tooltip="CriticalHit"&gt;Critique&lt;/LSTag&gt; lors d'une attaque de [1]. Vous êtes également capable de lancer &lt;LSTag Type="Spell" Tooltip="EW_Projectile_Wand_Forbidden_killWord"&gt;Mot Interdit&lt;/LSTag&gt;.</content>
+	<content contentuid="h1f9b52c2g2cdeg4734g8ae5g102281a377ca" version="1">Offrande de Sang</content>
+	<content contentuid="hcf6ee056g3492g4441g924fgbf32b8e87626" version="1">Mot Interdit</content>
+	<content contentuid="h95b5de4dg64f7g4c67ga321g2dcfc4a784e4" version="1">Prononcez un mot de pouvoir impie, infligeant [1]. Sur un &lt;LSTag Tooltip="CriticalHit"&gt;Critique&lt;/LSTag&gt;, cela tuera votre cible.</content>
+	<content contentuid="h4c39366agdc54g49a9g85b5gd5bf9d7b73c8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Lancer ce sort au-dessus du niveau 2 n'octroie aucun avantage supplémentaire.</content>
+	<content contentuid="h31b91558g7310g410cg8431g31c55f41f3e9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Lancer ce sort au-dessus du niveau 3 n'octroie aucun avantage supplémentaire.</content>
+	<content contentuid="h55d76a3dg1b24g4bbag8c3eg72120a497c61" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Lancer ce sort au-dessus du niveau 4 n'octroie aucun avantage supplémentaire.</content>
+	<content contentuid="h9b930b80g734eg4b7eg9c79g21acb7f1eb29" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Lancer ce sort au-dessus du niveau 5 n'octroie aucun avantage supplémentaire.</content>
+	<content contentuid="hbd9f0f79gc9c3g4321g85ddgfb05617a2004" version="2">Jusqu'au niveau [1], inflige un supplément de [2] par niveau.</content>
+	<content contentuid="h8919b71cg0271g4d20g9b3egfa802f07c804" version="1">Canalisation Suramplifier</content>
+	<content contentuid="hdb6719efg81c4g4c63ga74dg5ac58d039b6d" version="1">Jusqu'au niveau 4, affecte une cible supplémentaire par 2 niveaux.</content>
+	<content contentuid="hb437ead9g7475g4b1ega101ga1ebc537bbe3" version="2">Jusqu'au niveau [1], soigne un supplément de [2] par niveau.</content>
+	<content contentuid="h2f782effg7d48g4b4bgbe9ag1d31d90e2570" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Aucun effet sur les morts-vivants et les constructions. Lancer ce sort au-dessus du niveau 5 n'octroie aucun avantage supplémentaire.</content>
+	<content contentuid="ha5023b58g5a81g4834gb89egfa4bd0c52eaf" version="1">Canal Suramplifier Main Secondaire</content>
+	<content contentuid="hb8618e99gde95g4565gbffbg6fa09ea352ea" version="1">Ne consomme pas de &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Point d'Action Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h10162591g4294g492fgaf23g397ed747c2b2" version="1">Mains Rapides</content>
+	<content contentuid="hed4fbcdeg4f53g4a95g96afg37e0d8c3f286" version="1">Équiper cette arme ne coûte qu'un &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Point d'Action Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="h0d393c5egea6dg4fc8gb2aega22d9b60d519" version="1">&lt;LSTag Type="Status" Tooltip="EW_BLOOD_PRICE"&gt;Se blesser&lt;/LSTag&gt; pour lancer jusqu'à [1] puissants jets de force.</content>
+	<content contentuid="hec395fd8g7c24g4a29gbd4cg8ed7b9899f3f" version="1">&lt;LSTag Type="Status" Tooltip="EW_BLOOD_PRICE"&gt;Se blesser&lt;/LSTag&gt; pour lancer un puissant jet de force.</content>
+	<content contentuid="hd82bc9d2ga388g47a5g9ef5gf4436a8503fa" version="1">Baguette (À Distance)</content>
+	<content contentuid="h70af4ae5gc0b5g47b8g8876gca95a40658f3" version="1">Lancez un rayon de lumière sacrée. Le prochain &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; contre cette cible bénéficie de &lt;LSTag Tooltip="Advantage"&gt;l'Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h15488ee8g2d36g46c2g814fg70d0a0b0a582" version="1">%%% Vérification de la Durée du Prix du Sang</content>
+	<content contentuid="hf80d4f31g16ceg4740ga200g3755b17814ff" version="1">%%% Suppression Rapide du Canal</content>
+	<content contentuid="hcf42fc8dg8ee6g4f15ga88eg5aac18bda96d" version="1">%%% État Rapide du Canal</content>
+	<content contentuid="h81dc5d4fg3abag479cg96ccge16302c17d2b" version="1">Après avoir suramplifié un sort de Canal avec une baguette dans votre main principale, vous pouvez lancer un sort de Canal non suramplifié gratuitement ce tour-ci.</content>
+	<content contentuid="h21455912g9328g4b9bgb440gf93ee98fb91d" version="1">Canal Rapide</content>
+	<content contentuid="h82c8da77g3d30g4d7bgbabeg450db251f7b7" version="1">Votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; augmente de 1, jusqu'à un maximum de 20.&lt;br&gt;&lt;br&gt; Après avoir suramplifié un sort de Canal avec une baguette dans votre main principale, vous pouvez lancer un sort de Canal non suramplifié gratuitement le même tour.</content>
+	<content contentuid="h8f9067f1g6fecg4118g9501gfcd6c0c3be0d" version="2">Les sorts lancés à partir d'une Baguette qui ont un &lt;LSTag Tooltip="RangedSpellAttack"&gt;jet d'attaque à distance&lt;/LSTag&gt; subissent une pénalité de -5, mais infligent des dégâts psychiques supplémentaires de 2D8. (Vous pouvez activer ou désactiver cela.)</content>
+	<content contentuid="h9c30ce9bgc848g4274g8f4agcbf4028ca6b3" version="1">Votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; ou &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; augmente de 1, jusqu'à un maximum de 20.&lt;br&gt;&lt;br&gt; Les sorts lancés à partir d'une Baguette qui ont un &lt;LSTag Tooltip="RangedSpellAttack"&gt;jet d'attaque à distance&lt;/LSTag&gt; subissent une pénalité de -5, mais infligent des dégâts psychiques supplémentaires de 2D8. (Vous pouvez activer ou désactiver cela.)</content>
+	<content contentuid="he3b70ae3g1418g4c56ga3f6g989d5ddf7521" version="1">Les sorts lancés à partir d'une Baguette qui ont un &lt;LSTag Tooltip="RangedSpellAttack"&gt;jet d'attaque à distance&lt;/LSTag&gt; subissent une pénalité de -5, mais infligent des dégâts psychiques supplémentaires de 2D8. (Vous pouvez activer ou désactiver cela.)</content>
+	<content contentuid="h7a19ba99gd1f9g4180g9e40gdebe833c61a2" version="1">Après avoir suramplifié un sort de Canal avec une baguette dans votre main principale, vous pouvez lancer un sort de Canal non suramplifié gratuitement le même tour.</content>
+	<content contentuid="h6a241ebagd161g4e9dga00fg455e8c5a2b12" version="1">Arme de Duel Drow</content>
+	<content contentuid="h09f9b109g5d7ag4e23gb51dg4dce72017d4a" version="1">Baguette d'Acide</content>
+	<content contentuid="hfb1a9c50g0912g4b63gab5eg21c07ca8672c" version="1">Description de la Baguette d'Acide</content>
+	<content contentuid="hb1932c57g4867g4ddagbd59gd8390e6a94bf" version="1">'L'académie n'autorise pas l'utilisation de vraies baguettes pour l'entraînement afin d'éviter des blessures aux étudiants. Pourtant, Annelace a réussi à faire exploser la bibliothèque avec l'une d'entre elles lors de sa première année.' - Elminster, Sage de Shadowdale</content>
+	<content contentuid="h4a07c5edge8f3g42aag845cg094758c76f15" version="1">Baguette d'Entraînement de l'Académie</content>
+	<content contentuid="h5098a551g4f4bg48b0g9d74g31f6f3c97335" version="1">Baguette de Duel de l'Académie</content>
+	<content contentuid="hb8fb7277g2eb2g4cb1g8308gef119313a358" version="1">Une explosion magique qui peut éventuellement &lt;LSTag Type="Status" Tooltip="DISARM"&gt;désarmer&lt;/LSTag&gt; la cible.</content>
+	<content contentuid="h9c0c13d3ga505g414bga11fgb467fa35a9da" version="1">Une explosion magique qui peut éventuellement repousser et faire tomber la cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;.</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+	<content contentuid="0000000000000000000000000000000000000" version="1">AAAAAAAAAAAAAAAA</content>
+</contentList>

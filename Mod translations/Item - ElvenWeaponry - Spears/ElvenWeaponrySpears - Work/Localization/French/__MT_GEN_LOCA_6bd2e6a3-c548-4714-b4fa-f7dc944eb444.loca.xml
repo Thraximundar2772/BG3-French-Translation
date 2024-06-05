@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h78f66be7g604cg407bg8bd5gaee9444ec5fb" version="1">Caisse de Lances Elfiques</content>
+	<content contentuid="h75692655ge091g417cgb511gb6926b253bd8" version="1">D'une manière ou d'une autre, cette caisse a été remplie de lances sans les plier.</content>
+	<content contentuid="hdd089c9aga4eag451egb0d3gc2acd5529e62" version="1">Comme de nombreuses races avant et après, les elfes ont rapidement compris qu'ajouter une pointe à leurs bâtons les rendait beaucoup plus mortels.</content>
+	<content contentuid="h99af022eg0fcfg4ccfgac78g7e9c0ae88d64" version="1">Lance Elfique</content>
+	<content contentuid="hbaf03e3cg1affg463bgaca0g52dfc821493e" version="1">Chargez en avant et attaquez le premier ennemi sur votre chemin, pouvant éventuellement l'empaler et infliger un [1] supplémentaire.</content>
+	<content contentuid="h6bb5d37fg7bbeg491dg9e5bgdea95e1405f7" version="1">Empalement</content>
+	<content contentuid="h75392cf3g4248g4c7bg833dgedd37152dd77" version="1">Pour le reste de votre tour, les attaques de mêlée infligent un [1] supplémentaire et lanceront les dégâts deux fois, en utilisant le résultat le plus élevé.</content>
+	<content contentuid="h2c32a132g8318g4b7fga0c5g307fc8f62047" version="1">Posture Offensive</content>
+	<content contentuid="hd0070e31g2eeeg4390ga8c5ga00a32c4b617" version="1">Jusqu'à votre prochain tour, votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; et vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; sont augmentés de [1].</content>
+	<content contentuid="h52078da7ge368g4e9eg94adgac9b4ca6475e" version="1">Posture Défensive</content>
+	<content contentuid="hb54f34c6g71e7g4c36g8ecagfabf15a4dc24" version="1">Les attaques de mêlée infligent un [1] supplémentaire et lanceront les dégâts deux fois, en utilisant le résultat le plus élevé.</content>
+	<content contentuid="h35510d03gfd62g4200g987bgc0f4ab82763e" version="1">Votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; et vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; sont augmentés de [1].</content>
+	<content contentuid="h327d52eag2b31g4839g9c4fgbf8548521a39" version="1">Utilisées par les gardes d'élite et les unités militaires, ces pointes de lance ont été polies jusqu'à obtenir une finition miroir afin que leurs ennemis soient aussi émerveillés qu'effrayés.</content>
+	<content contentuid="hca844393gdae0g4bd4gba7ag7ef098a19eb1" version="1">"N'importe quel imbécile peut aiguiser un bâton, mais si vous voulez obtenir ce parfait mélange d'équilibre et de portée ? Vous avez besoin d'un vrai forgeron." - Nathaniel Silverhand, Forgeron Moonranger.</content>
+	<content contentuid="h1d7920a6ga586g4b2fg8ff5g31a8d74892dd" version="1">Lance Elfique Forgée en Acier</content>
+	<content contentuid="h83c14ac6g4f5dg427fga4c8gd607c56e08fd" version="1">Lance Elfique Reforgée</content>
+	<content contentuid="h9076afe7ga0fag436dg8cd6gdc90555a46b2" version="1">Ne peut pas avoir de Bouclier équipé.</content>
+	<content contentuid="hd778ab5dg6618g4508gba68g3064d592dc41" version="1">Doit avoir un Bouclier équipé.</content>
+	<content contentuid="h957bce86gd777g4057g8ba4g5052d3f6c916" version="1">"Nathaniel a forgé cela après avoir perdu sa femme et sa fille lors d'un raid de gobelins. Même après avoir rejoint les Moonrangers, cette perte se lit toujours sur son visage chaque fois qu'il le tient." - Lithien Echginiel, Capitaine des Moonrangers.</content>
+	<content contentuid="ha8855b65gc85ag40efg92d6g8e6527df9d6d" version="1">Pique-Gobelins</content>
+	<content contentuid="hb17da065g50c5g45eag926fgfcf726d7f496" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; en mêlée contre les Gobelins ont l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; et infligent un [1] supplémentaire.</content>
+	<content contentuid="h4c751fdbga71dg411fga069gcfe7a5365917" version="1">Tueur de Gobelins</content>
+	<content contentuid="h1e00bc73g98feg498fg91d5gd987d3a1213c" version="1">"Ne vous laissez pas tromper par son apparence. Je jure que cette chose guidera vos coups directement dans le cœur de votre proie." - Alebersam, Chasseur Seldarine</content>
+	<content contentuid="h31fe9131g8751g41a9gad2fgdc37d70fd9f1" version="1">La Lance du Chasseur</content>
+	<content contentuid="hc038c46bgcd8fg43e2g927ag001ae86e5111" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; en mêlée contre les bêtes et les monstruosités ont l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hd34ab804g6a2eg4081ga829g0d752e28972e" version="1">Chasseur Vétéran</content>
+	<content contentuid="h307b5352ga188g41aeg9077gb884c88ac143" version="1">Une lance fantomatique vole en avant, attaquant tous les ennemis sur son chemin et les poussant éventuellement &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;Débalancé&lt;/LSTag&gt;.</content>
+	<content contentuid="h483ee107g161fg4901g805bg0e7c2efd7d4c" version="1">Coup Perçant</content>
+	<content contentuid="h9e3ef66cgd2a0g49f3g83c3gf49101d30028" version="1">"Comme toujours, le monde entier doit adapter ses règles pour convenir à Annelace, car les siennes ne changeront jamais." - Nathaniel Silverhand, Forgeron Moonranger.</content>
+	<content contentuid="hfa9f5d33gbca0g4f05g9756g31037c8e2c48" version="1">Bâton Pointu Tisseur de Sorts</content>
+	<content contentuid="hf72396a6gdc92g494aga9f1g0da50403b633" version="1">Vous gagnez un bonus de +[1] aux &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Difficulté de Sauvegarde des Sorts&lt;/LSTag&gt; et aux jets d'attaque de sorts. De plus, au lieu de votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur de Dextérité&lt;/LSTag&gt;, ajoutez votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de Capacité de Lancement de Sorts&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hefb96f1bge265g4c15g9311g9d6ae3792c0f" version="1">C'est un Bâton!</content>
+	<content contentuid="hdf605678g24a9g4006gbbdbg82d85ba0af5b" version="1">Et Il Scintille!</content>
+	<content contentuid="h5f703522gdfd9g437fg8ba0g458f619a0d0b" version="1">Si vous avez un bouclier équipé, entrez en &lt;LSTag Type="Status" Tooltip="EW_SPEAR_DEFENSE"&gt;Posture Défensive&lt;/LSTag&gt; jusqu'à votre prochain tour ; sinon, entrez en &lt;LSTag Type="Status" Tooltip="EW_SPEAR_STEADY"&gt;Posture Offensive&lt;/LSTag&gt;. Tant que vous êtes dans une posture, vous gagnez une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="hef583195g7f16g4ccfgb58cg8980b872f6dc" version="1">Prêt pour la Bataille</content>
+	<content contentuid="hc9b534a9g0a99g4588gbbd0g3a65bc1201d8" version="1">Empalement Éclair</content>
+	<content contentuid="h3e29c727ga79bg4a5agb6d9g30ba20c64d06" version="1">"Je n'ai vu ce lancier étrange qu'une seule fois. Il a traversé le champ de bataille comme la lumière, laissant derrière lui des cadavres ensanglantés et brûlés." - Lithien Echginiel, Capitaine des Moonrangers.</content>
+	<content contentuid="h29cb8478g32abg48a0g8409g35982313e10b" version="1">Éclat de l'Aube Flamboyante</content>
+	<content contentuid="hb5d1ed6agcf62g437aga108gfdfdf90f70ec" version="1">Votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; et vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; sont augmentés de [1]. Les attaques en mêlée infligent un [2] supplémentaire et lanceront les dégâts deux fois, en utilisant le résultat le plus élevé.</content>
+	<content contentuid="h27271f3ag038ag4b31g9b59gd9ba89338cfd" version="1">Posture de Maître Lancier</content>
+	<content contentuid="h7f644a44g83b2g4e6bg8dbeg0e27068086ca" version="1">Entrez en &lt;LSTag Type="Status" Tooltip="EW_SPEAR_BATTLEMASTER"&gt;Posture de Maître Lancier&lt;/LSTag&gt; jusqu'à votre prochain tour et obtenez les effets des &lt;LSTag Type="Status" Tooltip="EW_SPEAR_DEFENSE"&gt;Postures Défensive&lt;/LSTag&gt; et &lt;LSTag Type="Status" Tooltip="EW_SPEAR_STEADY"&gt;Offensive&lt;/LSTag&gt;, ainsi qu'une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="h1a9394b9gcc74g4d86ga8d4g391a893cbdb5" version="1">Prêt pour la Bataille Supérieure</content>
+	<content contentuid="h3c3ba848g9ae8g42d3gafd2gf40ad78c7a4f" version="1">Une fois par tour après un kill avec cette arme, vous pouvez effectuer une &lt;LSTag Type="Spell" Tooltip="EW_Target_Spear_BonusAttack"&gt;Poussée Infernale&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="h6dc57c56gb0dcg4af1gbfb9g4afe3df7a1bf" version="1">Incessant</content>
+	<content contentuid="h50ec802fg4639g43cbg9261g4d43a06da560" version="1">Libérez le cœur brûlant de la lance, infligeant un [1] supplémentaire et &lt;LSTag Type="Status" Tooltip="BURNING"&gt;brûlant&lt;/LSTag&gt; votre cible.</content>
+	<content contentuid="h25c7dbbcg22c3g4378g9545g30624f8754c6" version="1">Poussée Infernale</content>
+	<content contentuid="h980dc845gaca2g448bg8730g2e009cc7746d" version="1">Avoir une attaque de &lt;LSTag Type="Spell" Tooltip="EW_Target_Spear_BonusAttack"&gt;Poussée Infernale&lt;/LSTag&gt; supplémentaire par tour.</content>
+	<content contentuid="hc5233a5dg6551g4e2fg9e6bgc055caabf704" version="1">Augmente la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; et les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; de [1].</content>
+	<content contentuid="hf1f61187g82f3g47cdg81bdgb12c34e4eecd" version="1">Cape Armée</content>
+	<content contentuid="h5282a38dg042cg45dagb648g240fe49d5243" version="1">Lorsqu'une attaque en mêlée vous touche, votre attaquant devient &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h83b86034gc575g4c4fg9124g780e24803bbb" version="1">Maintenant Vous Me Voyez... Attendez, Oh Non!</content>
+	<content contentuid="h42e89f94gfc8bg465bg9345g128900fd6257" version="1">Cape Rejetée du Tisseur de Sorts</content>
+	<content contentuid="hff63aa14g1b50g4dfbgad9fgccea1b468730" version="1">"Ce n'était pas moi!" - Annelace Stormchild, Sorcier Moonranger.</content>
+	<content contentuid="hcb7fddc1gc0d0g4640gb0aag0439c3b83dec" version="1">Lorsque le porteur tue un ennemi avec cette arme, il gagne &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Élan&lt;/LSTag&gt; pendant 3 tours.</content>
+	<content contentuid="h407bf3e5gb222g4131g8eb2gd80e61f28bdd" version="1">Tueuse Agile</content>
+	<content contentuid="h4b04746eg1975g4b35gbc4egec5ea588e91c" version="1">Lorsque le porteur inflige des dégâts avec cette arme ou des dégâts de sort, il gagne [1] &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Charges d'Éclair&lt;/LSTag&gt;.</content>
+	<content contentuid="h5e93c649g5cd3g4a0cg8d8ag51bd6c2049bd" version="1">Description de la Pique Elfique</content>
+	<content contentuid="hb1860e94gfaaeg4a02g9777gdc51cf6336ce" version="1">Pique Elfique</content>
+	<content contentuid="hbc73b4a5ge7f2g4257ga359g48a97abc9bee" version="2">Cette arme a un malus de -[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque en Mêlée&lt;/LSTag&gt; à moins que le score de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; du porteur soit de [2] ou plus.</content>
+	<content contentuid="h286964d2g5c02g4473gb029g97becb97bacd" version="1">Lourd</content>
+	<content contentuid="h45990475gb7e5g4ae3g83d4gfc49be5fc8df" version="1">Parade Lourde (Mêlée)</content>
+	<content contentuid="h8a164d30g9bd7g4e72g8b59g12044923b55c" version="1">Pique Elfique Lourde</content>
+	<content contentuid="hb0310a0bg8b03g4298g8518g488bf3c294d2" version="1">"Si jamais vous devez combattre quelque chose de plus grand que vous, mieux vaut ne pas le laisser s'approcher trop près." - Alebersam, Chasseur Seldarine.</content>
+	<content contentuid="h7055d975g1f38g47aag87c3g249e7ebdb528" version="1">Chasseur de Titans</content>
+	<content contentuid="h80206ea1g780cg4ca3g97e5ge7cf0de38929" version="1">Cette arme vous accorde un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; contre les créatures Grandes, Énormes ou Gigantesques, et elles ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque en Mêlée&lt;/LSTag&gt; contre vous.</content>
+	<content contentuid="h1f912c06g3c66g44d6ga29cg58a7d3881ff1" version="1">Ils Ont un Troll des Cavernes!</content>
+	<content contentuid="h86f46546gfca0g48fdga27eg1091ec05a74e" version="1">"Je n'ai pas encore décidé - une tête de pique remplie de poudre fumigène est soit la chose la plus intelligente, soit la plus stupide que j'aie jamais vue." - Zeki Bagcutter, Marchand Zhentarim.</content>
+	<content contentuid="h9b33a489gaabag4831gaa96g2b67820134e6" version="1">Pique Explosive</content>
+	<content contentuid="h048a1c3bg47c7g435eg81b2g07ff3833a5e3" version="3">Cette arme crée une explosion de [1] sur un coup réussi, infligeant [2] à toutes les cibles dans la zone et pouvant les repousser de [3] de vous. (Vous pouvez activer ou désactiver cette option.)</content>
+	<content contentuid="h087011f1geb63g40f1g9887gf0d2d31f15ff" version="1">À Couvert!</content>
+	<content contentuid="ha284d159g825eg4462g8836g1672c7f00045" version="1">Lance de Bataille Elfique</content>
+	<content contentuid="h136a437eg85d5g45a3ga819g7d2f67ec4a58" version="1">"La lanceuse se déplaçait comme une danseuse, mais une qui ne laisse derrière elle que des cadavres transpercés." - Fenthariel Fireborn, Feu Capitaine Moonranger</content>
+	<content contentuid="h582f69e6g69f1g47deg97c2g64f609080d5a" version="1">Lance de Valkyrie</content>
+	<content contentuid="h212a44a8g330cg48f6g9fb1g9892a7b548d0" version="1">Colère de Sehanine</content>
+	<content contentuid="h1548c78cg5f41g4b4ag8de8g9d63711e23e4" version="1">Le porteur peut effectuer une attaque en tant qu'action gratuite après avoir réalisé un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt;.</content>
+</contentList>
