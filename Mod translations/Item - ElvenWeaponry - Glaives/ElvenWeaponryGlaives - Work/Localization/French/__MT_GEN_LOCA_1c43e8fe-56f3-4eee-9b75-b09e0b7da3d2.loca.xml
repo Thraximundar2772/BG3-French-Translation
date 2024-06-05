@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h867a9a4dg7ce9g4d2bg8f77g235f638a032d" version="1">Un envoi clandestin de glaives elfiques.</content>
+	<content contentuid="h5f76207dg8699g4ce0g8264g4f7dbdeac6b7" version="1">Caisse de Glaives Elfiques</content>
+	<content contentuid="hfc958e1cg0c39g41d1g84e9g03a2711939df" version="1">Glaive Elfe</content>
+	<content contentuid="h04b1b29fg145dg4e01gb9ddg09a65fa20cb6" version="1">Description du Glaive Elfe</content>
+	<content contentuid="he6bfeba0g4dceg457fg902eg857ed582bb17" version="1">Lame Tourbillonnante</content>
+	<content contentuid="h2f77776ag6251g4a83gab72gf9de4745dc6e" version="1">Avant-Garde</content>
+	<content contentuid="hbe5dcbd7g809dg4165ga692g619b62fb8084" version="2">Le manieur gagne [1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque en Mêlée&lt;/LSTag&gt; lorsqu'il est entouré de [2] ennemis ou plus.</content>
+	<content contentuid="h7611cefeg2622g4959g8433g29cb04901f73" version="1">"Slash! Punch! Smash!" - Guide de Stratégie Barbare</content>
+	<content contentuid="hf29c0e2eg4419g4827gac93gb573931eb813" version="1">Lame des Terres Arides</content>
+	<content contentuid="hfe4be8f5gb1a0g4a44g963cg0bbd1fa1efa5" version="1">Pendant le premier tour de combat, l'utilisation de &lt;LSTag Type="Spell" Tooltip="Shout_Rage"&gt;Rage&lt;/LSTag&gt; (ou l'une de ses variantes) ne coûte pas d'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hb1fc408dg83abg4345g809cgf7815e641806" version="1">Cri de Bataille</content>
+	<content contentuid="hdf3f771dg6223g484fgb188gde0127e6ea60" version="1">"Tu es désormais une vermine des bas-fonds. Prends cette arme - tue avec pour vivre un autre jour, ou meurs. Personne ne s'en soucie vraiment." - Saurius Nightblade, Garde du Corps de la Maison Corax</content>
+	<content contentuid="h90d0565fg28e4g40bag95ccgeffcf5c507aa" version="1">Glaive de Maître de Guerre</content>
+	<content contentuid="h6594bc22gdd6eg4937ga1bbgbe0264f89185" version="1">Les attaques avec cette arme peuvent potentiellement repousser les cibles de [1] loin de vous. (Vous pouvez activer ou désactiver cette fonction.)</content>
+	<content contentuid="h5528201dgaf55g40a8gadb7gcc4d1ba06e1d" version="1">Voie Ouverte</content>
+	<content contentuid="h04226f36g75b3g496dgbf74gc1b1285e4b0e" version="1">"Mon père m'a parlé d'une légende: un dieu est tombé amoureux d'une mortelle et a offert le glaive à son paladin pour la protéger. Mais quand ils ont fui et se sont échappés du dieu, l'arme fut perdue pour toujours." - Lithien Echginiel, Capitaine des Moonrangers</content>
+	<content contentuid="h70b1cad7g8d9ag4180g81dbg29aaeaa67e20" version="1">Épine Céleste</content>
+	<content contentuid="h3e712eb9ge648g4cc7g8eadg7140f13da439" version="1">Au lieu de son Modificateur de Force/Dextérité, l'entité affectée ajoute son Modificateur de Capacité de Lancement de Sorts aux Jets d'Attaque.</content>
+	<content contentuid="h39aa91c0gea2bg4b6ag8a3ag6262299e68d6" version="1">Lanceur de Sorts en Mêlée</content>
+	<content contentuid="h4d9e2839g59b5g47a9ga105gce2f4b4b6bf8" version="1">Lorsqu'il est manié par un Paladin ou un Clerc, les attaques en mêlée avec cette arme infligent un supplément de [1].</content>
+	<content contentuid="hde9cbc52ga64fg4f91gb1d2g16814cdb04df" version="1">Punition Divine</content>
+	<content contentuid="h9287d5b1g7db1g427fg8b1eg08777d8d381c" version="1">Un faisceau ardent de lumière brillante jaillit de votre arme, bénissant vos alliés et punissant vos ennemis.</content>
+	<content contentuid="h01de736cgf717g41c4gb329gfd91e4a8ffd1" version="1">Appel des Cieux</content>
+	<content contentuid="hae044f6fgaa75g4d6fgb29eg6d061a53bded" version="1">"Celui qui a fabriqué cet 'objet magique' devrait être récompensé, de préférence avec du savon et de l'eau chaude... ou du feu." - Annelace Stormchild, Magicienne des Moonrangers</content>
+	<content contentuid="h04eee8a6g4c94g4b96g8af9g71710cb29833" version="1">Faucheur des Marais</content>
+	<content contentuid="ha27350cag19f2g49abgb1f4g95cce59e003e" version="1">Les attaques avec cette arme contre les créatures vivantes infligent un supplément de [1].</content>
+	<content contentuid="hc043dc84g0563g40a8g96d1g325bf708e2ba" version="1">Fléau des Vivants</content>
+	<content contentuid="h75b6146ag89cag472ag9843gd5de58e02306" version="1">Dégoûtant!</content>
+	<content contentuid="h01c59b27g5c35g401cg9900ga45df02db281" version="1">L'odeur de l'arme vous couvre également. Les Jets d'Attaque en Mêlée provenant de créatures vivantes ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; contre vous. De plus, vous subissez un malus de -5 en Charisme.</content>
+	<content contentuid="h9aad0d62ge154g4e5cgaabbg421922bbe395" version="1">"Il s'inspire des os aviaires, avec des parties creuses intégrées dans la poignée et la lame pour le rendre plus léger que n'importe quel autre glaive." - Nathaniel Silverhand, Forgeron des Moonrangers</content>
+	<content contentuid="h9093a997g85f4g40b4g878bg46d5e44c5b5b" version="1">Plume d'Earlann</content>
+	<content contentuid="h82abe681gda93g47dega637gaf6dcd0f678c" version="1">Assaut Implacable</content>
+	<content contentuid="hfb42200bga598g474eg819eg4eb42f51cba4" version="1">&lt;LSTag Type="Spell" Tooltip="EW_Dexterity_Jump"&gt;Saut&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt; en utilisant une Action. Cela peut être fait dans le cadre d'une Action d'Attaque Supplémentaire.</content>
+	<content contentuid="h040eb9c8gb6c3g4538g9da3g9dcbfc732a89" version="1">Sautez en haut, en bas et en travers. Votre &lt;LSTag Tooltip="Dextérité"&gt;Dextérité&lt;/LSTag&gt; affecte la distance que vous pouvez sauter.</content>
+	<content contentuid="h05992c29g86d8g40d5ga280g13c006d3632f" version="1">Saut (Dextérité)</content>
+	<content contentuid="h27d7f287g2452g4b0fgad12ga67163c32243" version="1">"Malgré leur taille plus petite que celles des humains, les hallebardes des guetteurs ont repoussé les intrus pendant des siècles." - Fenthariel Fireborn, Ancien Capitaine des Moonrangers</content>
+	<content contentuid="h2325d542g34adg48ebg9771g977095e43fe5" version="1">Garde du Guetteur</content>
+	<content contentuid="hd17f9420g8e0bg47a1gb0c5g28d4b0aa000a" version="1">Hallebarde Elfique</content>
+	<content contentuid="h189223f1g8c3fg4fd1g9bd3g6d3a7f61f582" version="1">Défense Loyale</content>
+	<content contentuid="h2dddbcdeg4ca4g486eg9d1dga707383ad7a4" version="1">L'Armure de l'entité affectée est augmentée de [1] et elle gagne une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="hd1faca76g93e2g4649g8dd7g200d7f5be906" version="1">Jusqu'à votre prochain tour, adoptez une posture défensive. Votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1] et vous gagnez une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="hd55eb887ga261g4637g97bfg29087cbd4ea8" version="1">Toujours Vigilant</content>
+	<content contentuid="h7464181bge97bg4823ga9adg79ac164c68de" version="1">Le manieur ne peut pas être &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surpris&lt;/LSTag&gt; et peut voir les créatures &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisibles&lt;/LSTag&gt; dans un rayon de [1].</content>
+	<content contentuid="hfc9b065eg274fg4ed3g8ffdga52558cd99a1" version="1">Une fois par combat, le porteur peut utiliser &lt;LSTag Type="Spell" Tooltip="EW_Projectile_Glaive_AssaultJump"&gt;Assaut implacable&lt;/LSTag&gt;.</content>
+	<content contentuid="h4a60cf74g1cd1g4581g8bbdg2a70f639300a" version="1">"Peu peuvent rivaliser avec les compétences du Maître Giniel; il était capable de sculpter le bois aussi tranchant que de l'acier forgé." - Nathaniel Silverhand, Forgeron Lune-ranger</content>
+	<content contentuid="hb462c3aag15b7g4463g8989g85a7fbc67381" version="1">Lame Sylvane</content>
+	<content contentuid="h1c9ddf2bg60b9g4b32g8ca6g5398d963862e" version="1">Lame Astucieuse</content>
+	<content contentuid="h01a1256dgc539g4847ga8b9g01bd57dcdcbd" version="1">Le nombre que vous devez &lt;LSTag Tooltip="AttackRoll"&gt;lancer&lt;/LSTag&gt; pour un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; en attaquant est réduit de 1. Cet effet peut s'accumuler.</content>
+	<content contentuid="h9c6fd2a7g01d0g4a87gad49g51925d92c6a1" version="1">Libérez une tempête de tranchant, attaquant tous les ennemis autour de vous.</content>
+	<content contentuid="h3608e3aegd530g4b9bg96ddg4904c02504cd" version="1">Danse de lame</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+</contentList>
