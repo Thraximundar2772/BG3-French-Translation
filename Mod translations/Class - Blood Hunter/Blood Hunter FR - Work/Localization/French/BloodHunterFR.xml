@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h9357a872g9fb0g42e2g9506g8a1cb60f6512" version="1">Amplifier</content>
+	<content contentuid="h12625dcbg7499g4d44gab4bg25d2bf907bf9" version="1">Prenez des dégâts nécrotiques égaux à votre dé d'hémocratie et bénéficiez d'avantages supplémentaires en fonction de la malédiction du sang.&lt;br&gt;&lt;br&gt;L'amplification d'une malédiction du sang vous permet d'affecter des créatures qui n'ont pas de sang.</content>
+
+	<content contentuid="hdd4de22eg5ba1g4f09g9b93g9d97cb5c0698" version="1">Sans sang</content>
+	<content contentuid="hf0d82974ga9b6g4c23g9357g3269d67865ab" version="1">Les créatures exsangues sont des créatures sans sang : Les morts-vivants, les constructions, les élémentaires, les plantes et les suçoirs.</content>
+
+	<content contentuid="hcc921c54g8023g4726gb872g90c87b312a59" version="1">Chasseur de Sang</content>
+	<content contentuid="hb7e93707g6a86g451cga47bgb492382a3f12" version="1">Des guerriers intelligents déterminés à protéger les royaumes des maux anciens et nouveaux. La magie du sang, les rites secrets et l'abnégation les aident à lutter contre les monstres qu'ils chassent.</content>
+
+	<content contentuid="h80735428g7d5ag4296g962cg10f28dbaa686" version="1">Ordre du Lycan</content>
+	<content contentuid="hd9ffb274g81d4g4980g892dg8cd2c8e4598f" version="1">Devenez un monstre pour combattre les monstres. Les membres de cet ordre embrassent la Lycanthropie, domptant la bête grâce à la magie du sang. Cependant, même les plus vigilants peuvent être perdus par leur faim.</content>
+
+	<content contentuid="h4122ac8bg00aeg46d2gb33cgb0b81c505024" version="1">Ordre du tueur de fantômes</content>
+	<content contentuid="h7c3fb78cg2392g4423gb7a7gaf442ddece67" version="1">Le plus ancien des ordres de chasseurs de sang, ses membres ont redécouvert les secrets de l'hémocratie et les ont raffinés pour combattre le fléau de la mort-vivante. Détruisez le fléau où qu'il se trouve, ajustez vos capacités pour combattre les créatures mortes-vivantes et ceux qui manipulent la nécromancie qui les crée.</content>
+
+	<content contentuid="ha7824f35g3af8g4042gbecag7224cdb6e066" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Aucun effet sur les &lt;LSTag Type="Passif" Tooltip="PassiveBloodlessCreature_Tooltip"&gt;Créatures sans Sang&lt;/LSTag&gt; sauf &lt;LSTag Type="Passif" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifié&lt;/LSTag&gt;.</content>
+	<content contentuid="h5712d89cgd5e5g4d93ga339g596784d14d8e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Aucun effet sur les cibles immunisées contre la condition &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt;.</content>
+
+	<content contentuid="hbdea57a3gbde5g45acgbf47g1e65dc57f6ca" version="1">Malédiction du sang</content>
+	<content contentuid="h77451170g4979g4d73gb351g645f55401558" version="1">Liez une créature pour réduire sa &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; à 0, et la rendre incapable d'utiliser des réactions. Amplifiez en vous infligeant [1].</content>
+	<content contentuid="h761b14e9gca88g4b59gaa83g5227fa2b416c" version="1">Lier une créature pour réduire sa &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; à 0, et la rendre incapable d'utiliser des réactions.</content>
+	<content contentuid="h54a76c39gc2d8g43f7gb356gb0168544182d" version="1">Malédiction de sang (amplifiée)</content>
+	<content contentuid="h169921a5g9c35g4b9dg91a0ge88841ce5d81" version="1">Amplifiez en prenant [1]. Lier une créature pour réduire sa &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; à 0, et la rendre incapable d'utiliser des réactions pendant une minute. La cible refait des jets de sauvegarde pour s'échapper à la fin de chacun de ses tours.</content>
+	<content contentuid="h7dd66dd1gd580g4197g96dfgf80ef8254c92" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; de la créature est réduite à 0, et elle est incapable d'utiliser des réactions.</content>
+	<content contentuid="hb090c45ag183eg4f0bgbdbfgb83e7557e45c" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passif" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt; : Augmente la durée de la malédiction à une minute.</content>
+
+	<content contentuid="h155b5891gcbe6g457fgbd5egf4817b6a56b9" version="1">Malédiction du sang des anxieux</content>
+	<content contentuid="h11c98d5agd231g400eg8f2fg05d2c0056049" version="1">&lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; (Intimidation) &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; effectués contre la créature maudite ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;. Amplifiez en vous infligeant [1].</content>
+	<content contentuid="h76510600g0d29g4f6agba5bg97736649ede7" version="1">&lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; (Intimidation) &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; contre la créature maudite ont &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h036f9f55gec88g4c49g9d61ge4deff4dfb41" version="1">La malédiction du sang des anxieux (amplifié)</content>
+	<content contentuid="h72ff4018g71bfg47a8gadd0g25e4234d1ad3" version="1">Amplifiez en prenant [1]. Le prochain jet de sauvegarde de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; de la créature maudite a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h04b46b4bge2bag4199g8344g23db92d03dd2" version="1">&lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; (Intimidation) &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; faite contre des créatures maudites confère un  &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h15df0feeg566cg42b2ga3dbg102e5d5f1bae" version="1">Le prochain jet de sauvegarde &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; que la créature maudite effectue est accompagné par un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hfe061976gf143g4d06g8efeg6159fa926ab0" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passive" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt;: Le prochain jet de sauvegarde de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; que la créature maudite effectue est accompagné d'un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h9398dd08g1028g4e77g8d95ge230b3ac62b5" version="1">Malédiction du sang de l'esprit embrouillé</content>
+	<content contentuid="hbcd20531gf9dag4868ga4afg96808361e486" version="1">Maudit une créature qui est &lt;LSTag Tooltip="Concentration"&gt;en train de se concentrer&lt;/LSTag&gt;. Cette créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur &lt;LSTag Tooltip="SavingThrow"&gt;les jets de sauvegarde&lt;/LSTag&gt; qu'elle fait pour maintenir &lt;LSTag Tooltip="Concentration"&gt;sa concentration&lt;/LSTag&gt;. Amplifiez en vous infligeant [1].</content>
+	<content contentuid="h81ca5fb6gb30fg4520g809bg8d780370a485" version="1">Maudit une créature qui est &lt;LSTag Tooltip="Concentration"&gt;en train de se concentrer&lt;/LSTag&gt;. Cette créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur &lt;LSTag Tooltip="SavingThrow"&gt;les jets de sauvegarde&lt;/LSTag&gt; qu'elle fait pour maintenir &lt;LSTag Tooltip="Concentration"&gt;la concentration&lt;/LSTag&gt;.</content>.
+	<content contentuid="h81b0253ag3420g4199gac82g16a8895d8c55" version="1">Malédiction du sang de l'esprit embrouillé (amplifiée)</content>
+	<content contentuid="hdd3749edg39c8g4570gb788gf3de752fc0ed" version="1">Amplifiez en prenant [1]. Maudissez une créature qui est &lt;LSTag Tooltip="Concentration"&gt;en train de se concentrer&lt;/LSTag&gt;. Cette créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur &lt;LSTag Tooltip="SavingThrow"&gt;les jets de sauvegarde&lt;/LSTag&gt; qu'elle fait pour maintenir &lt;LSTag Tooltip="Concentration"&gt;sa concentration&lt;/LSTag&gt;. De plus, forcez la cible à faire un &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; immédiat. En cas d'échec, il met immédiatement fin à sa &lt;LSTag Tooltip="Concentration"&gt;concentration&lt;/LSTag&gt;.</content>
+	<content contentuid="he68c5174gedd1g45f0g9020g055615935380" version="1">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt; LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; qu'elle effectue pour maintenir &lt;LSTag Tooltip="Concentration"&gt;sa concentration&lt;/LSTag&gt;</content>
+	<content contentuid="hce27cb78g614fg4d1agbbadg3a660992a410" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passif" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt; : De plus, forcez la cible à faire un &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; immédiat contre votre DC de lanceur de sorts.</content>
+
+	<content contentuid="hb34be8fag72bdg446fgbbf2g611a0c5ff361" version="1">Malédiction du sang de l'agonie sanglante</content>
+	<content contentuid="hf97201c3gc7f2g410bgb94cgdb0d74b8eb3a" version="1">Malédiction d'une créature, faisant gonfler son corps. La créature a &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les tests de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; et subit [2] dégâts à chaque attaque qu'elle fait pendant son tour. Amplifiez en infligeant [1] à vous-même.</content>
+	<content contentuid="h40483816g8be6g4cc8g9661g9949fbc8b589" version="1">Malédiction d'une créature, faisant gonfler son corps. La créature a &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les tests de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; , et subit [2] dégâts pour chaque attaque qu'elle fait pendant son tour.</content>
+	<content contentuid="h947b2348g0701g4120gbddfg5cc51d706c0e" version="1">Malédiction du sang de l'agonie sanglante (amplifiée)</content>
+	<content contentuid="h38485cdcgd0bfg4281gb4f9g788e67fa51ce" version="1">Amplifiez en prenant [1]. Maudissez une créature et faites gonfler son corps pendant une minute. La créature a &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les tests de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; et subit [2] dégâts pour chaque attaque qu'elle fait pendant son tour. La cible répète son jet de sauvegarde pour s'échapper à la fin de chacun de ses tours.</content>
+	<content contentuid="h5a303914g1e98g4cb8g9c94g55ef04ea267e" version="1">Le corps de la créature est maudit pour gonfler. La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les tests de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; et subit [2] dégâts pour chaque attaque qu'elle fait pendant son tour.</content>
+	<content contentuid="h22cecf94gf077g46dfgb069g0e75e243a2b1" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passive" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt;: Augmente la durée de la malédiction à une minute.</content>
+
+	<content contentuid="h32e5619bg2d14g4237gabc3g86f8735879f5" version="1">La malédiction du sang des marqués</content>
+	<content contentuid="h398c589bg2034g4031g9405g15122c4c63a6" version="1">Marque une créature. Elle subit un dé d'hémocratie supplémentaire de dégâts de votre Rite Cramoisi. Amplifiez en infligeant [1] à vous-même.</content>
+	<content contentuid="h36e77220gefb9g487fgb64agd6ac81c092de" version="1">Marque une créature. Elle subit un dé d'hémocratie supplémentaire de dégâts de votre Rite Cramoisi.</content>
+	<content contentuid="h39ebe14cg6e88g47beg9b6cgac4df4c2dff5" version="1">La malédiction du sang des marqués (amplifiée)</content>
+	<content contentuid="hc9ec2cb4ge230g4544gbde9ge597f731b766" version="1">Amplifiez en prenant [1]. Marquez une créature. Elle subit un dé d'hémocratie supplémentaire infligé par votre Rite Pourpre. De plus, le prochain jet d'attaque que vous ferez contre la cible avant la fin de votre tour a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h38014f0cgdbefg4cb3gad99g32169b1a7cc5" version="1">La créature marquée subit des dégâts supplémentaires du rite pourpre.</content>
+	<content contentuid="h4c930125g0949g431ag9f56g322219ea6171" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passif" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt; : De plus, le prochain jet d'attaque que vous ferez contre la cible avant la fin de votre tour a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h9e185221ga609g405fg87dbgee49639ec574" version="1">Malédiction du sang des sans yeux</content>
+	<content contentuid="h782ec0e3g8440g480cg9649gedcf9247130c" version="1">En réaction, soustrayez [2] au jet d'attaque de la créature. Amplifiez en vous infligeant [1].</content>
+	<content contentuid="h6f6ef80dg9b15g4a5ega6c0gb45d6fa166ec" version="1">En réaction, soustrayez [2] au jet d'attaque de la créature.</content>
+	<content contentuid="h1dbd6c90g9ae3g497bg8f7ag872b0063d6a7" version="1">Malédiction du sang des sans yeux (amplifiée)</content>
+	<content contentuid="h6978cf49g48cfg4b56g9561gb45a9ed5ab3d" version="1">Amplifiez en prenant [1]. En réaction, soustrayez [2] à tous les jets d'attaque que la créature effectue ce tour.</content>
+	<content contentuid="h8212e26dg93c2g41ebg8d9cga9f6a53424a2" version="1">La créature effectue un jet de [2] et soustrait le nombre obtenu à ses jets d'attaque.</content>
+	<content contentuid="h91a173c1g87d6g4a1dg8eaag104fe57a0923" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passif" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt; : Soustraire [2] à tous les jets d'attaque que la créature effectue ce tour.</content>
+
+	<content contentuid="h68255628gf4c9g4a36g8441gc671f7d04179" version="1">Malédiction du sang de la marionnette déchue</content>
+	<content contentuid="h07b0fff5g402bg4330gbdd3gc103503900d9" version="1">En réaction, insufflez à une créature un dernier acte d'agression lorsqu'elle est vaincue. La créature ressuscite en tant qu'allié et effectue une attaque d'arme contre la créature ennemie la plus proche à sa portée, avant de succomber à son sort. Amplifiez en infligeant [1] à vous-même.</content>
+	<content contentuid="h93ff02eag5642g4453gbf3egda8726987a68" version="1">En réaction, insufflez à une créature un dernier acte d'agression lorsqu'elle est vaincue. La créature ressuscite en tant qu'allié et effectue une attaque d'arme contre la créature ennemie la plus proche à sa portée, avant de succomber à son destin.</content>
+	<content contentuid="h97470283gf4cag4693ga06gb68ca693aa08" version="1">Malédiction du sang de la marionnette déchue (amplifiée)</content>
+	<content contentuid="h59886915gabf0g410bg8ecfg41a08a2eba6f" version="1">Amplifiez en prenant [1]. En réaction, insufflez à une créature un dernier acte d'agression lorsqu'elle est vaincue. La créature ressuscite en tant qu'alliée et effectue une attaque d'arme contre la créature ennemie la plus proche à sa portée, avant de succomber à son sort. De plus, la créature peut se déplacer jusqu'à la moitié de sa vitesse, et bénéficie d'un bonus à son jet d'attaque égal à votre modificateur d'hémocratie.</content>
+	<content contentuid="hbcc5aa20ge298g4001gb19dg8be8d720eaa0" version="1">La créature effectue une attaque d'arme contre la créature ennemie la plus proche à sa portée</content>.
+	<content contentuid="h237e3b1cg5772g4c33gad16g839a78b8af62" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passive" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt; : De plus, la créature peut se déplacer jusqu'à la moitié de sa vitesse et bénéficie d'un bonus à son jet d'attaque égal à votre modificateur d'hémocratie.</content>
+
+	<content contentuid="hfdfbde6bga047g4739g8f3aga155a87614c2" version="1">Malédiction du sang de l'exposition</content>
+	<content contentuid="h7a1756cbga2deg4ea4gb6c6gb3c8fc128a5d" version="1">Modifiez votre sang avec des améliorations surnaturelles. Ignorez toutes les résistances aux dégâts de l'ennemi. Amplifiez en vous infligeant [1].</content>
+	<content contentuid="hb8858d0eg8018g4b03ga0b2gd1d7e8ac3173" version="1">Alternez votre sang avec des améliorations surnaturelles. Ignore toutes les résistances aux dégâts de l'ennemi.</content>
+	<content contentuid="hc58b95ceg1d2ag4fd6g8d62g65a14c696db8" version="1">Malédiction du sang de l'exposition (amplifiée)</content>
+	<content contentuid="he9e4ff52gfeabg4938ga456g02c5f50c4f28" version="1">Amplifier en prenant [1]. Modifiez votre sang avec des améliorations surnaturelles. Ignore toutes les résistances aux dégâts ennemis ainsi que les immunités.</content>
+	<content contentuid="h8b577985g5ddag4c91g8f3cgedf060926b54" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passive" Tooltip="PassiveAmplify_Tooltip"&gt;Amplifier&lt;/LSTag&gt;: Ignore l' &lt;LSTag Tooltip="Immune"&gt;Immunitée&lt;/LSTag&gt; également.</content>
+
+	<content contentuid="h8c2bf8a8g0239g47e2gb5a0g7e9151c057cd" version="1">Malédictions</content>
+	<content contentuid="h4b1e24a3g951ag4568g8fd7g91d2885c3c95" version="1">Les malédictions sont dépensées pour renforcer les malédictions de Sang, améliorant ainsi la compétence au combat. Vous récupérez les malédictions de sang dépensées après un &lt;LSTag Tooltip="ShortRest"&gt;Court&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long&lt;/LSTag&gt; repos.</content>
+
+	<content contentuid="h521e6483g7ad0g455eg90fdg80b986f765b3" version="1">Malédiction du sang : Déverrouillage de la charge</content>
+	<content contentuid="h424cebefgac11g401fga1e8g56c2e07333f4" version="1">Vous gagnez une charge de &lt;LSTag Type="Passive" Tooltip="PassiveBloodMaledict_Tooltip"&gt;Malédiction du sang&lt;/LSTag&gt;.</content>
+
+	<content contentuid="hb7cbed4dge887g49d0gb83dg5e41f49e3268" version="1">Transformation Hybride</content>
+	<content contentuid="h43758cc1g5ca3g43f8g8664g54017f6dc26d" version="1">Vous pouvez vous transformer en forme hybride autant de fois que vous avez de charges par &lt;LSTag Tooltip="ShortRest"&gt;Court&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Long&lt;/LSTag&gt;repos.</content>
+
+	<content contentuid="h12054452g19c8g4998ga0f6g0dbae4ff18b6" version="1">Fléau du chasseur</content>
+	<content contentuid="h939dd45cgd5dag496fg8c50g8f900363c2b8" version="1">Vous avez survécu à un rituel dangereux et longtemps gardé qui modifie le sang de votre vie. Vous avez l'avantage sur les jets de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;(Survie).</content>
+
+	<content contentuid="hd7c9fb6bg0125g48c3gbd0dgaa77a50dfb30" version="1">Rite du Gel</content>
+    <content contentuid="h5b967f43g0ed4g4058g9dddg066c3fe927dd" version="1">Rite de la Flamme</content>
+    <content contentuid="h49421e9bga121g44b2ga0edge77d05b2e4bd" version="1">Rite de la Tempête</content>
+    <content contentuid="hb8b088c4g3024g48b1gadd1g4a4a7d055db3" version="1">Rite de l'Aube</content>
+	<content contentuid="h20837292g21fdg4394gae6ag7e0a5989470c" version="1">En tant qu' &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;, Imbue une arme pour qu'elle inflige des dégâts supplémentaires égaux à un jet de votre dé d'hémocratie pour le type de dégâts choisi. Lorsque vous activez le rite, vous subissez un jet de votre dé d'hémocrate en dégâts nécrotiques. Les dégâts infligés par le rite sont magiques et durent jusqu'à ce que vous preniez un long repos.</content>
+	<content contentuid="h8f8fb86egdaccg4458g9e15g23fd69acac95" version="1">Comme action bonus, imprégnez une arme pour infliger [1] supplémentaire. En activant le rite, vous subissez [2]. Les dégâts du rite sont magiques et durent jusqu'à ce que vous l'abandonniez ou que vous terminiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="hf75f67e1gbcf0g4a46ga625g3975c9ca6f9c" version="1">Comme action bonus, imprégnez une arme pour infliger un [1] supplémentaire. En activant le rite, vous subissez [2]. Les dégâts du rite sont magiques et durent jusqu'à ce que vous y mettiez fin ou que vous terminiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;. Vous gagnez une résistance aux dégâts nécrotiques. Votre arme irradie de lumière dans un rayon de 9m. Les créatures mortes-vivantes touchées par ce rite subissent le double des dés de rite.</content>
+
+	<content contentuid="hbc62363bgce8eg4108g81bbge5a9a4be1980" version="1">Annuler le Rite</content>
+    <content contentuid="h53f60852gb4c5g4fb5gbad0g6c31535bbb00" version="1">Annule votre Rite Pourpre en cours</content>
+
+	<content contentuid="h24b062cfg9c1ag4140g920eg5ad4d11a2f91" version="1">Prix de l'hémoglobine</content>
+	<content contentuid="h758e00e9ge438g4546gb6a1g6bdc7a85d592" version="1">Votre hémocraft a un prix, prenez [1].</content>
+
+	<content contentuid="hf0a2902cg9a00g4258gb7ccge6c31df510ee" version="1">Marque de Castigation</content>
+	<content contentuid="h5eecf132g38c4g4b3fgaafdgfea4fd8643b6" version="1">Canaliser la magie de l'hémocratie pour graver une marque arcanique dans la créature que vous endommagez avec un Rite pourpre. Chaque fois que la créature marquée vous inflige des dégâts, à vous ou à une créature que vous pouvez voir dans un rayon de 5 pieds, la créature marquée prend [1]. La marque dure jusqu'à ce que vous terminiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h5e7b9ee1g4bb1g441egaf6agdc604f2e2db1" version="1">La créature marquée subit [1] dégâts à chaque fois qu'elle attaque le Chasseur de Sang qui l'a marquée, ou toute personne se trouvant à moins de 5 pieds du Chasseur.</content>
+
+	<content contentuid="h8dfc8537g85acg46a8g85fbg6b013a496f59" version="1">Psychométrie sinistre</content>
+	<content contentuid="h270d7925gcff6g45e6g973cg2e5a4256c0e1" version="1">Vous gagnez un talent surnaturel pour discerner les secrets entourant les reliques mystérieuses ou les lieux touchés par le mal. Gagne un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;(Histoire) &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt;</content>
+
+	<content contentuid="h675f93a0g35aeg4412g8cfagc50553345b08" version="1">Augmentation de la noirceur</content>
+	<content contentuid="h9a582e92gac46g4ac4gaa72gc6af2933b0b5" version="1">Votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; augmente de 2 mètres, et vous avez un bonus de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt;, et de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; égal à votre modificateur d'Hemocraft (minimum de +1).</content>
+
+	<content contentuid="h0dbb02bbgcf53g422bg86d2g6d67958cd1d7" version="1">Spécialiste des Malédictions</content>
+	<content contentuid="h9eaeaa00gc9b7g4d55g8562g4739cd05f6eb" version="1">Vous gagnez une utilisatiton supplémentaire de votre &lt;LSTag Type="Passive" Tooltip="PassiveBloodMaledict_Tooltip"&gt;Maléiction du Sang&lt;/LSTag&gt;. De plus, vos malédictions de sang peuvent cibler n'importe quelle créature, qu'elle ait du sang ou non.</content>
+
+	<content contentuid="ha71c1c40g4885g43d1ga015gb8957bc04cc8" version="1">Marche Aetherique</content>
+	<content contentuid="hd9891a53g4658g4960g808bg2f4ce41efb4b" version="1">Pendant un nombre de tours égal à votre modificateur de lanceur de sorts ([1]), vous pénétrez magiquement dans le voile entre les plans. Votre apparence devient brumeuse, et vous pouvez passer à travers les créatures et les murs en utilisant le Pas d'Ether.</content>
+	<content contentuid="hd43f5fdfgf9b7g4a70ga321g2e6d4cc6a027" version="1">Le personnage a franchi le voile entre les plans et peut passer à travers les créatures et les murs.</content>
+
+	<content contentuid="hb1bcc73cg234cg40f8g9a99gf18b2dd0c96a" version="1">Pas Aetherique</content>
+	<content contentuid="h9ef6c730gd8deg4758gade4g03f10d337826" version="1">Passez entre les voiles et traversez les créatures et les murs.</content>
+
+	<content contentuid="h478f5fbag2c1ag487bg9081g95c19799048e" version="1">Marque de l'affaiblissement</content>
+	<content contentuid="hdcc96c46g0d3cg49b9g9c20g5b2224f70b7a" version="1">Canalisez la magie de l'hémocratie pour graver une marque arcanique sur la créature que vous avez endommagée avec un Rite Pourpre. Chaque fois que la créature marquée vous inflige des dégâts, à vous ou à une créature que vous pouvez voir à moins de 5 pieds de vous, la créature marquée prend [1]. La marque dure jusqu'à ce que vous terminiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;. De plus, chaque fois que vous infligez des dégâts à une créature avec un Rite Pourpre, lancez un Dé d'Hémocratie supplémentaire. Les créatures marquées ne peuvent pas devenir invisibles.</content>
+	<content contentuid="h252221afgbea5g4f7bga468g95b4ec5c727a" version="1">La créature marquée subit [1] dégât à chaque fois qu'elle attaque le chasseur de sang qui l'a marquée, ou toute personne se trouvant à moins de 5 pieds du chasseur. De plus, la créature subit des dégâts supplémentaires de la part de vos Rites Pourpre et ne peut pas devenir invisible.</content>
+
+	<content contentuid="h4aa54948g8119g4470g9ef2gd5f8711a0a9b" version="1">Sens aiguisés</content>
+	<content contentuid="hd816a164g427cg4104g8195g4328979e0fcf" version="1">Vous bénéficiez des sens améliorés d'un prédateur naturel. Vous avez un avantage sur vos Jets de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; (Perception).</content>
+
+	<content contentuid="h7d2dd742g7074g4380g9474g2ae81a96340d" version="1">Forme Hybride</content>
+	<content contentuid="hedc155c6g430ag45c8g9565gb93a95b7fa1b" version="1">Se transforme en une forme hybride spéciale jusqu'à ce que vous vous en débarrassiez par une action bonus, qu'une heure s'écoule ou que vous terminiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; et gagne les caractéristiques et les inconvénients suivants : &lt;br&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="FeralMight"&gt;Puissance farouche&lt;/LSTag&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="ResilientHide"&gt;Peau résistante&lt;/LSTag&gt; &lt;br&gt;&lt;LSTag Type="Passive" Tooltip="PredatoryStrikes"&gt;Grèves prédatrices&lt;/LSTag&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="HybridBloodlust"&gt;Soif de sang&lt;/LSTag&gt;</content>
+
+	<content contentuid="h447e6fdcgc373g408ega12bgd5e84fa3b7aa" version="1">Annuler la Forme Hybride</content>
+	<content contentuid="hd3acf50bgd85ag4c86gadf4g2b275013ccea" version="1">Reviens à votre forme originel.</content>
+
+	<content contentuid="h54eb5207gea11g4687g85a2ge8a3430cb262" version="1">Hybride: Puissance Farouche</content>
+	<content contentuid="h63a6c581g3af8g40c2g81d6g0699ab321963" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos jets de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et vos jets de sauvegarde de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; . Confère en outre un bonus de +[1] aux jets de dégâts de mêlée.</content>
+
+	<content contentuid="h7d01216agaea7g4344gacb2ga8842616cd88" version="1">Hybride: Puissance Farouche Amélioré</content>
+	<content contentuid="h7077c397g315cg42d0g9a20gba485a26ec81" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos jets de  &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; et vos jets de sauvegarde de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; . Confère en outre un bonus de +[2] aux jets de dégâts de mêlée.</content>
+
+	<content contentuid="hed0e0cb2gfc2eg4173gb2a2g03681f321ec4" version="1">Hybride: Amélioration de la puissance farouche</content>
+	<content contentuid="hbfeda81eg705bg4b84ga451gabc379b5ec70" version="1">Vos frappes à mains nues bénéficient désormais d'un bonus de +[1] aux jets de dégâts en mêlée.</content>
+
+	<content contentuid="h87c63421g7c01g4efdgb386g51a63a4a6dd1" version="1">Hybride: Peau résistante</content>
+	<content contentuid="h238cfe02g2eddg4da8g9f90gb534603b05bf" version="1">Vous obtenez une &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; aux dégâts contendants, de perforations et tranchantes des attaques non magiques. De plus, tant que vous ne portez pas d'armure lourde, vous avez un bonus de +1 à votre&lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h4f803066gdf41g4d1cg9c73gf0eb004594bf" version="1">Hybride: Grèves prédatrices</content>
+	<content contentuid="h92ec5783g3eaag41d7g942fgbb73467563ea" version="1">Vous pouvez appliquer votre caractéristique du Rite Pourpre à vos frappes à mains nues, que vous considérez comme une arme. Vous utilisez votre &lt;LSTag Tooltip="Dexterity"&gt;Dexterité&lt;/LSTag&gt; au lieu de votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; pour les jets d'attaque et de dégâts de vos coups à mains nues, qui infligent [1]. De plus, lorsque vous utilisez l'action Attaque pour effectuer un coup à mains nues, vous pouvez effectuer un coup à mains nues supplémentaire en tant qu'action bonus.</content>
+
+	<content contentuid="h3ffd252bg3257g4909g9374g1bbc841a98b0" version="1">Grèves Prédatrices : Taillade</content>
+	<content contentuid="h535891ceg446cg4c20g97a8ge34ba659d96e" version="1">Grèves Prédatrices : Matraquage</content>
+
+	<content contentuid="hdd9d416fgebc8g44c3g8b02gea130c7cbd8d" version="1">Hybride: Améliration de Grèves Prédatrices</content>
+	<content contentuid="h0dea4a86g95d1g4b0cg984bg9f68db220d3c" version="1">Lorsque vous êtes en forme hybride, vos coups à mains nues infligent désormais [1] points de dégâts tranchants. De plus, vos frappes prédatrices sont considérées comme magiques si vous avez un Rite Pourpre de prédateur actif.</content>
+
+	<content contentuid="h1b48e9e6g2b76g4e2bgbb59g70a73006c7aa" version="1">Hybride: Soif de Sang</content>
+	<content contentuid="h58cd43acg0621g4252g9e3cg9c437dbf7c36" version="1">Si vous commencez votre tour avec moins de points de vie que la moitié de votre maximum de points de vie, vous devez réussir un jet de sauvegarde de Sagesse DC 8 ou vous déplacer directement vers la créature la plus proche et utiliser l'action Attaque contre cette créature. Une fois votre attaque résolue, vous reprenez le contrôle de vous-même.</content>
+
+	<content contentuid="h28467b96g4615g4a18gb1e7g3f7b4c3165ab" version="1">Soif de Sang</content>
+	<content contentuid="hc780f4b0g70b5g4b5cg8552g892b0e4686c5" version="1">La créature est temporairement aveuglée par sa faim bestiale et attaque la créature la plus proche.</content>
+
+	<content contentuid="hf0a89f68g4707g4092ga87agd1480b1b3806" version="1">Hybride : Prouesse du traqueur</content>
+	<content contentuid="hc9fe1d6bgbc91g4fbdg9089g90edb36a03ef" version="1">Votre vitesse augmente de 15 mètres et votre distance de saut est doublée.</content>
+
+	<content contentuid="hf1924eeeg6665g450cg8599g2c946d11c303" version="1">Hybride: Transformation Avancée</content>
+	<content contentuid="h25d44283gcb24g4443g94ccg9c238f0e10ab" version="1">Vous pouvez utiliser votre caractéristique de transformation hybride deux fois, en récupérant toutes les utilisations à la fin d'un repos court ou long.</content>
+
+	<content contentuid="h3b0f2495g6ad5g40e6g9132gc82493b63b8d" version="1">Hybride: Régéneration du Lycan</content>
+	<content contentuid="h72c2c6e6g1d66g4a83ga36cg3287a6db606f" version="1">Au début de chacun de vos tours, lorsque vous avez au moins 1 point de vie mais moins de la moitié de votre maximum de points de vie, vous gagnez un nombre de points de vie égal à 1 + votre modificateur de Constitution ([1]). Si vous êtes sous forme hybride, vous gagnez ces points de vie avant de devoir effectuer le jet de sauvegarde pour votre soif de sang.</content>
+
+	<content contentuid="h366db776g24b3g4dd2g9ab1g83845243697f" version="1">Régéneration du Lycan</content>
+	<content contentuid="hd65bca64g8befg4d38g92a5ge6ca8d4f7a9c" version="1">Votre forme de Lycan vous confère une Régéneration surnaturelle.</content>
+
+	<content contentuid="h90902ecfg5c66g4ff5g9401gd20bf7580d2d" version="1">Grèves Prédatrices : Attaque Bonus</content>
+	<content contentuid="hb4eed792gf30dg436dg8858g1143295c60b7" version="1">Confère une attaque de Grèves Prédatrices supplémentaire.</content>
+	<content contentuid="h21a9c8dage074g4e59ga849g144752ab299c" version="1">Grèves Prédatrices: Rite du Gel</content>
+	<content contentuid="hd25930ecg13f8g49edgbc6ag9a0043f2389c" version="1">Grèves Prédatrices: Rite de la Flamme</content>
+	<content contentuid="h9a2ce914g6c57g4e35g93a5g43a5979ef2c1" version="1">Grèves Prédatrices: Rite de la Tempête</content>
+	<content contentuid="hf69990cfg1955g40fcgb090g4af67a2ccd71" version="1">Comme &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;, imprégnez vos frappes à mains nues pour qu'elles infligent des dégâts supplémentaires égaux à un jet de votre dé d'hémocratie pour le type de dégâts choisi. Lorsque vous activez le rite, vous subissez un jet de votre dé d'hémocrate en dégâts nécrotiques. Les dégâts du rite sont magiques et durent jusqu'à ce que vous y mettiez fin ou que vous effectuiez un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+
+	<content contentuid="he0427ed4g3b5cg4422ga8aage9ac3514fd3c" version="1">Malédictions du sang</content>
+	<content contentuid="h7560884dg89aag49adga1a9gf12b1d6fbc23" version="1">Canalisez une partie de votre essence vitale pour maudire et manipuler les créatures grâce à la magie de l'hémocratie. En payant le prix de votre propre vitalité, vous pouvez choisir d'amplifier la malédiction pour obtenir des avantages supplémentaires. Les créatures qui n'ont pas de sang sont immunisées contre les malédictions de sang, à moins que vous n'ayez amplifié la malédiction.</content>
+
+	<content contentuid="ha32c11b1gd0b3g4871g831eg8ea56af3a06a" version="1">Rites Pourpres</content>
+	<content contentuid="h0843ad1fgb2c2g4be0g90aag93bfe2a5ac9a" version="1">Sacrifiez votre vitalité pour invoquer un rite d'hémocrate qui insuffle de l'énergie élémentaire dans les coups que vous portez avec votre arme. Les attaques que vous portez avec une arme infusée par un rite sont magiques et infligent des dégâts supplémentaires égaux à votre dé d'hémocrate du type déterminé par le rite choisi. Une arme ne peut contenir qu'un seul rite actif à la fois, et les autres créatures ne peuvent pas bénéficier de votre rite.</content>
+
+	<content contentuid="h67ad4b8age9b6g47eag8a1eg68f697d9f0ee" version="1">Epée Longue du Chasseur de Sang</content>
+	<content contentuid="h9a415ae3gd490g4b62g835bga0e02ae75d95" version="1">Une épée typiquement associée aux chasseurs de sang, plus longue qu'une rapière mais plus légère qu'une épée longue.</content>
+
+	<content contentuid="hb9053190g76c2g45d8g8c84gd0694fc609de" version="1">Cuir Cloutée du Chasseur de Sang</content>
+	<content contentuid="h856005c5g5fd2g45eeg88begce58eacccd9b" version="1">Armure facilement identifiable comme appartenant à un chasseur de sang. Légère, efficace et conçue pour fonctionner au mieux dans la nuit.</content>
+</contentList>
