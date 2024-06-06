@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h0d5fd2aag095ag4efcg848age0bb6974cc7f" version="1">Une lame exotique rappelant la lointaine contrée de Kara-Tur. Votre travail avec l'enclume de Giniel la ramène à sa gloire passée.</content>
+	<content contentuid="hbec2a13bge05bg4e1egbdb4g757bef9489ce" version="1">Katana Elfique</content>
+	<content contentuid="h15723f29gb460g425ag9fd6ge3caf4605c3c" version="1">Les attaques au corps à corps peuvent infliger &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignements&lt;/LSTag&gt;</content>
+	<content contentuid="h35ea2883gbbc4g4b0eg94fcgfcc009040d6e" version="1">Tranchant Mortel</content>
+	<content contentuid="h394bd4bagfc70g4b8dg989eg0624db1e76a0" version="1">Vieille Lame</content>
+	<content contentuid="hd418eb24g8e60g4abag97b0g163687235f52" version="1">Elle peut être émoussée par l'âge, mais tout forgeron qui se respecte peut voir la compétence et le savoir-faire dans cette arme. Peut-être qu'avec les soins et les efforts appropriés, elle pourra être restaurée.</content>
+	<content contentuid="hb5f9624bgc4ffg4e0bg9cacg67e2956b7377" version="1">Enclume de Giniel</content>
+	<content contentuid="ha596d4e8g34fbg4215ga9d5ge2de21ba8e3a" version="1">"L'enclume du Maître Giniel n'était pas ordinaire. Vous pouvez sentir qu'elle a soif de magie. Pas étonnant qu'il ait caché cette satanée chose." - Nathaniel Silverhand, Forgeron Luneur.</content>
+	<content contentuid="hc30a406bg377cg462cgb269g21f9f3bc571c" version="1">"Euh, c'est un peu gênant... mais je prendrai l'amulette." - Lithien Echginiel, Capitaine Luneur.</content>
+	<content contentuid="hd97a517dg6165g45edga271g74b62a51db95" version="1">Katana Reforgée</content>
+	<content contentuid="h515b239dg2970g41fdga747g2be8bfb1990c" version="1">La lame a été affinée encore davantage et imprégnée des restes psychiques de vos ennemis vaincus.</content>
+	<content contentuid="h3436d223g305dg4a34g9d41g438d21ef418f" version="1">Katana Infusée</content>
+	<content contentuid="h6d790b12g28e3g433agb554g5947ec38465d" version="1">Baignant dans le sang de nombreuses victimes, elle rayonne d'une immense puissance. Vous pouvez sentir qu'elle est sur le point d'être parfaitement restaurée.</content>
+	<content contentuid="h8d457387ge6eeg48e9ga0ebg448a5f7b1ea3" version="1">Katana Consacrée</content>
+	<content contentuid="h78238e65g9db9g4237gb14cgd323a9da44dc" version="1">Vous pouvez dévier les projectiles des attaques à distance, réduisant leurs dégâts de [1] plus votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;.</content>
+	<content contentuid="hadbb6ebcg1c72g4f9dg93c3ga8a5315b8c00" version="1">Dévier les Missiles</content>
+	<content contentuid="ha3d2f25bg7573g49c6g9f8bgc87238a0c637" version="1">La lame crépite de l'énergie de son potentiel inexploité. Elle semble presque avoir une âme propre, désireuse d'être libérée une fois de plus.</content>
+	<content contentuid="h04e4fd12gf898g4948gacc4gfb8d5ab0e048" version="1">Lame d'Orage de Giniel</content>
+	<content contentuid="hbe0b012cgce10g488bg8320g0eb1271a0e2e" version="1">Réflexes Foudroyants</content>
+	<content contentuid="hfe260b91ged94g48e6gb7ccge5e4d8f69c51" version="1">Lorsqu'un ennemi vous manque avec une attaque au corps à corps, vous pouvez riposter et obtenir &lt;LSTag Type="Status" Tooltip="TRUE_STRIKE"&gt;Coup au but&lt;/LSTag&gt;. De plus, vous gagnez une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; supplémentaire pour le tour.</content>
+	<content contentuid="h07a1918fg67a7g4cc0g9f4fg440050a02f00" version="1">Une caisse de katanas saisie lors de l'importation. Attendez... il en existe plus d'un?</content>
+	<content contentuid="h290c6b9dg971dg4f1fg98f5g8fedc932d24d" version="1">Caisse de Katanas</content>
+	<content contentuid="hd071b732g35c2g447bga456gb0bd118aa3fd" version="1">Chargez en avant et attaquez tous les ennemis sur votre chemin.</content>
+	<content contentuid="he7f824f4gea2fg4ed9gaaf3g40fb64eabc0b" version="1">Attaque Éclair</content>
+	<content contentuid="h16d09abdg8615g4038gba7ega3147d0cf61e" version="1">Balancez votre arme dans un cyclone d'acier qui inflige des dégâts Tranchants et Électriques à tous les ennemis à portée.</content>
+	<content contentuid="h62198786g58c5g4a82g86f6g3b9dcd89a6f7" version="1">Rafale de Lames</content>
+	<content contentuid="h1c9ddf2bg60b9g4b32g8ca6g5398d963862e" version="1">Lame Rusée</content>
+	<content contentuid="h01a1256dgc539g4847ga8b9g01bd57dcdcbd" version="1">Le résultat que vous devez &lt;LSTag Tooltip="AttackRoll"&gt;obtenir au dé&lt;/LSTag&gt; pour que votre attaque se traduise par un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt; et réduit de 1. Cet effet est cumulable.</content>
+	<content contentuid="h6256995dgb1dcg4e69g8b53g351064608a98" version="1">Lame Létale</content>
+	<content contentuid="h6753cff8g4b8cg4f22gb561g11d8305e6d13" version="1">Cette arme ignore la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts Tranchants et Électriques.</content>
+	<content contentuid="h2f6e04beg2c30g414agb15bg486295f4dd67" version="1">Cette arme ignore la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts Tranchants.</content>
+	<content contentuid="hf32f61e8g3893g43e3gb64eg084e702ffbe2" version="1">Frappe d'Âme</content>
+	<content contentuid="h6e0a4496g6539g4a63g8439gefa8d81057e1" version="1">Canalisez la magie spirituelle à travers votre lame, infligeant un supplément de [1] et peut &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Étourdir&lt;/LSTag&gt; votre cible.</content>
+	<content contentuid="he32fd437g9081g4c64ga646g9ff467be88ae" version="1">Le corps en bois de ce luth s'est fendu et ses cordes se sont cassées. Il pourrait être réparé avec l'outil adéquat.</content>
+	<content contentuid="h873627aeg43b0g44b0g8c33g891d97c348bb" version="1">Luth Ancien Cassé</content>
+	<content contentuid="h49625bc4g8401g4c3dga4f0g5ca450f07e67" version="1">"Demain nous emportera loin de chez nous/Personne ne connaîtra nos noms/Mais les chansons des bardes resteront." - La Chanson du Barde.</content>
+	<content contentuid="h0253fe65g21c3g46c2gb8b3gd141756aeb5b" version="1">Luth du Ménestrel Aveugle</content>
+	<content contentuid="h4a7b4d3dg4c21g4812g88cfg7fc53df907d2" version="1">Vous obtenez &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Test de caractéristique&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;. La Caractéristique est augmentée de [1].</content>
+	<content contentuid="h049378eegb1c8g4b55g95a9g7ad556b01084" version="1">Mélodie du Ménestrel</content>
+	<content contentuid="hed0f29d2g32c5g4557gacb1g01f2e3adbd60" version="1">Lame Électrique</content>
+	<content contentuid="h8510574dg779fg4631gb87agc83f697f5232" version="1">Infusez le katana avec de l'énergie électrique. Visuel uniquement. (Vous pouvez activer ou désactiver cette fonction.)</content>
+</contentList>

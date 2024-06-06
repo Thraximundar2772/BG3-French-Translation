@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="haf038fc3gea65g4152g8be9g5187a945b436" version="1">Chanson Sentiente</content>
-	<content contentuid="hc4d6ff19g9a80g430cgbaa2g273a20e49f86" version="1">Un enchantement magique qui permet à quiconque d'acquérir la &lt;LSTag Tooltip=&quot;Proficiency&quot;&gt;Maîtrise&lt;/LSTag&gt; des instruments de musique.</content>
+	<content contentuid="hc4d6ff19g9a80g430cgbaa2g273a20e49f86" version="1">Un enchantement magique qui permet à quiconque d'acquérir la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des instruments de musique.</content>
 	<content contentuid="ha186c9ffgfbedg4c4fg9d06g344347885a7f" version="1">Mélodie Entraînante</content>
 	<content contentuid="h1c9dbd81g06fdg4b5eg85d2gfb6fa8c04e3f" version="1">Votre chanson précédemment tourne en boucle dans votre tête.</content>
 	<content contentuid="hb940fd04g538dg4b61g81b3g709de6372382" version="1">Un barde jouant une chanson restaure une charge d'Inspiration Bardique, mais doit attendre avant de pouvoir en restaurer une autre.</content>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hd34d8fb3g3e3cg421cgba69g427d1ac35512" version="1">Téléportez-vous furtivement à côté d'un ennemi et attaquez-le en utilisant l'Aiguille.</content>
+	<content contentuid="h2d94be2eg4f02g4b9fg8048g0c29356b1ca5" version="1">La Cape et l'Épée</content>
+	<content contentuid="h97de5b2egc62bg4396g901bg8ccd49dc365e" version="1">Attaque de La Cape et l'Épée</content>
+	<content contentuid="h1b6ef2edg3512g415eg855dg03271af78421" version="1">Attaque de La Cape et l'Épée (Main gauche)</content>
+	<content contentuid="hacfce473g94bfg4044g86cagc9a48d05d1aa" version="1">Attaquez une cible de La Cape et l'Épée en utilisant l'Aiguille.</content>
+	<content contentuid="h3805e472gcee9g4616g9570gbeefcf73bedd" version="1">L'attaque gratuite sera perdue si vous attaquez une autre cible ou utilisez une autre attaque.</content>
+	<content contentuid="ha6db5e31g3eaeg45ccg905bgf1a85416d384" version="1">Brisez les chaînes</content>
+	<content contentuid="hc927da80g00f9g4752ga70ag2aa7f8c3e581" version="1">Supprimez presque tous les statuts négatifs, vous rendant immunisé à ceux-ci ainsi qu'à &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Liberté de Mouvement&lt;/LSTag&gt; pendant 3 tours.</content>
+	<content contentuid="h03608e03g8478g434egb002g562a6e32e7d3" version="1">Cette arme inflige un [1] supplémentaire contre les Sangdragon et les Dragons.</content>
+	<content contentuid="h8b88957dgf060g412agba34g0060308cfc68" version="1">Tueur de Lézards</content>
+	<content contentuid="h38ef94bdgc42eg4661gae9ag6ff620f77c96" version="1">Ne brise pas l'Invisibilité ou la Furtivité.</content>
+	<content contentuid="he9698732g7565g4728g8b22g4d317b704f29" version="1">Prenez [1]. Pour le reste de votre tour, gagnez une &lt;LSTag Tooltip="BonusAction"&gt;Action Bonus&lt;/LSTag&gt; supplémentaire et infligez 2 dégâts supplémentaires avec les attaques d'armes de mêlée.</content>
+	<content contentuid="hc003d9a2gc89eg414eg8b37g34e0d0f5ea34" version="1">Sacrifice de Chair</content>
+	<content contentuid="hff3ed836g1c0eg44fdg998ag027c82f970d7" version="1">lus jamais esclave, vous portez encore les cicatrices que votre maître vous a infligées, et maniez les compétences qu'il vous a enseignées : femme fatale, espion, assassin. Des compétences que vous prévoyez d'utiliser contre tous les maîtres.</content>
+	<content contentuid="h61d7ae22g21e8g45fbgafc6gee0e3d4b12ab" version="1">Huile de Sang Elfe</content>
+</contentList>
