@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h18e38c09g1b5bg44f4g8c45g0e9d5f224084" version="1">Chaman</content>
+	<content contentuid="h8fd328bagd60eg4ec5ga69dg9d08e253e7db" version="1">Avant que les dieux ne prennent note des mortels et aient accordé le pouvoir aux clercs et aux paladins, les chamans servaient de protecteurs et de guides. En utilisant des techniques anciennes, les chamans ont pu lier les esprits aux totems, les petits objets de signification spirituelle et canaliser ce pouvoir pour le bien de leur peuple.</content>
+	<content contentuid="h5510b3efgf77dg4201g9d61ga2d53610c7b7" version="1">Les chamans se lient et s'occupent des esprits primaires de la nature pour alimenter leur magie et poursuivre leurs propres fins.</content>
+	<content contentuid="hba5aa2a9gb3c0g4d87g97f2gcc45a0a47028" version="1">Concentration sacrée</content>
+	<content contentuid="h64019770g015bg4ac5gab03ge1b2da00f184" version="1">Afin de canaliser la puissance surnaturelle des esprits sans être consommée, les chamans doivent tirer ce pouvoir merveilleux à travers l'aspect le plus fort d'eux-mêmes. Vous devez choisir de canaliser votre pouvoir à travers votre corps, votre cœur, votre esprit ou votre âme.</content>
+	<content contentuid="h1a47883dg5018g4e74gacb1gaf30b1a2a954" version="1">Concentration sacrée : Corps</content>
+	<content contentuid="h6e794e02g5f26g4e3eg8e24g56102dbfee06" version="1">Vous canalisez le pouvoir spirituel à travers votre corps, en pliant les esprits à votre volonté avec une puissance physique. Lorsque vous choisissez cette focalisation sacrée, votre point de vie maximum augmente de 1, et il augmente à nouveau de 1 chaque fois que vous gagnez un niveau dans cette classe.</content>
+	<content contentuid="ha1eca09agfe87g47a1ga70bg0c363d7fe8aa" version="1">Concentration sacrée : Coeur</content>
+	<content contentuid="hf3eeee19g29d8g41dega97ege29cf6e3edcf" version="1">Vous canalisez le pouvoir spirituel dans votre cœur et submergez les esprits avec de puissantes émotions. Vous avez un avantage contre la peur ou le charme.</content>
+	<content contentuid="h78e5b33ege4eag435ega895g90db163b2442" version="1">Concentration sacrée : Esprit</content>
+	<content contentuid="h77be164dgaea5g4334gae14ge395b618d340" version="1">Vous canalisez le pouvoir spirituel à travers votre esprit, manipulant les esprits avec votre esprit. Chaque fois que vous effectuez un contrôle de capacité ou un lancer de sauvegarde qui utilise votre score d'intelligence, vous pouvez choisir d'utiliser votre score de sagesse à la place.</content>
+	<content contentuid="h16f590baga061g4a01g8611gaf787cd51ecc" version="1">Concentration sacrée : Âme</content>
+	<content contentuid="h881a2358g49ffg44d0gb9d8g2dfe28e43fad" version="1">Vous canalisez la puissance spirituelle à travers votre âme, votre sérénité apaise les esprits et vous fait partie du mal. Tout en ne portant pas d'armure ou en mangeant un bouclier, votre classe d'armure est égale à 10 + votre modificateur de dextérité + votre modificateur de sagesse.</content>
+	<content contentuid="h5d2acb17g0bb2g43d8g84f2g99f9329700e9" version="1">Assaut totémique</content>
+	<content contentuid="hea56aaf4gc5e5g4b80gafd3gc1a8ad65dce9" version="1">Vous pouvez déchaîner temporairement les esprits primaires liés à l'intérieur de vos totems pour attaquer vos ennemis. Vous pouvez utiliser votre action pour forcer une créature que vous pouvez voir pour effectuer un jet de sauvegarde de charisme. Sur une sauvegarde échouée, il faut [1]. Ces dégâts évoluent avec vos cantrips.</content>
+	<content contentuid="h6bb17decg7fb1g49c4gbea9gc17cd76998fa" version="1">Emplacement de sorts de magie primal</content>
+	<content contentuid="h49f493cag90afg417bgb7eeg319b7756ca0e" version="1">Utilisé pour lancer des sorts de chaman. Retrait les créneaux de sorts de magie primaire en prenant un &lt;LSTag Tooltip="ShortRest"&gt;Court repos&lt;/LSTag&gt;. </content>
+	<content contentuid="h09e4a89cgfe29g4a31gba02g90ea208b07d4" version="1">Entrée d'un autre monde</content>
+	<content contentuid="he7b4b1f7gc99ag4945g9a3bg4ea70d99cbbc" version="1">Vous canalisez la puissance spirituelle nécrotique à votre main, en la transformant en un spectre flétri en lui-même. Faites une attaque de sort de mêlée contre une créature à votre portée. Au coup, la créature subit [1] des dégâts nécrotiques, et vous gagnez [2] des points de vie temporaires qui durent jusqu'au début de votre prochain tour.</content>
+	<content contentuid="h620c3109g751fg419fg8f26ga078df0f26d1" version="1">Vol horrible</content>
+	<content contentuid="h2b608d1fg04d4g4b00ga928g2d74f2359143" version="1">Vous libérez un esprit malveillant qui vole de vous dans une direction de votre choix. Chaque créature dans la ligne doit faire un jet de sauvegarde de la constitution. Sur une sauvegarde échouée, les créatures prennent [1] et ne peuvent pas retrouver des points de vie avant le début de votre prochain tour. Au cours d'un succès, les créatures subissent la moitié des dégâts et peuvent reprendre les points de vie comme d'habitude.</content>
+	<content contentuid="h8be68ccdg2d67g466dgb1d1gfb38cbc58f47" version="1">Slots de sorts de magie primal</content>
+	<content contentuid="h0c455adcg1019g40b0g80f1g2eb8b9d087ad" version="1">Vous avez maintenant [1] des emplacements de sorts de magie primaire [1] qui actualisent un repos court ou long.</content>
+	<content contentuid="h4c964b55g604cg4086g95c7ge883e60c1ceb" version="1">Utilisé pour lancer des sorts de chaman.</content>
+	<content contentuid="h14e4b791g37c8g47c5g95dfg6cee01e8454b" version="1">Capot totémique</content>
+	<content contentuid="h0c15a94ag4957g4314g8e64g37f619425682" version="1">Vous touchez une créature volontaire. Jusqu'à ce que le sort se termine, il est masqué dans un capot fantomatique et que tout dommage qu'il subit est réduit de [1].</content>
+	<content contentuid="h3d6d62aeg9078g4115gae2fg5b7a50debb29" version="1">Pour chaque niveau de l'emplacement de sort utilisé au-dessus du 2e, réduisez les dégâts par 1.</content>
+	<content contentuid="h34be756eg6951g4a76g9f62ga53cbaabdf61" version="1">Pleurnichard</content>
+	<content contentuid="h510c9553g0388g45c2g8021g12a53db6b8af" version="1">Vous avez lâché un gémissement rempli de pouvoir d'un autre monde. Les ennemis doivent réussir un jet de sauvegarde de la constitution ou prendre [1] et commencer à saigner pendant 2 tours.</content>
+	<content contentuid="h6e84ad2cgc013g4df8g85c2g893b1ebc9c0f" version="1">Assèchement spirituel</content>
+	<content contentuid="hafd2f0ebg7c19g453dgb10fg334c61b70adc" version="1">Jeter une boule d'énergie spirituelle. Les ennemis dans la région doivent faire sauver ou prendre un charisme [1] et se faire affliger par le tourment spirituel, recevoir -1d6 à toute intelligence, sagesse et charisme, ils font 10 tours ou jusqu'à ce qu'ils sauvent.</content>
+	<content contentuid="he62aa0e7g7899g4fefg8265g14e3ca94bdba" version="1">Aube</content>
+	<content contentuid="hbb65e32dg966dg401agb307g790af2f8f0db" version="1">La lumière de l'aube brille sur un emplacement et endommage toute créature qui pénètre dans le faisceau ou commence son virage dans la lumière. Cela compte comme la lumière du soleil et vous pouvez utiliser une action bonus pour déplacer le faisceau [1].</content>
+	<content contentuid="h6dd716e6g29f0g4a01ga307gc057a67dc083" version="1">Investiture de la flamme</content>
+	<content contentuid="h8031c826g00afg4f5cga6cfgc571b50a17b2" version="1">Les flammes courent sur votre corps, en faisant la lumière vive. Pour la durée du sort, vous gagnez les effets suivants: vous êtes à l'abri du feu et résistant aux dégâts du froid, les ennemis qui entrent ou commencent leur tour dans [1] de vous prendre [2], et vous pouvez utiliser une action pour lancer &lt;LSTag Type="Spell" Tooltip="SB_Zone_Investiture_Flame"&gt;Inferno en rotation&lt;/LSTag&gt; </content>
+	<content contentuid="h700f95fbg2929g4b5cga06bg587d76fa7fda" version="1">Rotation infernale</content>
+	<content contentuid="hfa294bb9gee41g49fegbb89g8bb5a4572bbd" version="1">Discutez avec une ligne de flammes infligeant des dégâts de feu 4D8 à toutes les créatures.</content>
+	<content contentuid="h325c7679g0ca7g48e7gaf35g31c389601ed1" version="1">Investiture de glace</content>
+	<content contentuid="haeb2c7a0gbaddg4a31g877dgf4a0180eff7f" version="1">Le gel et la glace se propagent sur votre corps. Pour la durée du sort, vous gagnez les effets suivants: vous êtes à l'abri du froid et résistant aux dégâts de feu, vous ne pouvez pas glisser sur de la glace, et à la fin de chaque tour, la zone autour de vous se transforme en glace, et vous pouvez utiliser une action pour lancer &lt;LSTag Type="Spell" Tooltip="SB_Zone_Investiture_Ice"&gt;Lash de Tundra&lt;/LSTag&gt; </content>
+	<content contentuid="hcfa4e99bgd956g40f1gace2g4f82cd11e2d1" version="1">Fouet de la toundra</content>
+	<content contentuid="h2e00a114gc7cfg42feg8f01g830bd21027a2" version="1">Discutez avec un cône de glace infligeant des dégâts à froid 4d6 à toutes les créatures et potentiellement de moitié de leur mouvement.</content>
+	<content contentuid="h1e777f3bg4d6dg4208ga458g999145369439" version="1">Investiture de vent</content>
+	<content contentuid="h40f0dc12g48bbg4a77gbba6g482bc8b6f4de" version="1">Jusqu'à ce que le sort se termine, le vent tourne autour de vous et que vous obtenez les avantages suivants: les attaques d'armes à distance ont un inconvénient contre vous, vous pouvez voler et vous pouvez utiliser une action pour lancer &lt;LSTag Type="Spell" Tooltip="SB_Target_Investiture_Wind"&gt;Vents se débarquant&lt;/LSTag&gt; </content>
+	<content contentuid="hf3a30419g3684g47b7gb016g3def3cea5883" version="1">Vents se débarquant</content>
+	<content contentuid="h9cafabf2g28bag4a18g9cbcg8c47f81491d2" version="1">Créez une explosion de vent incroyable dans une zone que vous pouvez voir. Les créatures dans la région doivent faire une constitution sauver ou subir des dégâts 2d10 et être repoussée.</content>
+	<content contentuid="hf286f0d4g6afdg40c1gbddbg3a0e51edac6d" version="1">Guerrier spirituel</content>
+	<content contentuid="h27c21a27g1024g4d12g8227g5493cab6b8a1" version="1">Servant de gardiens des bosquets sacrés et des lieux de grande puissance spirituelle, les guerriers spirituels s'appuient sur le pouvoir des esprits anciens pour améliorer leur forme physique. Lorsqu'ils permettent à ces êtres incorporels de parcourir le monde à travers leur corps physique, ils gagnent des capacités physiques et martiales accrues.</content>
+	<content contentuid="h53e677abgeb47g45b1ga66ag16c953505049" version="1">Connaissance ancestrale</content>
+	<content contentuid="h22a97e39gf3b4g4b13g8e85g873bb12354b2" version="1">Les esprits des anciens guerriers vous accordent leur vie d'expérience de combat de leur vie. Vous obtenez une compétence avec une armure moyenne et toutes les armes martiales.</content>
+	<content contentuid="h0aa4fdc4gf5c5g4fc1gb16dge188c61d925e" version="1">Arme totémique</content>
+	<content contentuid="h05d6d33ag23cfg482cg8b10g3901d7ac87c7" version="1">Vous pouvez lier des esprits puissants à vos armes à utiliser au combat. À la fin d'un court repos, vous pouvez effectuer un rituel pour lier l'un de vos esprits à une arme de mêlée que vous maniez. L'arme devient magique et vous utilisez votre sagesse pour ses rouleaux d'attaque et de dégâts. Les avantages durent jusqu'à la fin de votre prochain repos long.</content>
+	<content contentuid="h7fc3bc14g532bg41d6gbc32gce72c9fa2832" version="1">Esprit de défi</content>
+	<content contentuid="hf1798397gea42g4733gbe93gd621f55e98db" version="1">Cet esprit oblige vos ennemis à se tenir debout et à se battre contre vous. L'arme devient magique et vous utilisez votre sagesse pour ses rouleaux d'attaque et de dégâts. Lorsque vous frappez une créature avec une attaque avec cette arme, elle a un inconvénient sur toutes les attaques qu'il fait contre des créatures autres que vous jusqu'au début de votre prochain tour.</content>
+	<content contentuid="hc8e4f0b9g9b1eg4c6cgaed4g9601c114dd6f" version="1">Cette créature est obligée par l'un de vos esprits pour vous combattre. Il a un inconvénient lors de l'attaque d'autres cibles.</content>
+	<content contentuid="hd64cbe1eged79g483bg9f9dgb13b3d90be9c" version="1">Esprit de drainage</content>
+	<content contentuid="h9b035a6cg833fg40cdg9cdbg425a0391b3cd" version="1">Cet esprit siphonne la force vitale des autres créatures pour vous restaurer. L'arme devient magique et vous utilisez votre sagesse pour ses rouleaux d'attaque et de dégâts. Vous obtenez également une attaque spéciale qui peut être utilisée une fois par tour qui inflige des dégâts nécrotiques et vous donne des HP temporaires égaux à votre modificateur de sagesse. Le temps de recharge de cette attaque est rafraîchi s'il manque.</content>
+	<content contentuid="h40f548c2ge916g4cacgbdcag02693042418f" version="1">Grève de vidange</content>
+	<content contentuid="h95ca28bag71efg4934g912ag2ba0935bc772" version="1">Laissez l'un de vos esprits traverser votre swing. Cette attaque inflige des dégâts nécrotiques et vous donne des HP temporaires égaux à votre modificateur de sagesse. Le temps de recharge de cette attaque est rafraîchi s'il manque.</content>
+	<content contentuid="hcee741b1gae69g4634g9c75g6bfc4e59b3ae" version="1">Esprit de puissance</content>
+	<content contentuid="he7165934g03e7g4e7fg93f8g29720c41dea2" version="1">Cet esprit tire tout le potentiel de votre corps. Tout en brandissant cette arme, vous gagnez un bonus aux chèques de force et aux lancers de sauvegarde égaux à votre modificateur de sagesse. L'arme devient magique et vous utilisez votre sagesse pour ses rouleaux d'attaque et de dégâts. De plus, vous avez un avantage sur les rouleaux d'attaque avec cette arme contre toute créature qui est frappée par vous.</content>
+	<content contentuid="h76632ac5g8688g498egb870g096fbc1c2dd5" version="1">Vous pouvez attaquer deux fois, au lieu d'une fois, chaque fois que vous prenez l'action d'attaque à votre tour. De plus, vous pouvez lancer un cantrip de chaman que vous connaissez, ou utiliser l'assaut totémique à la place de l'une de vos attaques.</content>
+	<content contentuid="h66c2a5d8g44dbg46e0g8c32gab30270fbb24" version="1">Guerrier de la tombe</content>
+	<content contentuid="h845c90d5g741fg4ee4gb5abg7b5944e4023a" version="1">Vous pouvez offrir votre force de vie même au domaine spirituel pour résister à la compréhension de la mort. Une fois par court repos, lorsque vous êtes réduit à 0 points de vie, mais pas tué carrément, vous reprenez 1 point de vie.</content>
+	<content contentuid="h3722f63bg8e1fg44dbg9f74g17bdf0dee545" version="1">Champion spirituel</content>
+	<content contentuid="hd5e42593gbbeeg4927gb385g2dacb1267681" version="1">Vous pouvez offrir le contrôle des esprits de votre corps, vous accordant une puissance mystique temporaire. En tant qu'action bonus, vous pouvez entrer dans un état possédé, gagner les avantages suivants pendant 1 minute: vous gagnez les effets de Blade Ward, vous pouvez vous précipiter comme une action bonus, et une fois par tour lorsque vous frappez un ennemi avec une attaque d'arme de mêlée Vous pouvez infliger un [1] supplémentaire. Vous pouvez le faire une fois par court repos gratuitement et peut être utilisé à nouveau en dépensant une fente de sort magique primitive.</content>
+	<content contentuid="h145fe01eg7c23g4228ga9c2gbfd05f6540c8" version="1">Détonation spirituelle</content>
+	<content contentuid="h134608e4gab39g4e33ga3c5g13977c9bd3ae" version="1">Une fois par tour, lorsque vous frappez un ennemi avec une attaque en mêlée, vous pouvez traiter un [1] supplémentaire.</content>
+	<content contentuid="h2b2e664dg3d5ag4384gb167gd20a5cd7974a" version="1">Accélération spirituelle</content>
+	<content contentuid="h46f46f3aga920g4b39g8c4fg252674fa5e66" version="1">Liant de malédiction</content>
+	<content contentuid="h57b136f0gae1dg45afg8ebcg7ea9da226435" version="1">Alors que la plupart des chamans utilisent le pouvoir des esprits pour travailler les magies et guérir les malades, certains tordent cette connexion, liant des esprits sinistres à leurs ennemis. Connues sous le nom de liants de malédiction, ces chamans exercent le pouvoir spirituel sinistre présent dans le monde. Souvent des apprentis de sorcières ou d'entités de The Shadowfell, ils utilisent des techniques anciennes pour affliger leurs ennemis avec des hexagones et des malédictions.</content>
+	<content contentuid="he698d680g8131g4f95ga1aag0165ebaf94ae" version="1">Mauvais œil</content>
+	<content contentuid="h8f6a7114ge10fg47e5g903ag12836c93ab62" version="1">Vous pouvez maudire avec un coup d'œil. En réaction, lorsqu'un ennemi réussit sur un jet d'attaque ou un jet de sauvegarde, vous pouvez imposer un désavantage à son rouleau. Vous pouvez utiliser cette réaction plusieurs fois égale à votre modificateur de sagesse, et vous retrouvez toutes les utilisations dépensées lorsque vous terminez un long repos.</content>
+	<content contentuid="h10fc7a17gc636g45a4g9cc8g8afaa9c7285e" version="1">Charges oculaires maléfiques</content>
+	<content contentuid="haceabbfdg58c0g40d1ga0bcgbd22e5554e20" version="1">Vous pouvez utiliser votre œil maléfique plusieurs fois par long repos égal à votre modificateur de sagesse</content>
+	<content contentuid="hee485c58g4681g4b1ag9a8eg2ca1beca65fa" version="1">Malédiction totémique: Bane</content>
+	<content contentuid="h0cd40c00gc8cbg4385gb16ega7bbc9db92bf" version="1">Vous liez les esprits de la douleur, de la souffrance et du désespoir à votre volonté, en les utilisant pour infliger des malédictions à vos ennemis. Lorsqu'une créature échoue, son jet de sauvegarde contre l'assaut totémique l'afflige: Chaque fois qu'il fait un contrôle de capacité ou un jet d'attaque, il doit soustraire votre modificateur de sagesse du résultat de son rouleau.</content>
+	<content contentuid="h20a0675fg7506g4687ga1c4g27422fbd5215" version="1">Cette créature reçoit une pénalité [1] pour attaquer les rôles et les contrôles de compétences</content>
+	<content contentuid="h5856ae9bg21afg418bg99ccg017381cffe30" version="1">Malédiction totémique: Hex</content>
+	<content contentuid="hd176deeag0490g4326g8f26gd555624c3f18" version="1">Vous liez les esprits de la douleur, de la souffrance et du désespoir à votre volonté, en les utilisant pour infliger des malédictions à vos ennemis. Lorsqu'une créature échoue, son jet de sauvegarde contre l'assaut totémique l'a affligé: il ne peut pas reprendre des points de vie, et lorsqu'il subit des dégâts, il faut un [1] supplémentaire.</content>
+	<content contentuid="h544da829g86f0g456aga538g6fe4b84f181e" version="1">Cette créature ne peut pas guérir et chaque fois qu'elle est des dégâts par un sort ou une attaque, il faut [1]</content>
+	<content contentuid="hfd0e1099g3f98g45dfgb65ag8c42aa8c0e1e" version="1">Malédiction totémique: lente</content>
+	<content contentuid="h594c2c8ag73e2g4ab6ga8b5g176f188147a0" version="1">Vous liez les esprits de la douleur, de la souffrance et du désespoir à votre volonté, en les utilisant pour infliger des malédictions à vos ennemis. Lorsqu'une créature échoue, son jet de sauvegarde contre l'assaut totémique l'a affligé avec: sa vitesse est réduite d'un nombre total de pieds égaux à 5 fois votre modificateur de sagesse.</content>
+	<content contentuid="he3231ce1g5219g4de6g9097gc77a98f1a98c" version="1">Cette vitesse de mouvement des créatures est réduite de [1]</content>
+	<content contentuid="h4c363829gf6fag4f70g980cg422a24d2e659" version="1">Salle chamanique</content>
+	<content contentuid="h23a69a98gd7b4g4ff3gb549g9aeb709444bb" version="1">Les esprits sinistres vous préfèrent contre les assauts élémentaires. Une fois par repos long, choisissez acide, froid, feu, foudre, nécrotique, poison, psychique, rayonnant ou tonnerre. Jusqu'à la fin de votre prochain repos, vous résistez à ces dégâts.</content>
+	<content contentuid="h611f083cga5e2g4649g9988g739a16c29710" version="1">Garde chamanique : Acide</content>
+	<content contentuid="h1fd09182g16fcg4a61gb675gfcabe3d2ba22" version="1">Garde chamanique : Froid</content>
+	<content contentuid="h46c72db7gdbbcg4443ga0bfgb59300909780" version="1">Garde chamanique : Feu</content>
+	<content contentuid="h4e71d7bcgbb3cg404fgbffag5ac516d83a56" version="1">Garde chamanique : Foudre</content>
+	<content contentuid="h5b9a98afg4671g424fg8862gc48eeef1e0c0" version="1">Garde chamanique : Nécrotique</content>
+	<content contentuid="hf87d3ef8g328ag41ceg8054g3d01fe65010e" version="1">Garde chamanique : Poison</content>
+	<content contentuid="hcb393eafgec54g4d5fga1eag914fc98fe4f6" version="1">Garde chamanique : Psychique</content>
+	<content contentuid="hcdc7071cg7081g4cd9gb4f3g9060e7be6bb4" version="1">Garde chamanique : Radiant</content>
+	<content contentuid="ha8945be5ge1cag4a54g910dgdfc648e5772f" version="1">Garde chamanique : Tonnerre</content>
+	<content contentuid="hd0b019cag0d32g4450g8492g67a6643f99fe" version="1">Rendre les dégâts [1] jusqu'à votre prochain repos long</content>
+	<content contentuid="ha66463d8g65a1g4d30g9e60g04e1fd63d44f" version="1">Votre esprit vous protège et vous rend résistant aux [1] dommages jusqu'à votre prochain repos long</content>
+	<content contentuid="haa20ab4ag190fg4edagb936gb72b1d601820" version="1">Rebuie chamanique</content>
+	<content contentuid="h39fc39f8g3a95g4e46g9300g3fbc2cfb795a" version="1">Vos esprits sinistres aspirent à se déchaîner. Lorsque vous endommagez un type que vous résistez, vous pouvez utiliser l'assaut totémique en réaction, ciblant votre attaquant.</content>
+	<content contentuid="h07b492d7g768dg4dd4gb26ag9a9d28274406" version="1">Naufrage</content>
+	<content contentuid="h04d96422g0d6ag44c7gb157g40e9de64fb6a" version="1">Vous avez atteint le sommet du chamanisme sinistre, la capacité de créer des corps corporels pour les esprits que vous évoquez. Une fois par repos long, vous pouvez lancer Créer des morts-vivants au niveau du 6e, sans dépenser un emplacement de sort.</content>
+	<content contentuid="h3990df33g8b05g4242g9fa7g04d366229210" version="1">Sorcier</content>
+	<content contentuid="h1542a79ag7fd3g4226gb21fg1a67db4773a4" version="1">Bien avant que les dieux ne prennent note des mortels, les sorciers ont erré sur la terre, fournissant une guérison spirituelle et une médecine. Travaillant en tandem avec Spirits of Life, les sorciers guérissent les blessés et accordent leurs capacités mystiques à leurs alliés. Ces sages sont de nature paisible et peuvent souvent être trouvés en voyage dans la sauvage qui s'occupe des besoins spirituels de ceux qu'ils répondent.</content>
+	<content contentuid="h9f13eecagb724g4248gb57fgba7ba97fc80d" version="1">Porteur de vie</content>
+	<content contentuid="hdd55d41fg03c2g4617gb280gd31d6e60fa94" version="1">Vous pouvez canaliser les esprits d'abondance et de vie pour guérir les autres. En tant qu'action, vous pouvez toucher une créature et le faire reprendre des points de vie égaux à 1d8 + votre modificateur de sagesse. Cette fonctionnalité n'a aucun effet sur les créatures ou les constructions de morts-vivants.</content>
+	<content contentuid="hdab0c206gad30g454eg9291gb208e10a0840" version="1">Charges de la vie</content>
+	<content contentuid="h51df80e5g6c22g4576g8605ged18a6c25b26" version="1">Vous pouvez utiliser votre capacité de support de vie plusieurs fois égal à votre niveau de chaman et retrouver toutes les utilisations sur un long repos.</content>
+	<content contentuid="h402c4a5dg8fbdg40f7ga211gcd3930f4342a" version="1">Focus mystique</content>
+	<content contentuid="hff892a28g44c4g4f8dg92a9g5107d2068200" version="1">Vous travaillez en tandem avec les esprits qui vous sont liés, tirant plus de leur pouvoir. Lorsque vous utilisez votre action pour lancer l'un de vos sorts de sorciers, ou pour utiliser votre capacité de support de vie, vous pouvez utiliser l'assaut totémique comme une action bonus à ce tour.</content>
+	<content contentuid="h45f837fbgec81g4de8ga1cdgb8693efba04c" version="1">Primal Magic Spelt Slot Gaid</content>
+	<content contentuid="hcd0e3626g9a79g4c53g83d6g10a53d7728a5" version="1">Vous gagnez un &lt;LSTag Tooltip="SB_ShamanSpellSlot"&gt;Primal Magic Spell Slot&lt;/LSTag&gt;. </content>
+	<content contentuid="ha2943191g3aa1g42ebg9924ga77d332f0dfb" version="1">Slots de sorts de magie primal</content>
+	<content contentuid="hd7399243g91a1g4cb3g82d9g3013c130481c" version="1">Vous gagnez un &lt;LSTag Tooltip="SB_ShamanSpellSlot"&gt;Primal Magic Spell Slot&lt;/LSTag&gt;. </content>
+	<content contentuid="h2ce438f8gc47fg4577g9a67g505838861879" version="1">Sort de chaman amélioré</content>
+	<content contentuid="h7da429bbgc7b0g4705g9655gaed04c90918a" version="1">La plupart de vos sorts de chaman sont devenus plus forts.</content>
+	<content contentuid="h5aa14410g589eg4273gaa3fg4e86fb2d8520" version="1">Concentration sacrée</content>
+	<content contentuid="h2cdefc0fg6ecfg46fdga837gfc4b69421c16" version="1">Afin de canaliser la puissance surnaturelle des esprits sans être consommée, les chamans doivent tirer ce pouvoir merveilleux à travers l'aspect le plus fort d'eux-mêmes.</content>
+	<content contentuid="h0adb0744g8bf4g4ca7gad37gcb9db1539a00" version="1">Bénédiction totémique</content>
+	<content contentuid="h31ee17afg3cfbg48b9g94dag889ec1c0d9f1" version="1">Vous pouvez accorder les pouvoirs de vos totems à vos alliés. Ils gagnent les effets du totem et vous les perdez jusqu'à votre prochain repos. Vous pouvez donner un deuxième totem par long repos au 6ème niveau et un 3e totem au 12e niveau.</content>
+	<content contentuid="h719f5007g23e8g4a66g97d4g2b80b8b72fcd" version="1">Vous avez obtenu le totem du [1] jusqu'à votre prochain repos longtemps.</content>
+	<content contentuid="he4aa1dccga19ag4902ga27dg110c46743036" version="1">Bénédiction totémique: ours</content>
+	<content contentuid="h90ebab9bg57b1g401agbfb1g83abe56e29e0" version="1">Bénédiction totémique: carrefour</content>
+	<content contentuid="hfdac1a5fgd12ag464fga9bdg66ef396f7df1" version="1">Bénédiction totémique: aigle</content>
+	<content contentuid="h648eaeecgc3ecg45b3g9884gabddcc09d108" version="1">Bénédiction totémique: tremblement de terre</content>
+	<content contentuid="h4e56e575g0156g48a1g93b4g97a135f1eb44" version="1">Bénédiction totémique: chien</content>
+	<content contentuid="hd9dabff9g0723g4c11g8f49g2a3b875c7a3b" version="1">Bénédiction totémique: montagne</content>
+	<content contentuid="h8b0cf020g0594g471dg90aeg4c7abd9025be" version="1">Bénédiction totémique: Panther</content>
+	<content contentuid="h15b5757dg1eeag406eg85ccga002b28c88f4" version="1">Bénédiction totémique: Quagmire</content>
+	<content contentuid="h8230c897ge5e5g4c8bgab45g6123892eaaa9" version="1">Bénédiction totémique: pluies</content>
+	<content contentuid="he476d9c4g2bbdg4e04ga94dgea969fd6deff" version="1">Bénédiction totémique: crépuscule</content>
+	<content contentuid="h368a8281gd399g419eg8364g081d55a60d2c" version="1">Bénédiction totémique: tourbillon</content>
+	<content contentuid="h70a3ae8egd758g40adgae03g9d69176369bf" version="1">Bénédiction totémique: vents</content>
+	<content contentuid="hd2fb541cgf79dg48eega017g0d91978a0be8" version="1">Bénédiction totémique: éruption</content>
+	<content contentuid="h44ae7a06gf329g4cfbg8a6bg9a110b0c2ff1" version="1">Bénédiction totémique: croissance</content>
+	<content contentuid="h90efcacag6a57g487agb4d1g364f971eb5b9" version="1">Bénédiction totémique: Lumière</content>
+	<content contentuid="h74e08e97g8d1eg4dd9ga315g5e40420f1603" version="1">Bénédiction totémique: gaieté</content>
+	<content contentuid="hccc80d3fgaebbg4301gb245gbfa1cc1f267b" version="1">Bénédiction totémique: Mystique</content>
+	<content contentuid="hed259ee3gbb9bg4dddg93c3ge5576c319f4a" version="1">Bénédiction totémique: sauvage</content>
+	<content contentuid="h52a40290gd703g4c2cg97d6g5597da87513c" version="1">Bénédiction totémique: colère</content>
+	<content contentuid="h97484cbcg2432g4253g9480g258da8317a5f" version="1">Bénédiction totémique: chasse</content>
+	<content contentuid="h2898ada8gcb19g441ag817dg2c63944322e6" version="1">Bénédiction totémique: soleil</content>
+	<content contentuid="h46e4b965g63c1g4859g948fg35a665ff0ab1" version="1">Bénédiction totémique: vigne</content>
+	<content contentuid="h13d629eagabf8g46c1ga55dg08709d8b5e01" version="1">Bénédiction totémique: Eclipse</content>
+	<content contentuid="hf54e1dcbgfa30g460dg9eccga3b9aeb39a68" version="1">Bénédiction totémique: jeune</content>
+	<content contentuid="hbfda063fgb991g43dag8964gff79d2f8bcb3" version="1">Bénédiction totémique: ciel</content>
+	<content contentuid="hb5dbc2d8g68f5g43fbg99d2g6098116837ab" version="1">Accordez le totem de [1] à un allié.</content>
+	<content contentuid="hd624bf2egc9b4g48dagbf7egd21f95060f17" version="1">Bénédiction habilitée</content>
+	<content contentuid="h99e8f421gc8ffg4404g9f69gb23bd4244dc7" version="1">Vos alliés peuvent canaliser le pouvoir spirituel de vos totems. En tant qu'action à son tour, une créature qui a un de vos totems qui lui est liée peut utiliser l'assaut totémique.</content>
+	<content contentuid="hcc42b2cdgaaafg400egb511ga4d40e900106" version="1">Quartier désintéressé</content>
+	<content contentuid="h21f43a0agf46fg448eg822ag068ba0271bbd" version="1">Votre esprit est revigoré par la liaison des totems à vos alliés. Vous gagnez un bonus de +1 à tous les lancers de sauvegarde pour chacun des totems que vous liez à une autre créature.</content>
+	<content contentuid="hce3f7cebg2c96g4b11g89dage257a37c7113" version="1">Eveil spirituel</content>
+	<content contentuid="hee354cf2gb1c9g4a46g955agd333f76b7cb5" version="1">Votre pratique spirituelle vous a rempli une abondance d'énergie vivifiante. Une fois par repos long quand un allié est abattu, vous pouvez restaurer [1] à cet allié. Vous pouvez utiliser ces moments supplémentaires au prix d'un emplacement de sort magique primitif.</content>
+	<content contentuid="h85ccdae9g12cfg4b92ga70cg283cc73612fb" version="1">Grand esprit de mort</content>
+	<content contentuid="h29c6fefdg70bdg405dgb2a8g4657eb24c5d4" version="1">Les esprits de la mort sont tirés de l'ombre, des enfers ou de l'abîme. Ils prêtent les chamans leur puissante magie sinistre. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_FleshtoStone"&gt;Chair à la pierre&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h42ad8a60gdf96g4cf8g84e7gd488b6020922" version="1">Grand esprit de vie</content>
+	<content contentuid="hac72c2b8g58ccg4a0bg9645gfb0202321e53" version="1">Les esprits de la vie viennent aider les chamans des avions supérieurs ou du feywild. Ils bénissent les chamans de la magie de la guérison mystique. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_Heal"&gt;Guérir&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h473a1515ga9b5g4d0egb47fg22d78de5dd1f" version="1">Grand esprit de la lune</content>
+	<content contentuid="h97bbfcadgfca5g417egaec2g29b024fcb41a" version="1">Les esprits de la lune peuvent être convoqués à partir de la mer astrale ou du plan éthéré. Ils accordent aux chamans un pouvoir magique merveilleux. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_GlobeOfInvulnerability"&gt;Globe de l'invulnérabilité&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h2a91156fg7f55g4012g8ba1gccbc7f7de3b0" version="1">Grand esprit du soleil</content>
+	<content contentuid="h6112493ega12cg492fgb1edgbdacc3b3f284" version="1">Les esprits du soleil sont tirés de lieux de puissante magie rayonnante. Ils prêtent les chamans réparateurs et purifiant le pouvoir. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_Sunbeam"&gt;Rayon de soleil&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="hb897d669g1dc4g4812g9467g1fa83d1cac06" version="1">Grand esprit de l'Enfer</content>
+	<content contentuid="hcbf24ac0g3e56g4b99g85e1gccf53c2dc4d1" version="1">Les esprits de l'enfer sont convoqués du grand plan du feu. Ils accordent des chamans écrasants destructeurs accablants. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_Investiture_Flame"&gt;Investiture de la flamme&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h729ee980gf709g4871g9245g965d3037ded4" version="1">Grand esprit de l'ouragan</content>
+	<content contentuid="hab64b23agb937g424ag8d8ag33f9c96d6ade" version="1">Les esprits de l'ouragan viennent aider les chamans du plan élémentaire de l'air. Ils bénissent les chamans avec l'incroyable pouvoir des vents. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_Investiture_Wind"&gt;Investiture de vent&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h835d13b7g2817g401cg859dg3905967a8a05" version="1">Grand esprit de la toundra</content>
+	<content contentuid="h002c93aag9b0eg4276g83f2ga99e4fdc14bb" version="1">Les esprits de la toundra viennent aider les chamans du plan élémentaire de la glace. Ils bénissent les chamans avec le pouvoir magique effrayant. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_Investiture_Ice"&gt;Investiture de glace&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h19b31a38gdbddg4f48gadb6g4066eecb78f4" version="1">Grand esprit de la mer</content>
+	<content contentuid="h9d8eb868g079fg428eg9046gb5fd646b1c53" version="1">Les esprits de la mer sont appelés à partir des profondeurs du plan de l'eau. Ils accordent des chamans avec des magies éthérées glaciales. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_FreezingSphere"&gt;La sphère glaciale d'Otiluke&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h9002307bgf4aeg403bga5cdg1843de33674f" version="1">Grand esprit de la tempête</content>
+	<content contentuid="h8cd90367geb92g488fg9c0egc130d8f9b26e" version="1">Les esprits de la tempête sont tirés des grandes tempêtes du plan de l'air. Ils prêtent les chamans la magie sauvage des tempêtes. Une fois par repos long, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="SB_GreaterSpirit_ChainLightning"&gt;Chaine de lumière&lt;/LSTag&gt;sans utiliser un emplacement de sort. </content>
+	<content contentuid="h15f8dc53gec6eg4e8agaae0g0d60ce02125f" version="1">Conduits des porteurs de malédiction</content>
+	<content contentuid="h2632b84dge664g48d6g86fag994d323cda9f" version="1">Une relique qui prend vie entre les mains d'un porte-malédiction. Un puissant conduit qui canalise la puissance de leurs esprits liés à ceux qui sont assez malheureux pour tirer leur colère.</content>
+	<content contentuid="h498237fbge102g46f3g8fbag42e750ed1c84" version="1">Conduit des guerriers spirituels</content>
+	<content contentuid="heb679143g4cf8g4daaga9d9g787be27f0ea1" version="1">Une relique qui se lève avec les souvenirs d'innombrables guerriers. Un puissant conduit qui canalise les pouvoirs d'un guerrier spirituel plus farouchement que tout autre.</content>
+	<content contentuid="h752eed14g79bbg4a9eg8d57g257016cb5c5c" version="1">Conduit des sorciers</content>
+	<content contentuid="h3514f1b7g0ca2g48c9gbeb9g866985b29dbf" version="1">Une relique qui chante avec des énergies de guérison. Un puissant conduit qui canalise la puissance de vos esprits liés à ceux qui ont besoin de votre guérison.</content>
+	<content contentuid="hc324fad1gf6e6g4cf1gb423g3274fa33c258" version="1">Lien de l'esprit</content>
+	<content contentuid="h9a8462d6gc106g4137gaacdg42a68506f172" version="1">La magie liée à ce baton réagit et change à mesure que votre commande sur votre magie primitive se développe. En commençant au niveau de chaman 4, vous avez +1 à vos rouleaux d'attaque de sort et vos sorts Save Save DC. À partir du niveau 6, votre assaut totémique peut cibler 1 ennemi supplémentaire. À partir du niveau 8, vous ajoutez votre modificateur de sagesse aux dégâts de votre assaut totémique. En commençant au niveau 10, vous avez +2 à vos rouleaux d'attaque de sort et Spell Save Save DC.</content>
+	<content contentuid="hb84fcd8ag8c20g4d04gbbe3g4dddf0655b6b" version="1">La magie liée à ce baton réagit et change à mesure que votre commande sur votre magie primitive se développe. Cette arme devient une arme de +1 au niveau 3 du chaman et augmente à nouveau aux niveaux 7 et 11. Commençant au niveau 4 lorsque cette arme est liée comme votre arme totémique, elle inflige un dégât 1D4 supplémentaire. À partir du niveau 10, les dégâts supplémentaires augmentent à 1d6.</content>
+	<content contentuid="hef9a4419g9fe6g4b79g9f80gf8d4bdf05435" version="1">La magie liée à ce baton réagit et change à mesure que votre commande sur votre magie primitive se développe. En commençant au niveau de chaman 4, vous avez +1 à vos rouleaux d'attaque de sort et vos sorts Save Save DC. À commencer au niveau 6 lorsque vous guérissez une créature avec un sort nivelé ou votre &lt;LSTag Type="Spell" Tooltip="SB_Target_LifeBearer"&gt;Porteur de vie&lt;/LSTag&gt;Capacité que vous ajoutez votre modificateur de sagesse à la guérison. À partir du niveau 8 &lt;LSTag Type="Spell" Tooltip="SB_Target_LifeBearer"&gt;Le porteur de la vie&lt;/LSTag&gt;La plage devient [1]. En commençant au niveau 10, vous avez +2 à vos rouleaux d'attaque de sort et Spell Save Save DC. </content>
+	<content contentuid="h3af359d7g6dceg44a1g9c77g3fd97d420f3b" version="1">DW Testing</content>
+	<content contentuid="ha074f65dge959g41a1g87f0gdbdeb00d3250" version="1">Totems</content>
+	<content contentuid="hd102ce7eg2f50g49afgab5fg64f81005da2d" version="1">Vous apprenez à lier les esprits de la nature primaire dans les totems sacrés afin que vous puissiez canaliser leurs capacités mystiques en toute sécurité.</content>
+	<content contentuid="head093d0gfdf5g4021g8c5cgc1c1404bd826" version="1">Totem de l'ours</content>
+	<content contentuid="hc09673d9g9fc0g47a7gbe9bgd10698d12fcd" version="1">Vous liez un esprit bestial mineur qui vous accorde la férocité d'un ours. En tant qu'action bonus, vous pouvez faire pousser des griffes à partir de vos doigts. Avec vos griffes, vos frappes non armées infligent des dégâts de réduction magique égaux à 1d6 + votre modificateur de résistance au coup. Si vous avez deux mains libres, le D6 devient un D8. Vous pouvez utiliser une autre action bonus pour faire disparaître les griffes.</content>
+	<content contentuid="h89cb4477g880fg4bf3gbffbgf136be5c0d6e" version="1">Totem: révéler les griffes</content>
+	<content contentuid="h7c9ec313gc50cg4037gb2dfgfd113654d985" version="1">Vous pouvez créer des liens avec votre totem et faire pousser des griffes à partir de vos doigts. Avec vos griffes, vos frappes non armées infligent des dégâts de réduction magique égaux à 1d6 + votre modificateur de résistance au coup. Si vous avez deux mains libres, le D6 devient un D8.</content>
+	<content contentuid="hf5628e37g6ed9g437eg8848gf9ba9e32c6a4" version="1">Totem: rétracter les griffes</content>
+	<content contentuid="hefcde9e6g6f7dg4593g9cf8gfb95877f7c6e" version="1">Vous pouvez retirer vos griffes mettant fin à l'effet.</content>
+	<content contentuid="h3d71a0c3gfb3ag42ccg9ffbg1c59262fe3db" version="1">Glissement totémique</content>
+	<content contentuid="h02b59de9gbb8bg46b7g9739g643172a964b7" version="1">Sortez avec vos griffes traitant [1] ou traitant [2] à la place si vos deux mains sont vides.</content>
+	<content contentuid="h84bb8775gad9eg4d7agb883gda96ed5bc0da" version="1">Totem des carrefour</content>
+	<content contentuid="h8d4f086ag2342g4a91g8c94g03851cd7b4c7" version="1">Requis : le cœur sacré au cœur.
+Vous liez un esprit fey mineur qui vous permet de vous transformer avec des créatures sauvages dans votre propre langue. Vous êtes toujours sous l'effet de parler avec des animaux pendant que vous êtes conscient.</content>
+	<content contentuid="h8f0317fcg1397g4ca3g95d7gde7fc943d9fc" version="1">Totem de l'aigle</content>
+	<content contentuid="h57cc15dfg83bbg4db4g89ffg8ea84783d234" version="1">Vous liez un esprit bestial mineur qui vous accorde la vue d'un aigle. Vous obtenez une maîtrise de la perception et vous avez un avantage sur les contrôles de perception</content>
+	<content contentuid="h563d3275g7bd4g4614gacfdg5e66dac5b705" version="1">Totem du tremblement de terre</content>
+	<content contentuid="hf9f543ddged30g4706g8db7gec0a24a34421" version="1">Vous liez un esprit de terre qui vous accorde une puissance destructrice. Une fois par tour lorsque vous frappez avec une attaque d'arme de mêlée, vous pouvez infliger un dégât supplémentaire 1D6 du type de votre arme. Ce bonus de dégâts augmente à mesure que vous gagnez des niveaux de chaman; au 5ème niveau (1d8), 10e niveau (1d10) et 15e niveau (1d12).</content>
+	<content contentuid="h07773db9g93a5g4135gb7b5gbc82a7c54659" version="1">Libérez un esprit de terre sur votre ennemi infligeant un [1] dommage supplémentaire de votre type d'armes.</content>
+	<content contentuid="hd1cc0d25g271dg41b2g931bg26650e821e43" version="1">Totem de la récolte</content>
+	<content contentuid="h0d43f4cag0f5bg4e2fg8234g6772fc9d8a94" version="1">Requis : l'âme Sacred Focus 
+Vous liez un esprit mineur de croissance sauvage et de prime. Vous apprenez le sort Goodberry que vous pouvez lancer une fois par court repos sans dépenser un emplacement de sort.</content>
+	<content contentuid="h557be28cg0a41g4593gba0cgf3308a986023" version="1">Totem du chien</content>
+	<content contentuid="hb419bf25g6ebdg40a1g9bffg97273a02c0a9" version="1">Vous liez un esprit bestial mineur qui vous accorde les sens d'un chien. Vous obtenez une maîtrise de survie et vous avez un avantage sur les contrôles de survie</content>
+	<content contentuid="hefb10318g5f0ag45a7g94d0gc7d0b0fb5a11" version="1">Totem de la montagne</content>
+	<content contentuid="habc18b5cgedf0g42b9gabceg9885f3dd02f3" version="1">Requis : le corps sacré du corps
+Vous liez un esprit mineur de la terre qui durcit votre peau comme celle de la roche solide. Tant que vous ne portez pas d'armure ou ne manquant pas de bouclier, votre classe d'armure est égale à 13 + votre modificateur de constitution.</content>
+	<content contentuid="h123b932fg2539g4091ga7a4g9487a5b01ee6" version="1">Totem de la panthère</content>
+	<content contentuid="h4c7f888ag468bg4dd2g90a5g7490c9c000c0" version="1">Vous liez un esprit bestial mineur qui vous accorde les étapes d'une panthère. Vous obtenez une compétence en furtivité et vous avez un avantage sur les contrôles de furtivité</content>
+	<content contentuid="hcd5a4345gd553g4297g84a3gfd50abe115f2" version="1">Totem du bourbier</content>
+	<content contentuid="hf1aef0cfg2040g46d4g800cg122df5e6d518" version="1">Requis : Mind Sacred Focus
+Vous liez un esprit mineur d'obscurité qui garde votre esprit et lace vos mots. Vous obtenez une compétence en déception et en intimidation.</content>
+	<content contentuid="h48624958ga0d0g47eegb63bg0f27382521c6" version="1">Totem des pluies</content>
+	<content contentuid="h0f0acfcag7335g46d4gadd8gda46f757bb1c" version="1">Vous liez un esprit mineur d'eau qui lave le poison comme la pluie. Vous gagnez une résistance aux dommages à l'acide et au poison, et vous avez un avantage sur les jets de sauvegarde pour résister à être empoisonnés.</content>
+	<content contentuid="hcb010643g9433g411cgabceg2e73de2216e1" version="1">Totem de crépuscule</content>
+	<content contentuid="haf1c947eg60d1g4259gbe2fg367905b38920" version="1">Vous liez un esprit mineur d'obscurité qui vous accorde une vue améliorée dans l'ombre. Vous gagnez DarkVision à une gamme de [1]. Au 5ème niveau, cela devient la vue du diable, et vous pouvez voir à travers l'obscurité magique.</content>
+	<content contentuid="h21286809g8debg45e9g81fcg4532adbddbf0" version="1">Totem des vagues</content>
+	<content contentuid="hdb40820cg3e23g4caaga0caga9ba4639f6a9" version="1">Vous liez un esprit mineur d'eau qui vous permet de vous déplacer comme la mer. Une fois par court repos en réaction lorsque vous prenez un coup critique, vous pouvez le transformer en un coup normal. Lorsque vous atteignez le 12e niveau dans cette classe, vous pouvez utiliser cette réaction deux fois entre chaque repos court.</content>
+	<content contentuid="hddf178dag79eag48acg9224g1fcfacaaba18" version="1">Totem du tourbillon</content>
+	<content contentuid="h8d51d231gf44dg48f3g862fg91825decc1b7" version="1">Vous liez un esprit mineur d'air qui accélère vos grèves. Lorsque vous marquez un coup critique avec une attaque d'armes de mêlée, vous pouvez utiliser votre réaction pour effectuer une autre attaque contre cette cible.</content>
+	<content contentuid="h82af5a82g46fbg4564g8b2bg9510ee6bbbff" version="1">Thirlwind Slash</content>
+	<content contentuid="hc204f3cag02c2g4e9cg9228gf72f3af0d4ee" version="1">Totem des vents</content>
+	<content contentuid="h140418fegc2b9g45c3g9624gdcbec3286726" version="1">Vous liez un esprit mineur de l'air qui donne une vitesse à vos pas avec une rafale de puissant vent. Votre vitesse de marche augmente par [1]. Ce bonus à votre vitesse augmente à mesure que vous gagnez des niveaux de chaman; au 5ème niveau ([2]), 10e niveau, ([3]), et enfin au 15e niveau ([4]).</content>
+	<content contentuid="hacff76e1g2ff9g4b8bgbeb9gac83543efc03" version="1">Totem de la floraison</content>
+	<content contentuid="hc1ab66dcg4203g4546gbfbcg2c625712df53" version="1">Requis : une orientation sacrée de l'âme
+Vous liez un esprit de croissance sauvage qui enrichit la terre autour de vous. Une fois par repos long, vous pouvez créer de la nourriture et de l'eau sans dépenser un emplacement de sort.</content>
+	<content contentuid="h06ddb55fg7834g4cf8g99ecg3ae4838578ec" version="1">Totem de l'éruption</content>
+	<content contentuid="h30960f2egb2c3g4f39gb62bg6d125ebfe6bc" version="1">Vous liez un esprit élémentaire qui vous donne son pouvoir destructeur. Une fois par tour, lorsque vous frappez une créature avec une attaque d'armes de mêlée, vous pouvez dépenser une de vos emplacements de sorts de magie primordiaux pour infliger un rhume, un feu, un feu ou un tonnerre supplémentaires (votre choix) à la cible égale à 1d8 par emplacement de sort niveau dépensé.</content>
+	<content contentuid="h6c475c8dg6fd0g41c4g8b88g5ec386303bae" version="1">Éruption totémique: froide</content>
+	<content contentuid="h21416c83gcbe6g4a29g8eaag025beb06db4a" version="1">Éruption totémique: incendie</content>
+	<content contentuid="h06186d62g64efg4171ga1c7g36b7567d210d" version="1">Éruption totémique: Lightning</content>
+	<content contentuid="h38267772g6462g4dd7gb9f0ga9998a7233dc" version="1">Éruption totémique: tonnerre</content>
+	<content contentuid="h2c78433fg37cdg4ddfgb6d5g2f73407f311b" version="1">Libérez la colère de vos esprits liés traitant un [1] supplémentaire.</content>
+	<content contentuid="h5365d00ega1d6g423dgbea1g7bbd2d3d2ecf" version="1">Totem de croissance</content>
+	<content contentuid="hd73ca0e1gb719g403bg8f86g956bcf928ea0" version="1">Requis : Concentration sacrée du corps
+Vous liez un esprit de croissance sauvage qui peut temporairement augmenter votre taille. Une fois par court repos, vous pouvez lancer la version «agrandir» de l'agrandissement / réduisez-vous en tant qu'action bonus, sans dépenser un emplacement de sort ni de concentration.</content>
+	<content contentuid="he9ac54a3g62c7g4ddbg8189g05e47b1da175" version="1">Totem de la tombe</content>
+	<content contentuid="h0387f6f8g98a4g4a5fg80cag9b5ade37270f" version="1">Vous liez un esprit de pouvoir mort-vivant que vous pouvez invoquer à votre service. Vous apprenez Animate Dead et pouvez le lancer avec vos créneaux de sorts de magie primitifs.</content>
+	<content contentuid="hda000c1fgcfa7g4156g8cb0gc71833b403f7" version="1">Totem de lumière</content>
+	<content contentuid="h11ffa9f2g332bg46a0gbab0g72280a9d5e49" version="1">Vous liez un esprit de radiance qui restaure votre esprit lorsque vous aidez les autres. Lorsque vous lancez un sort de 1er niveau ou supérieur qui restaure les points de vie à une créature autre que vous, vous gagnez des points de vie temporaires égaux à votre modificateur de sagesse.</content>
+	<content contentuid="hd66f97b9g087cg4ccfga3afgeb949d6cd389" version="1">Totem de gaieté</content>
+	<content contentuid="hd9020d67ga393g4bbag968cg7a90aa22ec04" version="1">Requis : le cœur sacré au cœur
+Vous liez un esprit de réjouissance et de vie qui vous accorde une vigueur renouvelée. Une fois par repos long, vous pouvez utiliser une action bonus pour vous accorder des points de vie temporaires égaux à votre niveau de chaman.</content>
+	<content contentuid="hef950eb7g5e22g41fag806fge6a0563c8897" version="1">Totem du mystique</content>
+	<content contentuid="h2bd15106gf6e5g4ff2ga595geca59244f6ad" version="1">Requis : Mind Sacred Focus
+Vous liez un esprit de connaissance secrète qui vous accorde la capacité de regarder dans l'esprit des autres. Vous êtes en permanence sous les effets de détecter les pensées.</content>
+	<content contentuid="hb4c95854g2a92g4c8dg83cbgd2789c95175b" version="1">Totem de la nature</content>
+	<content contentuid="h8f29409dg4982g4017gbc91gb981127e4f3b" version="1">Vous liez un esprit bestial que vous pouvez appeler à votre aide. Une fois par repos long, vous pouvez lancer une bête d'invocation à un niveau égal à vos emplacements magiques primitifs sans dépenser une fente.</content>
+	<content contentuid="h79e95ba0g649bg4e45gbfccg6b9b58b9025e" version="1">Totem de colère</content>
+	<content contentuid="hd5cedd4bgce5fg4d10g869bgb8b5efb5cf23" version="1">Vous liez un esprit de colère qui augmente votre pouvoir. Lorsqu'une créature échoue son jet de sauvegarde contre l'assaut totémique, vous pouvez ajouter votre modificateur de sagesse au jet de dégâts.</content>
+	<content contentuid="h946200b3g29efg4716gaea9g9006964d2330" version="1">Totem de la chasse</content>
+	<content contentuid="hb7ec2c4egf368g4437g82b7gda49b0531cee" version="1">Vous liez un esprit de chasse sauvage qui améliore votre férocité. Une fois par tour, vous pouvez vous accorder un avantage sur un jet d'attaque si votre cible est à moins de 5 pieds de l'un de vos alliés.</content>
+	<content contentuid="he08126ccga24bg4303ga9f4g4939c9027010" version="1">Totem de l'aube</content>
+	<content contentuid="h811a362eg613fg4e40g95d5g2ed750cc8f46" version="1">Vous liez un esprit d'éclat que vous pouvez protéger les créatures de la mort. Une fois par repos long, vous pouvez lancer Death Ward sur une créature de votre choix, sans dépenser un emplacement de sorts.</content>
+	<content contentuid="h96be6576g81a8g465bg97f7g573b1b39287f" version="1">Totem de minuit</content>
+	<content contentuid="hb5291b99g7d21g4ca7g98ccg060d4915cab9" version="1">Vous liez un esprit sinistre que vous pouvez vous appeler. Une fois par repos long, vous pouvez lancer Summon Shadowspawn au niveau de vos emplacements magiques primitifs, sans dépenser un emplacement de sort.</content>
+	<content contentuid="h42a67bebg18dfg4106g9d6eg67dd48867ae4" version="1">Totem du soleil</content>
+	<content contentuid="hb380657fg5df7g4d5egabeeg513c356105d0" version="1">Vous liez un esprit de radiance qui vous permet de réussir lorsque tout espoir semble perdu. Une fois par court repos, lorsque vous échouez à un jet de sauvegarde, vous pouvez choisir de relancer, éventuellement en transformant un échec en succès.</content>
+	<content contentuid="h22b7fddbg92adg4989g8f3cg98f32fc17b20" version="1">Totem de la vigne</content>
+	<content contentuid="h74d89ea9g6a54g4edcgb870g55c81d31ed07" version="1">Vous liez un esprit de croissance sauvage qui vous donne le pouvoir de retenir vos ennemis. Vous pouvez lancer la grève du snaring au 1er niveau, à volonté, sans dépenser un emplacement de sort.</content>
+	<content contentuid="h35b9e325gc109g46bbg89c0ga20c550db613" version="1">Totem de liaison</content>
+	<content contentuid="h0190ce5fg68a5g4da8gaa5dg2ff954d1e327" version="1">Vous pouvez rapidement lier un esprit pour retrouver une partie de votre pouvoir. Une fois par repos long, vous pouvez utiliser une action bonus pour regagner l'un de vos emplacements de sorts de magie primaire dépensés.</content>
+	<content contentuid="h89eec00dgfdd5g49f6gb577gf0f7e21bf738" version="1">Totem de l'éclipse</content>
+	<content contentuid="hec650e1cg3ef9g4964gaad0g0d7c3cec0eec" version="1">Vous liez un esprit puissant qui vous accorde une résistance à l'arcan. Vous gagnez une résistance à tous les dommages causés par les sorts.</content>
+	<content contentuid="h4a01d6b6g5c97g4fe6g8c8dgbe05f3879599" version="1">Totem des éléments</content>
+	<content contentuid="hf04fff9fgccb3g4c6cg8f08g09d5020816d2" version="1">Vous liez un esprit élémentaire que vous pouvez appeler à votre aide. Une fois par court repos, vous pouvez lancer Summon Elemental sans dépenser un emplacement de sort.</content>
+	<content contentuid="hcffbba4eg347fg4c3egbe4dg551ac496ac05" version="1">Totem de l'agent</content>
+	<content contentuid="he26fdd94g4c1cg4fbcga20cgaf20b263cf9b" version="1">Vous liez un puissant esprit de croissance sauvage qui bénit votre corps avec une merveilleuse régénération. Au début de chacun de vos tours, vous retrouvez des points de vie égaux à votre modificateur de sagesse, tant que vous n'avez pas plus de la moitié de vos points de vie et n'est pas abattu.</content>
+	<content contentuid="heb367924ge5a6g478cgaac5g63d6bb284006" version="1">Totem du ciel</content>
+	<content contentuid="h9d9b9e5cg35d1g4017g9a7eg01cd7b500104" version="1">Vous liez un puissant esprit d'air élémentaire qui vous propulse dans l'air. Vous pouvez maintenant voler à volonté en utilisant votre vitesse de déplacement.</content>
+</contentList>
