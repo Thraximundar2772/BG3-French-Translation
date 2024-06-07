@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="d826024e-2648-48b6-92ad-a5ba8ff9a458" version="1">Avant-garde</content>
+	<content contentuid="aa3f0d00-a7eb-451e-a3dd-fb0f472a5d4a" version="1">Mêlant attaques martiales et sorts arcaniques, les avant-gardes sont des combattants imprévisibles en première ligne dont les compétences marient les deux traditions de manière dévastatrice.</content>
+	<content contentuid="236ca31d-1e24-4ece-9184-bbfdd9bbfe00" version="1">Combattant arcanique en première ligne qui mêle l'incantation de sorts et les compétences martiales.</content>
+	<content contentuid="319a99a3-b2c5-4ded-b4bd-96ab76c30f1c" version="1">Élémentaliste</content>
+	<content contentuid="9e64d02c-c25f-4b0a-a632-d70476d1b718" version="1">Les élémentalistes cherchent à renforcer leurs armes et leurs capacités avec de l'acide, du froid, du feu, de la foudre et du tonnerre. Ce sont des combattants spectaculaires mais mortels.</content>
+	<content contentuid="69b3af27-1d15-44b2-9e3a-5dd20f4a0bb7" version="3">Magie Martiale</content>
+	<content contentuid="90963bb8-5182-4a54-bb4c-18ebbe56b504" version="1">Vous pouvez effectuer une attaque standard et lancer un sort cantrip lorsque vous effectuez votre action. Cette capacité ne s'accumule pas avec d'autres sources d'Attaque Supplémentaire, à l'exception du Combat Mystique.</content>
+	<content contentuid="db0702e4-2c60-4596-a656-c60448cbb14f" version="1">Explosion Élémentaire sur Coup Critique</content>
+	<content contentuid="hf67517b4gbdabg4e03gb45bg97da152ea2d7" version="1">Lance automatiquement &lt;LSTag Type="Spell" Tooltip="Target_Arcane_Divine"&gt;Arcane&lt;/LSTag&gt; lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt; avec une attaque d'arme de mêlée. &lt;br&gt;&lt;Br&gt;La fente de sort disponible la plus élevée sera utilisée pour maximiser les dégâts.</content>
+	<content contentuid="8adb61bd-712d-45eb-8729-a9f500321093" version="2">Explosion Élémentaire</content>
+	<content contentuid="21726356-9b6a-4fc9-acfb-c6ce0bfd2584" version="2">Sacrifiez une fente de sort pour infliger des dégâts supplémentaires lors d'une attaque réussie. La cible doit faire un jet de sauvegarde pour éviter un effet débilitant. Les dégâts et les effets sont déterminés par le niveau de la fente de sort utilisée.</content>
+	<content contentuid="79d35237-012e-47e8-b9fd-30e8274c670b" version="1">Explosion Élémentaire : Réaction</content>
+	<content contentuid="3c6e867f-7aa0-45fd-b11b-2bd5aca145ff" version="1">Explosion Élémentaire Critique : Réaction</content>
+	<content contentuid="87423ee2-4b04-43bf-9126-999e1b6d1305" version="2">Inflige un [1] supplémentaire.</content>
+	<content contentuid="516dd72d-dc94-4542-9fec-756713380024" version="1">Explosion Tonitruante sur Coup Critique</content>
+	<content contentuid="2f3c1a26-f19b-4cfa-b6f0-feeedf8aec23" version="1">Explosion Ardente sur Coup Critique</content>
+	<content contentuid="0b88729c-4c32-4053-94cc-330eaf212535" version="1">Explosion Choquante sur Coup Critique</content>
+	<content contentuid="1a1242cf-01c4-42ef-ac9b-f84a81dcc4bf" version="1">Explosion Corrosive sur Coup critique</content>
+	<content contentuid="9697365a-8ca5-43cb-9e1b-547246118310" version="1">Explosion Glaciale sur Coup critique</content>
+	<content contentuid="a1a4cf9b-2025-4403-a92e-743f551d3245" version="1">Inflige un [1] supplémentaire à ? et ?. &lt;br&gt;&lt;br&gt;Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup Critique&lt;/LSTag&gt;.</content>
+	<content contentuid="6e04022d-65ba-4e8f-9383-4fc54844c057" version="4">Votre arme inflige un [1] supplémentaire, augmenté de [2] lors de l'attaque contre ? ou ?.</content>
+	<content contentuid="889bdb40-c636-44b9-bf58-8e6f0df70122" version="2">Charge de Lame</content>
+	<content contentuid="ef338ad9-f919-42a9-9a42-7676d8dd0b1a" version="2">Charge de Lame (Téléportation uniquement)</content>
+	<content contentuid="106032ff-d046-45fa-8cdd-c6216f58f5ae" version="1">Lancez votre Arme Liée sur une créature ou un endroit et téléportez-vous instantanément. Vous bénéficiez des effets du sort Flou pendant 2 tours. Si vous utilisez une attaque normale à la volée et que vous touchez avec succès une créature, vous pouvez choisir de vous téléporter à cet endroit après confirmation du coup.</content>
+	<content contentuid="73dc151a-9ca5-42bb-9aa9-1f857760aeec" version="1">Téléportez-vous vers la cible touchée par votre Arme Liée lancée. Vous bénéficiez des effets du sort Flou pendant 2 tours.</content>
+	<content contentuid="7a14757d-9cfc-40eb-87a4-203e2938de3e" version="1">Lancez votre Arme Liée sur une créature ou un endroit et téléportez-vous instantanément. Vous bénéficiez des effets du sort Flou pendant 2 tours.</content>
+	<content contentuid="b39a967c-75a6-4d4d-bd30-c275b54f65cd" version="1">Lancer d'Arme Liée</content>
+	<content contentuid="5a18e798-e6d4-4fc2-ab6a-86af1768e0c5" version="9">Lancez une arme liée.</content>
+	<content contentuid="88bd3c95-09b4-4e00-be33-36a10322c38e" version="3">Peut se téléporter vers la cible touchée avec &lt;LSTag Type="Spell" Tooltip="Vanguard_WeaponBond_Throw"&lt;/LSTag&gt;.</content>
+	<content contentuid="01a8fc2a-ea98-41c2-9be4-399d64bc9e74" version="2">Cible de Charge de Lame</content>
+	<content contentuid="e1895e50-c2e9-403e-8752-d265826a3017" version="2">Ciblée par l'arme liée lancée d'un avant-garde. L'avant-garde peut se téléporter à côté de la créature.</content>
+	<content contentuid="a75ebdb1-65f9-463e-823f-755592638b01" version="3">Cantrips Synergiques</content>
+	<content contentuid="fef136c2-da2e-4fa0-a839-2f51f95c87d5" version="5">Lorsque vous infligez des dégâts avec un &lt;LSTag Tooltip="Cantrip"&gt;cantrip&lt;/LSTag&gt;, vous gagnez la &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_SYNERGY"&gt;Synergie Arcanique&lt;/LSTag&gt; pendant 2 tours.</content>
+	<content contentuid="6b8d422c-cbe7-4ae2-bcab-3d55edba8b47" version="3">Attaques Synergiques</content>
+	<content contentuid="e7a33865-9f38-46c8-bdfb-c1dc6139e232" version="5">Les attaques avec des armes, y compris les attaques à la volée, infligent des dégâts supplémentaires égaux au modificateur de votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Capacité de lancer de sorts&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; au rouleau de dégâts.</content>
+	<content contentuid="5d0d07e1-6775-4909-a6e7-7e81874f8e7c" version="2">Lien d'Arme</content>
+	<content contentuid="29faf545-737e-43dd-ae7e-8becb665dd2f" version="2">Une fois par repos long, vous pouvez lier une arme de mêlée à vous-même. Vous ne pouvez pas être désarmé de cette arme. Après avoir lancé l'arme dans le cadre de votre attaque, elle revient immédiatement dans votre main. Vous pouvez lier jusqu'à deux armes. Au niveau 5, vos armes liées gagnent la propriété Jetée, quel que soit leur type. Au niveau 8, les créatures touchées par votre arme ont un Désavantage aux jets de sauvegarde contre vos sorts.</content>
+	<content contentuid="0988f58b-ced9-4926-be38-3951de21ec3a" version="2">Lien d'Arme Amélioré</content>
+	<content contentuid="25eceb08-2af4-48e5-b99d-3a482ef2c507" version="2">Vos armes liées gagnent maintenant la propriété Jetée, quel que soit leur type.</content>
+	<content contentuid="219a1dc1-9790-48e2-8456-9f1f53fa2f8f" version="2">Lier les Armes</content>
+	<content contentuid="1a50a1af-301d-42de-bf2a-1f2e8baf23ea" version="2">Lier rituellement jusqu'à deux armes de mêlée qui ne peuvent pas être désarmées et qui reviennent lorsqu'elles sont jetées. Au niveau 5, toutes les armes liées gagnent la propriété Jetée. Au niveau 8, les créatures touchées par votre arme ont un Désavantage aux jets de sauvegarde contre vos sorts.</content>
+	<content contentuid="570a98ae-e583-474c-8351-475ba1512cd2" version="2">Lier l'Arme - 1ère Arme</content>
+	<content contentuid="90ab1054-8146-4566-83f8-40a2a774f872" version="2">Arme liée (1ère)</content>
+	<content contentuid="36f26193-69d4-4c4e-884a-5609438cbac3" version="2">Lier rituellement une arme de mêlée dans votre main principale qui ne peut pas être désarmée et revient lorsqu'elle est jetée.</content>
+	<content contentuid="c128a4d9-427e-4f47-a087-a1604b78c0e1" version="2">Lier l'Arme - 2ème Arme</content>
+	<content contentuid="55489857-2938-4048-b134-9ece2bd01e76" version="2">Arme liée  (2ème)</content>
+	<content contentuid="0ba2460a-c8bf-4b36-9897-a9474447faa7" version="2">Lier rituellement une arme de mêlée dans votre main principale qui ne peut pas être désarmée et revient lorsqu'elle est jetée.</content>
+	<content contentuid="4abe612f-401b-49b2-b974-4fb3ff50bf6c" version="2">Lier l'Arme - Deux mains</content>
+	<content contentuid="cb97ae32-4eaa-47f7-bb0a-a62b22f9110e" version="2">Lier rituellement une arme de mêlée dans votre main principale et votre main secondaire, qui ne peut être déséquipé et qui revient lorsqu'elle est lancée. Ces liens sont permanents jusqu'à ce que vous les rompiez en les appliquant à d'autres armes.</content>
+	<content contentuid="395be224-5e5f-485b-9450-f9de5fc7d4f8" version="2">Arme Liée (3ème)</content>
+	<content contentuid="5a6b4446-e7f9-4d15-bf40-3c6220047dd8" version="2">Lier rituellement une arme de mêlée qui ne peut pas être désarmée et qui revient lorsqu'elle est jetée. Les armes ne peuvent pas être liées deux fois.</content>
+	<content contentuid="bd80810c-b2bd-4159-a8be-2b60a176958c" version="3">Liée rituellement à son porteur. &lt;br&gt;&lt;br&gt;L'arme ne peut pas être éjectée de la main du porteur et revient automatiquement au porteur lorsqu'elle est &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Lancée&lt;/LSTag&gt;.</content>
+	<content contentuid="5f64f78d-b8d5-4ea9-b726-eced06cb4fb8" version="2">Amélioration de l'arme liée</content>
+	<content contentuid="dbead77e-246d-41ff-9f6b-8c078e94000f" version="2">Améliorez magiquement une arme liée avec les propriétés légère, fine ou lancer. Une seule propriété peut être appliquée à la fois.</content>
+	<content contentuid="71ca6aac-5ab1-42b8-956a-8e1fe54d4fe1" version="2">Amélioration de l'arme liée : Légère</content>
+	<content contentuid="163531c7-ce04-467b-9b20-8dcaf439d2a4" version="2">Amélioration de l'arme liée : Fine</content>
+	<content contentuid="16b93f4a-bd2d-460a-a10d-58e090235425" version="2">Amélioration de l'arme liée : Lancer</content>
+	<content contentuid="daf718f4-fefd-4ac5-a29b-26035f920c7d" version="2">Améliorez magiquement une arme liée en lui conférant le propriété Légère. Ceci peut être appliqué à n'importe quelle arme de mêlée à une main.</content>
+	<content contentuid="3a6548b4-57b4-41f4-a398-4b21ac0ab408" version="2">Améliorez magiquement une arme liée en lui conférant le propriété Fine. Ceci peut être appliqué à toute arme de mêlée à une main qui n'a pas la propriété polyvalente.</content>
+	<content contentuid="96eb6282-6ffe-45b2-98f4-33e162fb4ab3" version="2">Améliorez magiquement une arme liée en lui conférant le propriété Lançer. Ceci peut être appliqué à n'importe quelle arme de mêlée.</content>
+	<content contentuid="6a7b50d5-292d-429b-8155-d39157058140" version="2">Cette arme liée a été magiquement enchantée, lui conférant le propriété Légère, malgré le fait qu'il s'agisse d'un type d'arme qui ne possède pas normalement cette caractéristique.</content>
+	<content contentuid="389f64f0-8451-4856-bcb2-b122bc4291b2" version="2">Cette arme liée a été magiquement enchantée, lui conférant le propriété Fine, malgré le fait qu'il s'agisse d'un type d'arme qui ne possède pas normalement cette caractéristique.</content>
+	<content contentuid="b4966d6f-59ed-4d71-af6e-4184ee7690b0" version="2">Cette arme liée a été magiquement enchantée, lui conférant le propriété Lançer, malgré le fait qu'il s'agisse d'un type d'arme qui ne possède pas normalement cette caractéristique.</content>
+	<content contentuid="6f755b0f-d9e0-4ab0-ad60-d25d12b38799" version="2">Sort mineur Proches</content>
+	<content contentuid="005e225c-1478-452b-9cc9-88294558a04f" version="2">Un passif activable qui améliore vos cantrips lorsqu'ils sont lancés à moins de 5 pieds de votre cible. Vous ignorez le Désavantage pour les cantrips à courte portée, ajoutez votre modificateur de lancer de sorts aux jets de dégâts, et les jets de sauvegarde des ennemis contre vos cantrips sont effectués avec un Désavantage. Cela ne s'applique pas aux cantrips utilisant des armes de mêlée.</content>
+	<content contentuid="dbf5f9ed-f116-4756-ae04-d6720a965e7e" version="2">Canalisation Symbiotique (Mêlée)</content>
+	<content contentuid="6926c852-df6d-4de3-9a3b-4d654d9b3a3d" version="2">En utilisant une action d'arme (par exemple, la Frappe large), cela accorde temporairement l'État de Flux Martial, qui ajoute le plus grand de vos modificateurs de Force ou de Dextérité aux jets de dégâts de cantrip. Vous gagnez également la Pirouette Ethérée, une action bonus qui vous téléporte de 15 pieds et accorde un bonus de +1 aux jets d'attaque sur toutes les cibles à moins de 5 pieds de l'emplacement de la téléportation jusqu'à la fin de votre prochain tour. Les deux fonctionnalités restent utilisables pendant un nombre de tours égal à 1 + votre niveau d'avant-garde divisé par 2.</content>
+	<content contentuid="c455de2d-e2e2-485b-ad42-9ecd05fa8e58" version="2">État de Flux Martial</content>
+	<content contentuid="fc33c937-e5f3-478f-b767-9f73b9752a2c" version="5">Les sorts Cantrip infligent des dégâts supplémentaires équivalents au plus grand des modificateurs de Force ou de Dextérité du lanceur.</content>
+	<content contentuid="5063f3ca-50e1-4a8d-a7e8-e8e244a86415" version="2">Pirouette Éthérée</content>
+	<content contentuid="9ef2ac9e-3b79-4a26-ae6a-c5cbcc194b95" version="5">Téléportez-vous de 15 pieds dans n'importe quelle direction. Les ennemis se trouvant à moins de 5 pieds de vous et échouant à un jet de Dextérité sont considérés comme surpris par vos actions jusqu'à la fin de votre prochain tour. Les attaques que vous effectuez bénéficient d'un bonus de +2 pour toucher, tandis que les attaques qu'ils effectuent subissent une pénalité de -2 pour toucher.</content>
+	<content contentuid="15aa1888-8043-49fb-bc2b-5691e3847440" version="2">Surpris par la Pirouette Éthérée</content>
+	<content contentuid="5db40dcd-e5e9-4f1e-bb6f-c9dd4f2310e2" version="4">L'entité affectée subit une pénalité de -2 lorsqu'elle effectue des attaques contre le personnage ayant utilisé la Pirouette Éthérée. Les attaques contre cette entité par ce personnage bénéficient d'un bonus de +2. Ces effets durent jusqu'à la fin du prochain tour, ou jusqu'à ce que l'entité affectée subisse des dégâts provenant de n'importe quelle source.</content>
+	<content contentuid="f8811241-65ff-41b6-82c2-43b0bb79c639" version="2">Pirouette Éthérée - Avantage</content>
+	<content contentuid="deccd4c1-f5ef-41df-ab95-407c0d6f0200" version="5">Vous avez l'avantage sur tous les jets d'attaque effectués contre des cibles prises au dépourvu par la Pirouette Éthérée.</content>
+	<content contentuid="8ba99b5e-d91c-4fbf-90a8-72761f7e262c" version="2">Canalisation Symbiotique (Sorts)</content>
+	<content contentuid="cae1dc32-b3cd-4924-9236-695a91210998" version="2">Lancer un sort de niveau confère temporairement une Synergie Arcanique, qui ajoute votre **Modificateur de Capacité de Lancement de Sorts** à vos jets de dégâts d'arme. Vous obtenez également la Marque Élémentaire, une action bonus qui marque un ennemi avec votre sigle personnel, octroyant des dégâts supplémentaires dans un rayon de 10 pieds sur les attaques au corps à corps et les sorts à courte portée. La marque se transfère sur une cible différente à proximité lorsqu'elle est touchée. Ces deux fonctionnalités restent utilisables pendant un nombre de tours égal à 1 + votre niveau de vanguard.</content>
+	<content contentuid="2d4419f0-017c-46a5-ba40-a0ee45f2a9ec" version="2">Canalisation Symbiotique améliorée</content>
+	<content contentuid="ee2bf5ea-c022-4e67-8998-04c86cafea04" version="5">Lorsque les sorts de canalisation symbiotique sont actifs, un fragment de l'énergie dépensée par votre Frappe des arcanes est conservé sous la forme d'une braise occulte perchée sur votre arme. En tant qu'action libre utilisable une fois par tour, vous pouvez balancer votre arme pour lancer cette flamme sur une cible, lui infligeant 1d4 + votre modificateur de lanceur de sorts en points de dégâts de feu et la repoussant à 3 mètres.&lt;br&gt;&lt;br&gt;Lorsque la canalisation symbiotique de la mêlée est active, vous gagnez Lancer hâtif. En vous déplaçant à une vitesse accrue par la magie, vous pouvez effectuer une attaque de jet avec une arme liée en tant qu'action bonus. Toucher un ennemi marqué par une marque occulte déclenche les effets normaux de la marque. De plus, vous pouvez utiliser Lame fulgurante pour vous téléporter vers le prochain ennemi sur lequel votre marque s'est posée.</content>
+	<content contentuid="a5c6d922-5b5b-4e88-b454-a76ee93a2ec4" version="2">Armure Arcanique</content>
+	<content contentuid="e14be335-e5c5-427c-b005-bb3db3139e20" version="2">Vous pouvez utiliser votre **Modificateur de Capacité de Lancement de Sorts**, à la place de la Dextérité, pour calculer votre Classe d'Armure lorsque vous portez une armure légère ou intermédiaire.</content>
+	<content contentuid="626d4bd8-d3cc-4a8d-b08c-2d6f16ccf4a0" version="2">Toute armure moyenne que vous portez utilise votre  &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;caractéristique de lancer de sorts&lt;/LSTag&gt; à la place de la Dextérité lors du calcul de votre Classe d'Armure. Toute armure légère que vous portez ajoute la moitié de votre modificateur de caractéristique de lanceur de sorts, arrondi à l'inférieur, à la CA.</content>
+	<content contentuid="a93c764d-271f-44d3-8157-26d1af108719" version="2">Lame Élémentaire</content>
+	<content contentuid="a04479f7-d643-4a5e-a8b5-042d115942e3" version="3">Imprégnez votre arme liée d'un pouvoir élémentaire. Elle inflige des dégâts supplémentaires de 1d4 au niveau 1, 1d6 au niveau 6, 1d8 au niveau 9, 1d10 au niveau 12, 2d6 au niveau 15 et 2d8 au niveau 18 dans un élément de votre choix. Vous devez tenir une arme liée pour effectuer cette action.</content>
+	<content contentuid="6f733bd0-cda3-4316-8d81-08eaaeb46192" version="3">Inflige un supplément de [1].</content>
+	<content contentuid="a38ebf5b-00e1-47a9-ac6e-6b80bbe4949d" version="2">Frappe Tonitruante</content>
+	<content contentuid="7807bce2-52c5-4fd3-a128-e1c72eaa88bf" version="3">Inflige un supplément de [1] aux ennemis. La cible doit effectuer un jet de FOR ou être repoussée de 10 pieds et être renversée. Peut également être utilisé en réaction.</content>
+	<content contentuid="61ab0f74-729b-48a1-a149-ef9c31af1c0e" version="1">Inflige un supplément de [1] aux ennemis. La cible doit effectuer un jet de FOR ou être repoussée de 10 pieds et être renversée. Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="d4f31b08-fd89-469a-bc19-c722785f2514" version="2">Frappe Ardente</content>
+	<content contentuid="8d6d0315-e723-4036-930f-8c8a18a03cc7" version="3">Infligez [1] supplémentaire aux ennemis. La cible doit réussir un jet de DEX ou être aveuglée. Peut également être utilisé en réaction.</content>
+	<content contentuid="11d063a9-7174-4b3f-9edd-8657eca349ac" version="1">Inflige [1] supplémentaire aux ennemis. La cible doit réussir un jet de DEX ou être aveuglée. Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="393b2e52-265c-4223-a13c-28f53d1b9a05" version="2">Frappe choquante</content>
+	<content contentuid="a3d592fc-e5ff-43fc-9a8f-bfb08df59ca3" version="3">Infligez [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être étourdie. Peut également être utilisé en réaction.</content>
+	<content contentuid="c5eb91cd-d795-48e8-8226-88dcc1b8f41d" version="1">Inflige [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être étourdie. Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="3e6e8211-853f-4f0f-a69d-664f782c223f" version="2">Explosion Corrosive</content>
+	<content contentuid="1c81e76b-b3f0-49c4-8419-31107c6d6838" version="3">nfligez [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être faible, acide et nauséeux. Peut également être utilisé en réaction.</content>
+	<content contentuid="8c031be6-40e2-47e1-83db-e8159200009f" version="1">nflige [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être faible, acide et nauséeux. Cela se traduit par des dégâts d'arme réduits de moitié, un -2 à la CA et une vulnérabilité à l'acide et aux dégâts psychiques. Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="151110cb-27a8-47c2-8bdc-b682b1d215b2" version="1">La cible subit les pénalités suivantes : les dégâts de l'arme sont réduits de moitié, -2 à la CA, vulnérabilité à l'acide et aux dégâts psychiques.</content>
+	<content contentuid="f004a08b-f7ff-4c2e-ada2-f498db03a2d5" version="2">Explosion Glaciale </content>
+	<content contentuid="672fa060-0090-4ce3-92cd-c834797a0c9c" version="3">Infligez [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être paralysée et gelée. Peut également être utilisé comme réaction.</content>
+	<content contentuid="07b53c6a-261d-4993-947a-8cc509a88c34" version="1">Inflige [1] supplémentaire aux ennemis. La cible doit réussir un jet de CON ou être paralysée et gelée. Cette réaction ne se déclenche que lorsque vous réalisez un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="6fec2dc8-24db-4792-b7a3-e1c2d937f113" version="1">La cible subit les pénalités suivantes : La créature est Incapacité. Elle rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité. Les jets d'attaque contre la créature ont un avantage. Tout jet d'attaque effectué contre cette créature par un attaquant situé à moins de 10 pieds touche automatiquement et est un coup critique automatique. L'entité affectée est vulnérable aux dégâts de froid et résistante aux dégâts de feu.</content>
+	<content contentuid="c979da6d-6cf9-44fc-9696-7d325c83672d" version="2">Lancer symbiotique</content>
+	<content contentuid="2a0d5bc7-890e-4183-8eb4-2e9c1a3733e9" version="3">Lorsque n'importe quelle forme de Canalisation symbiotique est active, vous pouvez effectuer une attaque de lancer avec une arme liée en tant qu'action bonus et profiter de Blade Dash, si vous le souhaitez. Toucher un ennemi marqué par Marque occulte déclenchera les effets normaux de la marque. De plus, vous pouvez utiliser Blade Dash pour vous téléporter vers le prochain ennemi sur lequel votre marque s'est installée.</content>
+	<content contentuid="2b856fb6-492b-444e-a50c-40651b05240a" version="2">Braise occulte</content>
+	<content contentuid="4e2bc3c1-1fb2-477b-bcfe-8a57df6415c3" version="2">Braise occulte : Lancer</content>
+	<content contentuid="f05239a5-db42-47b4-aaf7-17c32d58834b" version="3">Lorsque les sorts de canalisation symbiotique sont actifs, un fragment de l'énergie dépensée par votre Frappe des arcanes est conservé sous la forme d'une braise occulte juchée sur votre arme. Comme action bonus, vous pouvez lancer un sort mineur pour faire tournoyer votre arme et lancer cette flamme sur une cible, lui infligeant votre modificateur de lanceur de sorts en dégâts de feu et la repoussant à 3 m. Toute cible touchée a un désavantage à son prochain jet de sauvegarde contre un sort que vous lancez avant la fin de votre prochain tour. Une seule braise peut être active à la fois, et elle s'éteint dès qu'elle est utilisée.</content>
+	<content contentuid="76aec9af-5a30-4a92-aabe-c742b80415c6" version="2">Vous pouvez conserver un fragment de la magie de votre sort mineur après avoir effectué une Frappe des arcanes sous la forme d'une Braise occulte, que vous pouvez utiliser en tant qu'attaque de sort mineur supplémentaire.</content>
+	<content contentuid="0b537f9e-6a18-440a-b00f-abf0696baa5f" version="2">Un fragment de l'énergie dépensée par votre Frappe des arcanes a été conservé sous la forme d'une Braise occulte juchée sur votre arme. Vous pouvez faire tournoyer votre arme pour lancer cette flamme sur une cible, la repoussant à 3 mètres et lui donnant un désavantage à son prochain jet de sauvegarde contre un sort que vous lui lancez jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="affc6471-6fd1-4eb6-bb05-f7afb09c3846" version="2">Frappé par la Braise occulte</content>
+	<content contentuid="db844397-6ae6-4a4a-af0f-2f264f2a87c9" version="2">Cette créature a un désavantage à son prochain jet de sauvegarde contre tout sort lancé par l'avant-garde qui a placé cet effet sur elle.</content>
+	<content contentuid="470048f6-2cbf-41a2-a357-e09bf7437634" version="2">Marque occulte</content>
+	<content contentuid="637c3e9e-5162-45b0-b539-21c2a265b0d3" version="3">Marquez une créature d'un sigle magique pour infliger des dégâts supplémentaires dans un rayon de 10 pieds chaque fois que vous la touchez avec une attaque à courte portée. La marque se transférera ensuite à une autre créature.</content>
+	<content contentuid="5fb91292-9fc3-446f-bd73-02f07b524e63" version="2">Cible de la marque occulte</content>
+	<content contentuid="b32dd8bd-83b5-4104-ac73-4e30fd9602e6" version="3">Lorsque cette créature est touchée par le vanguard qui l'a marquée, elle et les créatures à proximité subissent des dégâts de force supplémentaires provenant d'une explosion d'un rayon de 10 pieds.</content>
+	<content contentuid="ded38fad-e1ae-4e13-b428-947f9f80b464" version="1">Inflige des dégâts de force supplémentaires dans un rayon de 5 pieds lorsqu'il frappe une cible marquée.</content>
+	<content contentuid="74147f80-3c3e-4a6a-bbba-d467600b7069" version="3">Propriétaire de la marque occulte</content>
+	<content contentuid="00614ab1-ddbc-41b1-86ea-39b17558d3c4" version="1">Lorsque cette créature attaque sa cible marquée, elle inflige des dégâts supplémentaires dans un rayon de 10 pieds.</content>
+	<content contentuid="68929aae-7eb3-4650-b0a3-6dd5eab60d13" version="3">Énergies de la marque occulte libérées</content>
+	<content contentuid="048234cc-32a2-40d1-b59a-f6e9d70b04d2" version="2">Peut utiliser une action bonus pour réappliquer la marque occulte sur une autre cible.</content>
+	<content contentuid="12efdfcd-da44-4581-a19e-61aae4366505" version="2">Réappliquer la marque occulte</content>
+	<content contentuid="911de7eb-9b55-4b50-a09b-3d57a90da566" version="3">Les énergies de votre marque n'ont pas pu se transférer vers une autre cible. Vous pouvez réappliquer la marque occulte sur une autre cible.</content>
+	<content contentuid="389c0c4f-17d5-45a7-8f51-67a9ebf54f86" version="2">Marque occulte bloquée</content>
+	<content contentuid="2c3b3fe2-769d-4552-883e-188c7b71b4b7" version="2">Cette créature ne peut pas être réaffectée par la marque occulte.</content>
+	<content contentuid="5244ffd5-d88f-4173-abfd-a0f0be70ee81" version="2">Amélioration des dégâts de la marque occulte</content>
+	<content contentuid="4cfaecfe-1f9c-4823-b0a8-3f07171ecb53" version="2">Votre marque infligera désormais 1d8 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="c9fe91ad-9dd3-45ee-98e1-0507651810e1" version="2">Votre marque infligera désormais 1d10 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="45bee043-b2af-4b48-b91e-fb4821e27677" version="2">Votre marque infligera désormais 1d12 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="de0397c7-d236-46e3-a095-fab2d3285966" version="2">Votre marque infligera désormais 2d8 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="2f102fbb-26a3-438e-9f89-4d315fd5d56f" version="2">Votre marque infligera désormais 3d6 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="0edf026f-683e-44db-bd82-c0cbf83fab7d" version="2">Votre marque infligera désormais 5d4 points de dégâts de force lorsque ses énergies seront libérées.</content>
+	<content contentuid="e5ef28d8-ccc7-4da5-8530-57d398b77464" version="2">Points occultes</content>
+	<content contentuid="8ac0d8bf-59d6-4331-a0db-9a8075af604d" version="2">Vos points occulte restants pour la journée.</content>
+	<content contentuid="7210df53-735b-41fe-9ed8-143c4f3b9dd3" version="3">Charges de lame élémentaire</content>
+	<content contentuid="47e0c3e3-bd1e-4f56-a407-235913fd88ce" version="2">Vos utilisations restantes de Lame élémentaire pour la journée.</content>
+	<content contentuid="211ca96c-8e5a-4137-931e-fedd893d5059" version="1">Imprègne une arme d'une puissance enflammée. Elle inflige [1] supplémentaire.</content>
+	<content contentuid="d9d6b43d-c398-41de-8d4f-7311c0507ad0" version="1">Imprègne une arme d'une puissance corrosive. Elle inflige [1] supplémentaire.</content>
+	<content contentuid="44b7fd86-cc98-4e35-94ea-eb12aa7e2503" version="1">Imprègne une arme d'une puissance glaciale. Elle inflige [1] supplémentaire.</content>
+	<content contentuid="5eb7b2a0-44c1-4525-a992-95322d2f2e38" version="1">Imprègne une arme d'une puissance électrique. Elle inflige [1] supplémentaire.</content>
+	<content contentuid="02693621-4a78-4391-a694-87502c334d85" version="1">Imprègne une arme d'une puissance tonitruante</content>
+	<content contentuid="cb73c880-21d9-4564-8aff-c3498897e4bb" version="3">Lame élémentaire : Acide</content>
+	<content contentuid="74b6f32c-bed5-4cdd-998a-208bb8e32a9e" version="3">Lame élémentaire : Froid</content>
+	<content contentuid="5f2a34f4-f133-4e6e-8324-ae944ab6a8c6" version="3">Lame élémentaire : Feu</content>
+	<content contentuid="7cdf8609-86f3-4c14-a34d-4d5b434fbf43" version="3">Lame élémentaire : Foudre</content>
+	<content contentuid="14865263-cf60-4260-b938-7ada28e07226" version="3">Lame élémentaire : Tonnerre</content>
+	<content contentuid="9f396a35-71e8-4614-84bb-b1acaa8e94df" version="1">Emplacements de sorts arrondis</content>
+	<content contentuid="1d729fc1-cb10-4234-a266-68bbca0de355" version="1">Les niveaux de Vanguard sont arrondis à la hausse lors de la détermination des emplacements de sorts pour le multiclassage, contrairement à la plupart des demi-ensorceleurs dont les niveaux sont arrondis à la baisse.</content>
+	<content contentuid="77926c01-1675-4273-8e54-e2586f83e462" version="1">Combat éthérique</content>
+	<content contentuid="a0da5aee-c76d-4ddd-b797-1217c4826371" version="1">Après avoir lancé un sort de niveau et épuisé toutes les actions d'attaque disponibles, obtenez une attaque supplémentaire en tant qu'action bonus. Vous devez tenir une arme liée pour effectuer cette action.</content>
+	<content contentuid="0116ed3e-da45-4b85-aac0-4300aba6f7f5" version="1">Aura élémentaire</content>
+	<content contentuid="129957a2-8adf-42a9-ac1a-9a78a2f7ca9c" version="1">Entourez-vous d'une aura élémentaire qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent leur jet de sauvegarde sont affligées d'une condition d'état élémentaire.</content>
+	<content contentuid="4b48befe-93f9-4b11-a9aa-0c4a71ea5919" version="1">Aura élémentaire : Acide</content>
+	<content contentuid="78ca6403-e220-4b1a-942f-5f59ad9546a5" version="1">Entourez-vous d'une aura acide qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent leur jet de sauvegarde sont affligées d'une condition d'acide, ce qui réduit leur CA de 2.</content>
+	<content contentuid="3bcaae6e-273c-4ab5-94b9-0aa77a38a450" version="2">Une aura acide afflige l'entité affectée.&lt;br&gt;&lt;br&gt;Prend [1] par tour, est affecté par la condition d'acide et la vitesse de déplacement est réduite de moitié.&lt;br&gt;&lt;br&gt;Prend toujours la moitié des dégâts en cas de réussite du jet de sauvegarde.&lt;br&gt;&lt;br&gt;Supprimé lors de la sortie de la zone.</content>
+	<content contentuid="6c3c9e6f-a8e4-4352-814b-29d77fbc95df" version="1">Aura élémentaire : Froid</content>
+	<content contentuid="7231344a-cfd0-40da-8989-64452d5899cb" version="1">Entourez-vous d'une aura glaciale qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent leur jet de sauvegarde sont affligées d'une condition de froid, ce qui les rend vulnérables aux dégâts de froid et résistantes aux dégâts de feu.</content>
+	<content contentuid="18133f61-0efa-4ba6-ab33-a19b8ac75664" version="2">Une aura de gel afflige l'entité affectée.&lt;br&gt;&lt;br&gt;Prend [1] par tour, est affecté par la condition de froid et la vitesse de déplacement est réduite de moitié.&lt;br&gt;&lt;br&gt;Prend toujours la moitié des dégâts en cas de réussite du jet de sauvegarde.&lt;br&gt;&lt;br&gt;Supprimé lors de la sortie de la zone.</content>
+	<content contentuid="d2ee642b-035e-4134-8201-918ef5e35924" version="1">Aura élémentaire : Feu</content>
+	<content contentuid="4cc0badf-844a-4c10-8e3e-b3f2a4a5901f" version="1">Entourez-vous d'une aura ardente qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent leur jet de sauvegarde sont affligées d'une condition de brûlure, ce qui inflige des dégâts supplémentaires de feu de 1d4 par tour.</content>
+	<content contentuid="bfee2a69-df89-4e66-9bb0-cf5b921fb034" version="2">Une aura ardente afflige l'entité affectée.&lt;br&gt;&lt;br&gt;Prend [1] par tour, est affecté par la condition de brûlure et la vitesse de déplacement est réduite de moitié.&lt;br&gt;&lt;br&gt;Prend toujours la moitié des dégâts en cas de réussite du jet de sauvegarde.&lt;br&gt;&lt;br&gt;Supprimé lors de la sortie de la zone.</content>
+	<content contentuid="8eaaf08c-5830-476e-81b1-56adb2320ce2" version="1">Aura élémentaire : Foudre</content>
+	<content contentuid="a10cdcea-d74c-4ed5-a607-f3542baf76ea" version="1">Entourez-vous d'une aura choquante qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent à leur jet de sauvegarde sont affligées par le choc, ce qui les empêche de réagir et leur impose un désavantage aux tests de compétence et aux jets de sauvegarde utilisant la dextérité.</content>
+	<content contentuid="f0351897-6746-4b3e-900e-f4918a960194" version="2">Une aura choquante afflige l'entité affectée. Prend [1] par tour, est affectée par la condition Choqué et la vitesse de déplacement est réduite de moitié. Prend toujours la moitié des dégâts en cas de réussite du jet de sauvegarde. Supprimée en quittant la zone.</content>
+	<content contentuid="07bb6f3b-b2c1-42b4-a771-09f5e19f0dde" version="1">Aura élémentaire : Tonnerre</content>
+	<content contentuid="028c63e3-298b-4fcc-ae5d-0925198c8617" version="1">Entourez-vous d'une aura retentissante qui inflige des dégâts aux ennemis à chaque tour. Les créatures qui échouent à leur jet de sauvegarde sont mouillées par ses vents tempétueux, ce qui les rend vulnérables aux dégâts de froid et de foudre tout en les protégeant des brûlures et en leur conférant une résistance aux dégâts de feu.</content>
+	<content contentuid="f7dc556f-a546-46a3-bd78-cffd8c7097b4" version="2">Une aura de tempête retentissante afflige l'entité affectée. Prend [1] par tour, est affectée par la condition Mouillé et la vitesse de déplacement est réduite de moitié. Prend toujours la moitié des dégâts en cas de réussite du jet de sauvegarde. Supprimée en quittant la zone.</content>
+	<content contentuid="1613306c-f0e0-497e-97f8-98477fca261d" version="1">Combat occulte</content>
+	<content contentuid="160c7cc9-595c-4973-b95a-4f65ef03ff7a" version="1">Après avoir lancé un sort et tout en tenant votre arme liée, vous pouvez dépenser 1 point occulte pour activer le Combat occulte, ce qui vous permet de faire une attaque au corps à corps supplémentaire lors de votre tour. Cette capacité n'est utilisable qu'après avoir utilisé toutes les actions standard et autres sources d'attaque supplémentaire.</content>
+	<content contentuid="ebd19d31-5372-4c8a-8da6-d42cff898bdb" version="1">Points occulte : [3]</content>
+	<content contentuid="27aeda92-f981-4f2f-88cd-f8d291bebe6c" version="1">Vous gagnez [3] points occulte pour créer divers effets. Ceux-ci sont restaurés lors d'un Repos long.</content>
+	<content contentuid="cc362264-bd1a-4748-beff-c76845df7b8b" version="1">Vous gagnez [3] points occulte pour créer divers effets. Ceux-ci sont restaurés lors d'un Repos long.</content>
+	<content contentuid="fb19849b-38d2-4e4f-9a33-81e8066b1d59" version="2">Lien d'arme supérieur</content>
+	<content contentuid="1cbde891-4fee-443b-9853-d46709dad797" version="2">Les attaques avec votre arme liée appliquent la Frappe occulte : la créature affectée a un désavantage lors du prochain jet de sauvegarde qu'elle effectue contre un sort que vous avez lancé avant la fin de votre prochain tour.</content>
+	<content contentuid="8a9c3ce1-ace3-4b0e-8554-670935f3f3db" version="2">Inspiration occulte</content>
+	<content contentuid="737d2153-d6d0-4589-b2ac-d934edc01e44" version="2">Vous disposez d'une réserve d'énergie magique que vous pouvez utiliser pour produire plusieurs effets magiques, représentés par des points occulte. Vous récupérez tous les points occulte dépensés lorsque vous terminez un repos long.</content>
+	<content contentuid="43933c32-7a2d-449b-b84f-d47ad9042c8a" version="2">En plein visage</content>
+	<content contentuid="98b3eab3-5526-4112-8398-45e59eec9f44" version="2">Vous pouvez utiliser votre bonus de Force au lieu de votre bonus de Charisme lors de la détermination des jets d'intimidation.</content>
+	<content contentuid="bbbd47de-f3f4-43fd-941a-e2d7236c7ec9" version="2">Débogage de la garde avant</content>
+	<content contentuid="bcbee716-f70a-4354-a3fa-d62e4c245e65" version="2">Frappe des arcanes : Arme secondaire active</content>
+	<content contentuid="c1bdd5a8-d4a5-4869-b0d2-74ca1a8af96e" version="2">Frappe des arcanes améliorée : Arme principale active</content>
+	<content contentuid="74c5fd98-d412-4da5-895c-a2a2cc279d26" version="2">Frappe des arcanes améliorée : Arme secondaire active</content>
+	<content contentuid="e6bb0c69-7dfe-49a0-810d-cbedada26174" version="2">Frappe des arcanes : Turn Delay</content>
+	<content contentuid="045691b1-c179-4735-b77d-58b4ba700328" version="2">Frappe des arcanes : One Weapon Effect Limit</content>
+	<content contentuid="f67418ad-87ac-4272-a711-eea330341a6a" version="2">Frappe des arcanes : One Weapon Effect Limit Removal</content>
+	<content contentuid="050bbb5a-b97a-40e9-a3d5-d71443cb5cdd" version="2">Frappe des arcanes : Stack 1</content>
+	<content contentuid="b5e75efc-8ea2-4f49-a590-4c5d6ebd0958" version="2">Frappe des arcanes : Stack 2</content>
+	<content contentuid="1854baaa-c9d0-4782-a8c4-e6cb228f08cc" version="2">Frappe des arcanes améliorée : Active</content>
+	<content contentuid="aa2098f2-97d1-4139-9bf3-73a06e0000bc" version="2">Frappe des arcanes améliorée : Timer 1</content>
+	<content contentuid="995433b0-2461-410b-9fb5-9187a29a5b50" version="2">Frappe des arcanes améliorée : Timer 2</content>
+	<content contentuid="7938a025-7c84-4b0e-85d4-c9726c39da5c" version="2">Frappe des arcanes : Execute Throw</content>
+	<content contentuid="4f74c8f5-61eb-4604-8ff7-1c092720a018" version="2">Sort mineur Frappe des arcanes : Technical</content>
+	<content contentuid="1b85ca96-08fe-4629-9a81-ee8d73884bfc" version="2">Sort mineur Frappe des arcanes : Technical 2ND</content>
+	<content contentuid="2dbc9662-697b-43b3-899b-d33a1c56b6ab" version="2">Sort mineur Frappe des arcanes : Boost</content>
+	<content contentuid="803d228f-aa41-4417-b05e-3bab39800f72" version="2">Sort mineur Frappe des arcanes : 2ND Boost</content>
+	<content contentuid="35a866d0-96b2-48dd-a747-948f0c98a9d0" version="2">Sort mineur Frappe des arcanes : Boost Removal</content>
+	<content contentuid="a2900048-71ba-49db-acf1-1e92f25e1339" version="2">Sort mineur Frappe des arcanes : 2ND Boost Removal</content>
+	<content contentuid="688faaad-d471-43cc-8ddc-71c2072cb864" version="2">Sort mineur Frappe des arcanes : Passive</content>
+	<content contentuid="6a621b20-5ee0-45d6-800a-6b8f65d0e67b" version="2">Sort mineur Frappe des arcanes : 2ND Passive</content>
+	<content contentuid="19ce85dc-7f82-4fc7-85fc-0fab69177503" version="2">Sort mineur Frappe des arcanes : Projectile</content>
+	<content contentuid="01976213-704a-449a-9072-b4f91ac40b93" version="2">Sort mineur Frappe des arcanes : Returning Passive</content>
+	<content contentuid="27cfcf71-061d-4839-a17e-87081406c374" version="2">Sort mineur Frappe des arcanes : Returning Status</content>
+	<content contentuid="9e641bdd-fbfc-470a-a7ef-8ccf461b78f1" version="2">Sort mineur Frappe des arcanes : 2ND Returning Status</content>
+	<content contentuid="9a3cee1d-b356-4d4b-9515-62ae49747adb" version="2">Sort mineur Frappe des arcanes améliorée : Weapon One Timer Expire</content>
+	<content contentuid="6df55075-0401-4743-8870-b1bdeebe7170" version="2">Sort mineur Frappe des arcanes améliorée : Weapon Two Timer Expire</content>
+	<content contentuid="ecc23cf9-578a-42ea-a10f-3435c011ea5e" version="2">Frappe des arcanes</content>
+	<content contentuid="f6d640ec-bea6-415b-b791-97425f9b4460" version="2">Vous pouvez dépenser un point occulte pour lancer un sort mineur sur une arme liée afin de l'améliorer. Au prochain coup, les dégâts et effets normaux du sort mineur sont ajoutés aux dégâts de l'arme.</content>
+	<content contentuid="e58c4470-48d5-442e-806a-9fc4d94378dc" version="2">Frappe des arcanes (Arme principale)</content>
+	<content contentuid="7136168e-d80e-4276-949e-9e1026e51b12" version="2">Frappe des arcanes (Arme secondaire)</content>
+	<content contentuid="186d13f4-892b-40e9-bc5d-410847371a87" version="2">Vous devez tenir une arme liée dans votre main principale pour utiliser cette capacité.&lt;br&gt;&lt;br&gt;Lorsqu'elle est active, vous pouvez utiliser une action gratuite pour lancer un sort mineur sur votre arme afin de l'améliorer. Vous ne pouvez le faire qu'une fois par tour. Au prochain coup de l'arme, les dégâts et effets normaux du sort mineur sont ajoutés aux dégâts. Vous ne pouvez pas avoir plusieurs améliorations sur une même arme ou les avoir sur plus de deux armes à la fois.</content>
+	<content contentuid="496e9ec0-5f18-4b7f-89ed-776f24d487f8" version="2">Vous devez tenir une arme liée dans votre main secondaire pour utiliser cette capacité.&lt;br&gt;&lt;br&gt;Lorsqu'elle est active, vous pouvez utiliser une action gratuite pour lancer un sort mineur sur votre arme afin de l'améliorer. Vous ne pouvez le faire qu'une fois par tour. Au prochain coup de l'arme, les dégâts et effets normaux du sort mineur sont ajoutés aux dégâts. Vous ne pouvez pas avoir plusieurs améliorations sur une même arme ou les avoir sur plus de deux armes à la fois.</content>
+	<content contentuid="3001c914-e616-4cc0-9a13-8ce38a658ba5" version="2">Frappe des arcanes : Poigne électrique</content>
+	<content contentuid="668eff91-cecf-44a5-9261-301a5b582dc3" version="2">Frappe des arcanes : Trait de feu</content>
+	<content contentuid="ebeb84d2-4320-48d4-aef8-dab9507d7e14" version="2">Frappe des arcanes : Bone Chill</content>
+	<content contentuid="3219d1a1-c482-4a0e-9d57-95fefc58690c" version="2">Frappe des arcanes : Aspersion d'acide</content>
+	<content contentuid="48597b8a-2554-4887-90ad-d1f77320e503" version="2">Frappe des arcanes : Gelure</content>
+	<content contentuid="a3879976-c333-4cb8-b8c0-0078d39932d5" version="2">Frappe des arcanes : Ferrage foudroyant</content>
+	<content contentuid="b80477e1-2bde-427c-9460-6fea7bbf0c2e" version="2">Frappe des arcanes : Piqûre mentale</content>
+	<content contentuid="1978fcf6-6776-4819-b957-1d7dbbb46a78" version="2">Frappe des arcanes : Bouffée de poison</content>
+	<content contentuid="aea11b15-15d5-43ca-843d-7cda88396206" version="2">Frappe des arcanes : Flammes</content>
+	<content contentuid="9341f059-23ed-4ea8-9754-078c6d6e95af" version="2">Frappe des arcanes : Éruption de lames</content>
+	<content contentuid="3dc2b00a-bfac-47d2-bbe1-4303959bf3ad" version="2">Frappe des arcanes : Coup de tonnerre</content>
+	<content contentuid="d53d7ab9-fc8d-4182-b017-ef590007b62e" version="2">Frappe des arcanes : Glas</content>
+	<content contentuid="ee393103-7df1-4b01-89c1-61dbef7338a1" version="2">Frappe des arcanes : Décharge occulte</content>
+	<content contentuid="a1751954-9298-466a-9e0c-971000883a66" version="2">Frappe des arcanes : Flamme sacrée</content>
+	<content contentuid="6ae45388-b0c5-42dc-8879-f8be028c669a" version="2">Frappe des arcanes : Fouet épineux</content>
+	<content contentuid="7930b68f-9e25-41f7-b680-1725fcfff651" version="2">Frappe des arcanes : Rayon de givre</content>
+	<content contentuid="8c42450c-4d89-49ec-916d-7682af8301fb" version="2">Frappe des arcanes : Moquerie cruelle</content>
+	<content contentuid="a388da14-92fe-4f1f-acd5-36f6a85b5eb1" version="2">Frappe des arcanes : Embrasement</content>
+	<content contentuid="bc61c441-47d3-431d-95b5-e9afae464053" version="2">Frappe des arcanes : Mot de radiance</content>
+	<content contentuid="efc75c1f-6096-4215-8969-7fb7bc4f0d78" version="3">Imprègne votre arme des effets de ce sort mineur : La cible ne peut pas utiliser de réactions. Ce sort a un &lt;LSTag Tooltip=""Advantage"&gt;Avantage&lt;/LSTag&gt; sur les créatures ayant une armure de métal.</content>
+	<content contentuid="258a7fb8-028e-479b-bcbd-f0a5baa95d58" version="3">Imprègne votre arme des effets de ce sort mineur : La cible ne peut pas utiliser de réactions. Ce sort a un &lt;LSTag Tooltip=""Advantage"&gt;Avantage&lt;/LSTag&gt; sur les créatures ayant une armure de métal.</content>
+	<content contentuid="c94fd46f-9bf9-4fea-9dfe-190391848830" version="2">Frappe des arcanes améliorée</content>
+	<content contentuid="e8ad89f6-e17c-4224-ba5a-73a596b56c70" version="2">Lorsqu'elle est active, cette capacité améliore votre Frappe des arcanes. Après avoir frappé votre adversaire, vos armes améliorées délivreront leurs effets du sort mineur jusqu'à la fin du tour suivant.</content>
+	<content contentuid="a1e9ae73-7747-467d-bcd6-68b1779159a6" version="2">Ferveur arcanique</content>
+	<content contentuid="92c826e2-a13f-4ede-be6d-2b3aca5be7d9" version="2">Lorsque vous êtes engagé dans un combat, alterner les attaques de mêlée et les sorts mineur permet de construire des charges de Ferveur arcanique. Lorsque vous atteignez le maximum de quatre charges, le coût en points occulte de toutes vos inspirations est réduit de 1, et toutes celles dont le coût par défaut est de 1 peuvent être utilisées gratuitement. Lorsque vous dépensez des points occulte, toutes les charges de Ferveur arcanique sont supprimées. Les charges se désintègrent au cours des 10 tours, vous faisant descendre à chaque fois à un niveau inférieur. Si vous avez 3 charges ou plus, elles ne seront jamais réduites à moins de 2.</content>
+	<content contentuid="af1e3ae3-0923-4412-9840-3c4c4c6c0cb4" version="2">Ferveur arcanique (Max cumulées)</content>
+	<content contentuid="f2247ff9-1ffd-41fe-b791-e851c6adf3af" version="2">Ferveur arcanique (3 charges)</content>
+	<content contentuid="c117fdc4-eeea-43f6-9273-1a328b11c942" version="2">Ferveur arcanique (2 charges)</content>
+	<content contentuid="a1f441ff-c01e-4363-a454-c53613a74ea1" version="2">Ferveur arcanique (1 charge)</content>
+	<content contentuid="80b1a364-e159-4f97-a725-4d3f84f7c73d" version="2">Vous avez le maximum de 4 Ferveurs arcaniques cumulées. Le coût de la prochaine inspiration occulte que vous activerez sera réduit de 1 point occulte..</content>
+	<content contentuid="f6763e73-4ad9-4e51-8bb3-5cc389ea4d3b" version="2">Vous avez 3 Ferveurs arcaniques cumulées. Vous pouvez gagner une Ferveur arcanique cumulée supplémentaire en effectuant une attaque en mêlée.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration Occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="edb2a566-1fbc-420e-b3b4-29b253ea524c" version="2">Vous avez 3 Ferveurs arcaniques cumulées. Vous pouvez gagner une Ferveur arcanique cumulée supplémentaire en lançant un sort.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration Occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="1b495fdb-0aa6-43fb-a0dd-df73d6311092" version="2">Vous avez 2 Ferveurs arcaniques cumulées. Vous pouvez gagner une Ferveur arcanique cumulée supplémentaire en effectuant une attaque en mêlée.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration Occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="5bf56f7e-4b44-4e95-b981-b1cef9d0da3b" version="2">Vous avez 2 Ferveurs arcaniques cumulées. Vous pouvez gagner une Ferveur arcanique cumulée supplémentaire en lançant un sort.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration Occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="a8520ff4-47b2-4c12-8af8-e824753d879e" version="2">Vous avez 1 Ferveur arcanique cumulée. Vous pouvez cumuler des Ferveurs arcaniques supplémentaires en effectuant une attaque en mêlée.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="7e421374-7098-44f4-9e85-d61ab19dd61d" version="2">Vous avez 1 Ferveur arcanique cumulée. Vous pouvez cumuler des Ferveurs arcaniques supplémentaires en lançant un sort.&lt;br&gt;&lt;br&gt;A 4 cumulées, le coût de la prochaine Inspiration occulte que vous activerez sera réduit de 1 point occulte.</content>
+	<content contentuid="ce3d0977-9ea3-46ff-96f1-d98c96c0fc21" version="2">Maîtrise de l'avant-garde</content>
+	<content contentuid="5848cdcb-8337-4041-ba48-8ae81e29091d" version="2">Vous maîtrisez le mélange de combat martial et d'incantation de l'avant-garde. Vous regagnez 5 points occultes après un court repos. Lorsque Ferveur arcanique est au maximum de son cumule et après avoir appliqué sa réduction de points occultes à une inspiration, vous pouvez continuer à bénéficier de cette réduction jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="0089009d-9814-4afe-8597-c854a24fd2b8" version="2">Lié au clignotement</content>
+	<content contentuid="626a5fa6-f62e-407e-8156-14c9d0a7cdf0" version="2">Les avant-gardes liés au clignement se sentent connectés au monde naturel et ont forgé un lien unique avec un Chien esquiveur qui leur sert de compagnon animal féerique.</content>
+	<content contentuid="09870305-1c58-45a3-93a3-617d96f74c0a" version="2">Chien esquiveur</content>
+	<content contentuid="4a304ad6-617c-41aa-87ea-7b13bdda359c" version="2">Chien esquiveur Companion</content>
+	<content contentuid="a8dbd13f-6084-4394-a666-a3fae093b35f" version="2">Invoque un compagnon Chien esquiveur qui peut attaquer les ennemis et utiliser ses capacités de téléportation en combat.&lt;br&gt;&lt;br&gt;Au fur et à mesure qu'il grandit en puissance, le coût en points occulte nécessaire pour l'invoquer augmente également.</content>
+	<content contentuid="a50bd95b-c0d2-4eac-b308-9e1f69633ce4" version="2">Canis</content>
+	<content contentuid="7b2d30e5-c096-4ba3-9b2d-71a11f0cff47" version="2">Canis Major</content>
+	<content contentuid="ea885aab-d103-4af7-a7aa-97843e6a65a2" version="2">Canis Optumus</content>
+	<content contentuid="aadf4425-c300-4842-9ca8-36962d52068e" version="2">Canis Primus</content>
+	<content contentuid="4a637c36-bc75-45d8-9c8f-38de870a927b" version="2">Canis Biggus Dickus</content>
+	<content contentuid="2c273757-a08b-4557-8cb2-29105de21bdd" version="2">Evasion éthérée</content>
+	<content contentuid="a52e3130-eb7e-474e-be83-69519e46f9ed" version="2">Chien esquiveur : Ethereal Evasion</content>
+	<content contentuid="60b3ebd3-0e4f-44cc-a132-f2ea30ed403c" version="2">Lorsqu'un allié situé à moins de 10 pieds est attaqué, vous pouvez lui accorder un bonus de +5 à la CA et imposer un désavantage à l'attaque en le téléportant à un endroit adjacent à son attaquant. Cette capacité utilise 1 point de magie de meute.</content>
+	<content contentuid="e9ff4737-26b8-4947-ab50-acd06bfaed8d" version="2">Proie marquée</content>
+	<content contentuid="3f4f7186-b95d-4321-99db-0db7a60bcc73" version="2">Chien esquiveur : Proie marquée</content>
+	<content contentuid="ebc26793-72c7-4f60-8d68-64401ded3821" version="2">Vos attaques déclenchent les effets de la Marque occulte sur les ennemis marqués par un Avant-garde. Après une attaque réussie, vous pouvez utiliser votre attaque Morsure comme action bonus pendant les deux tours suivants.</content>
+	<content contentuid="b4c939aa-089e-417d-a5d7-96898c1473f9" version="2">Morsure arcanique</content>
+	<content contentuid="638a98f7-7d3a-47fb-8c22-f6efaa50f266" version="2">Lorsque vous imprégnez votre arme d'un sort mineur de Frappe des arcanes, l'attaque de votre Chien esquiveur est également améliorée avec le même effet s'il se trouve dans un rayon de 30 pieds.</content>
+	<content contentuid="a4100ef1-3938-4cbb-9da3-c73fc21779cd" version="2">Lorsque votre compagnon d'avant-garde imprègne une arme d'un sort mineur de Frappe des arcanes, votre attaque est également améliorée avec le même effet si vous êtes dans un rayon de 30 pieds.</content>
+	<content contentuid="12570649-33ce-4329-9324-20df7b3e4458" version="2">Morsure désarmante</content>
+	<content contentuid="d7e2165b-3de4-4ca9-8aed-9de35c279121" version="2">Chien esquiveur : Morsure désarmante</content>
+	<content contentuid="c6db6eba-b3ca-49e7-89ad-e0cadd7a98e1" version="2">Effectuez une attaque surprenante en mordant la main principale de votre adversaire pour lui arracher son arme. Si l'ennemi est désarmé, les dégâts de l'attaque passent à 2d4.</content>
+	<content contentuid="e18ab237-fb62-4150-a9ca-ced28a77362c" version="2">Clignotement</content>
+	<content contentuid="0bddad9e-b3ba-42f2-93e8-4b2162437076" version="2">Chien esquiveur : Clignotement</content>
+	<content contentuid="ffb88860-81f3-4ce9-b6aa-207f31b6653c" version="2">Téléportez-vous à une distance maximale de 30 pieds et bénéficiez d'un bonus de +1 à votre jet d'attaque. Le prochain coup que vous portez après avoir cligné des yeux rendra la cible distraite.</content>
+	<content contentuid="1f018be3-5b75-4d11-baf0-e53a61c67436" version="2">Morsure perforante</content>
+	<content contentuid="124f9920-8b51-4ff4-95fb-ac24fff6ac44" version="2">Chien esquiveur : Morsure perforante</content>
+	<content contentuid="9404a311-8cb3-4205-8698-7145de9f197d" version="2">Mordre un adversaire et lui infliger potentiellement des plaies béantes.</content>
+	<content contentuid="f020a16c-34b9-4260-8cc8-1d10087a0f4b" version="2">Ambuscade</content>
+	<content contentuid="1dd57f0d-ee8b-473f-b1bc-6c2dba6aab55" version="2">Vos jets d'attaque ont un bonus de +1. Le prochain coup que vous portez rendra la cible Distraite.</content>
+	<content contentuid="eaf1405c-f644-4854-9fcf-bac9be96e567" version="2">Partage de sorts</content>
+	<content contentuid="a307f153-d7d4-4243-88f2-a2d84513dc8e" version="2">Tout sort d'avant-garde bénéfique que vous lancez sur vous-même peut également être appliqué à votre Chien esquiveur, à condition qu'il se trouve dans un rayon de 30 pieds.</content>
+	<content contentuid="22cb7241-c1bd-4705-a973-5f203ddf5836" version="2">Tout sort d'avant-garde bénéfique lancé par votre compagnon d'avant-garde s'applique également à vous, tant que vous êtes dans un rayon de 30 pieds.</content>
+	<content contentuid="b785b9f4-0664-4544-8c98-771725df5359" version="1">Invocation de volée : A distance</content>
+	<content contentuid="d7096355-4620-4fba-99b9-d4f641ff7b0d" version="1">Invocation de volée : Corps à corps</content>
+	<content contentuid="e3deb0e7-1821-483d-8d01-2c2be4016fa8" version="1">Lancez une arme de mêlée en l'air et choisissez un point à portée. Des centaines de doubles de l'arme tombent en volée depuis le ciel puis disparaissent, infligeant [1] aux créatures. Si elle est active, la Frappe des arcanes s'applique à toutes les cibles touchées.</content>
+	<content contentuid="d7965bdd-80f8-4e78-9b28-5679b1b8a326" version="1">Lancez une munition ou une arme de mêlée en l'air et choisissez un point à portée. Des centaines de doubles de la munition ou de l'arme tombent en volée depuis le ciel puis disparaissent, infligeant [1] aux créatures.</content>
+	<content contentuid="3dc465f0-2f0e-4a1d-bccb-0639d89d34d9" version="1">Débordé</content>
+	<content contentuid="0c564d73-4a24-454f-9f2e-256655536bcb" version="1">Cette cible ne peut pas se défendre correctement contre ses adversaires. Le prochain coup réussi contre elle sera automatiquement un coup critique.</content>
+	<content contentuid="7d8a7046-6d9c-4d7b-a2bb-5be5f8dd0024" version="1">Échange lié</content>
+	<content contentuid="a3ec924e-5ac8-42ac-851a-a04583a1649a" version="1">Chien esquiveur: Échange lié</content>
+	<content contentuid="4aaa21e8-a793-4655-9b40-772abdca1385" version="1">Téléportez-vous magiquement et échangez vos positions avec votre compagnon Avant-garde. Si vous menacez tous deux le même ennemi, il devient Déséquilibré. Si l'ennemi a également le pied plat, il est submergé, ce qui fait que le prochain coup qu'il reçoit est automatiquement un coup critique. Ces statuts peuvent être combinés dans n'importe quel ordre pour produire cet effet. Cette capacité utilise deux points de magie de la meute.</content>
+	<content contentuid="727337f3-b5e7-4fe3-9773-4417894aa1a5" version="1">Points de magie de la meute</content>
+	<content contentuid="d322783c-e409-4866-8a03-f416ad66421d" version="1">Les points de magie de la meute restants. Ces points se reconstituent automatiquement hors combat.</content>
+	<content contentuid="ab089887-2516-45c2-a8e1-fc888a3c1685" version="1">Échange d'action liée</content>
+	<content contentuid="7209b835-db04-4def-beee-cd69cdbab523" version="1">Lien légendaire</content>
+	<content contentuid="5bf79aa0-728d-46d1-8441-bd843b8450a5" version="1">Chaque fois que vous lancez un sort de niveau 3 ou plus, les capacités de votre Chien esquiveur sont restaurées tant qu'il se trouve dans un rayon de 60 pieds de vous.</content>
+	<content contentuid="b2d880cc-09ce-4e8b-8941-2ca33ec17113" version="1">Chaque fois que votre compagnon d'avant-garde lance un sort de niveau 3 ou plus et qu'il se trouve dans un rayon de 60 pieds, vos capacités utilisables une fois par combat sont restaurées.</content>
+	<content contentuid="09da5351-e897-4b29-9fac-4875b1f49082" version="1">Chien esquiveur : Tactique de la meute</content>
+	<content contentuid="6049207d-3f11-4ee1-a2ff-a3f6727794e6" version="1">Frappe piégeuse (Lancer)</content>
+	<content contentuid="14e61a9d-b173-4a04-b619-bae8d7e039be" version="1">Bon chien</content>
+	<content contentuid="74ded5d9-c22e-46ec-a7f0-7ea42bbeba69" version="1">Vous avez une &lt;LSTag Tooltip="Proficiency"&gt;Maitrise&lt;/LSTag&gt; en &lt;LSTag Tooltip="AnimalHandling"&gt;Communication animale&lt;/LSTag&gt;, un élément clé de la manière dont vous avez gagné la confiance d'un Chien esquiveur.</content>
+	<content contentuid="e0e0ea0b-c2fb-4520-80d4-9580dc61fd15" version="1">Lien de la meute</content>
+	<content contentuid="58899cbc-9d0b-4c63-aa61-03ac45d39a24" version="3">Le lien entre vous et votre Chien esquiveur devient plus fort. Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est ajouté à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; et ses jets de dégâts. As a bonus action, you may also consume eldritch points and convert them into pack magic points for your Chien esquiveur, so long as it is within 60 feet.</content>
+	<content contentuid="27af6ce0-8b9a-495d-8358-c213dc262050" version="3">Le lien entre vous et votre Avant-Garde devient plus fort. Leur &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; est ajouté à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; et vos jets de dégâts.</content>
+	<content contentuid="2ee98c06-1b46-461c-bdd9-f37d0b127cf6" version="1">Lien de la meute : Conversion</content>
+	<content contentuid="3962f593-9848-414e-b490-614a0097cd12" version="3">Consommez des points occulte et convertissez-les en points de magie de la meute pour votre Chien esquiveur.</content>
+	<content contentuid="bf86ab2e-b7ad-4396-b093-db6979aebdeb" version="1">Lien de la meute : Conversion (1 point)</content>
+	<content contentuid="479a09fa-a205-451d-a414-eed7ff417d25" version="3">Consommez 1 points occulte et convertissez-les en 1 points de magie de la meute pour votre Chien esquiveur.</content>
+	<content contentuid="bcde7485-9ee5-4010-84a4-876cd89abdaa" version="1">Lien de la meute : Conversion (2 points)</content>
+	<content contentuid="62c0c79d-50b2-4411-979a-41c8d3cc6e54" version="3">Consommez 2 points occulte et convertissez-les en 2 points de magie de la meute pour votre Chien esquiveur.</content>
+	<content contentuid="1b3941ff-2a8f-406d-8173-0d8730ee366f" version="1">Lien de la meute : Conversion (3 points)</content>
+	<content contentuid="651dded8-fa11-4b22-b590-e8e91f3db169" version="3">Consommez 3 points occulte et convertissez-les en 3 points de magie de la meute pour votre Chien esquiveur.</content>
+	<content contentuid="2f92494a-2632-46a5-9b45-4eac373c6341" version="1">Lien de la meute : Conversion (4 points)</content>
+	<content contentuid="c0230fad-f4c5-4e72-be27-40015a2f82a4" version="3">Consommez 4 points occulte et convertissez-les en 4 points de magie de la meute pour votre Chien esquiveur.</content>
+	<content contentuid="812e5c19-8bae-400b-beea-b4388db27a27" version="1">Chien esquiveur : Points de magie de la meute augmentés</content>
+	<content contentuid="af91dc04-bf6a-45bc-93b1-e9b4d94797f1" version="1">Chien esquiveur : Points de magie de la meute</content>
+	<content contentuid="d2fe7a41-5897-4ff8-be5b-3bc3e99d33da" version="3">Votre Chien esquiveur a 1 point de magie de meute à dépenser pour ses capacités. Ces points sont automatiquement renouvelés à la fin du combat.</content>
+	<content contentuid="22d8ede9-0209-4ff9-965d-efdbe923faee" version="3">Votre Chien esquiveur a maintenant 2 points de magie de la meute.</content>
+	<content contentuid="1cabae74-0384-4546-9435-df4c16280a31" version="3">Votre Chien esquiveur a maintenant 3 points de magie de la meute.</content>
+	<content contentuid="95aa6414-9932-4bde-bf86-9e8b0fb9ec15" version="3">Votre Chien esquiveur a maintenant 4 points de magie de la meute.</content>
+	<content contentuid="492b03b2-c10a-4fe8-a9a6-1579620ac77b" version="3">Adepte de l'ombre</content>
+	<content contentuid="7694498e-a762-468d-8265-8e422da199a8" version="4">Les adeptes de l'ombre ont été touchés par le plan de l'ombre et sont de redoutables prédateurs qui prospèrent dans les ténèbres.</content>
+	<content contentuid="2cbd467d-6ee5-4772-b9ca-a5237f1476b4" version="3">Contrôle des ténèbres</content>
+	<content contentuid="d9839b47-59c2-4d63-aedf-8fa3fd0520b7" version="3">Contrôle des ténèbres : Absorber</content>
+	<content contentuid="6fd3b9f2-91bf-4fa8-b306-6aa3e2f17dfe" version="4">Crée un petit linceul de ténèbres qui obscurcit fortement et &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;aveugle&lt;/LSTag&gt; les créatures qui s'y trouvent. Les créatures ne peuvent pas effectuer d'attaques à distance à l'intérieur ou à l'extérieur. Pour la durée de ce sort, vous pouvez absorber les ténèbres magiques et les créer à un autre endroit.</content>
+	<content contentuid="312fbf1a-a362-42a6-8ee7-ef4b12ce6252" version="4">Absorbe les ténèbres magiques dans un rayon de 10 pieds. Cela vous permet de créer un nouveau linceul de ténèbres à un autre endroit.</content>
+	<content contentuid="3d391af7-f2c0-47aa-a5aa-2b250924a76f" version="3">Né dans l'obscurité</content>
+	<content contentuid="26cfa11b-0b35-4e9d-9449-b745ca681663" version="4">Vous bénéficiez de la vision dans le noir. Lorsque vous êtes légèrement ou fortement obscurci, vous bénéficiez de plusieurs avantages. Vous avez un bonus de +2 à votre attaque, vos dégâts et votre CA. Les attaques de mêlée et de jet des armes liées, ainsi que les sorts qui infligent des dégâts nécrotiques ou psychiques, infligent un bonus de dégâts nécrotiques égal à votre Bonus de maîtrise. Au niveau 5, toute attaque ou tout sort infligeant des dégâts nécrotiques ou psychiques déclenche également des explosions de Marque occulte.</content>
+	<content contentuid="ac0bcbf9-638c-4fcb-b7a8-d9f1ea60535b" version="4">Vous êtes masqué et bénéficiez d'un bonus de +2 à votre attaque, vos dégâts et votre CA. Les attaques d'armes liées et les sorts qui infligent des dégâts nécrotiques ou psychiques déclenchent des explosions de Marque occulte et infligent également un bonus de dégâts égal à votre Bonus de maîtrise sur toutes les attaques.</content>
+	<content contentuid="b2be7abf-7c93-4e40-893c-f8597f5bbbdb" version="3">Contrôle des ténèbres : Créer</content>
+	<content contentuid="192e24b5-230a-4b86-a2e9-a3b649393743" version="4">Créer une poche de ténèbres sur un nouveau lieu.</content>
+	<content contentuid="230ea117-0d9b-47b4-9b9a-d715a63caa69" version="3">Ténèbres mineures : 5 tours restants</content>
+	<content contentuid="d3e9b4a5-0ffc-4f70-979c-32b03b4befae" version="3">Ténèbres mineures : 4 tours restants</content>
+	<content contentuid="5098333a-4eec-4514-bbe2-eb582ee4dc06" version="3">Ténèbres mineures : 3 tours restants</content>
+	<content contentuid="74de9e9d-2f07-4a87-acdb-f93802ab4e91" version="3">Ténèbres mineures : 2 tours restants</content>
+	<content contentuid="129e63eb-01f1-4283-95ba-c7f1bc04b28b" version="3">Ténèbres mineures : 1 tour restant</content>
+	<content contentuid="a42c09f3-78cc-4d9e-a81d-aaa77209afd0" version="3">L'incantation de ce sort augmente le rayon des ténèbres magiques créées de 2 mètres par niveau du sort.</content>
+	<content contentuid="94c204bd-abd5-4532-b87f-e2ff441c7ef7" version="3">Failles d'ombre</content>
+	<content contentuid="6a17255c-e5eb-40b9-9ce7-088ff3bf8d6e" version="3">Ouvre une faille dans le plan de l'ombre, transformant la zone sélectionnée en un miroir sombre d'elle-même qui aveugle tout le monde sauf le lanceur de sorts. Toutes les flammes proches sont éteintes, et toutes les personnes se trouvant dans le plan sont fortement obscurcies. Dans cet espace, tous les sorts de niveau qui infligent des dégâts nécrotiques ou psychiques lancent leur dé de dégâts avec un avantage.</content>
+	<content contentuid="25f7234d-d1fe-4a76-aa85-7479bf6e3951" version="3">Vous avez une faille active dans le plan de l'ombre. Toute personne se trouvant dans ce plan est fortement obscurcie et aveuglée. Dans cet espace, tous les sorts de niveau qui infligent des dégâts nécrotiques ou psychiques lancent leur dé de dégâts avec un avantage.</content>
+	<content contentuid="24320bdd-01bf-41c3-aa61-d68d8694be41" version="3">Fermer failles d'ombre</content>
+	<content contentuid="8edd7db2-1acf-4296-8a57-711a34214840" version="3">Fermez toutes les failles d'ombre que vous avez ouvertes.</content>
+	<content contentuid="e7954c3c-d544-4ddf-9e83-688bba8dc39f" version="3">Cette cible a été aveuglée en raison de l'exposition au plan d'ombre.</content>
+	<content contentuid="3a555e13-fbb7-4f8e-acc5-a82b943ff3cf" version="3">Une sphère de noirceur froide, dépourvue de couleur et de vie. Dans cet espace, toutes les créatures sont aveuglées et tout le monde est fortement obscurci.</content>
+	<content contentuid="bd1331d3-c280-48c7-b80b-cc94594a02fe" version="3">Maîtrise de la Faille de l'ombre</content>
+	<content contentuid="dadf527f-5ef7-41b9-b20d-86e94bee3ece" version="3">Vous pouvez désormais ouvrir jusqu'à 3 failles dans le plan de l'ombre en dépensant des points occulte supplémentaires. Les alliés sont protégés des effets de la Faille de l'ombre.</content>
+	<content contentuid="e0d8c182-54dd-4e71-a594-35c1c1517fff" version="3">Faille de la Grande Ombre</content>
+	<content contentuid="4aa944c4-20d0-4422-aaec-9d9e401de8e3" version="3">Ouvre jusqu'à 3 failles dans le plan de l'ombre, transformant la zone sélectionnée en un sombre miroir d'elle-même qui aveugle tout le monde sauf le lanceur de sorts et ses alliés. Toutes les flammes proches sont éteintes et tous les habitants du plan sont fortement obscurcis. Dans cet espace, tous les sorts de niveau qui infligent des dégâts nécrotiques ou psychiques lancent leur dé de dégâts avec avantage.</content>
+	<content contentuid="4b645499-e54a-45f8-aae8-2e347bbf1645" version="3">Habitant dans l'obscurité</content>
+	<content contentuid="c3b85106-a083-47f1-bb16-0f7ab9463664" version="3">Votre connexion avec Gisombre a atteint son potentiel maximum, ce qui vous confère des avantages accrus lorsque vous vous trouvez dans une Faille d'Ombre. Vous gagnez la capacité de vous téléporter à volonté à n'importe quel endroit de la faille au prix de 10 mouvements. Vos ombres deviennent une extension de vous-même, ce qui vous permet de lancer des sorts d'ombre, de peur, psychiques ou nécrotiques sur des cibles situées dans l'une de vos failles, quelle que soit la distance. De plus, les bonus de dégâts accordés par Né dans les ténèbres sont doublés.</content>
+	<content contentuid="11913348-9398-4f7f-b29b-bc50f0faa6c9" version="3">Marcheur d'ombre</content>
+	<content contentuid="80df2423-facb-48d4-ad86-33d32fd23622" version="3">Se téléporter à un endroit partiellement ou totalement recouvert par l'ombre.</content>
+	<content contentuid="5dc3755e-0147-4604-8366-0442cd225af8" version="3">Forme de Gisombre</content>
+	<content contentuid="5acd6d55-2680-49f4-89ec-70684e014ba8" version="3">Transformez votre corps en lui conférant des qualités associées aux ombres. Bénéficie d'une réduction des dégâts de 5 contre toutes les formes de dégâts, à l'exception des dégâts rayonnants et des dégâts de Force. Lorsque vous lancez un sort de niveau qui inflige des dégâts nécrotiques ou qui implique des effets basés sur l'ombre ou le psychisme, vous devez le faire suivre d'une attaque de mêlée supplémentaire. Une fois par tour, voyagez immédiatement d'un lieu ombragé à un autre.</content>
+	<content contentuid="2b62c2e4-e3ea-4fb6-ac25-58fc1dcac30f" version="3">Ombre longue</content>
+	<content contentuid="1bc7bb08-6226-4085-98f0-53e22fcab527" version="3">Lorsqu'ils sont activés, vos sorts d'ombre, psychiques ou nécrotiques ne peuvent être utilisés que sur des cibles situées dans l'une de vos failles, mais toutes ces cibles seront considérées comme valides, quelle que soit la distance.</content>
+	<content contentuid="dbdee1fe-3133-43f4-aae0-3bc30fa654de" version="3">Magie des Terres-sombre</content>
+	<content contentuid="6cc962b9-d975-4143-a93c-12d9b31dadf3" version="3">Votre étrange connexion avec Gisombre vous permet d'apprendre des sorts spécifiques au fur et à mesure que vous montez en niveau.&lt;br&gt;&lt;br&gt;Au niveau 3, vous apprenez Contrôle des flammes et Blessure.&lt;br&gt;&lt;br&gt;Au niveau 5, vous obtenez Lame d'ombre, qui compte comme une arme liée lorsqu'elle est utilisée. Au niveau 9, vous apprenez Convocation de rejeton d'ombre.&lt;br&gt;&lt;br&gt;&lt;br&gt;Au niveau 13, vous gagnez Ombre d'égarement.&lt;br&gt;&lt;br&gt;Au niveau 17, vous pouvez lancer Déluge d'énergie négative.</content>
+	<content contentuid="bd6cd754-c0c9-4674-aee7-41aefb3e2152" version="3">Magie féérique</content>
+	<content contentuid="0f0d27ea-60dd-4b11-a060-f46ddc591c6e" version="3">Vous apprenez des sorts supplémentaires basés sur la nature lorsque vous atteignez certains niveaux.&lt;br&gt;&lt;br&gt;Au niveau 3, vous apprenez Communication animale et Frappe piégeuse.&lt;br&gt;&lt;br&gt;Au niveau 5, vous apprenez Croissance d'épines et Esprit guérisseur.&lt;br&gt;&lt;br&gt;Au niveau 9, vous apprenez Croissance végétale et Invocation de projectiles. Au niveau 13, vous gagnez Domination de bête et Gardien de la nature.&lt;br&gt;&lt;br&gt;&lt;br&gt;Au niveau 17, vous pouvez lancer Contagion et Invocation de volée.&lt;br&gt;&lt;br&gt;Les effets de Frappe des arcanes s'appliquent à toutes les cibles touchées par Frappe piégeuse, Invocation de projectiles et Invocation de volée.</content>
+	<content contentuid="b42dbd80-278a-40ea-ad16-f4de6ffff0fc" version="2">Grêle d'épines (A distance)</content>
+	<content contentuid="cb691317-93c5-4823-bcbd-976f1b5ce26f" version="2">Grêle d'épines (Lancer)</content>
+	<content contentuid="7a813f87-8b2c-4cd8-a17f-9f0ec50c131a" version="5">Lancez une arme de mêlée ou effectuez une attaque d'arme à distance, infligeant des dégâts d'arme à la cible et provoquant une explosion d'épines. L'explosion inflige [2] points de dégâts supplémentaires à la cible et aux créatures environnantes.</content>
+	<content contentuid="f0d1d78f-09e5-443e-bbf7-2002f44fe98a" version="5">Lancez une arme de mêlée, infligeant [1] à la cible puis provoquant une explosion d'épines. L'explosion inflige [2] supplémentaires à la cible et à un maximum de 3 créatures environnantes. Si elle est active, la Frappe des arcanes s'applique à toutes les cibles touchées.</content>
+	<content contentuid="3e8807d4-631a-48f0-a0fb-8488d76ad606" version="10">Canaliser l'essence de votre arme en une volée destructrice et généralisée. Si elle est active, la Frappe des arcanes s'applique à toutes les cibles touchées.</content>
+	<content contentuid="77ddc0da-a324-46de-9111-1d7f35036900" version="2">Débogage</content>
+
+</contentList>
+
+
+
