@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h886a807eg749bg4be5g8341gc97ad0274772" version="1">Empoisonneur</content>
+	<content contentuid="hd82ce583gadbeg4c82g9b0bgf8f547a185fc" version="1">Médecin qui a maîtrisé les arts du poison.</content>
+	<content contentuid="ce7189a6-b35b-45ae-9653-7506edc09faa" version="1">Tsupig</content>
+	<content contentuid="h1529b96dge478g4786gaf01g1af0be5d3cd4" version="1">Tsupig</content>
+	<content contentuid="h446465b4g0e5eg4cd2g8a6bg93bd646bf1d2" version="1">Le compagnon d'Ellvern</content>
+	<content contentuid="4a1b60b5-08e8-4376-a42e-dae41d4b235e" version="1">Foudre rose</content>
+	<content contentuid="517467d6-f7b5-4165-81bc-2025371dc587" version="1">Résistance au poison</content>
+	<content contentuid="962545eb-0ffa-4b0c-9b53-180f2de52887" version="1">Résistance au poison pour la classe d'empoisonneur</content>
+	<content contentuid="hff08129bg0d5bg4030g919fg1823be0a74e1" version="1">Vulnérabilité au poison</content>
+	<content contentuid="h40be3270g97adg4139g8f20g1d029a7d28f4" version="1">Je ne suis pas sur le point de faire une classe qui se résiste à tout.</content>
+	<content contentuid="h31a5d7b2g42d7g4b2dg9634g26d747d4e5b7" version="1">Arme de classe</content>
+	<content contentuid="h74ca5715g7050g4082g86adg7b1df6f3a7b4" version="1">Arme de classe Arme de classe Arme de classe</content>
+	<content contentuid="h227dfda1gc733g4163g822cg060420f9a1b5" version="1">Bombe au venin</content>
+	<content contentuid="h093dd3a9g08f0g442fg972bg265e12e7b481" version="1">Jeter une bombe qui explose après un tour</content>
+	<content contentuid="h41f3c308gfda0g4e23gbbb3gd0310d18416f" version="1">Bombe de venin</content>
+	<content contentuid="h638de32dgac82g40efg9d03gf2d44343cbaf" version="1">Venom bombe Venom Bomb Bombe</content>
+	<content contentuid="h974b9bb6g836bg46dcgb824g7788ab761aed" version="1">Fléchettes</content>
+	<content contentuid="h1193c83eg81d4g4551g9217g8fd30c311da7" version="1">Fléchettes chimiques</content>
+	<content contentuid="h3567de5dg7cc8g433ega1c8g25ad9b519673" version="1">Fléchettes CB</content>
+	<content contentuid="hcece171cg7c6eg42f7ga09fg8379c4f29645" version="1">Fléchettes chimiques-biologiques</content>
+	<content contentuid="hbd2adc0dgba99g4f75g8895g76d655e44a66" version="1">Fléchettes CBR</content>
+	<content contentuid="h4ce1bb7ag0f7ag45e2ga62dg115bccd1d643" version="1">Fléchettes chimiques-biologiques-radiologiques</content>
+	<content contentuid="h75fefb4eg34c8g4154ga25dg47918d6381c5" version="1">Fléchettes CBRN</content>
+	<content contentuid="h4487d504gf4deg4d69g8a15gb9c58052ee79" version="1">Fléchettes Chimique-biologique-radiologique-nucléaire</content>
+	<content contentuid="h110ed05dga236g4a8fgb91bg5b210b87b4be" version="1">Poison de base</content>
+	<content contentuid="hac30f888gcb74g46bbg9583g056e77dbe21d" version="1">(P)</content>
+	<content contentuid="h49db5a64g1deag462fg8be9g96ec3bf5ace9" version="1">Poison serpe</content>
+	<content contentuid="hddca0bf7gc078g47aeg9598g4d79596d17d3" version="1">(P+)</content>
+	<content contentuid="h189cc84agc6a6g4cdbgb1a9ge621a0ca1606" version="1">Poison wyvrn</content>
+	<content contentuid="h2e162381g89b8g4812g88a5gc6de5dea9a65" version="1">(P++)</content>
+	<content contentuid="hfc6a6bf4ge704g4c7eg9bfeg3a081223fe7e" version="1">Ver violet</content>
+	<content contentuid="hc23d9ba9gcc1eg4fb0g802egc1d26477d7c6" version="1">(V)</content>
+	<content contentuid="hf4918a0egcc48g4fabg9226gd69165268c9a" version="1">Connaissance de prodige</content>
+	<content contentuid="h9cc47c36g2a6bg4bebg99ebgaafdce5eece7" version="1">Ce n'est pas une connaissance astrale</content>
+	<content contentuid="h89382ad0g38e3g46fcga1c1g1f5a457ff3ca" version="1">Terra Battle Squad</content>
+	<content contentuid="h4d758c7bgad15g4920g8f9dgd25ec1147bc6" version="1">Invoque une équipe de bataille Terra pour vous aider</content>
+	<content contentuid="hca5344abg2d32g4e04g94bdgfb76d28e8e9c" version="1">Peynra</content>
+	<content contentuid="hd65f6a9ega6bdg4985g9ddeg058890f1bf1e" version="1">Supergravité et épée</content>
+	<content contentuid="h34d69fc7gb4aeg4f08g8767g0db88f3026ef" version="1">Attaque principale de Peynra</content>
+	<content contentuid="hc5b194b9gba77g44c7gb9f2g892015945496" version="1">Supergravité et pince à épée</content>
+	<content contentuid="h2ffefff4gbce4g4baag820bg9d06991a2eb5" version="1">Attaque secondaire de Peynra</content>
+	<content contentuid="h191e8587g393fg4b9dgac25gf9b477c6705a" version="1">Lame de gravité</content>
+	<content contentuid="hd6351d89g88f0g4fa3g8e1egb3ebe592b551" version="1">Attaque tertiaire de Peynra</content>
+	<content contentuid="h400d7d83g552ag46f6g9d41g98598d944e32" version="1">Myne</content>
+	<content contentuid="hea1e1f24ge0d4g448agb895gcc3a1a0bf4f9" version="1">Tachyon et flèches</content>
+	<content contentuid="hef22f47dg2f3fg43d6gad55g52d350d5e510" version="1">Attaque principale de Myne</content>
+	<content contentuid="h79d14378g3e97g47f5g86eag1d5e76b52c8c" version="1">Luxon et flèches</content>
+	<content contentuid="h4832cfb8g740fg4afaga1cdg6e0ebad734ca" version="1">Attaque secondaire de Myne</content>
+	<content contentuid="hd0c89fdbgebd6g4064g9ec1g99b1065fcb55" version="1">Anneau de flèches de Luxon</content>
+	<content contentuid="h4f5f0716g41b4g4626ga691g722819eb14bd" version="1">Attaque tertiaire de Myne</content>
+	<content contentuid="h86c98cb7ga7e7g4654gb0b2ge348f430f3a8" version="1">Mogah</content>
+	<content contentuid="hb2ce2b2ag7e04g444eg9ff2gb9a99b662838" version="1">Axion Pincer Area</content>
+	<content contentuid="hb644fcb9g26e8g4bf9ga8d4g5827050f897f" version="1">Mogah dit que ce domaine imparticulaire</content>
+	<content contentuid="h9fc06266g689eg4b82g9c6dgb62da13ae2f6" version="1">Zone de pince de supergravité</content>
+	<content contentuid="hb1ac6389g5e72g476dgae35ga10dc9de5580" version="1">Mogah dit également que ce domaine imparticulaire</content>
+	<content contentuid="h200e6662gf841g4e52gabd1gc20733edeb23" version="1">Lacuma λ</content>
+	<content contentuid="hd550e9e1g4489g471ega66cg6f844992cd3e" version="1">Lacum de la main de Lacuma λ</content>
+	<content contentuid="h624d57b5g1294g4546g8ceeg9d938b4bd076" version="1">Les Arkaniens ont été les premiers à expérimenter la création de pistolets de blaster avec la même sortie d'énergie que Blaster Rifles autour de 5 000 BBY. Il a fallu un certain temps pour que le concept soit largement adopté, et ce n'est qu'au moment de la guerre civile de Jedi que la puissance des gros plongeurs autour de la galaxie a commencé à correspondre aux normes arkaniennes.</content>
+	<content contentuid="ha9257ca4gae79g41b1g9d59geebe59d57f54" version="1">Arrows de supergravité</content>
+	<content contentuid="h2e707c77g3813g4f2fgbd32ge4fdb527fe9e" version="1">Attaque la plus forte de Lacuma λ</content>
+	<content contentuid="hdec21051gc6efg4825g9860ge18425aa833e" version="1">Beau'ne λ</content>
+	<content contentuid="h6b14f614gfb8cg43efg874ega623ee4bd7a4" version="1">Sainte pince</content>
+	<content contentuid="hefa1c5cfg3451g44cbgb372g4f5b181e94b5" version="1">Attaque la plus forte de Beau'ne λ (3.5)</content>
+	<content contentuid="h0ee96884g81f9g4812gbb8egde445ca60932" version="1">Sac de boxe</content>
+	<content contentuid="h301c1350g2822g4c5ag920fg5903cb0bbc92" version="1">Infliger des dégâts d'armes de caractère. Retourner les ennemis avec puissance (30)</content>
+	<content contentuid="ha889c48cg7784g44eagb931gcc1b4a7163eb" version="1">Compteur rayonnant</content>
+	<content contentuid="h0524cd62g0154g4ed6ga29fg865d8c3b75c7" version="1">"Non toi" avec l'amour de Dieu</content>
+	<content contentuid="h119e41d4g57f6g4fdbga841ga72158ccff7e" version="1">Classe d'empoisonneur</content>
+	<content contentuid="he2caefb8g5913g42f2gb6dbgbb3a714ac07a" version="1">Aide à contourner la résistance au poison.</content>
+	<content contentuid="hd0139b0cg13c2g4e28gbb74gb40d961ecc2f" version="1">Revival unique</content>
+	<content contentuid="hfc2986b5ga692g4c8cg8444g6e8cfb13a531" version="1">Comme les mages élémentaires, ravive-moi avec 25% HP</content>
+	<content contentuid="h90bba469g4e3dg4172g8699gfddc78368b84" version="1">Giga Regen, chaîne</content>
+	<content contentuid="h7b7a25c1gbc85g4298gae80g2d76ec4bec0b" version="1">Régénération</content>
+	<content contentuid="hfc7932ffgda69g41abg989cg0811ff318dc5" version="1">Barrière</content>
+	<content contentuid="he4a9e9adg5ea5g4bf8gb270g30cdb1351dd5" version="1">Coupe tous les dégâts en deux</content>
+	<content contentuid="h3bc6b5f1g70ffg4a1cg9536geb7ea7464af1" version="1">Barrière</content>
+	<content contentuid="h499b2408gce76g40c6g881eg0e8649c45267" version="1">Coupe tous les dégâts en deux</content>
+	<content contentuid="h0e2638b8g4424g4522ga096gd52fcdaf7968" version="1">Barrière</content>
+	<content contentuid="h6c251b97g1443g46afg92d8g047ea314113d" version="1">Coupe tous les dégâts en deux</content>
+	<content contentuid="h11a2856eg485fg46b5gb4e2g139397a1fe02" version="1">Plus grande furtivité</content>
+	<content contentuid="hf63959c7g1a22g4965g9ccegcc1d124d10e9" version="1">Ne coûte pas un emplacement de sort !!</content>
+	<content contentuid="h11de7942g2d71g46e3g9be0gb29b05c2525a" version="1">Éblouissement paralytique</content>
+	<content contentuid="hca3805c2g3a72g468dga5fdg0f3078fbb910" version="1">Peut-être paralyser la cible pour un tour</content>
+	<content contentuid="h018cab35g9db8g4c17g9cf3gf751a8e61713" version="1">Panacée lite</content>
+	<content contentuid="h10249aaag399dg40begb216gca934fc6003d" version="1">Guérir quelques conditions</content>
+	<content contentuid="h0f86b2bfg922bg4edfg9f0fg285cba451e52" version="1">Nazuna ^</content>
+	<content contentuid="h739e1985gbff3g4875g8773g99009cb3e168" version="1">Nazuna ^ invocation</content>
+	<content contentuid="he1672d42g7e68g4963g9d46gfe2485a56096" version="1">Nazuna ^ !!</content>
+	<content contentuid="h633adebcgf214g41d0ga206g3925882f42fe" version="1">Oiseaux capricieux 1</content>
+	<content contentuid="h67b0a7fagf72ag478dg96dfg059ca4c0c11b" version="1">Les oiseaux de Nazuna attaquent avec un radian explosif</content>
+	<content contentuid="hbc12ee68g562eg4263g9474ga2154b55ff57" version="1">Oiseaux capricieux 2</content>
+	<content contentuid="he9f59ffcg8979g4c13g88adgab7cd93f86e4" version="1">Les oiseaux de Nazuna attaquent avec un radianais encore plus explosif</content>
+	<content contentuid="hc9774ac0g7e25g4dd5g9350g51bf0b49fae5" version="1">Oiseaux capricieux 1</content>
+	<content contentuid="h555a22efgfbccg44a4gb7c9g034a5ce3d294" version="1">Becs tranchants, chaîne aléatoire (3): infliger x2 dommages radiants</content>
+	<content contentuid="h3f76f35agc989g418agb2c3g380074feb7df" version="1">Oiseaux capricieux 2</content>
+	<content contentuid="hd624493ag9b85g4a3dga1f3g7f3d3809aaa9" version="1">Beaks of Agony, aléatoire (3) Chaîne: infliger x4 Dommages rayonnants</content>
+	<content contentuid="h317f47cbgebf8g4fc1g97d3gcf3e6a8764c0" version="1">Drain de vie</content>
+	<content contentuid="h2a29aaf8gc258g497dga415g42c4b9f058a2" version="1">Infliger x1 + .5 Absorber les dommages</content>
+</contentList>
+
+
+
