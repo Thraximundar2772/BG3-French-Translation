@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hdb9b9f9bg7b47g4f5cgb23fg81a10a3215f9" version="1">Le sac des "Articles divers de Sorcellerie"</content>
+	<content contentuid="hf9941cb3gf30eg461fg8449ge9487f230799" version="1">Protégé par le puissant sceau magique de Lorroakan. Apparemment, le sac contient des objets intéressants de la boutique de Baldur's Gate, que le grand sorcier a personnellement enchantés pendant son temps libre.</content>
+	<content contentuid="hec595c5eg2354g4c5dg8148g58764a1d9845" version="1">Cape de Force</content>
+	<content contentuid="haf169b90g7e24g4569gbcfdg6b27af26785d" version="1">Un Baldurien reconnaît d'un seul coup d'œil le travail des tisserands de sa ville : un tissu magnifique et dense qui peut résister au coup de couteau, mais qui est aussi agréable au toucher qu'une soie d'outre-mer. À cela s'ajoutent les tissages de fils métalliques luxueux sur les bords de l'étoffe. Mais vous remarquerez autre chose sur cette cape : un éclat séduisant d'enchantement recouvre la surface du tissu, comme s'il essayait de vous raconter sa propre histoire.</content>
+	<content contentuid="h3e9c8007g81eag4f9bg8ef9g99dc06fd46d6" version="1">Cape de Perspicacité</content>
+	<content contentuid="hc721aacagc364g4062g9f61g7d6eb2eb6ab8" version="1">Cape d'Adoration</content>
+	<content contentuid="ha470fd22g9d42g430dgb1b8g0e8ed1ac1b95" version="1">Cape du Chasseur</content>
+	<content contentuid="h0a46dcb6gb33eg4874g947dgce88102c8dca" version="1">Cape de l'Assassin</content>
+	<content contentuid="h0cdb22e3gf176g4c11g8115gebd3ad1d8699" version="1">Manteau du Vent</content>
+	<content contentuid="hd39575cegf04fg4453g902dgf4a37ef9e293" version="1">Cape de Patience</content>
+	<content contentuid="h1fa10ca7gbd95g4877g8cdbg9f8499b1db70" version="1">Cape de Bien-être</content>
+	<content contentuid="h2abc50b4gfbc2g41d2gb914g313a84f8737e" version="1">Marque du bien-être</content>
+	<content contentuid="hd42ee89ag9e2cg4218g924dgd891dc1b9c23" version="1">&lt;br&gt;Vous gagnez +[1] à votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;. L'effet augmente avec le niveau.</content>
+	<content contentuid="h5725e0e8g8439g48fbga120gf04281fb6f55" version="1">Cape de Résistance élémentaire</content>
+	<content contentuid="h742c2786g9d65g4ae3g8224g12fd86bef678" version="1">Marque de protection contre les éléments</content>
+	<content contentuid="hd5a1bfbfg765fg4aa2gbeffg89f71bdeec2d" version="1">&lt;br&gt;Vous subissez [1] point de dégâts en moins contre le froid, le feu et la foudre.</content>
+	<content contentuid="h3d99a188gcc5eg4486g898fg5fcd1693be60" version="1">Cape du Soleil</content>
+	<content contentuid="hdfb6688ag2375g419ag97f1g272ff5d02823" version="1">Marque du soleil</content>
+	<content contentuid="hd8ba8befgeedfg48afg9d08g405fe8afb6d3" version="1">&lt;br&gt;La cape émet une lumière qui vous aide à voir dans le noir à une distance allant jusqu'à [1].</content>
+	<content contentuid="hebf05692g6100g4768g8d86g98286016dba4" version="1">Cape de Concentration</content>
+	<content contentuid="h62ef404bgcdf7g4de9g908dg7d839804119a" version="1">Marque de concentration</content>
+	<content contentuid="he86c12b5gbbddg4f5fga642g79a154d42657" version="1">&lt;br&gt; Se &lt;LSTag Tooltip="Concentration"&gt;concentrer&lt;/LSTag&gt; sur un sort vous donne +[1] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="h2c6b7e8fgaef4g4950g98d0g85a3c0430219" version="1">Cape du Montagnard</content>
+	<content contentuid="h5cbcd6adg24b5g428fgb6bcg36947bdbd9a7" version="1">Marque du Montagnard</content>
+	<content contentuid="h87c826b2g0a69g49afga11cgaf27db925396" version="1">&lt;br&gt;Tant que vous ne portez pas d'armure, vos valeurs en &lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt; et en &lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt; sont augmentées de [1].</content>
+	<content contentuid="h422c7deeg47d8g45c2ga34bg2f09163c7e09" version="1">Cape de de l'Infatigable</content>
+	<content contentuid="h6bc6fa52g28e8g488ag877cge954237946dc" version="1">Marque de l'Infatigable</content>
+	<content contentuid="he8fe7aafg1d75g41e6g992dg99d1c8f55949" version="1">&lt;br&gt;Lorsque vous entrez en combat blessé, vous gagnez +[1] à l'initiative.</content>
+	<content contentuid="h76ecdf51g012bg4f8bg9301gf460675e8080" version="1">Cape de l'Ifrit</content>
+	<content contentuid="h850c553bg8ed8g4f22gabb1g266be92be221" version="1">Marque de l'Ifrit</content>
+	<content contentuid="h35996ec2gc5a3g45c1g8bb1ga461cf63bcb4" version="1">&lt;br&gt;Dès que vous êtes &lt;LSTag Type="Status" Tooltip="BURNING"&gt;brûlé&lt;/LSTag&gt;, vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts de feu. La première et la dernière instance de dégâts infligés par la brûlure ne bénéficieront pas de la résistance.</content>
+	<content contentuid="heb6c041eg6dd4g44dcga1c1g6ee5ce478425" version="1">Cape de Sérénité en combat</content>
+	<content contentuid="h7e41caa0g79a2g405eg9ffeg350790b21f36" version="1">Marque de Sérénité en combat</content>
+	<content contentuid="ha8e7242bgfcc1g41c4g9421g58186656a0e2" version="1">&lt;br&gt;Lorsque vous subissez des dégâts d'un ennemi, vous avez [1]% de chances de récupérer [2] &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;point de Ki&lt;/LSTag&gt;.</content>
+	<content contentuid="h05f3c8bbg2622g4b6dg843fged0d24ad2084" version="1">Cape du Puma</content>
+	<content contentuid="h3715420bg3488g4508g9080g45736ed9af94" version="1">Marque du Puma</content>
+	<content contentuid="he552f769g58f6g4fbfgb611gb0be6e78ab88" version="1">&lt;br&gt;En effectuant un &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;saut&lt;/LSTag&gt;, vous avez [1]% de chances de récupérer toute votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;.</content>
+	<content contentuid="h947ea635g200bg4291gaa38gb977e8437bb1" version="1">Cape de Discipline</content>
+	<content contentuid="hd48a2ed2g477ag474dgb05cg00499f5a9217" version="1">Marque de Discipline</content>
+	<content contentuid="h026a9ee5g6c3dg4227ga9d0g8590068b0cc8" version="1">&lt;br&gt;Lorsque vous vous faites &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;surprendre&lt;/LSTag&gt;, vous avez [1]% de chances de supprimer immédiatement cet effet.</content>
+	<content contentuid="h34f0dcf7g208bg4114gb16bg2f35db95bfd3" version="1">Cape des Bêtes de montagne</content>
+	<content contentuid="h5295270bg0ad4g4365g8869g32950cdbde94" version="1">Marque de l'Ours des montagnes</content>
+	<content contentuid="h3e546b5dgaf36g49b1gb8eagf8ce2d7d4d9f" version="1">Les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;. À chaque tour, vous devez réussir un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; ([1]) sous peine d'être &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;pétrifié&lt;/LSTag&gt; pour toujours.</content>
+	<content contentuid="h107acd75gdc72g4facg9646g70f4ad1de575" version="1">Marque du Renard des montagnes</content>
+	<content contentuid="hfea8cbd0gb7ebg4bd4ga206gedd5b7a1aa55" version="1">Si vous réussissez un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; ([1]) en combat, vous sortez de votre état de &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;pétrification&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f002834g6235g4b37ga2e6gdc3b95a6f237" version="1">Cape de l'Espoir</content>
+	<content contentuid="ha8dcf27cg8738g441dg8e04gea64cda067aa" version="1">Marque de l'Espoir</content>
+	<content contentuid="h9f78cf32g7be1g4e30g8cfdg456f26e56336" version="1">&lt;br&gt;Lorsque vous êtes touché par un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;, vous regagnez [1]. L'effet augmente avec le niveau.</content>
+	<content contentuid="h6439adc0g8f1dg4dc8ga979g923e08a3bb2e" version="1">Cape du Poing du tonnerre</content>
+	<content contentuid="ha939879bg4a8cg4c06g86ceg95931b07cfa8" version="1">Marque du Poing du tonnerre</content>
+	<content contentuid="h5922041cg0e9bg419egb525gdddaa309a473" version="1">&lt;br&gt;Si vous êtes touché par une arme de mêlée, l'attaquant a [1]% de chance de subir [3] et d'être &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;étourdi&lt;/LSTag&gt;.</content>
+	<content contentuid="h0b3ee9c5g314ag4746g96b6g617af550a5b8" version="1">Cape de la Grenouille</content>
+	<content contentuid="h2c86a108gb511g49a7g980agf341fba4306f" version="1">Marque de la Grenouille</content>
+	<content contentuid="h6d26a7fbg25efg42e3g9741g2a7fee84afe0" version="1">&lt;br&gt;Lorsque vous vous trouvez sur une surface aqueuse, votre distance de saut augmente de [1].</content>
+	<content contentuid="h2f0d7cfeg3c9cg41bbgbed8g2de46eeb961f" version="1">Cape de la Beauté</content>
+	<content contentuid="h5cbc9349gb132g4ee8gb550g1d783e4fdf24" version="1">Marque de la Beauté</content>
+	<content contentuid="h94327742g6729g4e60gb04eg565f0bfa991f" version="1">&lt;br&gt;Votre &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; augmente de [1] lorsque vous n'êtes pas en combat.</content>
+	<content contentuid="h8a7e1275g2becg4a49gbc11g5316d7a58944" version="1">Cape de l'Étincelle vivifiante</content>
+	<content contentuid="h6d310510g01b9g425ag9287gded26bfc1a00" version="1">Marque de l'Étincelle vivifiante</content>
+	<content contentuid="hb9c2fd5dg1989g4556g8453g3d648ece6457" version="1">&lt;br&gt;Tant que vous avez des &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;charges de foudre&lt;/LSTag&gt;, votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; est augmenté de [1]%.</content>
+	<content contentuid="hb0938407g6139g4d72g9518g64aa99309b51" version="1">Cape du dernier Désir</content>
+	<content contentuid="h41f83aa0g2436g41dbg89fbg4c0710e94574" version="1">Marque du dernier Désir</content>
+	<content contentuid="h00d079b4ga989g4615g8329g3019a2a9e902" version="1">&lt;br&gt;Tant que vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; sont inférieurs à [1]%, vous bénéficiez d'un bonus de +[2] à vos &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;. L'effet augmente avec le niveau.</content>
+	<content contentuid="h0216bf7dg095bg4ce2g95a8gb5de1a1db58d" version="1">Cape de Diligence</content>
+	<content contentuid="h7e0eb36dg9f7dg4a78g9ec1g0733dbf35fd2" version="1">Marque de Diligence</content>
+	<content contentuid="h62e00844g5a1fg4e0bg8cc6g61fe717385a1" version="1">&lt;br&gt;Vous bénéficiez d'un bonus de +[1] à vos &lt;LSTag Tooltip="SkillChecks"&gt;tests de compétence&lt;/LSTag&gt;.</content>
+	<content contentuid="h5ee4baf3g5919g4db5ga139g95bdb86d1bd2" version="1">Cape des secrets Gnomes</content>
+	<content contentuid="h51f06776g631ag4c8cgb75eg3300a84170d0" version="1">Marque des secrets Gnomes</content>
+	<content contentuid="haa11c432g746fg44fbg9010g33e78cf4f79c" version="1">&lt;br&gt;Les créatures artificielles subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous.</content>
+	<content contentuid="h715016deg35b3g405fgb783g96b458e6369e" version="1">Cape du Buffle</content>
+	<content contentuid="he70848b8gf13ag47d9gae39ga0918a90636a" version="1">Marque du Buffle</content>
+	<content contentuid="h0b17048aga85dg4c14g81a6gc4d054362f34" version="1">&lt;br&gt;Vous pouvez &lt;LSTag Tooltip="CarryWeight"&gt;porter&lt;/LSTag&gt; [1]% de poids en plus.</content>
+	<content contentuid="h17f825afga409g4f6ag8a57ge715ed7407d8" version="1">Cape de la Guérison</content>
+	<content contentuid="hf9cb68bfg7c6fg420cg9312gdc2771a75a34" version="1">Marque de la Guérison</content>
+	<content contentuid="h9b81e40eg6aadg4f2bg8c3fg2117f802b31b" version="1">&lt;br&gt;Lorsque vous lancez un sort, vous avez [1]% de chances de vous restaurer [2]. L'effet augmente avec le niveau.</content>
+	<content contentuid="hae203a08g6516g410ag888eg0c991cffc9fe" version="1">Cape de l'Âme charitable</content>
+	<content contentuid="hdbeea443g8af5g41a4g81f3g171b0df5d201" version="1">Marque de l'Âme charitable</content>
+	<content contentuid="h6e353a17g0640g4a16gbb17g015972dc99fb" version="1">&lt;br&gt;Lorsque vous êtes soigné, il y a [1]% de chances que vous récupériez un &lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt; de niveau [2].</content>
+	<content contentuid="hd2abe4f9gd5adg4f88g9d6egb51a2a55cab4" version="1">Cape du Myconide</content>
+	<content contentuid="hdba2c88aga367g4b83g883bgc3e714aabd04" version="1">Marque du Myconide</content>
+	<content contentuid="hfc922d6eg0341g4f53g9feag618f7138df54" version="1">&lt;br&gt;Les spores fongiques n'ont aucun effet sur vous.</content>
+	<content contentuid="h3d925e62g6132g41fdgb8d5g5f0550e719c1" version="1">Cape du Déferlement mortel</content>
+	<content contentuid="h46d9676aga017g4b63gad88ge753a181dbae" version="1">Marque du Déferlement mortel</content>
+	<content contentuid="ha1ec31a1gda34g4ff9g815ag0b318b453b83" version="1">&lt;br&gt;Lorsqu'un ennemi vous attaque, il y a [1]% de chances pour que vous libériez une énergie mortelle qui inflige [2] à vous ainsi qu'à l'ennemi. L'effet augmente avec le niveau.</content>
+	<content contentuid="h9dd05a51g0bcbg49e2gbf56g1888241d267d" version="1">Cape du Crapaud des marais</content>
+	<content contentuid="h2750a411gb0e3g494fg967egbcc8fc85e598" version="1">Marque du Crapaud des marais</content>
+	<content contentuid="hcc5e6383gb4b3g463dgbed2ge13eb652bef3" version="1">&lt;br&gt;Lorsque vous vous faites &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonner&lt;/LSTag&gt;, vous avez [1]% de chances de supprimer cet effet et de récupérer [2].</content>
+	<content contentuid="h9ca0e825ge96eg419fg8030g84c008c63a8c" version="1">Cape des Mystères intenses</content>
+	<content contentuid="h032aecc3g1890g4b08gb233gb6ca95b3dc55" version="1">Marque des Mystères intenses</content>
+	<content contentuid="h60fa1969g6c8bg446bg83acg3b14fc261a68" version="1">&lt;br&gt;Une fois par &lt;LSTag Tooltip="ShortRest"&gt;Court Repos&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Acuité arcanique&lt;/LSTag&gt; pendant [1] tours au début du combat.</content>
+	<content contentuid="h1977c941ge318g4bb3gb73ag5724ba37c3bf" version="1">Cape des Braises ardentes</content>
+	<content contentuid="h5eddb923g2aceg4e97gb3acg5fdf7720ba4b" version="1">Marque des Braises ardentes</content>
+	<content contentuid="ha0041eebgd508g4c76ga709ga029c07028bf" version="1">&lt;br&gt;Vous devenez &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de feu. Lorsque vous vous déplacez sur une surface couverte de cendres en combat, vous avez [1]% de chances de gagner &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Convergence de chaleur&lt;/LSTag&gt; pendant [2] tours. Cet effet ne peut être déclenché qu'une fois par tour.</content>
+	<content contentuid="h52402faeg7c27g472cg8e30gde41816ff5ed" version="1">Cape du Sacrifice</content>
+	<content contentuid="hfc73a1d6g0ee3g4404gbb20g867472aa7d3b" version="1">Marque du Sacrifice</content>
+	<content contentuid="h170f67fbgc335g48d1gb753ge07dff7311ed" version="1">&lt;br&gt;Lorsqu'un allié vous inflige plus de [2] points de dégâts, il regagne [1].</content>
+	<content contentuid="hb468374cgeaf9g4dfcgaebcg6dda117022ff" version="1">Cape du Vent de guérison</content>
+	<content contentuid="he08002c4gd051g44fdg87e0ga725baac3d54" version="1">Marque du Vent de guérison</content>
+	<content contentuid="h1065d7acg3aa5g4ce0ga46bgdc7572bf4359" version="1">&lt;br&gt;Lorsqu'un ennemi vous manque, il y a [2]% de chances que vous gagniez &lt;LSTag Type="Status" Tooltip="CLOAK36"&gt;Vent de guérison&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="hc9ab641cgd5f2g487eg9209g89e15ecf31e2" version="1">Vent de guérison</content>
+	<content contentuid="h79205ff7g36fbg42e5g9347gd9a9215e0fc7" version="1">À la fin de chaque tour, vous regagnez [1]. L'effet s'estompe lorsque vous subissez des dégâts.</content>
+	<content contentuid="h74c418f7ge68bg42b5gab5ag884a101acc81" version="1">Cape de Bouclier enflammé</content>
+	<content contentuid="h2d17a863g5ee7g4d8aga7b9gd461aacf290d" version="1">Marque de Bouclier enflammé</content>
+	<content contentuid="h54936708gd826g41a5g8963g598d99b76f63" version="1">&lt;br&gt;Lorsque vous êtes affecté par &lt;LSTag Type="Status" Tooltip="BURNING"&gt;brûlure&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK37"&gt;Bouclier enflammé&lt;/LSTag&gt;.</content>
+	<content contentuid="hbfd64f69g0c10g4d1fg9d75gca8b128cca9a" version="1">Bouclier enflammé</content>
+	<content contentuid="h7c32c2a5g7ebag4088gbb1eg77fb82de1dad" version="1">Vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts contondants, perforants et tranchants.</content>
+	<content contentuid="haf1e37ebgd447g431egbfcagcd446e2a11cd" version="1">Cape de l'Esprit tenace</content>
+	<content contentuid="h27dbbaecgea67g44c0ga026g88b83c43ab2c" version="1">Marque de l'Esprit tenace</content>
+	<content contentuid="h7124b01bgf3d1g4b45gaa9dgad8acf214e9d" version="1">&lt;br&gt;Pendant que vous êtes &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;à l'agonie&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK38"&gt;Ténacité indéfectible&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h0c4f8233gb2d7g4c07gae47g92cc4b020b24" version="1">Ténacité indéfectible</content>
+	<content contentuid="he4112bf2gb4d0g45fdg87d0g5a8379a90c1a" version="1">Vous bénéficiez d'un bonus de +[1] aux &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; contre la mort. L'effet augmente avec le niveau.</content>
+	<content contentuid="h8affc4abg7799g4d36g9b20g18e705dde88d" version="1">Cape de l'Éclat flamboyant</content>
+	<content contentuid="h12d1a14bg75fdg4a0cgb385g34c8d81aad27" version="1">Marque de l'Éclat flamboyant</content>
+	<content contentuid="h5444eac8g2c33g4486ga4e5g5e8f89d535b9" version="1">&lt;br&gt;Lorsqu'un ennemi vous inflige des [1], vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK39"&gt;Lumière furieuse&lt;/LSTag&gt; pendant [2] tours.</content>
+	<content contentuid="h8a82b351gc49eg4bdegbf0agf404b9d8fc21" version="1">Lumière furieuse</content>
+	<content contentuid="h11df9a6egb20dg4da0gb060ge7eb530d5c4f" version="1">Votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1], mais vous prenez [2] au début de chaque tour. Les effets sont cumulables.</content>
+	<content contentuid="h9c79a5f7g8c77g44c8g869bgc3396a7e4512" version="1">Cape de Suppression de la Magie</content>
+	<content contentuid="h4e9220b8g4441g4a81ga360g6c1aae1ccc83" version="1">Marque de Suppression de la Magie</content>
+	<content contentuid="h8fbd15d1g415ag499bgb9d9g4f07f76af552" version="1">&lt;br&gt;Lorsqu'un ennemi vous lance un sort, il y a [1]% de chances qu'il obtienne &lt;LSTag Type="Status" Tooltip="CLOAK40"&gt;Suppression de la Magie&lt;/LSTag&gt; pendant [2] tours.</content>
+	<content contentuid="h0bf5c19cg46d3g4190g9b66g62725c01137f" version="1">Suppression de la Magie</content>
+	<content contentuid="hbbe5e15cge7c3g4e11gb0eag9377d6c5c78f" version="1">&lt;LSTag Tooltip="SpellDifficultyClass"&gt;Degré de difficulté de sort&lt;/LSTag&gt;: [1] La créature prend [2] au début de son tour.</content>
+	<content contentuid="h4e6f3c8ag3f04g44b9gaa83g1dea0ccf8915" version="1">Cape d'Amplification du givre</content>
+	<content contentuid="h778e181agaed3g4272g9b5ega35bff952735" version="1">Marque d'Amplification du givre</content>
+	<content contentuid="hcaa845f1g4c83g467fgbbc0g19a52b285957" version="1">&lt;br&gt;Lorsqu'un ennemi vous inflige des dégâts de froid, de foudre ou de feu, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK41"&gt;Givre sauvage&lt;/LSTag&gt;.</content>
+	<content contentuid="h64ececc3g7941g432fga33eg1faeb766770d" version="1">Givre sauvage</content>
+	<content contentuid="h0c65c165g51adg4887g9145g0a70eb08fd32" version="1">Votre prochaine attaque infligeant des dégâts de froid inflige [1] supplémentaires. L'effet augmente avec le niveau.</content>
+	<content contentuid="h2fc7902cg5bf4g4e92gbcbeg157f9df805ca" version="1">Cape du Lièvre gris</content>
+	<content contentuid="h5b3a119ag9098g4c2bg9d5cg81a81b8fcf35" version="1">Marque du Lièvre gris</content>
+	<content contentuid="h5d178040g1d32g4f17gb8aegd10c09ab7080" version="1">&lt;br&gt;En exécutant un &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;saut&lt;/LSTag&gt; en combat, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK42"&gt;Ruée de sang&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h31c2a426g78a8g4c5ag939bg3322d4a8b3ff" version="1">Ruée de sang</content>
+	<content contentuid="h19422102g55dfg4c05ga986gdd7571b07bd8" version="1">Vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; augmentent de [1] pour chaque cumul de cet effet.</content>
+	<content contentuid="ha5436ac8ge00fg4404gbdd7gd619dfe0f48a" version="1">Cape des Rêves étranges</content>
+	<content contentuid="h36c27960g158ag4c72gb492g2584aa0c56e5" version="1">Marque des Rêves étranges</content>
+	<content contentuid="h35d19a66g7a82g4907g8d71geb7056480c7b" version="1">&lt;br&gt;Après un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;, vous avez [1]% de chances d'obtenir &lt;LSTag Type="Status" Tooltip="CLOAK43"&gt;Rêves tordus&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="CLOAK43_2"&gt;Rêves désespérés&lt;/LSTag&gt; pendant [2] tours.</content>
+	<content contentuid="h681319c0ge5deg4624g93a1g2369532bfbf0" version="1">Rêves tordus</content>
+	<content contentuid="h59667110g0f2bg451eg9fc9g2445a3ff3d2f" version="1">Vous regagnez [1] à la fin de chaque tour mais subissez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; et de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;. La guérison augmente avec le niveau.</content>
+	<content contentuid="he469b32ege36dg4e6ag8181gf8230e2856a7" version="1">Rêves désespérés</content>
+	<content contentuid="h11cf5d3dg26eag4ecfgac61gec45cf26c4c0" version="1">Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; mais votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; est réduit de [1]%.</content>
+	<content contentuid="hecdd078egb94ag42dfga73egbeb5aaaf0ff2" version="1">Cape de l'Ogre des cavernes</content>
+	<content contentuid="h766c99b4g3d5dg4593gb17fge5dc5551070c" version="1">Marque de l'Ogre des cavernes</content>
+	<content contentuid="h461748c6gaaf5g4635gb1eeg3422bc6c5cbe" version="1">&lt;br&gt;Lorsque vous êtes &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;poussé&lt;/LSTag&gt;, vous obtenez &lt;LSTag Type="Status" Tooltip="CLOAK44"&gt;Gigantisme&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h0c35da9cgc512g4ceeg9a83g8a08a9aa125c" version="1">Gigantisme</content>
+	<content contentuid="h0ea61ee6g9b1ag4926ga03cg02cb952362ff" version="1">Vous vous sentez capable de déplacer des montagnes! Votre taille augmente et les attributs en corrélation également.</content>
+	<content contentuid="hadb6c754g71b6g46f4gb7adgd05cf30b14b9" version="1">Cape de l'Escarmoucheur de l'arène</content>
+	<content contentuid="ha036d650ge701g4650g91ddg8fea83f3c345" version="1">Marque de l'Escarmoucheur de l'arène</content>
+	<content contentuid="hddcd19d3g8e52g43b8g8c50g665e56236eb9" version="1">&lt;br&gt;Après la fin du combat, il y a [1]% de chances que vous récupériez tous vos &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;dés de supériorité&lt;/LSTag&gt;.</content>
+	<content contentuid="h2b000c36g538eg447dgba92g0a3bd3f8e15f" version="1">Cape du Champion</content>
+	<content contentuid="h4c488b6dg59c4g4748g96dcg7e1e99c753df" version="1">Marque du Champion</content>
+	<content contentuid="h345c9535g927ag4e5cg9a56g2c185265516d" version="1">&lt;br&gt;Après la fin du combat, il y a [1]% de chances que vous récupériez toutes vos charges de &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Canalisation de Serment&lt;/LSTag&gt;.</content>
+	<content contentuid="h2aece232g48e6g47ccgba7dg57ba6a2215a6" version="1">Cape de Transformation</content>
+	<content contentuid="h2fdf328ag13cdg4d7agb6d8g1566bcef3e25" version="1">Marque de Transformation</content>
+	<content contentuid="h2d7d230fg4532g4502g8551gb1d6bac8de63" version="1">&lt;br&gt;Après la fin du combat, il y a [1]% de chances que vous récupériez toutes vos charges de &lt;LSTag Type="ActionResource" Tooltip="WildShape"&gt;Forme sauvage&lt;/LSTag&gt;.</content>
+	<content contentuid="h401e5b8cgbd34g43a5gb0acg4dc71dc3c45e" version="1">Cape de résistance à la Force</content>
+	<content contentuid="hee3cc3b3g1b25g4102g992bgf474940e3d92" version="1">Cape de la Sauterelle</content>
+	<content contentuid="h740d0248gdaa7g49a6gac06g9341ee2fa997" version="1">Marque de la Sauterelle</content>
+	<content contentuid="h6a989d66g4d52g4eadgac03ga57148cf4da5" version="1">&lt;br&gt;Lorsque vous n'êtes pas en combat, votre distance de &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;saut&lt;/LSTag&gt; est doublée.</content>
+	<content contentuid="h907542b8gf13fg4dd4g8d87gfe7eb943b820" version="1">Cape du Paon</content>
+	<content contentuid="h4da114d0g68eeg413bg9d0cgb841d97b5e42" version="1">Cape d'Intuition céleste</content>
+	<content contentuid="haa70e6d6g94aeg4ce3gb2eeg3a183d8af071" version="1">Cape du Colibri</content>
+	<content contentuid="hce96d6f4g5b61g4ee1ga07eg1d4509779d75" version="1">Cape du Chat</content>
+	<content contentuid="h0514739cg860bg4b6bg98adg49ab2ef961d5" version="1">Marque du Chat</content>
+	<content contentuid="h19e9cc70gc805g44d3gb585g6ee4abbd5524" version="1">&lt;br&gt;+[1]~[2] à vos &lt;LSTag Tooltip="SkillChecks"&gt;tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;.</content>
+	<content contentuid="hbf134bd6gc406g4596g9fe5gb08c0ecfd687" version="1">Cape de la Ficelle</content>
+	<content contentuid="h29ab2058g0de5g425dgbbbbgd2c109f10dd9" version="1">Cape du Loup polaire</content>
+	<content contentuid="hec4e6779g11b0g4046g8ec9g5dee24277d9e" version="1">Cape de Persévérance</content>
+	<content contentuid="hd0b541d4ga023g4628gabf4g22e5e82f7431" version="1">Cape du Prince</content>
+	<content contentuid="hed00603fga6aeg4c3bg90b5gb582cdf8e9ba" version="1">Cape du Corbeau astral</content>
+	<content contentuid="h51565704g246bg4a38gaa22g58f620e010f5" version="1">Cape de l'Endurance</content>
+	<content contentuid="hf63f3a99g0511g4213g8164g10ebffe00f01" version="1">Cape du Chevalier ancien</content>
+	<content contentuid="hd5fe01f5g182bg4f3cgb87dg65f8e0a34430" version="1">Cape des Pensées maléfiques</content>
+	<content contentuid="h3ab57c81gfd6ag44e7g9ae9gd58716c6780e" version="1">Marque des Pensées maléfiques</content>
+	<content contentuid="h41dcd2e1g88fag41cfg9e54g4fa44de0c009" version="1">&lt;br&gt;Lorsque vous subissez des dégâts radiants, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK61"&gt;Bouclier maléfique&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="hd5a6f0e1g9641g4f1fgade0g70d4d6d2b689" version="1">Bouclier maléfique</content>
+	<content contentuid="hc19fb50fg44dfg4a12g82a6g93cf29f6706c" version="1">Vous subissez [1] points de dégâts radiants en moins. L'effet augmente avec le niveau.</content>
+	<content contentuid="h103cafe4gc554g4d63g8c8ag57b4d3410fe1" version="1">Cape des Plumes</content>
+	<content contentuid="h8aaa976bge037g4277ga522gea2c64b162f2" version="1">Marque des Plumes</content>
+	<content contentuid="h8b295775g1d0ag4043ga7e8g0da8c120da96" version="1">&lt;br&gt;Vous ne subissez pas de dégâts de chute mais vous perdez [1] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="h6bfd25b4gce9cg436cg8682gac0b7f9abded" version="1">Cape du Panda</content>
+	<content contentuid="h2da1252bg1f58g4525gba9agd09469b69ad7" version="1">Marque du Panda</content>
+	<content contentuid="hb2a6a6efg2ef3g478fg9088gf6b3cc018b4c" version="1">&lt;br&gt;Vous augmentez votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de [1] mais devenez &lt;LSTag Tooltip="Vulnerable"&gt;vulnérable&lt;/LSTag&gt; à tous les dégâts. L'effet augmente avec le niveau.</content>
+	<content contentuid="h1abd38c8g52b0g4be1gbadeg1bb52f07efe8" version="1">Cape des Champs</content>
+	<content contentuid="ha18d683ag5ad8g44bbga148ga8751ba87811" version="1">Marque des Champs</content>
+	<content contentuid="hcb3fc8aag0d50g4ba6gaf6egc7aa056ab379" version="1">&lt;br&gt;Vous obtenez une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; supplémentaire.</content>
+	<content contentuid="hc03c2565gc83ag428dgafe0g28a4d44694ac" version="1">Cape du Bourgeonnement</content>
+	<content contentuid="h2cf4ac37g4b1bg4897gb8cag60f5538dcbc3" version="1">Marque du Bourgeonnement</content>
+	<content contentuid="h3dc43627g8c82g4f8cgb5b8g5f3d6cbb4f64" version="1">&lt;br&gt;Lorsque vous êtes sous la lumière du soleil, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK65"&gt;Protection de Mère Nature&lt;/LSTag&gt; pendant [1] tour et à chaque tour et faites pousser &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;des fleurs&lt;/LSTag&gt; sous vos pids.</content>
+	<content contentuid="he5460186ga21fg4492gbbe8ga1ac7ea70b27" version="1">Protection de Mère Nature</content>
+	<content contentuid="hb8711267g92e3g4dfega654g84a2ae9ddf94" version="1">Vous gagnez la &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts nécrotiques.</content>
+	<content contentuid="h0b1a21efge622g4725g8757ga6e39277e71e" version="1">Cape du Paria</content>
+	<content contentuid="h7e560223gd29dg4525g828dg2f44554a346f" version="1">Marque du Paria</content>
+	<content contentuid="h0ce9bce4g4700g4fd5ga629gd953bdbeb9d3" version="1">&lt;br&gt;Si vous êtes un Drow, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; à vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Deception"&gt;Tromperie&lt;/LSTag&gt; ainsi qu'une &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; aux dégâts de poison.</content>
+	<content contentuid="h5fdede43g0758g4fdfg9c78g91865265ae30" version="1">Cape de la Posture robuste</content>
+	<content contentuid="he1f4ff59g1392g4b72g8326gdcc2a47640f1" version="1">Marque de la Posture robuste</content>
+	<content contentuid="hd28df595gea73g4910gb584g2f73d5497533" version="1">&lt;br&gt;Vous ne pouvez pas &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt; et bénéficiez d'un bonus de +[1] à vos &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h5c850028ge2aag4edbg9aa5g5efdec2cfb29" version="1">Cape de Rajeunissement</content>
+	<content contentuid="hc26cf6c1gbfb8g4570gbc76gb29b28922485" version="1">Marque de Rajeunissement</content>
+	<content contentuid="hc4e993c8g29c2g4332gab88g8ecf419a4820" version="1">&lt;br&gt;Vous ne pouvez pas être affecté par une &lt;LSTag Type="Status" Tooltip="CONTAGION_BLINDING_SICKNESS"&gt;maladie&lt;/LSTag&gt; ou une &lt;LSTag Type="Status" Tooltip="HEX_STRENGTH"&gt;malédiction&lt;/LSTag&gt; ni être &lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonné&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;paralysé&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;aveuglé&lt;/LSTag&gt;.</content>
+	<content contentuid="h6f474e20g13b9g4ac4g96f1gea8fed6220a9" version="1">Cape du Chasseur de tempêtes</content>
+	<content contentuid="h30e4c1ceg79b1g4e7bgaa40gb4f61e9c5d3a" version="1">Marque du Chasseur de tempêtes</content>
+	<content contentuid="h79ba595bgb41dg4e12gb622g21777dabd651" version="1">&lt;br&gt;Lorsque vous vous trouvez sur une surface électrifiée, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK69"&gt;Protection contre les tempêtes&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h44b672e2g3b97g42b4gad28gd12e60a4df33" version="1">Protection contre les tempêtes</content>
+	<content contentuid="hb5d07e72gcf88g4b75ga1d7g3bcf359c8785" version="1">Vous ne pouvez pas être électrocuté. Les dégâts causés par la foudre ne vous affectent pas.</content>
+	<content contentuid="h99aefc9bg6a13g43f0ga9dbg5b92ec5d9504" version="1">Cape de l'Âme non enterrée</content>
+	<content contentuid="hac92fd90gacbbg43fcg8762g8276f8b45f50" version="1">Marque de l'Âme non enterrée</content>
+	<content contentuid="h6889ca9eg3506g4b8ag943cg56829d2690e4" version="1">&lt;br&gt;Si vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; sont inférieurs à [1]% après avoir subi des dégâts, vous bénéficiez d'&lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;invisibilité suprême&lt;/LSTag&gt; pendant [2] tours.</content>
+	<content contentuid="h3fb4b2b3g5073g45e7gbdadg815257b8cfe6" version="1">Cape d'Attaque sournoise</content>
+	<content contentuid="h0bcc7d3aga534g44a7g955dg9fd7d01102bd" version="1">Marque d'Attaque sournoise</content>
+	<content contentuid="h7aff2641g2983g4253g9f95g0bca62b40352" version="1">&lt;br&gt;En entrant en combat, vous devenez &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisible&lt;/LSTag&gt; à votre tour.</content>
+	<content contentuid="h1b505233g3432g445cg9413gde8f2da8f647" version="1">Cape de Défense supérieure</content>
+	<content contentuid="h9d3b53a5g37ebg4716g8735g1f8ce2085ec0" version="1">Marque de Défense supérieure</content>
+	<content contentuid="h3520b18cg48a6g49a9gb337gfd0b527a7536" version="1">&lt;br&gt;Lorsque vous lancez &lt;LSTag Type="Spell" Tooltip="Target_Stoneskin"&gt;Peau de pierre&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Target_GuardianOfFaith"&gt;Gardien de la foi&lt;/LSTag&gt;, les &lt;LSTag Tooltip="SpellSlot"&gt;emplacements de sort&lt;/LSTag&gt; dépensés vous sont restaurés.</content>
+	<content contentuid="h464cdd69gc032g4efega13fga7a17dec0034" version="1">Cape d'Intangibilité</content>
+	<content contentuid="h180dbbabg98c1g459ega37ag26eb3da350be" version="1">Marque d'Intangibilité</content>
+	<content contentuid="hd004a59ag3bb7g4ff1ga342g7d210e33dd9d" version="1">&lt;br&gt;En lançant &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Foulée Brumeuse&lt;/LSTag&gt;, vous regagnez une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; et gagnez &lt;LSTag Type="Status" Tooltip="CLOAK73"&gt;Intangibilité&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="hbf1049d2g0338g49e7gbe74g089317096713" version="1">Intangibilité</content>
+	<content contentuid="hcdfc2fe5g45d8g41e1g80cfg060e15878d64" version="1">Vous bénéficiez d'un bonus de +[1] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="hb27e873egbd3bg4447gbcd7g7341e0c00c1e" version="1">Cape du Tueur de sorciers</content>
+	<content contentuid="h3d915625g203eg4e8dg9ba5g51faccae2817" version="1">Marque du Tueur de sorciers</content>
+	<content contentuid="h9e8b7c80gc248g4891ga1aag7581eef082a4" version="1">&lt;br&gt;En lançant &lt;LSTag Type="Spell" Tooltip="Target_Counterspell"&gt;Contresort&lt;/LSTag&gt;, vous avez [1]% de chances de restaurer l'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt; dépensé.</content>
+	<content contentuid="h53184a9egbdc2g48e0g8b4cg5d08c7f3bcec" version="1">Cape du voile de brume</content>
+	<content contentuid="ha344061ag7bc3g46e8g8162g766acc997418" version="1">Marque de Voile de brume</content>
+	<content contentuid="hde701fbdg2d19g4158ga175g2d814b56ee42" version="1">&lt;br&gt;Lorsque vous êtes dans un nuage de brouillard, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK75"&gt;Voile de brume&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h022671d7gcb1fg437eg9248g1eee21e4996d" version="1">Voile de brume</content>
+	<content contentuid="hb705697bg87e4g4f8bg9d72g74ad2642aea0" version="1">Vous bénéficiez d'un bonus de +[1] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="h418db004g3b20g42bag905bg36942f33314a" version="1">Cape de l'Hydre</content>
+	<content contentuid="h27fd8ecegd284g4ef5g8437g4404de2c2f03" version="1">Marque de l'Hydre</content>
+	<content contentuid="hf27713f3g8b72g4af7g8a56g82c98dc42272" version="1">&lt;br&gt;Vous augmentez votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de [1]% tant que vous restez &lt;LSTag Type="Status" Tooltip="WET"&gt;mouillé&lt;/LSTag&gt;.</content>
+	<content contentuid="h6331b50bgf7aeg45d3g9332g617c03adf282" version="1">Cape du Prodige</content>
+	<content contentuid="h9ef9396eg745dg4909g97d5g1dcd49c5f820" version="1">Marque du Prodige</content>
+	<content contentuid="h8a58fd8fgcfc3g44b7gadd5gd56aa0d3b803" version="1">&lt;br&gt;Lorsque vous subissez les dégâts d'un sort ennemi, vous avez [1]% de chances de regagner tous les &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; perdus. Les &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de l'attaquant sont utilisés comme base.</content>
+	<content contentuid="h4fa47109g30d2g45abg8057g9ca3467901fe" version="1">Cape de Démence</content>
+	<content contentuid="h4fcd4821ga226g4796ga561g53ad58d8f960" version="1">Marque de Démence</content>
+	<content contentuid="h484ee2c3gc427g416cgac49g13020767e3ff" version="1">&lt;br&gt;Tout en vous infligeant des dégâts avec une arme de mêlée, l'ennemi a [1]% de chances d'être proie à la &lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;confusion&lt;/LSTag&gt; pendant [2] tours.</content>
+	<content contentuid="hbcb3eb9ag96c5g4628ga2cdgec36d8a19100" version="1">Cape du Flash</content>
+	<content contentuid="ha8bc1fb9g576cg4991g8e8fg7adb7d9acceb" version="1">Marque du Flash</content>
+	<content contentuid="hd3587a73g4b7fg45dbg8e95g4df7ba1b1c33" version="1">&lt;br&gt;Tout en vous infligeant des dégâts avec une arme à distance, vous avez [1]% de chances d'infliger &lt;LSTag Type="Status" Tooltip="CLOAK79"&gt;Flash violent&lt;/LSTag&gt; à votre ennemi pendant [2] tours.</content>
+	<content contentuid="hfccb98b5g39b0g4891g97c5g763904604c08" version="1">Flash violent</content>
+	<content contentuid="h44736ad6ga2e5g455bgb2d6g9170dd48d396" version="1">-[1]~[2] aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; avec les armes à distance.</content>
+	<content contentuid="h94d3393fged10g48b1g824agfdbbfe9cf47f" version="1">Cape du Grand Salut</content>
+	<content contentuid="ha8261c5cgd961g43bag8d36g1e99db49ee4e" version="1">Cape de la Tortue</content>
+	<content contentuid="h849ce2e9g6beag4e7dgb3e8g3c6211310c3c" version="1">Marque de la Tortue</content>
+	<content contentuid="h6c8665e8g9e25g41a4ga067ge3230cc9015b" version="1">&lt;br&gt;[1] dégâts subis sont réduits de [2].</content>
+	<content contentuid="h834b4f39g71bcg4f66g824cg72dbd1cf5adc" version="1">Cape du Magicien des ténèbres</content>
+	<content contentuid="hbf0c608cg203dg4da6g98adg40fe62cea36c" version="1">Marque du Magicien des ténèbres</content>
+	<content contentuid="ha9ad1218g4941g47d9g8702ge51feb4d9bac" version="1">&lt;br&gt;Les humanoïdes subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; à leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous.</content>
+	<content contentuid="hc5b11092ga54eg4435gb486gd4d3fb8a3eab" version="1">Cape du Chasseur</content>
+	<content contentuid="h1481cc15g0c9cg4108gac1bg872c32123609" version="1">Marque du Chasseur</content>
+	<content contentuid="h58cde34bgb540g4d81g8c33g24a118360f43" version="1">&lt;br&gt;Les bêtes subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; à leurs &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous.</content>
+	<content contentuid="h8bcd87f9gbf3eg4851gaef8g7654150cf542" version="1">Cape de l'Ours polaire</content>
+	<content contentuid="h8e92aa32g5a9bg42c6gab75gd368e848a2ab" version="1">Cape du Tigre</content>
+	<content contentuid="hb76b9a95g46c1g4112g86e2gf67999777f7e" version="1">Cape du Pionnier</content>
+	<content contentuid="h1675b125gd1a6g434dgb81fg460d27c11fc6" version="1">Marque du Pionnier</content>
+	<content contentuid="h30e1b412g78f7g4500gb850g9a379481db58" version="1">&lt;br&gt;Tout en évitant une attaque, vous avez [1]% de chances de gagner &lt;LSTag Type="Status" Tooltip="CLOAK86"&gt;Sens extraordinaire&lt;/LSTag&gt;.</content>
+	<content contentuid="h8b74b262g5c3cg4096gb09agd11b8967cb42" version="1">Sens extraordinaire</content>
+	<content contentuid="hee3d74adg89f2g471cg9bd5ge1a9c5acdac3" version="1">Vous gagnez +[1] à la &lt;LSTag Tooltip="Survival"&gt;Survie&lt;/LSTag&gt; et à la &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; pour chaque cumul de cet effet. L'effet n'a pas de durée mais peut se dissiper avec une chance de [2]% à chaque tour.</content>
+	<content contentuid="h41029e3cg4671g4efbga962g3d040f2e9343" version="1">Cape de Préparation</content>
+	<content contentuid="hc6c68cd2gad2dg4f29g9917g2b4b0aeb7864" version="1">Marque de Préparation</content>
+	<content contentuid="h299f598agae1cg42a8ga10dg9a62a69dc454" version="1">&lt;br&gt;Lorsque vous lancez un sort (qui n'est pas un &lt;LSTag Tooltip="Cantrip"&gt;sort mineur&lt;/LSTag&gt;) hors combat, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK87"&gt;Préparation&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="h9e11dc53g2980g4059gaaf8gb8801243a285" version="1">Préparation</content>
+	<content contentuid="h3a762030g5717g43d6g9174g2dd1f39a3008" version="1">Vous gagnez +[1] à l'Initiative.</content>
+	<content contentuid="hcca8816dg1e75g44b6g8c26gea2c26302ad1" version="1">Cape de Bouclier vivant</content>
+	<content contentuid="hc9f6736eg9f9dg4460g9cecg5a5a5425b864" version="1">Marque de Bouclier vivant</content>
+	<content contentuid="h2fa37fb0gaf2dg4fd0g89begf96fba9156ca" version="1">&lt;br&gt;Une fois par tour lorsque vous êtes en combat, vous soigner avec un sort vous permet de gagner &lt;LSTag Type="Status" Tooltip="CLOAK88"&gt;Bouclier Vivant&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="h522cf0e9gc0beg4213gbec0g3377833ac135" version="1">Bouclier Vivant</content>
+	<content contentuid="h1da9603cg1821g4be6g8ec5gb3e9df34f332" version="1">Vous subissez [1] de moins pour chaque cumul de cet effet.</content>
+	<content contentuid="h8c4440e1g6180g4964g90e2g58287209676c" version="1">Cape de la Fin heureuse</content>
+	<content contentuid="he98a22bag1daag46f4ga519g9831b89724f1" version="1">Marque de la Fin heureuse</content>
+	<content contentuid="h75176f26gf1a3g44e0gb78cg943da6f3d5a2" version="1">&lt;br&gt;Sur un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; réussi contre une attaque ou un sort ennemi, vous avez [1]% de chances de gagner &lt;LSTag Type="Status" Tooltip="CLOAK89"&gt;apogée&lt;/LSTag&gt; pour [2] tours.</content>
+	<content contentuid="hc939bff7g4de2g4fc4g8a29g5598b9776c97" version="1">Apogée</content>
+	<content contentuid="h83a71d3bga100g4e43g8da4g9c74ebd28c95" version="1">Si vous obtenez un résultat de [1] ou moins à un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, vous relancez le dé jusqu'à ce que vous obteniez un résultat supérieur, mais pas plus de quatre fois. Le seuil de relance augmente en fonction du niveau.</content>
+	<content contentuid="h8550231cg887bg4216gacf6g26bd0c1e64ef" version="1">Cape de Résistance supérieure</content>
+	<content contentuid="h76bca401gc32ag462cga0e9g1d76ea65287e" version="1">Marque de Résistance supérieure</content>
+	<content contentuid="h87bdad23g0467g4ccfg9b32g0de42bd2e94e" version="1">&lt;br&gt;Vous devenez &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; à tous les dégâts.</content>
+	<content contentuid="hdc7b69f2gecf6g489cg8439g1260885358ef" version="1">Cape de Clarté</content>
+	<content contentuid="h74d10f52g7e39g48a0g9bf3gc3d89db12a49" version="1">Marque de Clarté</content>
+	<content contentuid="ha568b8a7g2c97g41d5g8c2fgf8a37db062a0" version="1">&lt;br&gt;Vous êtes &lt;LSTag Tooltip="Immune"&gt;immunisé&lt;/LSTag&gt; à l'&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;aveuglement&lt;/LSTag&gt; et dispersez les nuages malveillants autour de vous.</content>
+	<content contentuid="he22e9f9ag3ceeg486ag919dgf90253bf0b9e" version="1">Cape du Golem</content>
+	<content contentuid="h2e286520gfca4g48b5g8cc0g40301080f044" version="1">Marque du Golem</content>
+	<content contentuid="hfacc27eega8a5g40c8g9c4bg14a76d56872c" version="1">&lt;br&gt;Vous pouvez porter deux fois plus de poids et augmenter votre maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; de [1]. Ce dernier effet augmente en fonction de votre niveau.</content>
+	<content contentuid="ha3a9fb44ga53cg4aa6g86b7g7619849d8694" version="1">Cape de l'Ombre protectrice</content>
+	<content contentuid="h917b92a2g4e29g4468g9366g9eba6e4104ef" version="1">Marque de l'Ombre protectrice</content>
+	<content contentuid="hbcde8422ge4deg4f44gb5daga1b1b007c7b9" version="1">&lt;br&gt;Vous devenez &lt;LSTag Tooltip="Vulnerable"&gt;vulnérable&lt;/LSTag&gt; aux dégâts nécrotiques. Lorsqu'un ennemi lance un sort contre vous, vous avez [1]% de chances de gagner &lt;LSTag Type="Status" Tooltip="CLOAK93"&gt;Ombre protectrice&lt;/LSTag&gt; jusqu'au début de votre tour.</content>
+	<content contentuid="hc0e56b93gd010g4feeg9771gb9a52381f2bb" version="1">Ombre protectrice</content>
+	<content contentuid="h605afd00g7844g47fbga6cbg16f59a769232" version="1">Vous renvoyez les dégâts de feu, de foudre, de tonnerre et de force qui vous seraient infligés.</content>
+	<content contentuid="h684f2c68g2982g4738gacfbg0049cd5967ec" version="1">Cape du Fléau des Cieux</content>
+	<content contentuid="h6e0c49fdg511bg4400g9231ge70a7a938ee1" version="1">Marque du Fléau des Cieux</content>
+	<content contentuid="h15de6b75g9bb5g4ec8gab30gfb666398dc07" version="1">&lt;br&gt;Lorsqu'un ennemi vous attaque et qu'il a moins de [1]% de points de vie, il y a [2]% de chances pour qu'il meurt immédiatement. L'effet se déclenche une fois par &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="hea7885dbgbd69g4945ga56cgd73d417e71a6" version="1">Cape de Bouclier de magma</content>
+	<content contentuid="h9708ea0cgc939g441dgb4d8gb11d736a31be" version="1">Marque de Bouclier de magma</content>
+	<content contentuid="hc6c2de49g6534g419agbf56g38a986baadb4" version="1">&lt;br&gt;La lave n'a aucun effet sur vous. Lorsque vous y pénétrez, vous gagnez &lt;LSTag Type="Status" Tooltip="CLOAK95"&gt;Bouclier de Magma&lt;/LSTag&gt;.</content>
+	<content contentuid="h8f8343bagb684g43e6g97a7gf23b5a01a5c9" version="1">Bouclier de Magma</content>
+	<content contentuid="hc2f8cac2gb7dfg435cg8d7cgae3b997be1ea" version="1">Vous gagnez +[1] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="hf166d380g07b8g4bdcg9408gd164f0847d47" version="1">Cape du Seigneur des vampires</content>
+	<content contentuid="hebd9cf0cgbba1g45d8g9f00g4c0e81fa2515" version="1">Afflux sanguin</content>
+	<content contentuid="hde496ff7g845cg4fc0g916cgea96de4c9bfe" version="1">Vous laissez des nuages sanguins dans votre sillon. </content>
+	<content contentuid="hc316a829g74cdg4cfdg9c03g1f8bb2494adc" version="1">Marque du Seigneur des vampires</content>
+	<content contentuid="hcc2126eeg6ee7g42f0gbfc3g5562b496c029" version="1">&lt;br&gt;Porter un coup fatal à des humanoïdes, des gobelins ou des bêtes vous donne [1]% de chances de restaurer tous vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;.</content>
+	<content contentuid="h773ae3d9g3581g4e19g9fc2gc12051875ff1" version="1">Cape du Mercenaire</content>
+	<content contentuid="h2628a8b1gd88fg4ee7gb32cgce37e5d13eaa" version="1">Cape de l'Air </content>
+	<content contentuid="hcac63cf9g0913g40ffg8ab2gfd46b903122b" version="1">Marque de l'Air</content>
+	<content contentuid="h28019865g3641g4817gbd00ge91305423e31" version="1">&lt;br&gt;Votre attaquant a [1]% de chances de &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt; suite à une furieuse rafale de vent.</content>
+	<content contentuid="hb4c1163fg76a6g4d73gb82egcb1dfbb7ea1f" version="1">Cape du Demi-dieu</content>
+	<content contentuid="hd7edb5c5g3ef8g40d3ga61bg59e0a493b017" version="1">Marque du Demi-dieu</content>
+	<content contentuid="h0ba464a2ge4e3g4cafgab0fgf51a14e4fd8f" version="1">&lt;br&gt;Les attaques infligeant moins de [1] points de dégâts ne peuvent pas vous blesser.</content>
+	<content contentuid="h08ce46cagcfc4g44d9g9bf3gf16e4d17ca6f" version="1">Cape des Merveilles</content>
+	<content contentuid="h9cf32bf6g2da6g44dbgb4acg52667fdffeac" version="1">Marque des Merveilles</content>
+	<content contentuid="h53e536f4g2612g44c1gae75g89948d4dfdab" version="1">&lt;br&gt;Si vous obtenez un résultat de [1] ou moins sur un &lt;LSTag Tooltip="AbilityCheck"&gt;test de compétence&lt;/LSTag&gt;, vous relancez automatiquement le dé jusqu'à ce que vous obteniez un meilleur résultat.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>

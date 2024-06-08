@@ -6,26 +6,26 @@
       <children>
         <node id="Dependencies" />
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSString" value="Anklem" />
+          <attribute id="Author" type="LSString" value="Ballzeh" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="SummonBoo FR" />
-          <attribute id="Description" type="LSString" value="Traduction en français du mod : Summon Boo the bunny pet" />
-          <attribute id="Folder" type="LSString" value="Summon Boo FR" />
+          <attribute id="Description" type="LSString" value="Trad FR de Master Cloaks" />
+          <attribute id="Folder" type="LSString" value="MastersCloaks_FR" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="FixedString" value="MastersCloaks_FR" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSString" value="Translate" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="Tags" type="LSString" value="Translation" />
-          <attribute id="UUID" type="FixedString" value="91d5eed2-4f9c-4616-a5c6-dea251917b4b" />
-          <attribute id="Version" type="int64" value="36169549539704832" />
+          <attribute id="UUID" type="FixedString" value="ff2eaa54-171e-4863-adc1-671bfd9ccc93" />
+          <attribute id="Version64" type="int64" value="36732484460740608" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version" type="int64" value="36169549539704832" />
+              <attribute id="Version64" type="int64" value="36732484460740608" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">

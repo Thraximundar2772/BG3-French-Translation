@@ -8,9 +8,9 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Anklem" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="SummonBoo FR" />
-          <attribute id="Description" type="LSString" value="Traduction en français du mod : Summon Boo the bunny pet" />
-          <attribute id="Folder" type="LSString" value="Summon Boo FR" />
+          <attribute id="Name" type="FixedString" value="CBR_Witcher_Dettlaff FR" />
+          <attribute id="Description" type="LSString" value="Traduction en français du mod : Witcher Outfits - Dettlaff FR" />
+          <attribute id="Folder" type="LSString" value="Witcher Outfits - Dettlaff FR" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
@@ -21,11 +21,11 @@
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="Tags" type="LSString" value="Translation" />
-          <attribute id="UUID" type="FixedString" value="91d5eed2-4f9c-4616-a5c6-dea251917b4b" />
-          <attribute id="Version" type="int64" value="36169549539704832" />
+          <attribute id="UUID" type="FixedString" value="437d4e2e-5acc-4d60-b180-9dba4b5285a5" />
+          <attribute id="Version" type="int64" value="36310271995674624" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version" type="int64" value="36169549539704832" />
+              <attribute id="Version" type="int64" value="36310271995674624" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
