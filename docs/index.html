@@ -13,6 +13,7 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <script src="js/scripts.js"></script>
+        
     </head>
     <body class="d-flex flex-column h-100">
         <main class="flex-shrink-0">
@@ -42,6 +43,8 @@
             <!-- Features section-->
             <section class="py-5" id="features">
                 <div class="container px-5 my-5">
+                    
+                
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">A better way to start building.</h2></div>
                         <div class="col-lg-8">
@@ -186,6 +189,8 @@
                 </div>
             </section>
         </main>
+        <div id="loop"></div>
+        
         <!-- Footer-->
         <div include-html="common/footer.html"></div>
         <!-- Bootstrap core JS-->
@@ -193,6 +198,22 @@
         <!-- Core theme JS-->
         <script>
             includeHTML();
+        </script>
+        <script type="module" src="js/index.js">
+        </script>
+        <script>
+const frame = document.getElementById("loop");
+data.map((element) => {
+  console.log(element);
+  let newDiv = document.createElement("div");
+  newDiv.id = element.id;
+  newDiv.className = "card";
+  newDiv.innerHTML = `
+    <h2>${element.name}</h2>
+    <p>${element.desc}</p>
+    <button class="btn">Lets See</button>`;
+  frame.appendChild(newDiv);
+});
         </script>
         <script src="js/scripts.js"></script>
     </body>
