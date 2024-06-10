@@ -38,11 +38,25 @@ function showModLists(modIds, baseUrl) {
     // Check local storage for cached data
     const cachedData = localStorage.getItem(cacheKey);
 
-    // ... rest of the function logic
+    // Check if cached data exists and is still valid
+    if (cachedData) {
+          const parsedData = JSON.parse(cachedData);
+          const expirationTime = parseInt(localStorage.getItem(`${cacheKey}-expiration`)); // Retrieve expiration timestamp
 
-    fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
-  });
-}
+          if (Date.now() < expirationTime) {
+            // Use cached data if it's valid (not expired)
+            console.log("Using cached data for mod", itemId);
+            displayModInfo(parsedData);
+          } else {
+            // Expired cache, fetch new data
+            fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
+          }
+        } else {
+          // No cached data, fetch new data
+          fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
+        }
+      });
+    }
 
 function fetchDataAndCache(itemId, baseUrl) {
   const cacheKey = `mod-${itemId}`; // Declare cacheKey here
@@ -62,7 +76,7 @@ function displayModInfo(data) {
     <div class="col-lg-4">
       <div class="position-relative mb-5">
         <img class="img-fluid rounded-3 mb-3" src="${data.picture_url}" alt="${data.name}">
-        <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/${data.domain_name}/mods/${data.id}" target="_blank">${data.name}</a>
+        <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/${data.domain_name}/mods/${data.mod_id}" target="_blank">${data.name}</a>
       </div>
     </div>
   `;
