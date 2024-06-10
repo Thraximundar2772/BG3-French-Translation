@@ -28,7 +28,8 @@
                     </div>
                     <div class="row gx-5">
                         <script>
-                        $.getJSON( "https://cg.apiporn.xyz/nexus.php?mod_id=10081", function( data ) {
+                        const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id=10081');
+                        $.getJSON( proxyUrl, function( data ) {
                         $.each( data, function( key, val ) {
                             $("<div>" + key + " = " + val + "</div>").appendTo( "#container" );
 
