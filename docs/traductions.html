@@ -29,21 +29,22 @@
                     <div class="row gx-5">
                         <div id="container"></div>
                         <script>
-                        const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id=10081');
-                        $.getJSON( proxyUrl, function( data ) {
-                        $.each( data, function( key, val ) {
-                            $("<div>" + key + " = " + val + "</div>").appendTo( "#container" );
+                        var modId = ['10081','9815'];
+                        modId.forEach(showModLists);
 
-                            $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + key + '/>').appendTo( "#container" );
-                            $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>').appendTo( "#container" );
-                            $('</div>').appendTo( "#container" );
-                            $('</div>').appendTo( "#container" );
+                        function showModLists(item, index) {
+                            var proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id='+ item);
+                            $.getJSON( proxyUrl, function( data ) {
+                                $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + data.picture_url + '/>').appendTo( "#container" );
+                                $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="' + data.url + '" target="_blank">Summon Boo the bunny pet</a>').appendTo( "#container" );
+                                $('</div>').appendTo( "#container" );
+                                $('</div>').appendTo( "#container" );
                             });
-                        });
+                        }
                         </script>
                         
                         
-                        <div class="col-lg-4">
+                        <!-- <div class="col-lg-4">
                             <div class="position-relative mb-5">
                                 <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/10081/10081-1717447636-1823842781.png" alt="..." />
                                 <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>
@@ -54,7 +55,7 @@
                                 <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/9815/9815-1716629809-653488513.png" alt="..." />
                                 <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/9815" target="_blank">Heart Of The Forest - Playable Dryad Race</a>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-4">
                             <div class="position-relative mb-5 mb-lg-0">
                                 <img class="img-fluid rounded-3 mb-3" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." />
