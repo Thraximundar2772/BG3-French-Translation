@@ -27,16 +27,17 @@
                         <p class="lead fw-normal text-muted mb-0">Company portfolio</p>
                     </div>
                     <div class="row gx-5">
+                        <div id="container"></div>
                         <script>
                         const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id=10081');
                         $.getJSON( proxyUrl, function( data ) {
                         $.each( data, function( key, val ) {
                             $("<div>" + key + " = " + val + "</div>").appendTo( "#container" );
 
-                            $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + key + '/>');
-                            $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>');
-                            $('</div>');
-                            $('</div>');
+                            $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + key + '/>').appendTo( "#container" );
+                            $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>').appendTo( "#container" );
+                            $('</div>').appendTo( "#container" );
+                            $('</div>').appendTo( "#container" );
                             });
                         });
                         </script>
