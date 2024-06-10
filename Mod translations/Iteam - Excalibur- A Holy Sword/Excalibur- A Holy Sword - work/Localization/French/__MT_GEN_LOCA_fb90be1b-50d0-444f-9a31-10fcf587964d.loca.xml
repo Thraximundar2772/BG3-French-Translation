@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="ha464d861gcfb2g4235g863bg81f58fea9a09" version="1">Excalibur</content>
+	<content contentuid="h5c14c303g82d2g4405g989cg3066b4b5acc7" version="1">Une lame sacrée l'épée ultime, utilisée par un roi paladin légendaire. Elle a été forgé dans un autre monde. Lorsqu'elle est associée à un bouclier, son pouvoir divin ampli son porteur.</content>
+	<content contentuid="h78ca48eeg0982g45c2gb96agbf05c7eaa6ca" version="1">Serment de l'Épée sacrée</content>
+	<content contentuid="h57143862gb910g4658ga395g12158b412c54" version="1">En brandissant cette arme avec un bouclier, les attaques réussies confèrent l'&lt;LSTag Type="Status" Tooltip="ETH_DIVINE_ACUITY"&gt;Acuité Divine&lt;/LSTag&gt; pendant 1 tour.</content>
+	<content contentuid="h5ece767bg48a5g4af3g89fega5e327a79a6f" version="1">Serment du Bouclier</content>
+	<content contentuid="h56f80d72gb237g4ba5gb1c0g3a109b148783" version="1">En brandissant cette arme avec un bouclier, votre maximum de points de vie augmente de 15 et vous avez l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde contre les Sorts&lt;/LSTag&gt;.</content>
+	<content contentuid="h591379e8g6429g495bg85c9gdfefe486850e" version="1">Acuité Divine</content>
+	<content contentuid="h5e634006g693ag40eegb1f1g421408f08a7d" version="1">L'entité a +2 à ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="DifficultyClass"&gt;Degré de difficulté&lt;/LSTag&gt; des sorts, et peut consommer cet effet pour lancer l'&lt;LSTag Type="Spell" Tooltip="ETH_Target_HolySpirit"&gt;Esprit Sacré&lt;/LSTag&gt;.</content>
+	<content contentuid="ha73c7c16g3f9dg433fg8f7cg17ed1d517ecd" version="1">Esprit Sacré</content>
+	<content contentuid="h318a7ef9g7fdfg4309g9017g1903db595916" version="1">Consommez l'&lt;LSTag Type="Status" Tooltip="ETH_DIVINE_ACUITY"&gt;Acuité Divine&lt;/LSTag&gt; pour engloutir une cible dans un rayon radiant semblable à une flamme tout en vous guérissant.</content>
+	<content contentuid="h84a61213gc167g43a4gaa2cgdf9775c4e03c" version="1">Engloutir une cible dans un rayon radiant semblable à une flamme tout en vous guérissant.</content>
+	<content contentuid="hcf49f43fg351bg44f8gb98bg7233442a4aac" version="1">Lumière d'Excalibur</content>
+	<content contentuid="h1950e4f8g6669g4076g8591gd3e88be7644d" version="1">%%% Lumière d'Excalibur Technique</content>
+	<content contentuid="he443c933gb863g450fgbbe8gf9d24cd1e965" version="1">Parchemin Radieux</content>
+	<content contentuid="hd096d1c9g07f5g48e9g9dc4gb504d1f113c7" version="1">L'écriture de ce parchemin complexe brille d'une lumière radieuse.</content>
+	<content contentuid="h27a7755agf696g4d59gaa1egde4dc96fa53a" version="1">Aujourd'hui je rencontre ma fin, comme cela m'a été révélé il y a si longtemps. Je ne craindrai pas la mort; de nombreux démons tomberont avant moi. &lt;br&gt;&lt;br&gt; Vous qui trouvez cette lettre, si votre cœur est pur, revendiquez ma lame et poursuivez mon héritage, bien qu'il puisse être fané lorsque le moment venu arrivera. Les démons ne l'auront pas. Telle est ma volonté. &lt;br&gt;&lt;br&gt; Uther &lt;br&gt;&lt;br&gt; [L'écriture radieuse se termine. Une nouvelle main écrit dans la marge inférieure avec du sang.]&lt;br&gt;&lt;br&gt;Feh. Tes mots étaient aussi sucrés que ta puanteur sacrée. Pourtant, un combat aussi grand que le nôtre mérite un certain respect. Que quelqu'un revendique ta lame, que je puisse revendiquer son âme. &lt;br&gt;&lt;br&gt; Yurgir</content>
+</contentList>

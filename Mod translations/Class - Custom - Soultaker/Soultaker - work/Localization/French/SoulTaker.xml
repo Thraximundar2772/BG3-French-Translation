@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h8ed3513fg45cbg44ccg85cag603e80aaf57d" version="1">Faucheur d'âmes</content>
+	<content contentuid="h456546a2g284fg4916gb0a1ge67abe75043c" version="1">
+		Au début, ce n'était qu'une secte qui étudiaient la magie lier aux âmes et aux secret de la régénération. Jusqu'à ce que des érudits de la secte trouvent accidentellement un artefact unique provenant du Néant : l'Œil du Néant (L'ŒIL). À travers leurs recherches et leur adoration de celui-ci, les disciples ont acquis des connaissances sur le Néant et ont obtenu de grands pouvoirs occultes. Ils ont dès lors, commencer à s'appeler les Faucheurs d'âmes.
+		Cependant, le pouvoir vient toujours avec un coût! Après avoir choisi la voie des Faucheurs d'âmes, le cœurs des disciples commencent s'emplir de Néant, ils fragmentent leurs âmes afin d'obtenir des pouvoirs occultes et de partir en chasse. Dans leurs cœurs de plus en plus vides, seule une soif insatiable d'âmes demeure. Cette soif sans fin rendent l'ŒIL de plus en plus puissant. Poussés par Celui-ci, les Faucheurs d'âmes marchent sur terre, prenant sans pitié les âmes et aspirant leur essence.
+		Maintenant, personne ne sait si ce sont les érudits qui ont trouvé l'ŒIL ou si l'ŒIL a trouvé ces érudits. De plus en plus de vivants et de morts sont consumé par des Faucheurs d'âmes. Personne ne sait quel genre de désastre ils apporteront, mais le monde va trembler.
+	</content>
+
+	<content contentuid="hea41a1c1gfe87g4c13g8c10g3fab8d2b7cd1" version="1">Choisissez les capacités de l'âme fragmentée par du Faucheur d'âme</content>
+
+	<content contentuid="h9c0713bbgbacfg4fc7g8df8ga2728c44f82d" version="1">Destructeur</content>
+	<content contentuid="h7c85bacag40c9g497egad15gc8c6a1dfc8f7" version="1">
+		Il n'y a jamais de pénurie d'excellents artistes dans le monde. La plupart d'entre eux sont talentueux mais inconnus. Leurs destins sont souvent tragique., soit mourant dans le désespoir, soit se terminant tragiquement. Leurs talents brillants finissent par s'éteindre dans la médiocrité. Après leur mort, ils sont souvent cueilli dans leurs tourmentes par les Faucheurs d'âmes.
+		Ils pénètrent les mystères du voile, et leur talent artistique exceptionnel leur donne une perspicacité inégalée, les aidant à extraire l'énergie spirituelle du plan des âmes, à pratiquer des sorts d'âme dangereux et à recruter de nouveau Faucheurs d'âmes. Ils sont un groupe d'individus anonymes qui as finalement maîtrisé des pouvoirs étonnants. "Enfin la colère et les regretd de ton vivant ont finalement porté leurs fruits, Dans la mort, certes, même mieux vaut tard que jamais." - Instructeur destruction Faucheur d'âme.
+	</content>
+	<content contentuid="h351319afgfa5fg47b0g9a9cg6d6c2b5e1ce6" version="1">Privateur</content>
+	<content contentuid="haf104d79g2d4dg484dga9d7gffd5dbbf8498" version="1">
+		Les philosophes ont toujours été exclus du monde à cause de leurs idées avant-gardiste. Ils ont été brûlés, exilés, appelés hérétiques, blasphémateurs...
+		Les obsessions de leurs vies antérieures se sont cristallisées en âmes sombres, leur permettant de retrouver un nouveau fragment d'existence avec un Faucheurs d'âmes. Maintenant, ils s'appellent 'Privateurs'. Ils savourent la douceur des âmes ignorante et inculte, et le pouvoir qu'ils en tirent les rend encore plus aptes à infliger des tortures à leurs ennemis. "Les mortels refusent d'accepter l'illumination et préfère rester dans l'ignorance, qu'il en soit ainsi je vais les dévorer pour leur inculquer ce qu'elles n'ont pas voulu entendre de leur vivant!" - Xenophilius, Privateurs Faucheur d'âme. 
+	</content>
+	<content contentuid="h6fd4dba6g024fg4b56gb640g056166d99f3d" version="1">Pionnier</content>
+	<content contentuid="h836a89afg65beg4c09g829dg30bb4c01358d" version="1">
+		Peu importe à quel point les vivants sont courageux et habiles au combat, il y aura finalement des limites. Ils mourront au combat, seront trahis et deviendront victimes de luttes politiques, mais après la mort, ils gagneront enfin la liberté - la liberté promise par les Faucheurs d'âmes. Leur fragment d'âme une fois assimilé et ils deviennent les Pionniers inarrêtables sur le champ de bataille.
+		Ils utilisent les âmes pour former une barrière, peu importe à quel point la lame de l'ennemi est tranchante, elle finira par se briser. "Vivre, c'est être un héros parmi les hommes, mourir, c'est être un fléau parmi les vivants." - Ignasus Pionnier Faucheur d'âme..
+	</content>
+
+	<content contentuid="h221ae949gf63fg4d33g9e48g091a8b715325" version="1">Âme en deuil</content>
+	<content contentuid="hf79703e3g03ecg417agb41bgf19ccdfc3415" version="1">L'âme fauchée de l'ennemi brille de chagrin. Tant que vous la détenez, vous pouvez ignorer la résistance psychique de l'ennemi. Et vous pouvez l'utiliser pour lancer Sursaut de l'âme.</content>
+
+	<content contentuid="h185f0c67g7936g4e4dg8a92g12bee0da28b5" version="1">Prison d'Âmes</content>
+	<content contentuid="ha7f41a43g457eg4987gbe4dg21f634ad96ad" version="1">Votre sort de capture d'âme peut dépouiller une partie du Âme de l'ennemi (Âme en deuil) et l'emprisonner dans votre faux. Vous pouvez emprisonner jusqu'à 100 Âme en deuil.</content>
+	<content contentuid="h02bced4eg1e33g4e12ga827gbaf1439b0d5c" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Vous pouvez ignorer la résistance de l'ennemi aux dégâts psychiques en maintenant l'Âme en deuil.</content>
+	
+	<content contentuid="h77511715gc311g439dgabbdg5b2d368e0360" version="1">La Douleur de la Guerre</content>
+	<content contentuid="h4217f6c1g7d44g4d70g9c72g040d6bbb722b" version="1">Capacité d'âme unique du Destructeur, qui lui permet de gagner directement 10 Âme en deuil en entrant en combat.</content>
+
+	<content contentuid="h2fee0c69g47efg4772g98dcg54fa4a61072b" version="1">Prison d'Âmes Profonde</content>
+	<content contentuid="h6b501e78gc790g49acg93eagb5b305735f18" version="1">Votre contrôle sur les âmes a été grandement amélioré, et vous pouvez maintenant emprisonner jusqu'à 200 Âme en deuil.</content>
+
+	<content contentuid="h577b9bc5g2518g474dgad3agb3ad3e65666e" version="1">Âme en deuil</content>
+	<content contentuid="h7d3cc1fcgb1d1g478fg9becg5dc003bcbe78" version="1">Sursaut de l'âme</content>
+	<content contentuid="ha76089dbge384g4e88gb630geae172ff6d4c" version="1">Maintenir l'Âme en deuil peut vous fournir un boost de sort. Lorsque vous lancez Sursaut de l'âme, plus vous détenez de Âme en deuil, plus le pouvoir de Sursaut de l'âme sera terrifiant. Tant que vous maintenez l'Âme en deuil, votre sort ignore la résistance psychique de l'ennemi.</content>
+	<content contentuid="h710a0846g6204g480dg861ag5b0ea3e7a46b" version="1">Les âmes emprisonnée dans votre faux Les émettent des cris plaintifs, cette énergie spirituelle bouillonnante vous fournit une puissance infinie, augmentant les dégâts ou l'efficacité de vos sorts et vous aidant à ignorer la résistance psychique de l'ennemi.</content>
+	
+	<content contentuid="h14731a4cg7d75g4d70ga31fg841d45154563" version="1">Âme Morcelé</content>
+	<content contentuid="h22aaec97g1804g42c0gb996g3cf8a0cf2bd7" version="1">Votre âme est endommagée par le Faucheur d'Âmes, vous subissez un 1d4 de pénalité à tous les jets de sauvegarde et jets d'attaque. "Il ne fait aucun doute que votre âme ne reviendra jamais."</content>
+	
+	<content contentuid="h33076a27g7a9dg4a4agbb7egd4a090c174fa" version="1">Âme Morcelé</content>
+	<content contentuid="h554d22a3g77aag48a7gaccdg890ac784be51" version="1">Les ennemis blessés par votre sort de fauchage d'âme ont une âme Le Morcelé et subiront un 1d4 de pénalité à tous les jets de sauvegarde et jets d'attaque.</content>
+
+	<content contentuid="h6903865bg5826g466ag8570g0dd08400f80d" version="1">Seraphine, Faucheuse de Destin Cruel</content>
+	<content contentuid="hf6269b6fgc90bg4b33g9b4bgcc3b4ea0a3d3" version="1">Le manche de la faux est méticuleusement sculpté avec des pétales de forme unique, des feuilles et des yeux mystérieux. Il semble que le sculpteur ait reçu une vision d'un autre monde.</content>
+	
+	<content contentuid="h1d83932dgc994g47d0ga7ddg463303985351" version="1">Thanatos, vision de finitude</content>
+	<content contentuid="hc67ab90bgd372g4805gbc7cg90afa76545c6" version="1">En fixant cette faux, un instinct d'embrasser la mort se répand et se développe de l'intérieur, il semble que seul le meurtre puisse satisfaire vos désirs.</content>
+
+	<content contentuid="hae0cd6dbg4d56g4965ga2eage4f90ff2a8e0" version="1">Feu de Saint Elme</content>
+	<content contentuid="hcd143e26ge91ag44f0gba22gdf50897ad049" version="1">Comme une étoile filante traversant le champ de bataille, la radiance scintillante enveloppe tout le monde, murmurant : Poussière tu redeviendras.</content>
+
+	<content contentuid="hf2981812geabag47c6gbd79g3cae6a46971c" version="1">Invoquer le Thanatos, vision de finitude</content>
+	<content contentuid="hab6d0f74gff07g47ccg915bg105072543727" version="1">Le sort de chant a condensé le pouvoir de l'ŒIL en réalité, se transformant en l'arme exclusive des Faucheurs d'Âmes Privateur - la légendaire faux : Thanatos, vision de finitude, que les Privateur maîtrisent pour infliger une plus grande douleur à l'ennemi.</content>
+
+	<content contentuid="h614408afg2c8bg4f53g9f73gdaee2096cb81" version="1">Invoquer la Seraphine, Faucheuse de Destin Cruel</content>
+	<content contentuid="h9f86af3dg0dbcg492cg825ag0c24fde2494c" version="1">Invoquant l'esprit vengeur qui a péri avec des regrets, offrant son pouvoir pour prendre forme dans la réalité, se transformant en l'arme exclusive des Faucheurs d'Âmes Destructeur - la légendaire faux : Seraphine, Faucheuse de Destin Cruel. Avec son pouvoir inquiétant persistant, le pouvoir du Destructeur est amplifié de manière phénoménal.</content>
+
+	<content contentuid="hd8d7d9b9g4b9bg4aa2g9bb7g9d2cb5b16576" version="1">Invoquer le Feu de Saint Elme</content>
+	<content contentuid="hc7d84046g8a9bg48a6ga4f1g4b9340834c96" version="1">Depuis le lointain vide, l'énergie est attirée et condensée en réalité, se transformant en l'arme exclusive des Faucheurs d'Âmes Pionnier - la légendaire faux : Feu de Saint Elme. Elle a autrefois tracé la voie pour les pionniers, et avec cette faux en main, vous vous sentez invincible.</content>
+	
+	<content contentuid="hcafdc0b7g7d03g4583g9435gb7124495031f" version="1">Invoquer des Armes</content>
+	<content contentuid="hf852eca3g8443g41acgbd6fgf3076e790a9f" version="1">Invoquez la légendaire faux exclusive pour le Faucheur d'Âmes.</content>
+	
+	<content contentuid="h33f76246g2829g405agadeagf99ae24d0eac" version="1">Malédiction de Moisson d'Âme: Pèlerinage</content>
+	<content contentuid="hfb8b16b9g980eg43ccg849bg68b343177863" version="1">À chaque tour, Octroie 2 Âmes en Deuil au lanceur de sorts et subissez [1]</content>
+	<content contentuid="hf5215db7g5bb7g4b72ga51bg48f8a75f2246" version="1">Pèlerinage</content>
+	<content contentuid="h525f8f83g12bfg4b7fgb735g160229850d19" version="1">Les ennemis à proximité fractionne leur âme pour.</content>
+		<content contentuid="hbeefd7a3gb3cfg4db1gb3edg92cb23aef735" version="1">Pèlerinage: Minuteur</content>
+	
+	<content contentuid="h45778c32g7fb1g4f17ga4a4ge0074f4bf726" version="1">Armure Spirituelle</content>
+	<content contentuid="h1da97dc8ga337g4fd7ga049g3bc40df101a8" version="1">Lorsque vous êtes attaqué, pour chaque 8 Âmes en Deuil, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; augmente de 1. Cet effet dure 1 tour et ne peut être rafraîchi.</content>
+	<content contentuid="h6a8607c1g16a5g4b16gb305g5c69e717091f" version="1">Puissance Terrifiante</content>
+	<content contentuid="h9a5f3594gf9ecg4fcfg9483gc451879e3db9" version="1">Les dégâts des sorts que vous causez seront augmentés par votre modificateur de charisme. Pour chaque 4 Âmes en Deuil que vous possédez, vous réduisez de 1 le resultat pour obtenir un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&gt;/LSTag&gt;.</content>
+	<content contentuid="hb3a5557dgab37g4659ga44fg3f87d3ddcee7" version="1">Oscillation Spirituelle</content>
+	<content contentuid="hb67d27eegdbb5g4886gab7egdbfc7815ac41" version="1">Votre attaque d'arme de mêlée rendra l'ennemi vulnérable aux dégâts Psychiques et Tranchants, durant 2 tours.</content>
+	
+	<content contentuid="h4a1fc292g2a7bg41e0gb491g6bfb2b583e58" version="1">Vulnérable aux dégâts Psychiques et Tranchants.</content>
+	<content contentuid="h79005f0cgdcf5g4f3dg9004ga9bb06d602fa" version="1">Protégé par l'Armure Spirituelle, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; est augmentée.</content>
+	
+	<content contentuid="h58e55bcegb74dg4b26gb898g4687795278b7" version="1">Entaille Saisissante d'Âme</content>
+	<content contentuid="hed620692g0146g4b0cg80efg39c135436865" version="1">Sort de moisson d'âme, gagnez 10 Âmes en Deuil et déclenchez une attaque balayant une zone en forme d'éventail, infligeant des dégâts d'arme plus [1]. Pour chaque ennemi touché, vous gagnez une réduction de dégâts de 2, pouvant se cumuler jusqu'à 8 fois et durer 3 tours. Si vous cumulez cet effet 4 fois ou plus, vous gagnez une réduction de dégâts supplémentaire de 50%.</content>
+	<content contentuid="hb5a92039g00a1g4351gaa5bg6ed12c7cf27d" version="1">Siphon de Vitalité</content>
+	<content contentuid="h9e4a57eeg3d5fg4f54ga48cg11755d4c6ea7" version="1">Sort de moisson d'âme, gagnez 7 Âmes en Deuil et prenez de force les âmes de jusqu'à 6 ennemis autour de vous, infligeant [1]. Pour chaque ennemi touché, vous gagnez 2 Âmes en Deuil supplémentaires.</content>
+	<content contentuid="h53cbdfdfg6fcfg4820g9cf0gabdd04421744" version="1">Téléportation Apocalyptique</content>
+	<content contentuid="hf30336dbg2a7eg448eg87degb2a776dab775" version="1">Sort de moisson d'âme, téléportez-vous à destination, et en atterrissant, lancez &lt;LSTag Type="Status" Tooltip="SoulTaker_Curse_GiveSoul"&gt;Malédiction de Moisson d'Âme: Pèlerinage&gt;/LSTag&gt; sur tous les ennemis à portée pendant 3 tours. À chaque tour, ils perdront 2 Âmes en Deuil et subiront [1]. Si un ennemi échoue à un jet de sauvegarde de Constitution, il sera &lt;LSTag Type="Status" Tooltip="SG_Frightened">effrayé;/LSTag&gt; pendant 1 tour.</content>
+	<content contentuid="h5354aacdgf801g4669gaf4fg8e3fe33f34d4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"&gt; Plus le niveau de la cible est bas, plus elle vous fournit d'Âmes en Deuil par tour, avec un maximum de 7 et un minimum de 2.</content>
+	
+	<content contentuid="h43d96bb6gd1f7g4f1cg9d77g8a692d9d851d" version="1">Gardien d'Âmes</content>
+	<content contentuid="he3353e5cg673fg4bc6g95f8g1056307fcd41" version="1">Protégé par le pouvoir de l'âme.</content>
+	
+	<content contentuid="h93808f90gd5fbg4bb3gbd20ge2203f77d52a" version="1">Gardien d'Âmes</content>
+	<content contentuid="h58daf8b7ge605g427bgaa32gfa4604c2d155" version="1">Réduit les dégâts reçus de 2 pour chaque accumulation.</content>
+	
+	<content contentuid="h2f8d15d7g8fdfg4c5dg9b93g0bfe5febbd89" version="1">Bouclier d'Âmes</content>
+	<content contentuid="h6cae2c5dgc4c4g4bcegaeeag29df6a6ece3a" version="1">Réduit les dégâts reçus de 50%.</content>
+	
+	<content contentuid="h857717bbge0e9g4a30gbc22g3fcd57c3f900" version="1">Poussée d'Âme : Sacrifice du Martyr</content>
+	<content contentuid="h1219765bg4636g454cgb42eg3367e346856d" version="1">Consomme toutes les Âmes en Deuil, provoque une explosion violente qui inflige [1] plus 12% des PV maximum des ennemis sous forme de dégâts psychiques à ceux touchés, et vous confère un bouclier égal à 30% de vos PV maximums qui dure jusqu'à votre prochain long repos.</content>
+	<content contentuid="hffcd7a57g4f9fg416aga6bbg5ac3775e2616" version="1">Poussée d'Âme : Monument Déchu</content>
+	<content contentuid="hf28685e1g283ag4158gb52ag6cfadeba4536" version="1">Faites surgir une Poussée d'Âme persistante, infligeant continuellement aux ennemis dans la zone la Malédiction de Moisson d'Âme : Dégénérescence, leur causant [1] dégâts par tour.</content>
+	<content contentuid="h0f06fb41gf12ag40dfga920g770cc28caccc" version="1">Poussée d'Âme : Tempête Psychique</content>
+	<content contentuid="h771f8cf5g8f92g40adgb179g7bba18ee7ccb" version="1">Consomme toutes les Âmes en Deuil, déchaîne une onde de choc psychique en forme d'éventail devant vous, infligeant [1] basé sur les dégâts de l'arme et augmenté par le bonus du modificateur d'intelligence.</content>
+	
+	<content contentuid="h665e4af7g5588g447cgb29dgbfd97545aef6" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 16 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="hcb893dfeg1c56g499fg86e0g1ad3be30e8f5" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 35 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="hae2b34b6g28d3g43a3gb10cg170f0c0ddbba" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 40 points d'Âmes en Deuil pour être lancé.</content>
+	
+	<content contentuid="hd5b8bf05g64adg489bgb5b6gf552926378d2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 7 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="hbbe39270g8a4dg498fg9710g85f876e725f1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 12 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="ha090cd4ag4078g41c0gaec1g4262a5909ba0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 15 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="h09f27d69g6202g4e30g9969g3f9bea04c2cd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 17 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="haba1408eg8cfcg41b3ga88fg04fdd69192b8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 25 points d'Âmes en Deuil pour être lancé.</content>
+	
+	<content contentuid="hcf20cb09g50dcg48edgba4fgf7f73c434644" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 45 points d'Âmes en Deuil pour être lancé.</content>
+	<content contentuid="h2f8f2622g3fb8g4f21g97d2g5b6acad1e68b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Nécessite au moins 33 points d'Âmes en Deuil pour être lancé.</content>
+	
+	<content contentuid="h41e10031g51c2g4216gafa9ge41c2ad36e53" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Plus la consommation d'Âmes en Deuil est élevée, plus les dégâts infligés sont importants. (Amplification Psychique : 125%)</content>
+	<content contentuid="h6e0313f5gd99ag468agbd7bgec0f8cb6733a" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Avec le bonus spécial des Âmes en Deuil, l'Amplification Psychique reçue est significativement plus élevée que pour les autres Soul Surge. Consommer plus d'Âmes en Deuil augmentera considérablement les dégâts. (Amplification Psychique : ？？？？)</content>
+	<content contentuid="hd09a069cg5c52g41adgb4bfg455d6344fcd1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Plus la consommation d'Âmes en Deuil est élevée, plus les dégâts infligés sont importants. (Amplification Psychique : 111%)</content>
+	<content contentuid="h1d54760cg1538g493cgba90ga6d1bd1b6fc0" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Plus la consommation d'Âmes en Deuil est élevée, plus les dégâts infligés sont importants. (Amplification Psychique : 200%)</content>
+	<content contentuid="h5d0e09cag0c38g4506g9b36g8d2ca2b84078" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Plus la consommation d'Âmes en Deuil est élevée, plus le risque de mort instantanée est grand. (Amplification Psychique : ？？？)</content>
+	<content contentuid="h4f24442agf0cdg4bcbgae21g1a85e966a617" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Plus la consommation d'Âmes en Deuil est élevée, plus de boucliers sont obtenus. (Amplification Psychique : Inconnue)</content>
+	<content contentuid="hbe19c2b6g8607g4945g927cg2f1019f8dbbd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Possède un taux de critique indépendant de 50% contre les ennemis &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;effrayés&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h774b3359gb933g47d6g8d07gea26530c1afa" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque 33 Âmes en Deuil consommées accorde 1 pile de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt;.</content>
+	<content contentuid="hafa76194gae81g49c5g8f48gf26bdb47b41b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque tour consomme 45 Âmes en Deuil, et le déplacement n'est pas possible pendant la durée. Soul Surge se termine lorsque les Âmes en Deuil sont épuisées.</content>
+	
+	<content contentuid="h5c89c7a7ga763g4c5eg9ec1gfcac63a86d48" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque tour consomme 12 Âmes en Deuil, et le déplacement n'est pas possible pendant la durée. Soul Barrier se termine lorsque les Âmes en Deuil sont épuisées.</content>
+	<content contentuid="h80edeb77g1304g48b2g86a0ga38aa5c22254" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque tour consomme 15 Âmes en Deuil, et le déplacement n'est pas possible pendant la durée. Soul Barrier se termine lorsque les Âmes en Deuil sont épuisées.</content>
+	<content contentuid="hc30efa52gd04dg46e1g8f5eg2a5399e9e133" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque tour consomme 17 Âmes en Deuil, et le déplacement n'est pas possible pendant la durée. Soul Barrier se termine lorsque les Âmes en Deuil sont épuisées.</content>
+	<content contentuid="hca3c6e78g2f9dg4f24g8f5ege9cc1c154757" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Chaque tour consomme 25 Âmes en Deuil, et le déplacement n'est pas possible pendant la durée. Soul Barrier se termine lorsque les Âmes en Deuil sont épuisées.</content>
+	
+	<content contentuid="h5fd2fd57g8915g4646g9290g53ab2c31269e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Serrage. Toute personne lui infligeant des dégâts fournira 3 Âmes en Deuil au Faucheur d'Âmes.</content>
+	<content contentuid="h80e40988g0923g4b21gb64dg5da569ac2fe9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Pèlerinage. À chaque tour, le Faucheur d'Âmes draine 2 Âmes en Deuil de celui-ci.</content>
+	<content contentuid="he18d3a52g6b45g4bbcg9cc4g9216a17680a3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Dégénérescence. La vitesse de déplacement est réduite de moitié, et un désavantage est appliqué aux jets de compétence et aux jets d'attaque. Le &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est réduit de 5.</content>
+	<content contentuid="h181753fcgfaaeg4ef4g87e9gac733ee2fb31" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Épine. Ce personnage est désavantagé lorsqu'il s'agit de jets de force et d'intelligence, et est vulnérable aux dégâts perforants et froids. Chaque fois qu'il attaque ou lance un sort, il subit une quantité importante de dégâts. À chaque tour, s'il échoue à un jet de sauvegarde de constitution, sa vitesse de déplacement est réduite à 25 % et il subit des dégâts à chaque pas qu'il fait.</content>
+	<content contentuid="hab39f6f9gd5a6g4ceag83d6gf06044d0fd23" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Défaut. Ce personnage est désavantagé lorsqu'il s'agit de jets de dextérité et de charisme, et est vulnérable aux dégâts de feu et de force. À chaque tour, s'il échoue à un jet de sauvegarde de sagesse, il tombera dans un état de folie et attaquera la créature la plus proche de lui.</content>
+	<content contentuid="hedc48434ga162g46afgb9eeg14149eb226ec" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Vortex. Ce personnage est désavantagé lorsqu'il s'agit de jets de constitution et de sagesse, et est vulnérable aux dégâts nécrotiques et tranchants. Il peut transférer toute autre Malédiction de la moisson d'âmes qu'il possède sur les ennemis autour de lui.</content>
+	<content contentuid="h95ad0da6g033bg48eeg939dg070f2552958f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Malédiction de la moisson d'âmes : Profanation. Toutes les attaques et jets de dégâts subissent une pénalité de 1d8, et sont vulnérables aux dégâts psychiques.</content>
+	<content contentuid="ha4defd4eg02fag492agb2b3gf4047484b717" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;L'effet réduit le bonus de Chute de la Nuit Éternelle de 50%.</content>
+	
+	
+	<content contentuid="h61ee7212gcddfg4006g9b39g71f4a73fa5bc" version="1">Le pouvoir de l'âme rayonne constamment de vous, maudissant vos ennemis autour de vous. Pendant ce temps, vous êtes incapable de vous déplacer.</content>
+	<content contentuid="hcb165bc8g6bf9g4cd1g924eg0badd4ea14cd" version="1">Malédiction de la moisson d'âmes : Dégénérescence</content>
+	<content contentuid="h98b40194g1c2dg4b09ga103ga8949387cc51" version="1">La vitesse de déplacement est réduite de moitié, et un désavantage est appliqué aux jets de compétence et aux jets d'attaque. Le &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est réduit de 5, et subit [1] à chaque tour. Ces dégâts sont augmentés par le bonus de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Malfaisante&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="he57dff65ge64fg4d97gad3ag155533c0a738" version="1">Turbulence Malfaisante</content>
+	<content contentuid="h75bb06ebgd2c0g4a80g892eg5d0f18937239" version="1">La capacité d'âme unique du Déprivateur leur permet de prolonger continuellement toutes les instances de Malédiction de la moisson d'âmes infligées aux ennemis pendant la Ruée d'Âme, tout en augmentant également les dégâts périodiques qu'elle cause jusqu'à la fin de la Ruée d'Âme. Chaque pile de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Malfaisante&lt;/LSTag&gt; entraîne une consommation plus rapide d'Âme en Deuil.</content>
+	<content contentuid="hff05ced4ge16eg48b6ga102g7cf9b6d8bae5" version="1">Le malin avance comme une marée, et les dégâts causés par votre Malédiction de la moisson d'âmes augmentent en conséquence.</content>
+	
+	<content contentuid="h0b4c9f55gf28fg4ac8ga925gb8ee074781d2" version="1">Marque de la Ruée</content>
+	
+	<content contentuid="hb309dfdeg0ef3g4e07gb264g847948135188" version="1">Vallée du Cœur Vide</content>
+	<content contentuid="h21df52d1gdb8bg437fgb836ge62ee141f006" version="1">Lorsque vous lancez un sort alors que vous avez moins de 55 Âmes en Deuil, les ennemis autour de vous subissent [1] et vous drainent 2 Âmes en Deuil. Cet effet n'amène pas les ennemis à entrer dans un état d'Âme Morcelé.</content>
+	<content contentuid="h9ec8e564g585fg4fe6gb151g0951624251ed" version="1">Ma Coupe Déborde</content>
+	<content contentuid="h9e1c3aebg72f6g47b9gb5f9ge931a5eae62c" version="1">Lorsque vous possédez 90 Âmes en Deuil ou plus, vous devenez immunisé contre la plupart des conditions de désactivation et bénéficiez d'un bonus de 2d4 sur tous les jets, ainsi qu'un bonus supplémentaire de 1d8 sur les dégâts.</content>
+	<content contentuid="h15b269fdgfb09g43afg9867ga2e17aad1d26" version="1">Descente Suprême</content>
+	<content contentuid="h08454e64g3fd2g408eg884dge1dd42292564" version="1">Après qu'un ennemi a été blessé par vos sorts de la Malédiction de la moisson d'âmes pour la première fois, il subira des dégâts supplémentaires de 25% lorsqu'il sera blessé dans les 2 tours suivants. S'ils échouent à un jet de sauvegarde de sagesse, ils seront &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;effrayés&lt;/LSTag&gt; pendant 1 tour. Cet effet ne peut se déclencher qu'une fois par ennemi.
+	</content>
+	<content contentuid="h3d6ef073g5ec7g4027g870dg9f82dc5c853a" version="1">subit 25% de dégâts psychiques supplémentaires lorsqu'il est endommagé</content>
+	
+	<content contentuid="h55ead4fcg2eb6g406agbdc3g18b41fe31689" version="1">Choc d'Âme</content>
+	<content contentuid="hba77a291g4ad3g4a00g8999g8866cdebcf0a" version="1">Sort de la moisson d'âmes, Gagnez 15 Âmes en Deuil. Fait trembler l'âme de la cible et inflige [1]. Si la cible est actuellement &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;effrayée&lt;/LSTag&gt;, vous gagnerez 10 Âmes en Deuil supplémentaires.</content>
+	<content contentuid="hba39c451g6938g47ecg9909g1b7ef346816d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Si la cible touchée souffre de &lt;LSTag Type="Status" Tooltip="Boost_LostSoul"&gt;Âme Morcelé&lt;/LSTag&gt;, il y a une chance de 59% de restaurer 1 point d'action pour vous. Cependant, pour les ennemis de niveau supérieur, cette chance diminuera.</content>
+	
+	<content contentuid="h6c567531g6f2eg4d9bg9c70gd3379703610f" version="1">Ruée d'Âme : Oubli stellaire</content>
+	<content contentuid="h687dedb3g29a7g4206gb8ecg25f0460f4880" version="1">Consommez toutes les Âmes en Deuil pour provoquer une explosion psychique massive, infligeant [1] à tous les ennemis dans la zone en fonction des dégâts d'arme.</content>
+	<content contentuid="hc3f808f7g3bc3g4f4agae1cga43737287cd7" version="1">Ruée d'Âme : Récolte Infernale</content>
+	<content contentuid="h06535a4cg334fg42adgbba0g1c146761dcf8" version="1">Consommez toutes les Âmes en Deuil, maniez la faux pour attaquer jusqu'à 3 ennemis autour de vous, infligeant [1] basé sur les dégâts d'arme, qui est en outre augmenté par la valeur du bouclier de &lt;LSTag Type="Spell" Tooltip="SoulTaker_Soulfrenzy_Soul_Sacrifice"&gt;Sacrifice du Martyr&lt;/LSTag&gt;.</content>
+	<content contentuid="he6a76eb2gffd9g468bga711gf1bf7e22f36c" version="1">Ruée d'Âme : Crépuscule éternel</content>
+	<content contentuid="h621753b3g02c0g4251gaeddg6fe20dc8d9c9" version="1">Consommez toutes les Âmes en Deuil, descendez sur n'importe quel ennemi pour moissonner leur vie, infligeant [1] basé sur les dégâts d'arme. Après avoir touché un ennemi avec Crépuscule éternel, vous pouvez le lancer à nouveau pendant ce tour, et il est considéré comme ayant un bonus de 50 Âmes en Deuil.</content>
+	
+	<content contentuid="h6fd103c9g49cag4598gaf36gff9e3f35fd32" version="1">Ruée d'Âme : Jugement Final</content>
+	<content contentuid="h9434d6fagc369g4089gb6b6g34ef4954fcfd" version="1">Consommez toutes les Âmes en Deuil, invoquez l'ŒIL pour jeter un coup d'œil dans le royaume mortel, accordant une chance de 15% aux ennemis de périr instantanément par sa puissance écrasante. Ceux qui survivent à cet événement cataclysmique seront affligés de &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt; pendant 1 tour.</content>
+	
+	<content contentuid="h996691eagc1ceg4762g8360gc3f04491dfa9" version="1">Survie Après la Catastrophe</content>
+	<content contentuid="h28e0ac7dg4de9g4beag8957gaf3ce2b31095" version="1">Après avoir survécu au Jugement Final, on se retrouve dans un état de &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt;, incapable de bouger, avec tous les jets d'attaque et de compétence à un désavantage. Être regardé par l'ŒIL et vivre pour raconter l'histoire, c'est un exploit dont on peut se vanter pour toute une vie.</content>
+	
+	
+	<content contentuid="h10e0a838g61f8g449bg800bg1ec2fcade260" version="1">Résonance du Monde Souterrain</content>
+	<content contentuid="hd644b2ccg7cfdg4858gb13agb2c28c8b284d" version="1">Si les Âmes en Deuil consommées pour lancer la Ruée d'Âme dépassent 50, il y aura une chance de 21% de gagner une opportunité de lancer à nouveau &lt;LSTag Type="Spell" Tooltip="Zone_SoulTaker_Soulfrenzy_Mind_Storm"&gt;Ruée d'Âme : Tempête Psychique&lt;/LSTag&gt;.</content>
+	<content contentuid="h88cc7ec8g6f76g44edg8f7eg813ae1a3d06c" version="1">Présage de Destruction</content>
+	<content contentuid="hfb25d580g8abdg49d9g94aag853d72b75a6f" version="1">Après que Choc d'Âme ait causé un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;, la prochaine Ruée d'Âme garantira également de causer un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;.</content>
+	<content contentuid="h0f33a6d9g9d42g43e8g88d0gb0333b484545" version="1">Écho d'Énergie</content>
+	<content contentuid="h2f8af277gb04dg4954g89f4geb65efb03199" version="1">Lorsque la Ruée d'Âme inflige un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;, les dégâts infligés sont augmentés de 150% à 200% en fonction de l'amplification des Âmes en Deuil.</content>
+	
+	<content contentuid="hda4560ccg1948g468eg82b9ge24946aa43d2" version="1">Lanterne de Rassemblement d'Âmes</content>
+	<content contentuid="hcc865988g59a2g4901ga277gc55750da7944" version="1">Augmente de 30% les Âmes en Deuil générées par tous les sorts de Moisson d'Âmes.</content>
+	<content contentuid="h33e907c3g87bcg45dag9d33gd2628d16f032" version="1">Déclencheur de Renaissance</content>
+	<content contentuid="h7c120eebgf3dcg44a8ga1bbg183b178e771e" version="1">Après que la Ruée d'Âme inflige un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt;, elle restaure tous les Points d'Action et les Points d'Action Bonus.</content>
+	<content contentuid="he2a63e34gc326g4c4ag8484gea91410c600d" version="1">Chemin du Néant</content>
+	<content contentuid="h156f55b4g4d0bg4782gac7ag04b9aee04ebd" version="1">Après avoir lancé la Ruée d'Âme, vous regagnez 2 Âmes en Deuil par tour pendant 2 tours, et cet effet peut s'accumuler.</content>
+	
+	<content contentuid="h714458e8g85a8g4450g8846g69f90cfe35bb" version="1">Récupérer des Âmes en Deuil par le Chemin du Néant</content>
+	<content contentuid="h1f31ba1bg1ef3g4be0ga6c9g388b7c8e63cf" version="1">récupérer [1] Âme en Deuil par tour.</content>
+	
+	<content contentuid="h9dda538dga7f2g41edg9fa2g7d88a75fe0eb" version="1">Lamentation de l'Éclatement d'Âme</content>
+	<content contentuid="h189cd97cg446bg46b2g8302gaaaa12380f14" version="1">La Ruée d'Âme inflige des dégâts psychiques supplémentaires égaux à 6% des PV maximum de l'ennemi s'il est affecté par &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt;. Si l'ennemi est de nouveau touché par Marée d'Âme tout en étant toujours sous les effets de &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt;, il subira des dégâts psychiques égaux à 12% de ses PV maximum.</content>
+	<content contentuid="he1fd1aacg10aeg4c8eg98d0g68fd0434533c" version="1">Explosion Spirituelle</content>
+	<content contentuid="hdb75fadag5137g4958g9a45gc71714e4bb5a" version="1">Gagnez 12 Âmes en Deuil après avoir été attaqué, et l'ennemi qui vous a attaqué sera &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;effrayé&lt;/LSTag&gt;. Si l'ennemi est de nouveau touché par Marée d'Âme tout en étant toujours sous les effets de &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt; pour 1 tour.</content>
+	<content contentuid="hb2318350g12ecg41efgb6c3g89dc02f89cde" version="1">Répression Ultime</content>
+	<content contentuid="had061a91g77bcg4a3agb751g85a294721c3e" version="1">Pour déclencher une Ruée d'Âme, augmentant les dégâts bonus de la Ruée d'Âme de 18% pendant 2 tours. Cet effet peut s'accumuler.</content>
+	
+	<content contentuid="h9aa1c524g7269g4336g82ccg219ec8fe6f29" version="1">Cette âme a déjà montré des fissures, et si elle est touchée par la Ruée d'Âme dans un état de &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;l'effroi&lt;/LSTag&gt;, elle perdra directement 12% de ses PV maximum.</content>
+	<content contentuid="h0cf02bf7g9373g452bgadc5gaea23f6eff4b" version="1">Cette âme est Le Morcelément brisée, n'étant plus affectée par la Lamentation de l'Éclatement d'Âme.</content>
+	
+	
+	<content contentuid="h694edfefge2a5g4444gb8bagf095b7bd3eea" version="1">Doctrine Sombre</content>
+	<content contentuid="h2100f05dgbf55g4014gab87g83ae2cb37566" version="1">Consommez un Point d'Action Bonus pour gagner immédiatement 50 Âmes en Deuil.</content>
+	<content contentuid="hbf463438g336ag4af6g8449g1b07fc165762" version="1">Inscription de la Profanation</content>
+	<content contentuid="h5c81a77eg6f0dg49f5g8871gd69704d25abd" version="1">Consommez un Point d'Action Bonus pour récupérer tous les Points d'Action.</content>
+	<content contentuid="h327971d2g6bf6g451dg9f6dg9d36e21ce6a0" version="1">Explosion Psychique</content>
+	<content contentuid="h1b58516bgceccg4143gb5f8g5dab8ebd044f" version="1">Consommez un Point d'Action Bonus, libérez une puissante explosion d'énergie d'âme en direction d'un ennemi, infligeant [1] et gagnant 8 Âmes en Deuil. De plus, gagnez un Point d'Action supplémentaire qui n'est valable que pour ce tour.</content>
+	<content contentuid="h4e86fda4g4cf8g4c19g93e1gfedca0c933d9" version="1">Gagner un Point d'Action supplémentaire</content>
+	
+	<content contentuid="h5725402cgf74dg4307gb90fg1b8ec977a63f" version="1">Colère de l'ŒIL</content>
+	<content contentuid="hdf456a53g1f85g4604g9912g31dd2722d21e" version="1">Lancer &lt;LSTag Type="Spell" Tooltip="SoulTaker_Soulfrenzy_Soul_Darkness"&gt;Ruée d'Âme: Oubli stellaire&lt;/LSTag&gt; a 30% de chances de ne pas consommer d'Âmes en Deuil pour le prochain lancer de &lt;LSTag Type="Spell" Tooltip="SoulTaker_Soulfrenzy_Soul_Darkness"&gt;Ruée d'Âme: Oubli stellaire&lt;/LSTag&gt;.</content>
+	<content contentuid="hfeab05b2ga87ag4b67ga87bga7b0ccb6484e" version="1">Héritage de Séraphine</content>
+	<content contentuid="hdc5f159dgf947g40d6g9c33gf69a879bef19" version="1">&lt;LSTag Type="Spell" Tooltip="SoulTaker_Soulfrenzy_Hell_Reaping"&gt;Ruée d'Âme: Moisson infernale&lt;/LSTag&gt; réduit le seuil de critique de 5. S'il inflige un coup critique, vous aurez l'opportunité de lancer &lt;LSTag Type="Spell" Tooltip="Zone_SoulTaker_Soulfrenzy_Mind_Storm"&gt;Ruée d'Âme: Tempête psychique&lt;/LSTag&gt;.</content>
+	<content contentuid="h094a551fg640eg426bg8187g0c7aadffa723" version="1">Regret Éternel de Van Gogh</content>
+	<content contentuid="hcbb94836g4318g4174g8922ga43b82effb58" version="1">Le Bonus &lt;LSTag Type="Spell" Tooltip="SoulTaker_Soulfrenzy_Fall_Night"&gt;Ruée d'Âme: Nuit éternelle&lt;/LSTag&gt; a 6% de chances de vous remplir de 100% d'Âmes en Deuil.</content>
+	
+	<content contentuid="h7b78974ag4335g49b5gaf59g79acd2810c62" version="1">Rune Gravée Exquise</content>
+	<content contentuid="hd7df4145g6014g4796gbe38gd68076ecb8fb" version="1">Réduit le seuil de &lt;LSTag Tooltip="CriticalHit"&gt;coup critique de sort&lt;/LSTag&gt; de 2, et accorde un bonus de 1d10 au jet d'attaque. (Nécessite le Niveau 3 de Moissonneur d'Âmes)</content>
+	<content contentuid="h2e6e1f7bg169dg48d7g9d51ge7ec69ffe9b3" version="1">Œil Informe de la Terreur</content>
+	<content contentuid="ha6cdb548gf9abg4a65gbf33g491a7227905f" version="1">Votre sort a 25% de chances d'infliger &lt;LSTag Type="Status" Tooltip="SG_Frightened"&gt;la panique&lt;/LSTag&gt; aux ennemis pendant 1 tour, et cette chance augmente de 1% par niveau, jusqu'à un maximum de 37%. (Nécessite le Niveau 6 de Moissonneur d'Âmes)</content>
+	<content contentuid="h27d1895cg867dg47bfg9c19g3b2b8e5d871f" version="1">Charme d'Extraction Rapide</content>
+	<content contentuid="h64f99c66gff79g4702gaabag6c619c144726" version="1">Tuer un ennemi qui n'est pas dans un état de &lt;LSTag Type="Status" Tooltip="Boost_LostSoul"&gt;Âme Morcelé&lt;/LSTag&gt; vous accordera 8 Âmes en Deuil. (Nécessite le Niveau 9 de Moissonneur d'Âmes)</content>
+	<content contentuid="he31061c2gda1fg452eg8649g35a41220642c" version="1">Éveil au Destin Cruel</content>
+	<content contentuid="h66425fcbg1c7eg44aeg81d0g9f3d528a7b58" version="1">Après avoir lancé une Ruée d'Âme, il y a 35% de chances que vous puissiez lancer une autre Ruée d'Âme avec un Point d'Action Bonus dans le même tour. Sa puissance équivaut à recevoir un bonus de 35 Âmes en Deuil. (Nécessite le Niveau 12 de Moissonneur d'Âmes)</content>
+	
+	<content contentuid="hb9805237gf158g4cadg8849gdcfdcca1a511" version="1">Touche du Monde des Ténèbres</content>
+	<content contentuid="h5c2c6e38gc80bg4892g8491g4b7ca95ba124" version="1">Sort de Moisson d'Âmes, inflige la &lt;LSTag Type="Status" Tooltip="Boost_CurseOfSqueeze_Enemy"&gt;Malédiction de Moisson d'Âmes: Compression&lt;/LSTag&gt; à la cible et inflige [1] par tour pendant 3 tours. Lorsque la cible subit des dégâts, vous gagnez 2 Âmes en Deuil. Touche du Monde des Ténèbres touche toujours l'ennemi.</content>
+	<content contentuid="h33d9cf7aga8d2g4c02gb7b5g5cf48634e56c" version="1">Fournir 3 Âmes en Deuil au Moissonneur d'Âmes lorsqu'il subit des dégâts.</content>
+	<content contentuid="he85876bdgf509g439fgbce8g717a1541470a" version="1">Malédiction de Moisson d'Âmes: Compression</content>
+	
+	<content contentuid="h82dc7fadgfb3cg4525gb326g65a21fc015bf" version="1">Ruée d'Âme: Profondeurs Enchevêtrantes</content>
+	<content contentuid="h6fa953c1g0a15g4a8fgbd85g9c8c41345bf2" version="1">Libérez une Ruée d'Âme persistante, infligeant continuellement la &lt;LSTag Type="Status" Tooltip="SoulTaker_Abyss"&gt;Malédiction de Moisson d'Âmes: Épine&lt;/LSTag&gt; aux ennemis dans la zone et infligeant [1] par tour.</content>
+	<content contentuid="h21797643g58bbg432bgb96cg448156b51871" version="1">Ruée d'Âme: Chant de la Sirène</content>
+	<content contentuid="h79b78574gaa4bg4c10gbdecgf94d7f7a481e" version="1">Libérez une Ruée d'Âme persistante, infligeant continuellement la &lt;LSTag Type="Status" Tooltip="SoulTaker_Enemy_Song"&gt;Malédiction de Moisson d'Âmes: Vortex&lt;/LSTag&gt; à la cible et infligeant [1] par tour.</content>
+	<content contentuid="hd3e8ce4cg934dg42e6g8219g62475604e89b" version="1">Ruée d'Âme: Festin Frénétique</content>
+	<content contentuid="h65ac027dgda9ag422dg8284gbb4b0f6db10a" version="1">Libérez une Ruée d'Âme persistante, infligeant continuellement la &lt;LSTag Type="Status" Tooltip="SoulTaker_Chaos"&gt;Malédiction de Moisson d'Âmes: Défaut&lt;/LSTag&gt; aux ennemis dans la zone et infligeant [1] par tour.</content>
+	<content contentuid="h9a2bab9dg6f98g4f45g9253g03724f0125f4" version="1">Ruée d'Âme : Étoile Filante</content>
+	<content contentuid="h0e79c175g5c58g4329gac33g85341b5b4407" version="1">Consomme toutes mes Âmes en Deuil pour descendre sur une zone visible, faisant tomber les ennemis environnants &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à terre&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;laisser tomber leurs armes&lt;/LSTag&gt;, les mettant &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;sous le choc&lt;/LSTag&gt; et les mettant dans un état de &lt;LSTag Type="Status" Tooltip="ENCUMBERED_MAX"&gt;charge maximale&lt;/LSTag&gt;. Pendant les 2 prochains tours, la Ruée d'Âme ne consommera plus d'Âmes en Deuil.</content>
+	
+	<content contentuid="h3d0b1033gebb1g4985gb9a1gc72cf6708d45" version="1">La Ruée d'Âme ne consommera plus d'Âmes en Deuil.</content>
+	<content contentuid="h182110e9g28ccg43a2gac71gbb47ab5a3ecb" version="1">&lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;laisser tomber leurs armes&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;sous le choc&lt;/LSTag&gt;, et être dans un état de &lt;LSTag Type="Status" Tooltip="ENCUMBERED_MAX"&gt;charge maximale&lt;/LSTag&gt;</content>
+	
+	<content contentuid="hc60aaff2g948eg4513g9f30gf423e37ff5b3" version="1">Malédiction de Moisson d'Âmes : Épine</content>
+	<content contentuid="h6dae1787g455cg446cgb4e5g9bbc95840655" version="1">Ce personnage est désavantagé lorsqu'il s'agit de tests de force et d'intelligence, et est vulnérable aux dégâts perforants et froids. Chaque fois qu'il attaque ou lance un sort, il subit [2]. Chaque tour, s'il échoue à un jet de sauvegarde de constitution, sa vitesse de déplacement est réduite à 25% et subit [3] à chaque pas qu'il fait.</content>
+	<content contentuid="h083e22c4gbb75g4d77gbae5g0b6fd59bd199" version="1">Malédiction de Moisson d'Âmes : Vortex</content>
+	<content contentuid="heea1a0bbg2005g4db8g8154g69e9ff3edc6b" version="1">Ce personnage est désavantagé lorsqu'il s'agit de tests de constitution et de sagesse, et est vulnérable aux dégâts nécrotiques et tranchants. Il peut transférer toute autre Malédiction de Moisson d'Âmes qu'il possède sur les ennemis autour de lui.</content>
+	<content contentuid="h33b338d0g4c81g48aag9744g0723bbf59e91" version="1">Malédiction de Moisson d'Âmes : Défaut</content>
+	<content contentuid="h1558f973g2f0cg43a4g902bg2817c5199b32" version="1">Ce personnage est désavantagé lorsqu'il s'agit de tests de dextérité et de charisme, et est vulnérable aux dégâts de feu et de force. Chaque tour, s'il échoue à un jet de sauvegarde de sagesse, il tombera dans un état de folie et attaquera la créature la plus proche de lui.</content>
+	
+	<content contentuid="hc7020f67g78bbg4451gba3ag007c70ede14c" version="1">Malédiction de Corrosion Osseuse</content>
+	<content contentuid="h5b821374g626bg426fg9601gadb90b20cffd" version="1">Chaque fois que des dégâts sont infligés à un ennemi affligé par la Malédiction de Moisson d'Âmes, il infligera des dégâts psychiques supplémentaires équivalents à 1% des points de vie maximum de l'ennemi (avec un minimum de [1]).</content>
+	<content contentuid="hdd891366g8813g47d6ga903g37121f629e74" version="1">Prolongation du Désespoir</content>
+	<content contentuid="hb5dc3035g0ac4g4c3fg94f8g8ade81bbe970" version="1">Après la fin de la Ruée d'Âme, chaque pile de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt; sur vous sera convertie en 5 Âmes en Deuil.</content>
+	<content contentuid="hdc9c2d38gd482g4773g9d54g2fb8b23a24b9" version="1">Désintégration Mentale</content>
+	<content contentuid="h4dac2743gc308g4a04ga5d8g2b62712681ae" version="1">La "Malédiction de Moisson d'Âmes" fait en sorte que les ennemis aient un taux de coup critique indépendant de 25% lorsqu'ils subissent des dégâts.</content>
+	
+	<content contentuid="hb6ce07fdg2449g423bgbaa4gda6997314a13" version="1">Concentration de l'Âme</content>
+	<content contentuid="h2ce458begc392g4355gb190g449899933269" version="1">La Ruée d'Âme consomme 5 Âmes en Deuil de moins par tour.</content>
+	<content contentuid="h5fd356a2ge05ag402bgb60bg0d6a4aa89314" version="1">Éclosion Mortelle</content>
+	<content contentuid="h8ac227a3g24feg469egb32ag1ac5fae101e5" version="1">En maintenant la Ruée d'Âme, pour chaque ennemi affligé par la Malédiction de Moisson d'Âmes que vous tuez, vous gagnez 16 Âmes en Deuil.</content>
+	<content contentuid="h3d6ff209g367cg4509gbe76ge7821b5af5a8" version="1">Portée Spectrale</content>
+	<content contentuid="h42774d20ge8c2g4785g9b5fg442cd978563d" version="1">La Touche du Néant peut être lancée sur une cible supplémentaire.</content>
+	
+	<content contentuid="heded938agbd8fg4509g8c02g671fcbb61b2a" version="1">Pacte Crépusculaire</content>
+	<content contentuid="h4c5cf63ag1f8dg470cg9302gdea79afbea50" version="1">Consommez un Point d'Action Bonus pour augmenter de 1 le nombre de piles de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt;. Peut être lancé uniquement lorsque vous maintenez une Ruée d'Âme.</content>
+	<content contentuid="h11b76fe6g3305g4223g9a1ega9afdd70500e" version="1">Prière Rebelle</content>
+	<content contentuid="hfb16356dg261fg41c2gb3f0g142825333bb0" version="1">Consommez un Point d'Action Bonus pour drainer les âmes de tous les ennemis proches affligés par la Malédiction de Moisson d'Âmes. Pour chaque instance de Malédiction de Moisson d'Âmes sur un ennemi, vous gagnez 3 Âmes en Deuil.</content>
+	<content contentuid="h43d52bdcg0126g46d3gab3fge7c602907f7c" version="1">Contact de Décadence</content>
+	<content contentuid="hb22cd911g0285g406eg9a01g1ca873e31aaa" version="1">Consommez un Point d'Action Bonus pour infliger la &lt;LSTag Type="Status" Tooltip="SoulTaker_Curse_Desecrate"&gt;Malédiction de Moisson d'Âmes : Profanation&lt;/LSTag&gt; à un ennemi.</content>
+	
+	<content contentuid="h225350b2g7aa7g4ca0g8e3fg3129f5b59834" version="1">Malédiction de Moisson d'Âmes : Profanation</content>
+	<content contentuid="h81d10ff5g4cbfg4661ga7cag173c5032db82" version="1">Toutes les attaques et jets de dégâts subissent une pénalité de 1d8 et sont vulnérables aux dégâts psychiques.</content>
+	
+	
+	<content contentuid="hbf3b1e9fg59ffg4b3cga1f5g533a6d6da7bd" version="1">Refuge de Brume</content>
+	<content contentuid="h862ba7a9g3713g47f9g84fdg8f5eb392dd2e" version="1">Pendant votre Ruée d'Âme, toutes les attaques dirigées contre vous sont désavantagées.</content>
+	<content contentuid="h3417f80dg20f2g46bdga2b7gd93462befcd7" version="1">Proclamation du Révélateur</content>
+	<content contentuid="hcaf2f358g36d6g4bd3gacfcgfba2c62690e9" version="1">Pour chaque Malédiction de Moisson d'Âmes sur l'ennemi, les dégâts infligés par l'ennemi sont réduits de 2.</content>
+	<content contentuid="h3a02f1fbg4e8cg487egab6bg6514441866a2" version="1">Érosion Magique</content>
+	<content contentuid="h093a2404g5d61g4e80gb0d1g6c457e907f32" version="1">Votre Classe d'Armure est réduite de 6, et lorsqu'un ennemi a 4 Malédictions de Moisson d'Âmes simultanément, il perdra directement 20% de ses points de vie maximum, ce qui ne peut se produire qu'une fois par ennemi. Vous pouvez choisir d'activer ou de désactiver ce statut.</content>
+	
+	<content contentuid="h775b737fg8728g482cg8f7cgd4638bfef0cb" version="1">Cet ennemi a déjà été affecté par l'Érosion Magique.</content>
+	<content contentuid="hfde2d3d0g3eabg4f00g8ccag2fea1637ab6d" version="1">Vous avez activé l'Érosion Magique, ce qui réduit votre Classe d'Armure de 6.</content>
+	
+	<content contentuid="hc6ad7263g0096g49c0g9723g05705cc5f847" version="1">Clémence de l'OEIL</content>
+	<content contentuid="hdabaf78fgf9f1g469eg9768ge9cf30b8482e" version="1">Pendant la Ruée d'Âme : Profondeurs Enchevêtrantes, chaque fois que vous infligez des dégâts à un ennemi, vous avez 3% de chances de gagner 1 pile de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt;.</content>
+	<content contentuid="h2dab0d97g2840g49d6g874bg0278394ad5db" version="1">Chuchotements de l'Instinct de Mort</content>
+	<content contentuid="h067f5957g11bfg4c95ga73fgff5197ab5c92" version="1">La Ruée d'Âme : Chant de la Sirène peut être lancée en plus sur un ennemi sans augmenter la consommation d'Âme en Deuil, mais elle sera interrompue si une cible meurt.</content>
+	<content contentuid="h4f4854b0g73b5g4d31gbbabgf1b0d46c9809" version="1">Le Savoir est une Vertu</content>
+	<content contentuid="h30073520g0446g4960gabcag76a0f744c0ba" version="1">Pendant la Ruée d'Âme : Festin Frénétique, vous gagnez un point d'action supplémentaire.</content>
+	
+	<content contentuid="h4cd9655cgf6f7g4738ga471g009143370544" version="1">Marque du Dieu Déchu</content>
+	<content contentuid="h211605a1g2d15g40ecgb22fg4bd4d6fa0c8a" version="1">Lorsque vous maintenez deux Ruées d'Âme simultanément, cela consomme 60 points d'Âme en Deuil par tour au lieu de 90.</content>
+	
+	<content contentuid="h35858dadg0626g46c2g88cbg7426a60fb6f5" version="1">Sceau Gravé Tordu</content>
+	<content contentuid="h075352e3gcb0eg489fg8716g21e00c2a299c" version="1">Lorsque vous infligez des dégâts, ceux-ci sont augmentés de [1]. (Requiert un Niveau 3 de Moissonneur d'Âme)</content>
+	<content contentuid="h70694c47gd1e4g42fcga134ga8c1bbcb3886" version="1">Lisière du Désir Fou</content>
+	<content contentuid="hd14c2e2eg75a8g4eddg8178gddfaceb5811a" version="1">Lancer des sorts a 15% de chances de gagner 3 Âmes en Deuil, la chance augmentant de 1% par niveau, jusqu'à un maximum de 27%. (Requiert un Niveau 6 de Moissonneur d'Âme)</content>
+	<content contentuid="he5ec2c7bg71a6g4558g9774g2eaf179ca15a" version="1">Gravure de l'Étreinte Sombre</content>
+	<content contentuid="h6dc5477cged32g424agb687g5b218a0d2f9a" version="1">Les ennemis blessés par vos sorts de Moisson d'Âme pour la première fois ont 12% de chances d'être affectés par une Ruée d'Âme aléatoire pendant 1 tour. Cet effet ne consomme pas d'Âme en Deuil et ne peut pas accumuler de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt; pour vous. (Requiert un Niveau 9 de Moissonneur d'Âme)</content>
+	<content contentuid="h8fa8f105gdd0bg4c34g890bgf210743c32f3" version="1">Don de la Mort</content>
+	<content contentuid="he6ad0ce5gf12fg43b3g90f4g047dd6cbad08" version="1">Après la fin de la Ruée d'Âme, les piles augmentées automatiquement de &lt;LSTag Type="Status" Tooltip="SoulTaker_Dep_Decay_Counter"&gt;Turbulence Maléfique&lt;/LSTag&gt; sur vous peuvent conserver la moitié de leurs piles et être ajoutées à la prochaine Ruée d'Âme. (Requiert un Niveau 12 de Moissonneur d'Âme)</content>
+	
+	<content contentuid="hc97fbee0gff8dg4ff0ga236ga3a72fb75f7b" version="1">Barrière d'Âme</content>
+	<content contentuid="h47e40fa5g915cg49fbg8e64g22252c1a48fb" version="1">L'aptitude spéciale de l'Pionniers : construire une barrière unique avec des âmes capturées pour se défendre contre des types d'attaques spécifiques, et lancer une contre-attaque puissante contre les ennemis en consommant des Âmes en Deuil, remplaçant ainsi la Ruée d'Âme.</content>
+	<content contentuid="h7c025fbcg09ddg404cg9e58ga413279382cd" version="1">Réfraction Warp</content>
+	<content contentuid="h213ab56eg9fceg426agbf50ge1aa797bb335" version="1">Consomme 7 Âmes en Deuil, téléportez-vous à l'emplacement cible en déformant l'espace environnant et en accordant un avantage à la prochaine attaque.</content>
+	
+	<content contentuid="hb87843acgba9eg4b2dg988ag287fafafbd4e" version="1">Ruée du Chaos</content>
+	<content contentuid="hf5488786g6321g40d3gb128ga54279925f2d" version="1">Sort de Moisson d'Âme, Chargez en avant et tranchez les ennemis en chemin pour Moissonner leurs âmes, infligeant [2] et les repoussant de [1] distance. Gagnez 4 Âmes en Deuil pour chaque ennemi touché. Ne peut pas être utilisé lorsque vous êtes dans la Barrière d'Âme.</content>
+	
+	<content contentuid="he66cbe44ga6f7g4cd0gb218g11949f827e89" version="1">Barrière d'Âme : Lancée de Lances</content>
+	<content contentuid="hde50db67g9c30g4047g865ag1b9fa3dad3d1" version="1">Adoptez une posture défensive pour narguer les ennemis environnants. Bloquez tous les dégâts des attaques au corps à corps et avez la possibilité de dépenser 3 Âmes en Deuil pour lancer une contre-attaque.</content>
+	<content contentuid="h92435d70gc7eeg4010gacf9g2672fee9bfaa" version="1">Barrière d'Âme : Silence</content>
+	<content contentuid="h2e02eed4g3947g4a6dgac2eg3b1ee6bec103" version="1">Adoptez une posture défensive pour narguer les ennemis environnants. Chaque fois que quelqu'un tente d'utiliser des attaques magiques sur vous ou des alliés dans un rayon de 6 mètres, vous projetez une onde d'énergie pour bloquer leur incantation. De plus, vous avez la possibilité de dépenser 12 Âmes en Deuil pour vous téléporter derrière l'incantateur et déclencher un Contrecourant Magique, infligeant [1] de dégâts. Ce tour, vous pouvez vous téléporter derrière un autre ennemi et utiliser de nouveau le Contrecourant Magique sans consommer d'Âmes en Deuil supplémentaires.</content>
+	<content contentuid="hc1d41bbfg9770g4279gb082gc26a3f399f0a" version="1">Barrière d'Âme : Effondrement</content>
+	<content contentuid="hfc2c03ecg9934g4b1fg9916gb6052daa5351" version="1">Adoptez une posture défensive pour narguer les ennemis environnants. Réfléchissez la moitié des dégâts lorsque vous êtes attaqué par des armes à distance et avez la possibilité de dépenser 8 Âmes en Deuil pour attirer l'attaquant à 6 mètres plus près.</content>
+	
+	<content contentuid="he9897527g2cb3g4ccbgaecaga2d7662b54de" version="1">Provocation</content>
+	<content contentuid="h5f19f4c6g0588g4f0aga83agbe315ef726e2" version="1">Provocation des ennemis environnants</content>
+	
+	<content contentuid="hcc214a01g9181g483eg972bgdeae971c474a" version="1">Provocation</content>
+	<content contentuid="h25ff285ag7e68g42b2g85b5ga7a628c7e8da" version="1">Est obligé de vous attaquer</content>
+	
+	<content contentuid="hff48bf96g1f19g4090g8dc3g28a051d9ba9f" version="1">Barrière d'Âme : Lames Multiples</content>
+	<content contentuid="h00f249ebg72a1g41a4gab8agd1e1a59ae485" version="1">Adoptez une posture défensive pour narguer les ennemis environnants. Obtenez une réduction des dégâts de 50% et stockez les dégâts reçus. Vous pouvez déclencher l'explosion de la Barrière d'Âme : Lames Multiples pour libérer les dégâts stockés et frapper les ennemis environnants. Les dégâts augmentent de 100% à chaque tour où vous maintenez la Barrière d'Âme : Lames Multiples. Déclencher l'explosion de la Barrière d'Âme : Lames Multiples vous fera sortir de la Barrière d'Âme : Lames Multiples.</content>
+	<content contentuid="h1915cc83gfddbg4959gb870g74102ddf33de" version="1">Dégâts stockés</content>
+	
+	<content contentuid="hd1330854g8bb2g46bcg8dd8g2577971de58b" version="1">Éruption à Lames Multiples</content>
+	<content contentuid="h0a36ea1fgbc0eg4077g8860g7a316eb834e7" version="1">Déclenchez l'explosion de la Barrière d'Âme : Lames Multiples pour libérer les dégâts stockés et frapper les ennemis environnants. Les dégâts augmentent de 100% à chaque tour où vous maintenez la Barrière d'Âme : Lames Multiples. Déclencher l'explosion de la Barrière d'Âme : Lames Multiples vous fera sortir de la Barrière d'Âme : Lames Multiples.</content>
+	
+	<content contentuid="h74d9e35ag362eg4a7cgad7fg02354a831863" version="1">Dégâts stockés</content>
+	<content contentuid="h3bd66732gadbag47fagac60gb0b326e5427c" version="1">Total des dégâts subis dans la Barrière d'Âme : Lames Multiples.</content>
+	
+	<content contentuid="hf945ad02g22b5g40b8g865egbdab9011c186" version="1">Amplification à Lames Multiples</content>
+	<content contentuid="h8229d01fg51e0g4dbdgae9eg7491ff9afcd8" version="1">Maintenir la Barrière d'Âme : Lames Multiples augmente les dégâts de l'Éruption à Lames Multiples au fil du temps.</content>
+	
+	<content contentuid="hb60eb64bg0c3dg4929ga784gb6b487f9754b" version="1">Lancée de Lances</content>
+	<content contentuid="hb81413dbg9308g42ccg8a9cg8cf1b59db3ee" version="1">Vous pouvez dépenser 3 Âmes en Deuil pour lancer une contre-attaque lorsque vous subissez une attaque au corps à corps.</content>
+	<content contentuid="h681d3921g1cf0g49e9g9495gda34c3dcfe3e" version="1">Bloquez tous les dégâts des attaques au corps à corps.</content>
+	
+	<content contentuid="h722bfb62gf161g486ag994eg3151c3195f58" version="1">Effondrement</content>
+	<content contentuid="h4d8bf96dg74abg4ce8gadacgfd9b1df52336" version="1">Réfléchissez la moitié des dégâts des armes à distance.</content>
+	<content contentuid="h217fadbcge147g4ae3gbc53gf6948d08074e" version="1">Dépensez 8 Âmes en Deuil pour attirer l'attaquant à 6 mètres plus près lorsqu'il est attaqué par des armes à distance.</content>
+	
+	<content contentuid="h6e5ed8e1g7adag489bgb3e6g0fc7452176c7" version="1">Silence</content>
+	<content contentuid="h8122f58fgd84fg42a9g9141g31d8a690f2b2" version="1">Empêchez l'incantation de sorts.</content>
+	
+	<content contentuid="h9cc0496bg6c71g4299g93abg42552e28dc72" version="1">Contre-Courant Magique</content>
+	<content contentuid="h201287efg0c8ag4fb8g8234g0f04c21070f9" version="1">Dépensez 12 Âmes en Deuil pour traverser les dimensions jusqu'au lanceur de sorts et infliger [1]. Ce sort peut être utilisé à nouveau dans le même tour sans consommer d'Âmes en Deuil supplémentaires.</content>
+	<content contentuid="hffec962agc087g4a03gb0b3g9759891d56b4" version="1">Percevant la vague de magie, traversant les dimensions pour arriver aux côtés du lanceur de sorts et lui renvoyant la magie, infligeant [1].</content>
+	<content contentuid="he94b3dd1ge3a4g49cdg9c47g1a04c2b3e0d5" version="1">Ce tour, vous pouvez téléporter derrière un autre ennemi et utiliser à nouveau le Contre-Courant Magique sans consommer d'Âmes en Deuil supplémentaires.</content>
+	
+	<content contentuid="h1120c518g0774g4108ga567gfe7e92eaeeb9" version="1">Force Imparable</content>
+	<content contentuid="hfe7a34c2g13ddg4a02g9c0dgc251bd6e4955" version="1">Après avoir lancé Chaos Dash, vous pouvez utiliser l'action bonus pour le lancer une fois de plus.</content>
+	<content contentuid="hdcef1605gbf32g42e9gbb40gb5998528bb0f" version="1">Désintégration Déchaînée</content>
+	<content contentuid="h0cfbd2fdg334dg426egaf38gb31ab8b4f8ca" version="1">Lors d'une attaque avec un avantage, cela infligera des dégâts supplémentaires à l'ennemi équivalant à 4% de ses PV maximum. Cet effet est doublé lorsque vous êtes dans la Barrière d'Âme.</content>
+	<content contentuid="hbbc7229cgbe4dg4a34gbc1ag450d7a865bdd" version="1">Pendule du Destin</content>
+	<content contentuid="h834f79d7gddecg40b6gb4ddg2ec918ec16cd" version="1">Lorsque attaqué, il y a 43% de chance que le prochain Reflet de Distorsion ne consomme pas d'Âmes en Deuil, et après l'avoir lancé, vous pouvez utiliser une action bonus pour lancer Pendule du Destin dans ce tour, frappant les ennemis dans une zone en forme d'éventail frontal pour [1]. S'il inflige un coup critique, il restaure 10 Âmes en Deuil et 1 point d'action. Le seuil pour que le Pendule du Destin inflige un coup critique est réduit de 6.</content>
+	<content contentuid="h87feab89g6ad0g4802g8f73g960e162a86af" version="1">Frappez les ennemis dans une zone en forme d'éventail frontal pour [1]. S'il inflige un coup critique, il restaure 10 Âmes en Deuil et 1 point d'action. Le seuil pour que le Pendule du Destin inflige un coup critique est réduit de 6.</content>
+	<content contentuid="h698e1a79g37d9g455agb18bg83b3ded64205" version="1">Votre prochain Reflet de Distorsion ne consommera pas d'Âmes en Deuil, et après l'avoir lancé, vous pouvez utiliser une action bonus pour lancer Pendule du Destin dans ce tour</content>
+	
+	<content contentuid="h4f628205g56d5g4e37gade2g998023f4b1ed" version="1">Le Pouvoir de la Prospérité</content>
+	<content contentuid="h21749912ge614g4cdeg8e6fge18be34cfa47" version="1">Lorsque vous possédez 55 Âmes en Deuil ou plus, le nombre d'Âmes en Deuil requis pour maintenir la Barrière d'Âme est réduit de 4.</content>
+	<content contentuid="ha49c5bdegd224g4a93g819cga89551d57baa" version="1">Résolution de Percée</content>
+	<content contentuid="hbae166e9gae52g4a13g9908g69d0cd73b640" version="1">Augmente de 50% les Âmes en Deuil obtenues de Chaos Dash. Après avoir utilisé Chaos Dash, gagnez 6 Âmes en Deuil par tour pendant 4 tours.</content>
+	<content contentuid="h5197adceg1934g42c5g96ebgbfd3f7196841" version="1">Éclatement d'Âme</content>
+	<content contentuid="ha7498b3bge40cg4e90g8d86gb8ed67142ae3" version="1">Gagnez 12 points d'Angoisse d'Âme pour chaque ennemi tué dans la Barrière d'Âme</content>
+	
+	<content contentuid="hf1c906adg6d14g48cagb77agd9c4815582ad" version="1">Lame de Jugement</content>
+	<content contentuid="hff9b54b0g7a92g47f4ga588g7d10f92dd690" version="1">Chaque fois que vous êtes attaqué dans la Barrière d'Âme, cela augmente les dégâts de votre prochaine attaque de 12, ce qui peut être cumulé.</content>
+	<content contentuid="hcc39e245g7029g4a1bg8789gbfb323289f29" version="1">Stratégie des Cités Jumelles</content>
+	<content contentuid="hebd712cegf179g4efag8ba8g97275bf57472" version="1">Vous pouvez maintenir deux Barrières d'Âme simultanément.</content>
+	<content contentuid="h7da68d34gae85g438ag9c30g9ca4d7d325af" version="1">Forteresse du Chaos</content>
+	<content contentuid="h7e251044g1d9fg4f52g82d7g3da66b2ed807" version="1">Après avoir lancé la Barrière d'Âme, les coéquipiers environnants bénéficieront également du même effet pendant 1 tour.</content>
+	<content contentuid="hf4e24624gbf48g4fc0ga0e9gb1e0da96258b" version="1">La prochaine attaque avec une arme de mêlée infligera des dégâts psychiques supplémentaires.</content>
+	
+	<content contentuid="hdd301f44gae4dg4681g8170g858f1ed583fb" version="1">Décret Crépusculaire</content>
+	<content contentuid="hab4bd1b3ge3efg4178g8d23g261043ae5103" version="1">Utilisez un Point d'Action Bonus pour maintenir la Barrière d'Âme sans consommer d'Âmes en Deuil pour les 2 prochains tours.</content>
+	<content contentuid="hc1edd1afgff3cg4b38ga1bcg2167dcfea1ba" version="1">Conservation d'Énergie</content>
+	<content contentuid="h14716eb7ge892g40aeg9212g3d9a03ac8895" version="1">Maintenez la Barrière d'Âme sans consommer d'Âmes en Deuil</content>
+	<content contentuid="h784afc09g98f1g4156gb644gfa11546f43c1" version="1">Crédo du Conquérant</content>
+	<content contentuid="h6c016308g2e49g4493g8193g8027f0e12ae8" version="1">Utilisez un Point d'Action Bonus pour attirer les ennemis dans la zone vers vous et les faire tomber à terre pendant 2 tours. Pour chaque ennemi attiré, vous récupérez 16% de vos PV perdus.</content>
+	<content contentuid="h7ecbc53eg1fceg4771g9f58gc948886200ac" version="1">Empreinte des Âmes Brisées</content>
+	<content contentuid="hf818c60agf000g4ec9gbaceg97593a5b5ecd" version="1">Utilisez un Point d'Action Bonus pour tuer instantanément un ennemi dont la valeur de santé n'est pas supérieure à 15% et vous accorder 1 Point d'Action supplémentaire pendant 5 tours.</content>
+	<content contentuid="hf8784bf0g2b8ag4915g8420gd5a9ac61564b" version="1">Gagnez un Point d'Action supplémentaire.</content>
+	
+	<content contentuid="h4a529239g0816g4625ga857g5f715df81f41" version="1">Sanctuaire de L'ŒIL</content>
+	<content contentuid="h15f20d61gf06cg475cg9d59gdd1eafc308b8" version="1">Chaque fois que vous êtes attaqué ou infligez des dégâts dans la Barrière d'Âme : Brake Spears, il y a 15% de chances que votre Barrière d'Âme ne consomme pas d'Âmes en Deuil au prochain tour.</content>
+	<content contentuid="hf860bd5fgd07dg4fb7ga3ecg8fc2c92acd2b" version="1">Destinée du Voyageur</content>
+	<content contentuid="hf4307df2g7b7eg4ba8ga84dg23ee4328d80c" version="1">Le Magic Countercurrent infligera toujours un coup critique et réduira au silence l'ennemi pendant 2 tours.</content>
+	<content contentuid="hd0133bb7g6e91g4f45g8b87gb16d15fe520b" version="1">Prophétie de la Chute de l'Apocalypse</content>
+	<content contentuid="h0788266fgcb1cg42adg81cbg74b2812f6057" version="1">Dans la Barrière d'Effondrement, les ennemis qui n'ont pas souffert du sort de Faucheur d'Âme seront Fauchés d'Âme lorsqu'ils lancent des attaques à longue portée contre vous. Cela vous accorde 12 Âmes en Deuil.</content>
+	
+	<content contentuid="h20481796g9067g4bf4g9047g50288bd6f778" version="1">Silence</content>
+	
+	
+	<content contentuid="h9469bcd0g257ag4c6dg821ag090a14552d94" version="1">Mur d'Arrogance</content>
+	<content contentuid="h3140a59bgb1b4g4144g95dcg620d05b93ffa" version="1">Lancer la Barrière d'Âme restaure 50% de vos PV perdus.</content>
+	
+	<content contentuid="h927f5cddg889fg44e0g8533g78b0f9fe435f" version="1">Inscription de la Flamme Éternelle</content>
+	<content contentuid="he0790847g27d3g4634g854dgdc9513616ec5" version="1">Lorsque vous êtes attaqué, il y a 28% de chances de gagner 3 Âmes en Deuil. (Nécessite un Faucheur d'Âme de Niveau 3)</content>
+	<content contentuid="h8e6b0d60g4c02g4a64g93ddgc35010e89a6f" version="1">Lame de Percée Mondiale</content>
+	<content contentuid="hdc00bc98gfeb7g4351g89f3gc8cc997cacd5" version="1">Votre attaque contre un ennemi avec une Âme Morcelé bénéficie d'un bonus de 1d20 plus votre modificateur d'Intelligence au jet d'attaque. En étant dans la Barrière d'Âme, votre attaque inflige [1] de dégâts supplémentaires, également boostée par votre modificateur d'Intelligence. (Nécessite un Faucheur d'Âme de Niveau 6)</content>
+	<content contentuid="h18c618f5g3c18g42e6g9266g1b29b94aee29" version="1">Sceau du Carnaval de la Catastrophe</content>
+	<content contentuid="h5f234ab5gfe54g499eg9d7fgc917699fe85e" version="1">Hors de la Barrière d'Âme, si vous êtes attaqué, il y a 12% de chances de déclencher de manière aléatoire l'un des effets de la Barrière d'Âme pendant 2 tours. Cet effet ne consomme pas d'Âmes en Deuil (mais consomme toujours des Âmes en Deuil lors de la contre-attaque) et ne vous empêche pas de lancer d'autres Barrières d'Âme. (Nécessite un Faucheur d'Âme de Niveau 9)</content>
+	<content contentuid="h2f8bf2e0ge642g486eg9247ge2d42f362698" version="1">Vigilance de l'Océan d'Âme</content>
+	<content contentuid="hd386b1bag118bg40e4g95abgfad480ecc618" version="1">Si vous êtes dans la Barrière d'Âme et subissez une attaque mortelle, vous ne mourrez pas tant que vous n'êtes pas libéré de la Barrière d'Âme. Cet effet ne peut se produire qu'une fois par long repos. (Nécessite un Faucheur d'Âme de Niveau 12)</content>
+	<content contentuid="hf3271ce4g96fcg4b3cga769gcac34f239d8b" version="1">Vous êtes protégé par le Feu de Saint Elme, et vous ne mourrez pas pendant la Barrière d'Âme actuelle.</content>
+	<content contentuid="h85743513gb779g42c4gb9cagd5f7e4a57fe0" version="1">Vous avez été abrité par le Feu de Saint Elme.</content>
+	
+	<content contentuid="ha8b8793ag69a6g4ec2g9d08ga844d43a9ade" version="1">Au moins 16 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h45fc015cg9855g48d0gbc25g3193da9cea55" version="1">Au moins 35 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="had3271f1g9389g4f4fg9960g3c80f9403ea3" version="1">Au moins 40 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="hb34d408cgcb83g4525g86d7g5b381d9b3817" version="1">Au moins 45 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h7201b888ga690g4a55g9369g228a505efb6f" version="1">Au moins 7 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h0d27ae82g524cg4d2egadbcg34fe1903da74" version="1">Au moins 12 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h39469b95gaf68g488cg84cagdd75731ceb1a" version="1">Au moins 15 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h73f20e89g2b98g48edg8212g027dd2f7e773" version="1">Au moins 17 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h37d573fega550g4670g824fg37b2014ab51f" version="1">Au moins 25 Âmes en Deuil sont nécessaires.</content>
+	<content contentuid="h2bd6db7fg0deag4af9g8c42g542babcab79c" version="1">Vous ne pouvez lancer ceci que dans la Vague d'Âme。</content>
+	<content contentuid="h2b54898cg776ag4832gab03gfa247c1cce38" version="1">Vous ne pouvez maintenir qu'une Barrière d'Âme.</content>
+	<content contentuid="hc1361fc3gc213g44f3gb7c1gdba32fec3357" version="1">Vous ne pouvez maintenir que 2 Barrières d'Âme.</content>
+	<content contentuid="he79a08f8ge814g48a8g899egff8c63014d4e" version="1">Aucun dégât subi</content>
+</contentList>
