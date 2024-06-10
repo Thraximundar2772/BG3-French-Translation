@@ -12,6 +12,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
         <script src="js/scripts.js"></script>
     </head>
     <body class="d-flex flex-column h-100">
@@ -22,10 +23,24 @@
             <section class="py-5">
                 <div class="container px-5 my-5">
                     <div class="text-center mb-5">
-                        <h1 class="fw-bolder">Our Work</h1>
+                        <h1 class="fw-bolder">Les derniers Mods Baldur's Gate 3 traduient en Français</h1>
                         <p class="lead fw-normal text-muted mb-0">Company portfolio</p>
                     </div>
                     <div class="row gx-5">
+                        <script>
+                        $.getJSON( "https://cg.apiporn.xyz/nexus.php?mod_id=10081", function( data ) {
+                        $.each( data, function( key, val ) {
+                            $("<div>" + key + " = " + val + "</div>").appendTo( "#container" );
+
+                            $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + key + '/>');
+                            $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>');
+                            $('</div>');
+                            $('</div>');
+                            });
+                        });
+                        </script>
+                        
+                        
                         <div class="col-lg-4">
                             <div class="position-relative mb-5">
                                 <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/10081/10081-1717447636-1823842781.png" alt="..." />
