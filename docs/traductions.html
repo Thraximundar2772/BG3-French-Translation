@@ -28,7 +28,7 @@
                         <p class="lead fw-normal text-muted mb-0">Company portfolio</p>
                     </div>
 
-                    <div class="row gx-5" id="mod-container"></div>
+                    <div class="row gx-5" id="mod-container">       </div>
                     <ul class="pagination justify-content-center"></ul>
    
                         <script>
@@ -93,8 +93,6 @@ if (cachedData) {
       $(modHtml).appendTo("#mod-container"); // Append to specific container
     }
 
-
-
     function createPagination(totalItems, currentPage) {
       const numPages = Math.ceil(totalItems / pageSize);
       const paginationHtml = [];
@@ -103,26 +101,33 @@ if (cachedData) {
         // Create pagination buttons
         for (let i = 1; i <= numPages; i++) {
           const activeClass = i === currentPage ? 'active' : '';
-          paginationHtml.push(`<li class="page-item <span class="math-inline">\{activeClass\}"\><a class\="page\-link" href\="\#"\></span>{i}</a></li>`);
+          paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
         }
 
         $('.pagination').empty().append(paginationHtml.join('')); // Update pagination content
+
+        // Handle pagination click events
+        $('.pagination li.page-item').click(function(e) {
+          e.preventDefault();
+          const clickedPage = parseInt($(this).children('a').text());
+          showModLists(modIds, clickedPage); // Fetch and display data for clicked page
+        });
       }
     }
+    
 
     fetch('data/mods_id.json')
       .then(response => response.json())
       .then(data => {
         const totalItems = data.length;
-        const currentPage = 1;
+        const currentPage = 1; // Assuming initial page is 1
         showModLists(data, currentPage); // Fetch and display data for first page
 
         createPagination(totalItems, currentPage); // Create pagination based on total items
-
       })
       .catch(error => console.error(error));
                         </script>
-                    
+             
                 </div>
             </section>
             <section class="py-5 bg-light">
