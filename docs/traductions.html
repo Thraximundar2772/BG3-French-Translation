@@ -28,42 +28,24 @@
                     </div>
                     <div class="row gx-5">
                         <script>
-                        var modId = ['10081','9815'];
-                        modId.forEach(showModLists);
+                            fetch('mods_id.json')
+                            .then(response => response.json())
+                            .then(data => {
+                                // Now you have the array of IDs in the 'data' variable
+                                showModLists2(data); // Call the function with the data array
+                            })
+                            .catch(error => console.error(error));
 
-                        function showModLists(item, index) {
-                            var proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id='+ item);
-                            $.getJSON( proxyUrl, function( data ) {
-                                $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + data.picture_url + '"/><a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/' + data.domain_name + '/mods/' + item + '" target="_blank">'+ data.name +'</a></div></div>').appendTo( ".row.gx-5" );
+                            function showModLists2(modIds) {
+                            modIds.forEach(itemId => {
+                                const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id=';
+                                const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
+                                $.getJSON(proxyUrl, function(data) {
+                                $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + data.picture_url + '"/><a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/' + data.domain_name + '/mods/' + itemId + '" target="_blank">'+ data.name +'</a></div></div>').appendTo( ".row.gx-5" );
+                                });
                             });
-                        }
+                            }
                         </script>
-                        
-                        
-                        <!-- <div class="col-lg-4">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/10081/10081-1717447636-1823842781.png" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/9815/9815-1716629809-653488513.png" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/9815" target="_blank">Heart Of The Forest - Playable Dryad Race</a>
-                            </div>
-                        </div> -->
-                        <div class="col-lg-4">
-                            <div class="position-relative mb-5 mb-lg-0">
-                                <img class="img-fluid rounded-3 mb-3" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="#!" target="_blank">Project name</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="position-relative">
-                                <img class="img-fluid rounded-3 mb-3" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="#!" target="_blank">Project name</a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
