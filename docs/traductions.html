@@ -59,7 +59,7 @@
 
 function fetchDataAndCache(itemId) {
   const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
-  const expirationTime = Date.now() + (1000 * 60 * 60); // One hour in milliseconds
+  const expirationTime = Date.now() + (604800000); // 7d in milliseconds
 
   $.getJSON(proxyUrl, function(data) {
     localStorage.setItem(cacheKey, JSON.stringify(data)); // Cache retrieved data
