@@ -29,9 +29,10 @@
                     </div>
                     <div class="row gx-5">
                         <script>
-                            function showModLists(modIds) {
+                             const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
+
+function showModLists(modIds, baseUrl) {
   modIds.forEach(itemId => {
-    const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id=';
     const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
 
     // Check local storage for cached data
@@ -48,16 +49,16 @@
         displayModInfo(parsedData);
       } else {
         // Expired cache, fetch new data
-        fetchDataAndCache(itemId); // Call separate function to fetch and cache
+        fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
       }
     } else {
       // No cached data, fetch new data
-      fetchDataAndCache(itemId); // Call separate function to fetch and cache
+      fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
     }
   });
 }
 
-function fetchDataAndCache(itemId) {
+function fetchDataAndCache(itemId, baseUrl) {
   const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
   const expirationTime = Date.now() + (604800000); // 7d in milliseconds
 
@@ -83,7 +84,7 @@ function displayModInfo(data) {
 fetch('data/mods_id.json')
   .then(response => response.json())
   .then(data => {
-    showModLists(data); // Call the function with the data array
+    showModLists(data, baseUrl); // Call the function with the data array and baseUrl
   })
   .catch(error => console.error(error));
                         </script>
