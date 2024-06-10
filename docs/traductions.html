@@ -29,7 +29,7 @@
                     </div>
                     <div class="row gx-5">
                         <script>
-                             const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
+                            const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
 
 function showModLists(modIds, baseUrl) {
   modIds.forEach(itemId => {
@@ -38,27 +38,15 @@ function showModLists(modIds, baseUrl) {
     // Check local storage for cached data
     const cachedData = localStorage.getItem(cacheKey);
 
-    // Check if cached data exists and is still valid
-    if (cachedData) {
-      const parsedData = JSON.parse(cachedData);
-      const expirationTime = parseInt(localStorage.getItem(`${cacheKey}-expiration`)); // Retrieve expiration timestamp
+    // ... rest of the function logic
 
-      if (Date.now() < expirationTime) {
-        // Use cached data if it's valid (not expired)
-        console.log("Using cached data for mod", itemId);
-        displayModInfo(parsedData);
-      } else {
-        // Expired cache, fetch new data
-        fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
-      }
-    } else {
-      // No cached data, fetch new data
-      fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
-    }
+    fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
   });
 }
 
 function fetchDataAndCache(itemId, baseUrl) {
+  const cacheKey = `mod-${itemId}`; // Declare cacheKey here
+
   const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
   const expirationTime = Date.now() + (604800000); // 7d in milliseconds
 
