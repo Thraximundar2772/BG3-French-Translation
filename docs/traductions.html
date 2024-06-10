@@ -27,70 +27,105 @@
                         <h1 class="fw-bolder">Les derniers Mods Baldur's Gate 3 traduient en Français</h1>
                         <p class="lead fw-normal text-muted mb-0">Company portfolio</p>
                     </div>
-                    <div class="row gx-5">
+
+                    <div class="row gx-5"id="mod-container">
+   
                         <script>
-                            const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
+                             const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
+    const pageSize = 10; // Number of mods to display per page
 
-function showModLists(modIds, baseUrl) {
-  modIds.forEach(itemId => {
-    const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
+    function showModLists(modIds, currentPage) {
+      const startIndex = (currentPage - 1) * pageSize;
+      const endIndex = startIndex + pageSize - 1;
 
-    // Check local storage for cached data
-    const cachedData = localStorage.getItem(cacheKey);
+      const paginatedIds = modIds.slice(startIndex, endIndex + 1); // Get current page data
 
-    // Check if cached data exists and is still valid
-    if (cachedData) {
-          const parsedData = JSON.parse(cachedData);
-          const expirationTime = parseInt(localStorage.getItem(`${cacheKey}-expiration`)); // Retrieve expiration timestamp
+      paginatedIds.forEach(itemId => {
+        const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
 
-          if (Date.now() < expirationTime) {
-            // Use cached data if it's valid (not expired)
-            console.log("Using cached data for mod", itemId);
-            displayModInfo(parsedData);
-          } else {
-            // Expired cache, fetch new data
-            fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
-          }
-        } else {
-          // No cached data, fetch new data
-          fetchDataAndCache(itemId, baseUrl); // Pass baseUrl as an argument
-        }
+        // Check local storage for cached data
+    
+
+// Check if cached data exists and is still valid
+if (cachedData) {
+  const parsedData = JSON.parse(cachedData);
+  const expirationTime = parseInt(localStorage.getItem(`${cacheKey}-expiration`)); // Retrieve expiration timestamp
+
+  if (Date.now() < expirationTime) {
+    // Use cached data if it's valid (not expired)
+    console.log("Using cached data for mod", itemId);
+    displayModInfo(parsedData);
+  } else {
+    // Expired cache, fetch new data
+    fetchDataAndCache(itemId, baseUrl, cacheKey); // Pass baseUrl and cacheKey  // Call separate function to fetch and cache
+  }
+} else {
+  // No cached data, fetch new data
+  fetchDataAndCache(itemId, baseUrl, cacheKey); // Pass baseUrl and cacheKey // Call separate function to fetch and cache
+}
+});
+}
+
+
+
+    function fetchDataAndCache(itemId, baseUrl, cacheKey) {
+      const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
+      const expirationTime = Date.now() + (604800000); // 7d in milliseconds
+
+      $.getJSON(proxyUrl, function(data) {
+        localStorage.setItem(cacheKey, JSON.stringify(data)); // Cache retrieved data
+        localStorage.setItem(`${cacheKey}-expiration`, expirationTime); // Store expiration timestamp
+        displayModInfo(data); // Call function to display data after fetching
       });
     }
 
-function fetchDataAndCache(itemId, baseUrl) {
-  const cacheKey = `mod-${itemId}`; // Declare cacheKey here
+    function displayModInfo(data) {
+      const modHtml = `
+        <div class="col-lg-4">
+          <div class="position-relative mb-5">
+            <img class="img-fluid rounded-3 mb-3" src="${data.picture_url}" alt="${data.name}">
+            <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/${data.domain_name}/mods/${data.mod_id}" target="_blank">${data.name}</a>
+          </div>
+        </div>
+      `;
+      $(modHtml).appendTo("#mod-container"); // Append to specific container
+    }
 
-  const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
-  const expirationTime = Date.now() + (604800000); // 7d in milliseconds
+    function createPagination(totalItems, currentPage) {
+      const numPages = Math.ceil(totalItems / pageSize);
+      const paginationHtml = [];
 
-  $.getJSON(proxyUrl, function(data) {
-    localStorage.setItem(cacheKey, JSON.stringify(data)); // Cache retrieved data
-    localStorage.setItem(`${cacheKey}-expiration`, expirationTime); // Store expiration timestamp
-    displayModInfo(data); // Call function to display data after fetching
-  });
-}
+      if (numPages > 1) {
+        // Create pagination buttons
+        for (let i = 1; i <= numPages; i++) {
+          const activeClass = i === currentPage ? 'active' : '';
+          paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
+        }
 
-function displayModInfo(data) {
-  const modHtml = `
-    <div class="col-lg-4">
-      <div class="position-relative mb-5">
-        <img class="img-fluid rounded-3 mb-3" src="${data.picture_url}" alt="${data.name}">
-        <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/${data.domain_name}/mods/${data.mod_id}" target="_blank">${data.name}</a>
-      </div>
-    </div>
-  `;
-  $(modHtml).appendTo(".row.gx-5"); // Append the HTML to the desired container
-}
+        $('.pagination').empty().append(paginationHtml.join('')); // Update pagination content
 
-fetch('data/mods_id.json')
-  .then(response => response.json())
-  .then(data => {
-    showModLists(data, baseUrl); // Call the function with the data array and baseUrl
-  })
-  .catch(error => console.error(error));
+        // Handle pagination click events
+        $('.pagination li.page-item').click(function(e) {
+          e.preventDefault();
+          const clickedPage = parseInt($(this).children('a').text());
+          showModLists(modIds, clickedPage); // Fetch and display data for clicked page
+        });
+      }
+    }
+
+    fetch('data/mods_id.json')
+      .then(response => response.json())
+      .then(data => {
+        const totalItems = data.length;
+        const currentPage = 1; // Assuming initial page is 1
+        showModLists(data, currentPage); // Fetch and display data for first page
+
+        createPagination(totalItems, currentPage); // Create pagination based on total items
+      })
+      .catch(error => console.error(error));
                         </script>
                     </div>
+                    <ul class="pagination justify-content-center"></ul>
                 </div>
             </section>
             <section class="py-5 bg-light">
