@@ -1,4 +1,4 @@
-            - name: Fetch API Data
+name: Fetch API Data
   # You may pin to the exact commit or the version.
   # uses: JamesIves/fetch-api-data-action@43f30d66546a4fd460faa573502098b2765a3143
   uses: JamesIves/fetch-api-data-action@v2.4.0
