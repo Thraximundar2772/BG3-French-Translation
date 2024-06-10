@@ -115,10 +115,12 @@ if (cachedData) {
       }
     }
     
+    let modIds; // Declare modIds globally
 
     fetch('data/mods_id.json')
       .then(response => response.json())
       .then(data => {
+        modIds = data; // Assign fetched data to modIds
         const totalItems = data.length;
         const currentPage = 1; // Assuming initial page is 1
         showModLists(data, currentPage); // Fetch and display data for first page
