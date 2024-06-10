@@ -1,4 +1,5 @@
-            - name: saveModName
+---
+name: saveModName
   # You may pin to the exact commit or the version.
   # uses: gautemo/fetch-api-data-action@ed9ce6fcc970ba9c38bff4ec1332ed3b88a689dd
   uses: gautemo/fetch-api-data-action@1.1.0
@@ -7,3 +8,4 @@
     url: 
     # location and filename
     file: # optional, default is actions/data.json
+...
