@@ -34,10 +34,7 @@
                         function showModLists(item, index) {
                             var proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent('https://cg.apiporn.xyz/nexus.php?mod_id='+ item);
                             $.getJSON( proxyUrl, function( data ) {
-                                $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + data.picture_url + '"/>').appendTo( ".row.gx-5" );
-                                $('<a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/' + data.domain_name + '/mods/' + item + '" target="_blank">'+ data.name +'</a>').appendTo( ".row.gx-5" );
-                                $('</div>').appendTo( ".row.gx-5" );
-                                $('</div>').appendTo( ".row.gx-5" );
+                                $('<div class="col-lg-4">' + '<div class="position-relative mb-5">' + '<img class="img-fluid rounded-3 mb-3" src="' + data.picture_url + '"/><a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/' + data.domain_name + '/mods/' + item + '" target="_blank">'+ data.name +'</a></div></div>').appendTo( ".row.gx-5" );
                             });
                         }
                         </script>
