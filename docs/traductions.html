@@ -35,11 +35,12 @@
                              const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
     const pageSize = 10; // Number of mods to display per page
 
-    function showModLists(modIds, currentPage) {
-      const startIndex = (currentPage - 1) * pageSize;
-      const endIndex = startIndex + pageSize - 1;
+    function showModLists(modIds, clickedPage) {
+  const startIndex = (clickedPage - 1) * pageSize;
+  const endIndex = startIndex + pageSize - 1;
 
-      const paginatedIds = modIds.slice(startIndex, endIndex + 1); // Get current page data
+  const paginatedIds = modIds.slice(startIndex, endIndex + 1); // Get data for clicked page
+
 
       paginatedIds.forEach(itemId => {
         const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
@@ -108,9 +109,9 @@ if (cachedData) {
 
         // Handle pagination click events
         $('.pagination li.page-item').click(function(e) {
-          e.preventDefault();
-          const clickedPage = parseInt($(this).children('a').text());
-          showModLists(modIds, clickedPage); // Fetch and display data for clicked page
+            e.preventDefault();
+            const clickedPage = parseInt($(this).children('a').text());
+            showModLists(modIds, clickedPage); // Pass clickedPage as the second argument
         });
       }
     }
