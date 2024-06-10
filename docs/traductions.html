@@ -94,28 +94,28 @@ if (cachedData) {
       $(modHtml).appendTo("#mod-container"); // Append to specific container
     }
 
+  
     function createPagination(totalItems, currentPage) {
       const numPages = Math.ceil(totalItems / pageSize);
       const paginationHtml = [];
-
+ 
       if (numPages > 1) {
         // Create pagination buttons
         for (let i = 1; i <= numPages; i++) {
-          const activeClass = i === currentPage ? 'active' : '';
-          paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
+          const activeClass = i === currentPage ? 'active' : ''; // Set 'active' class for current page
+          paginationHtml.push(`<li class="page-item <span class="math-inline">\{activeClass\}"\><a class\="page\-link" href\="\#"\></span>{i}</a></li>`);
         }
 
         $('.pagination').empty().append(paginationHtml.join('')); // Update pagination content
 
         // Handle pagination click events
-        $('.pagination li.page-item').click(function(e) {
-            e.preventDefault();
-            const clickedPage = parseInt($(this).children('a').text());
-            showModLists(modIds, clickedPage); // Pass clickedPage as the second argument
+        <span class="math-inline">\('\.pagination li\.page\-item'\)\.click\(function\(e\) \{
+e\.preventDefault\(\);
+const clickedPage \= parseInt\(</span>(this).children('a').text());
+          showModLists(modIds, clickedPage); // Pass clickedPage as the second argument
         });
       }
-    }
-    
+
     let modIds; // Declare modIds globally
 
     fetch('data/mods_id.json')
