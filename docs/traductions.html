@@ -44,7 +44,8 @@
         const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
 
         // Check local storage for cached data
-    
+    // Check local storage for cached data
+    const cachedData = localStorage.getItem(cacheKey);
 
 // Check if cached data exists and is still valid
 if (cachedData) {
