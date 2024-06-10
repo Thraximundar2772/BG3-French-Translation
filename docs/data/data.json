@@ -1,0 +1,15 @@
+{
+  "team":[
+    {"id":"1", "real":"kusanagi942", "pseudo":"Kusanagi", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"2", "real":"Ballzehh", "pseudo":"Ballzehh", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"3", "real":"valgunn", "pseudo":"Valgunn", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"4", "real":"sewayn", "pseudo":"Sewayn", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"5", "real":"fenrules", "pseudo":"Fenrules", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"6", "real":"Anklem", "pseudo":"Anklem", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"7", "real":"Sinistr", "pseudo":"Sinistr", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"9", "real":"Thraximundar2772", "pseudo":"Thraximundar", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"10", "real":"", "pseudo":"", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"11", "real":"", "pseudo":"", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" },
+    {"id":"12", "real":"", "pseudo":"", "teamDescription":"", "teamTwitter":"", "teamDiscord":"", "teamLinkedin":"" }
+  ]
+}

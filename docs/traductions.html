@@ -5,13 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Modern Business - Communauté des Traducteurs Francophones</title>
+        <title>Communauté des Traducteurs Francophones - Nos Traductions</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
+        <meta http-equiv="Cache-Control" content="max-age=3600">
         <link href="css/styles.css" rel="stylesheet" />
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
         <script src="js/scripts.js"></script>
     </head>
     <body class="d-flex flex-column h-100">
@@ -22,35 +24,119 @@
             <section class="py-5">
                 <div class="container px-5 my-5">
                     <div class="text-center mb-5">
-                        <h1 class="fw-bolder">Our Work</h1>
+                        <h1 class="fw-bolder">Les derniers Mods Baldur's Gate 3 traduient en Français</h1>
                         <p class="lead fw-normal text-muted mb-0">Company portfolio</p>
                     </div>
-                    <div class="row gx-5">
-                        <div class="col-lg-4">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/10081/10081-1717447636-1823842781.png" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/10081" target="_blank">Summon Boo the bunny pet</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-3 mb-3" src="https://staticdelivery.nexusmods.com/mods/3474/images/thumbnails/9815/9815-1716629809-653488513.png" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/baldursgate3/mods/9815" target="_blank">Heart Of The Forest - Playable Dryad Race</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="position-relative mb-5 mb-lg-0">
-                                <img class="img-fluid rounded-3 mb-3" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="#!" target="_blank">Project name</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="position-relative">
-                                <img class="img-fluid rounded-3 mb-3" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." />
-                                <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="#!" target="_blank">Project name</a>
-                            </div>
-                        </div>
-                    </div>
+
+                    <div class="row gx-5" id="mod-container">       </div>
+                    <ul class="pagination justify-content-center"></ul>
+   
+                        <script>
+                             const baseUrl = 'https://cg.apiporn.xyz/nexus.php?mod_id='; // Define baseUrl globally
+    const pageSize = 10; // Number of mods to display per page
+
+    function showModLists(modIds, clickedPage) {
+  const startIndex = (clickedPage - 1) * pageSize;
+  const endIndex = startIndex + pageSize - 1;
+
+  const paginatedIds = modIds.slice(startIndex, endIndex + 1); // Get data for clicked page
+
+
+      paginatedIds.forEach(itemId => {
+        const cacheKey = `mod-${itemId}`; // Unique key for each mod ID
+
+        // Check local storage for cached data
+    // Check local storage for cached data
+    const cachedData = localStorage.getItem(cacheKey);
+
+// Check if cached data exists and is still valid
+if (cachedData) {
+  const parsedData = JSON.parse(cachedData);
+  const expirationTime = parseInt(localStorage.getItem(`${cacheKey}-expiration`)); // Retrieve expiration timestamp
+
+  if (Date.now() < expirationTime) {
+    // Use cached data if it's valid (not expired)
+    console.log("Using cached data for mod", itemId);
+    displayModInfo(parsedData);
+  } else {
+    // Expired cache, fetch new data
+    fetchDataAndCache(itemId, baseUrl, cacheKey); // Pass baseUrl and cacheKey  // Call separate function to fetch and cache
+  }
+} else {
+  // No cached data, fetch new data
+  fetchDataAndCache(itemId, baseUrl, cacheKey); // Pass baseUrl and cacheKey // Call separate function to fetch and cache
+}
+});
+}
+
+
+
+    function fetchDataAndCache(itemId, baseUrl, cacheKey) {
+      const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(baseUrl + itemId);
+      const expirationTime = Date.now() + (604800000); // 7d in milliseconds
+
+      $.getJSON(proxyUrl, function(data) {
+        localStorage.setItem(cacheKey, JSON.stringify(data)); // Cache retrieved data
+        localStorage.setItem(`${cacheKey}-expiration`, expirationTime); // Store expiration timestamp
+        displayModInfo(data); // Call function to display data after fetching
+      });
+    }
+
+    function displayModInfo(data) {
+      const modHtml = `
+        <div class="col-lg-4">
+          <div class="position-relative mb-5">
+            <img class="img-fluid rounded-3 mb-3" src="${data.picture_url}" alt="${data.name}">
+            <a class="h4 fw-bolder text-decoration-none link-dark stretched-link" href="https://www.nexusmods.com/${data.domain_name}/mods/${data.mod_id}" target="_blank">${data.name}</a>
+          </div>
+        </div>
+      `;
+      $(modHtml).appendTo("#mod-container"); // Append to specific container
+    }
+
+  
+    function createPagination(totalItems, currentPage) {
+  const numPages = Math.ceil(totalItems / pageSize);
+  const paginationHtml = [];
+
+  if (numPages > 1) {
+    // Create pagination buttons
+    for (let i = 1; i <= numPages; i++) {
+      const activeClass = i === currentPage ? 'active' : ''; // Set 'active' class for current page
+
+      paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
+    }
+
+    $('.pagination').empty().append(paginationHtml.join('')); // Update pagination content
+
+    // Handle pagination click events
+    $('.pagination li.page-item').click(function(e) {
+      e.preventDefault();
+      const clickedPage = parseInt($(this).children('a').text());
+
+      // Filter modIds based on clicked page
+      const filteredModIds = modIds.slice((clickedPage - 1) * pageSize, clickedPage * pageSize);
+
+      showModLists(filteredModIds, clickedPage); // Pass filtered data and clicked page
+    });
+  }
+}
+
+    let modIds; // Declare modIds globally
+
+    fetch('data/mods_id.json')
+      .then(response => response.json())
+      .then(data => {
+        modIds = data; // Assign fetched data to modIds
+        const totalItems = data.length;
+        const currentPage = 1; // Assuming initial page is 1
+        showModLists(data, currentPage); // Fetch and display data for first page
+
+        createPagination(totalItems, currentPage); // Create pagination based on total items
+      })
+      .catch(error => console.error(error));
+                        </script>
+             
                 </div>
             </section>
             <section class="py-5 bg-light">
