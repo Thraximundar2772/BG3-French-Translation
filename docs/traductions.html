@@ -104,11 +104,7 @@ if (cachedData) {
     for (let i = 1; i <= numPages; i++) {
       const activeClass = i === currentPage ? 'active' : ''; // Set 'active' class for current page
 
-      // Use template literals (recommended) for cleaner string construction
       paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
-
-      // Alternatively, escape the opening angle bracket (`<`) with backslashes
-      // paginationHtml.push(`<li class="page-item ${activeClass}"><a class="page-link" href="#">${i}</a></li>`);
     }
 
     $('.pagination').empty().append(paginationHtml.join('')); // Update pagination content
@@ -117,7 +113,11 @@ if (cachedData) {
     $('.pagination li.page-item').click(function(e) {
       e.preventDefault();
       const clickedPage = parseInt($(this).children('a').text());
-      showModLists(modIds, clickedPage); // Pass clickedPage as the second argument
+
+      // Filter modIds based on clicked page
+      const filteredModIds = modIds.slice((clickedPage - 1) * pageSize, clickedPage * pageSize);
+
+      showModLists(filteredModIds, clickedPage); // Pass filtered data and clicked page
     });
   }
 }
