@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h5a9b0e8bg6afbg42ccga1a4g7e61743a4193" version="1">Chevalier de l'écho</content>
+	<content contentuid="hed698e77gc418g4a7dg8d9dg41a464c2138a" version="1">Guerrier de première ligne mystérieux et redouté de la dynastie Kryn, l'Echo Knight a maîtrisé l'art d'utiliser les dunamis pour invoquer les nuances décolorées des délais non réalisés pour les aider au combat. Entourés des échos de leur propre puissance, ils chargent dans la mêlée comme un essaim d'ombres et de frappes.</content>
+	<content contentuid="he6795c01g7450g47a0gba8cg7a9f7b1c675b" version="1">Écho manifeste</content>
+	<content contentuid="h9d1a3decg71b5g4323gba37g9416d670f288" version="1">Vous pouvez manifester un Écho de votre propre puissance pour vous aider au combat. Vous pouvez attaquer depuis l'emplacement de l'Écho ou échanger votre place avec lui.&lt;br&gt;&lt;br&gt;L'Écho est immunisé contre toutes les altérations, les terrains et la plupart des sorts, mais n'a qu'1 &lt;LSTag Tooltip="HitPoints"&gt;Point de Vie&lt;/LSTag&gt;. Il sera détruit si vous êtes &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapable d’agir&lt;/LSTag&gt; ou si vous terminez un tour à plus de [1] de lui.</content>
+	<content contentuid="h9b371795gdb37g4dcag9c89g5c935be2c74e" version="1">Manifestez un Écho pour vous aider au combat.</content>
+	<content contentuid="hd5254351g9062g42b9g8739ge8f6a957f8c7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; L'Écho sera détruit si vous êtes &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;incapable d’agir&lt;/LSTag&gt;.</content>
+	<content contentuid="hbb6c91d5g0409g4ce2g89c8ga6e4bf69b411" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Les immunités aux sorts nécessitent &lt;LSTag Type="Status" Tooltip="DWE_EK_OCS_MISSING_TOOLTIP"&gt;OCS&lt;/LSTag&gt;.</content>
+	<content contentuid="h241762b2gc26eg4857g94f7g32909b4612f6" version="1">Support de Caractère Objet</content>
+	<content contentuid="h828c946dge106g44fag8f96gbf3a1263ba80" version="1">Le mod &lt;b&gt;Support de Caractère Objet&lt;/b&gt; est nécessaire pour que l'Écho soit traité comme un &lt;i&gt;objet&lt;/i&gt; de DnD. Sans OCS, l'Écho interagira avec moins de sorts et de fonctionnalités de classe que prévu, mais fonctionnera toujours.&lt;br&gt;&lt;br&gt;Si vous voyez ce message, cela signifie que l'OCS n'est pas correctement installé.</content>
+	<content contentuid="h30c705ddgc5c4g463fga047g18652a5b6dbd" version="1">Image</content>
+	<content contentuid="h8c70b5e1g3d81g4fcega895gcfbc3229b404" version="1">Une image magique.</content>
+	<content contentuid="hebf03552g80a2g45c4gbe8cg784b0574f5f8" version="1">Écho du chevalier</content>
+	<content contentuid="h9219c22bga1e1g4f51g9a63gca678baf51b3" version="1">Une image magique d'un Chevalier de l'Écho.</content>
+	<content contentuid="h34b95aeege61bg46d3g8bbcg1f65de85dda8" version="1">Libérez l'incarnation</content>
+	<content contentuid="h008cabf6gfca4g4884gb3c9gd00e43b5538a" version="1">Après avoir pris l'&lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;Attaquer, vous pouvez effectuer une attaque supplémentaire au corps à corps depuis l'emplacemennt de l'Écho.</content>
+	<content contentuid="h9fa514b3g81eag4418gb01cg21d5d6ec32f2" version="1">Débloquez une attaque supplémentaire au corps à corps, à effectuer depuis l'emplacemennt de l'Écho.</content>
+	<content contentuid="hc4a604c6g1200g4bdeg98bcg21880313e627" version="1">Vous pouvez effectuer une attaque supplémentaire au corps à corps depuis l'emplacemennt de l'Écho.</content>
+	<content contentuid="h6b0ea288gb7ecg4f28g9052g461fc2989e49" version="1">Le nombre de fois que vous pouvez effectuer une attaque supplémentaire au corps à corps après avoir pris l'&lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;Attaquer,.&lt;br&gt;&lt;br&gt;Correspond à votre modificateur de Constitution.</content>
+	<content contentuid="h7268fffeg7495g4dafg8980g9f4a5f8807bc" version="1">Martyr des Ombres</content>
+	<content contentuid="h59437fdag3b2ag46adg8505g100753cbe71e" version="1">En tant que &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;réaction&lt;/LSTag&gt;, vous pouvez téléporter votre Écho pour intercepter une attaque visant une autre cible.</content>
+	<content contentuid="h0a5ccee8g6b8ag4ef0ga4f4g8de71393855e" version="1">Téléportez votre Écho pour intercepter une attaque visant une autre cible.</content>
+	<content contentuid="h8cbf80fcg5fc9g4d6agbd43g37df92092d6c" version="1">Le &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; est effectué contre l'Écho à la place.</content>
+	<content contentuid="h525cbebegc42cg408bg97a4g40d4e3c143db" version="1">Potentiel de récupération</content>
+	<content contentuid="h413dd0c3gdccfg40bag892fg49ff8c3312d9" version="1">Lorsque votre Écho est détruit en subissant des dégâts, vous pouvez absorber [1] de lui.</content>
+	<content contentuid="h60233551g4de9g43a3gbf92g73fffcf3c56b" version="1">Absorbez [1] de votre Écho détruit.</content>
+	<content contentuid="h34f6d974g57b5g462cg9b2eg16a863e14726" version="1">Votre Écho a été détruit en subissant des dégâts et peut être utilisé comme source de &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt;.</content>
+	<content contentuid="ha8a95eacgaf90g4bdfg98fag4b1a24c6b27b" version="1">Le nombre de fois que vous pouvez absorber des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;points de vie temporaires&lt;/LSTag&gt; d'un Écho détruit.&lt;br&gt;&lt;br&gt;Correspond à votre modificateur de Constitution.</content>
+	<content contentuid="h834e0f36gf0c2g4229ga97age952be8c0f74" version="1">Potentiel de récupération</content>
+	<content contentuid="h023fd157gd44eg4d36g850cg3e606884fe2e" version="1">&lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt; absorbés d'un Écho détruit.</content>
+	<content contentuid="h5db61ab2gc008g4382gaeb0g1dc6717ae559" version="1">Hors de portée</content>
+	<content contentuid="h46d2ef02g6e58g46fdgbb7dg0cad9da5de6a" version="1">L'Écho sera détruit s'il reste à plus de [1] du Chevalier à la fin du tour.</content>
+	<content contentuid="hf0ee2608ga465g4c33gbf0cgb439f99bc513" version="1">Se déplacer hors de portée</content>
+	<content contentuid="h86a9b7aegc852g4dddgb9bdge4f7d127fef9" version="1">Supprimez la limite de portée pour &lt;LSTag Type="Spell" Tooltip="Target_DWE_EK_OrderMove"&gt;Déplacer l'Écho&lt;/LSTag&gt;.</content>
+	<content contentuid="h1c1db595g6e56g4f2egb710g72ee900bfa88" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; L'Écho est détruit s'il est &lt;LSTag Type="Status" Tooltip="DWE_EK_ECHO_RANGE_OUT"&gt;hors de portée&lt;/LSTag&gt; à la fin du tour.</content>
+	<content contentuid="h462472fegf707g490bgaba0g281ad6733ace" version="1">Échanger les places</content>
+	<content contentuid="hed055494gc2c1g47ffg969eged07fd1dded5" version="1">Téléportez-vous pour échanger les places avec votre Écho à n'importe quelle portée.</content>
+	<content contentuid="h564b0bacg46dfg4b1ag85beg7d711831d3fe" version="1">Attaquer près de l'Écho</content>
+	<content contentuid="h7f12800dg3b66g4c94gbb1bgcabd8c8c47e1" version="1">Effectuez des attaques au corps à corps sur des cibles près de votre Écho à n'importe quelle portée.</content>
+	<content contentuid="hfe216e49gcb25g4867g841dg6a4710eccbbe" version="1">Vos actions d'&lt;i&gt;Attaque&lt;/i&gt; &lt;LSTag Tooltip="Action"&gt;au corps à corps&lt;/LSTag&gt; peuvent toucher des cibles autour de votre Écho à n'importe quelle portée.</content>
+	<content contentuid="hf4322b0dgd09cg4fe8g96efgac7fc70b091c" version="1">N'affecte que les actions d'&lt;i&gt;Attaque&lt;/i&gt; &lt;LSTag Tooltip="Action"&gt;au corps à corps&lt;/LSTag&gt;. Désactive les autres sorts et actions de mêlée.</content>
+	<content contentuid="hbeef18degdf60g41fbgb531g37b353f53b02" version="1">N'affecte que les actions d'&lt;i&gt;Attaque&lt;/i&gt; &lt;LSTag Tooltip="Action"&gt;au corps à corps&lt;/LSTag&gt;.</content>
+	<content contentuid="ha7079e60g06ebg41fdgb30ag60b3184e7f1a" version="1">Près de l'Écho</content>
+	<content contentuid="h151c12efg26f6g4ce4gbd51gc8adb721c6c1" version="1">Peut être ciblé par les attaques au corps à corps du Chevalier à n'importe quelle portée.</content>
+	<content contentuid="h5da77ec6g33cag4c57g9f2fg4a66595979b8" version="1">Pas près de votre Écho.</content>
+	<content contentuid="hbc7c76d4g24fbg4482g8b9ag9de30a179b83" version="1"></content>
+	<content contentuid="h7ac0eca1g9cddg40fagb99dgbb1be1e9fb67" version="1">Contrôler l'Écho</content>
+	<content contentuid="hd38d3cbfg0f6ag44fdg8136g35e53fccec74" version="1">Habitez votre Écho pour attaquer depuis son emplacement.</content>
+	<content contentuid="h5b27b99cgd1c0g4926g9b5cg0cc91d1923df" version="1">Revenez à vous-même en activant à nouveau, ou à la fin du tour.</content>
+	<content contentuid="h5d7d4bbag08afg4256g9d10g6b73fc839d55" version="1">Contrôler l'Écho</content>
+	<content contentuid="h016f559ag0b5dg4222ga55fgcecf44492766" version="1">Vous pouvez utiliser des actions d'&lt;i&gt;Attaque&lt;/i&gt; &lt;LSTag Tooltip="Action"&gt;depuis l'emplacement de votre Écho&lt;/LSTag&gt;.</content>
+	<content contentuid="h43eef569g5eceg470fg9834gc1aa76bcc065" version="1">Déplacer l'Écho</content>
+	<content contentuid="he86e452ag4343g4330ga7bbg3bce98f2fa3c" version="1">Ordonnez à votre Écho de se déplacer, en utilisant sa propre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;.</content>
+	<content contentuid="ha041978bg7825g4d35g95f4g2d3485c0e4a9" version="1">Pointez plutôt vers l'endroit le plus proche que l'Écho peut atteindre si son mouvement est insuffisant.</content>
+	<content contentuid="h73969ce8g9df1g4866g830ag25b028d93525" version="1">Attaque de l'Écho</content>
+	<content contentuid="h6fac27a9g3c17g4e95ga75dg9be8b587299d" version="1">Assistez à une attaque du Chevalier.</content>
+	<content contentuid="h7cb25097gd2ebg4e0ag8cb0gd9380339858b" version="1">Attaque d'opportunité de l'Écho</content>
+	<content contentuid="hc0f7b2cbgcdd9g40dcgaaf6ga1e7a1e44968" version="1">Attaquez un ennemi qui sort de la portée de votre Écho.</content>
+	<content contentuid="hcc77672eg619ag41cbgb296g27f9c9d47e32" version="1">Renvoyer l'Écho</content>
+	<content contentuid="h8a3013cag9f78g46d4gbf27g90c6298c4892" version="1">Renvoyez du service du Chevalier.</content>
+	<content contentuid="h8455b4dcga8cag42bbga040g10a93f2750d9" version="1">Ne peut pas être utilisé depuis l'emplacement de l'Écho.</content>
+	<content contentuid="h5cbef942g88b5g4cb0gbf0agb3465fbcd915" version="1">Mouvement de l'Écho</content>
+	<content contentuid="h6ce1784cgef80g42fbgada7g010d15e28661" version="1">La durée est la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; restante de l'Écho, en décimètres.</content>
+	<content contentuid="h4444bc74g88b6g454fgb8b0gd5fb4025a035" version="1">Réserve de Mouvement</content>
+	<content contentuid="h4e071bb2g2841g4de0gb938g062ee33ec274" version="1">Réservez suffisamment de &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; pour &lt;LSTag Type="Spell" Tooltip="Shout_DWE_EK_Swap"&gt;échanger de place&lt;/LSTag&gt; avec votre Écho jusqu'à ce que le reste soit utilisé.</content>
+	<content contentuid="h537c5bb0g8b5cg495ega628gc33cde43ffab" version="1">Réservé</content>
+	<content contentuid="h8dcc67fcg2e07g46deg8652g8b9a088745b4" version="1">[1] de &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est retenu.</content>
+	<content contentuid="h01234e5agcf78g4ca3ga7e1g69543c9304ad" version="1">Activer/Désactiver le casque</content>
+	<content contentuid="hdb1d50f0g9b3cg4aa7g9392ge4b85181a80b" version="1">Équiper ou déséquiper le casque.</content>
+	<content contentuid="h0a334dbbg9c8eg43b4g9053g92d0ebf5dc65" version="1">Impossible avec Gardiens de l'Esprit.</content>
+	<content contentuid="h6e6b0928ge089g4fbdg9269gba09bb57ee5b" version="1">Impossible d'être aveuglé.</content>
+	<content contentuid="hdb8eab92g7424g4579ga06ag4a9723e43ccc" version="1">Impossible d'être entravé.</content>
+	<content contentuid="hb8773a5agfba6g486cg8693gcdd3a98327e3" version="1">Impossible d'être à terre.</content>
+	<content contentuid="h1af5e623g0f4cg4b45g9a5eg0995ab0394f0" version="1">Impossible d'être polymorphé.</content>
+	<content contentuid="h43b32ca8g6ff5g4c55g8a9dg98a5f073ebab" version="1">Impossible d'être réduit au silence.</content>
+	<content contentuid="hb349bf14gb928g48d8gb9f0g1e1f2a6a9e1b" version="1">Nécessite un Écho actif.</content>
+	<content contentuid="hea559251g4d93g47bdgbcbdg18c97a84fb5b" version="1">Disponible lors de votre tour.</content>
+	<content contentuid="h1cc7f881g5786g461egb1f1g509d724374b1" version="1">Impossible de contrôler l'Écho.</content>
+	<content contentuid="ha932c3e2ge749g47e1g90d7g73b1544ab9bc" version="1">Écho est à court de mouvement.</content>
+	<content contentuid="hfee01ef5g68a0g44e9gb6aag0ba5764e550d" version="1">Aucune action d'attaque disponible.</content>
+	<content contentuid="hb7d67c91ga935g4c36ga9ddg374f045c6706" version="1">Disponible après avoir attaqué.</content>
+	<content contentuid="hecf450e2gcd43g40ddgbabfg9a74014eba18" version="1">Doit prendre un Repos Long.</content>
+	<content contentuid="h14ba0af9gfa06g454cg95d8gef71f13f657e" version="1">Doit prendre un Repos Court.</content>
+	<content contentuid="ha62f4594gad8bg4328ga81egeb3bc563452b" version="1">Ne peut pas avoir de points de vie temporaires.</content>
+	<content contentuid="hc6f9b5e0g6abbg4343gba32g298e4419b170" version="1">&lt;b&gt;Nécessite l'Extension de Script !&lt;/b&gt;&lt;br&gt;Si déjà installé, activez sa console et vérifiez les erreurs là-bas.</content>
+	<content contentuid="h86f75ef3gf56cg4164gbc59g4859bfb4b2c7" version="1">Nécessite le fichier optionnel Echo Knight War Caster.</content>
+	<content contentuid="h8f7cdd5eg8b6ag43d3gb567g141081113d09" version="1">Nécessite une arme d'hast équipée.</content>
+	<content contentuid="hfe0d8321gb433g4a86gb9f7gfcc27b544535" version="1">Arme avec portée supplémentaire équipée.</content>
+	<content contentuid="h79edd02cgd9dfg4a80g831cg0d6efcbe5fcd" version="1">Bonus de maîtrise : 2</content>
+	<content contentuid="hfc26ce08gd2a0g43cfg914agf3aaa901c895" version="1">Bonus de maîtrise : 3</content>
+	<content contentuid="h0c7e7b26gde33g4547g9c5cg1a066dc4d8f1" version="1">Bonus de maîtrise : 4</content>
+	<content contentuid="hfdf2c2fagf635g4e1fg85b8gc7a2979dc08c" version="1">Bonus de maîtrise : 5</content>
+	<content contentuid="h5db49cb3gdc57g4a8bg891dg6c8120a2929b" version="1">Bonus de maîtrise : 6</content>
+	<content contentuid="hf698f27bgd121g435ag8e17ge93b5325d7fe" version="1">L'Écho a un bonus de maîtrise [1] et une CA [2].</content>
+	<content contentuid="h4e0ea77egd29cg48f8ga2cbg5f373761d344" version="1">Anneau du Martyr de l'Ombre</content>
+	<content contentuid="had8944ddg841ag4c9cgaf4cgfd91401b6e8b" version="1">Accorde la fonctionnalité Martyr de l'Ombre, pour tests ou triche.</content>
+	<content contentuid="h5068198fg3c6fg4476g89b5g5c56793041a6" version="1">Anneau du Potentiel de récupération</content>
+	<content contentuid="h4626561fge1ecg4d0cg92bcg684fd7b1417a" version="1">Accorde la fonctionnalité Potentiel de récupération, pour tests ou triche.</content>
+</contentList>
