@@ -201,20 +201,6 @@
         </script>
         <script type="module" src="js/index.js">
         </script>
-        <script>
-const frame = document.getElementById("loop");
-data.map((element) => {
-  console.log(element);
-  let newDiv = document.createElement("div");
-  newDiv.id = element.id;
-  newDiv.className = "card";
-  newDiv.innerHTML = `
-    <h2>${element.name}</h2>
-    <p>${element.desc}</p>
-    <button class="btn">Lets See</button>`;
-  frame.appendChild(newDiv);
-});
-        </script>
         <script src="js/scripts.js"></script>
     </body>
 </html>
