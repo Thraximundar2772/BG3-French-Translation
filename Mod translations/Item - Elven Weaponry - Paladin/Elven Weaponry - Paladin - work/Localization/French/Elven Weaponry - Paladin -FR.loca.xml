@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h2b3d889cg7cc4g47c7gba4cg5dd98a1d88f8" version="1">Seul le digne pourra l'ouvrir</content>
+	<content contentuid="hf4116b19g2895g4110g9509g5a0d76d3b853" version="1">"Que nos flèches volent vite, que nos lames frappent juste, que nos sorts frappent nos ennemis et nous protègent du mal. Comme le veulent les Seldarines." - Fenthariel Fireborn, avant la bataille d'Aslanfell</content>
+	<content contentuid="h5e68d9c8g28d1g4f30ga661g15f67cf1d9f3" version="1">"N'ayez pas peur mes frères, car aujourd'hui les Seldarines nous regardent." - Annarielle l'Étoile de l'Aube, paladin de Corellon</content>
+	<content contentuid="h191bc927g5466g4996g906dgdf7ca9513fc2" version="1">"La force de Corellon, la beauté de Hannalli, la joie d'Aerali... La fierté de mon cœur, adieu mon enfant." - Dernières paroles d'Annarielle l'Étoile de l'Aube</content>
+	<content contentuid="h39b6a364g3dc2g4725gbee2g3032be9dc583" version="1">"Soyez fiers, car aujourd'hui nous defendons le sol où reposent nos ancêtres." - Raggar l'Éclairé, bénédiction d'Aslanfell</content>
+	<content contentuid="h20d18aedg3349g4cb3g8801g76fb115b6fd6" version="1">"Un carquois béni? Je suppose que si tout ce que vous avez à faire est d'appeler à l'aide un être surnaturel au lieu de passer des années et des années à étudier, vous pouvez enchanter n'importe quel objet sans valeur. Au moins je ne suis lié à aucun stupide serment." - Annelace Stormchild, magicien Moonranger</content>
+	<content contentuid="ha4568949g4f67g4a06g8ae5ge358bf8819c2" version="1">"Combattez les adeptes de la Reine Araignée où qu'ils se trouvent." - Commandement du Cœur Ardent</content>
+	<content contentuid="h6169e19bgbc9fg4842gb979g9c4be17dd5bc" version="1">"Suivez les échos de la magie perdue, des sites oubliés et de l'art ancien, car en eux se trouvent les premières œuvres du Cœur Ardent." - Commandement du Cœur Ardent</content>
+	<content contentuid="h7db2db03g4997g484aga4f2g07406a636fe3" version="1">"Créez, inspirez et trouvez la beauté dans tout ce que vous faites." - Commandement du Cœur Ardent</content>
+	<content contentuid="hb23851b4gb64dg4e62g9b70g4bfe5bba3577" version="1">Coffre Sacré</content>
+	<content contentuid="ha4521dd8gc8bcg4639gb5c1gdf5aa88c9a73" version="1">Armure Sainte Elfique</content>
+	<content contentuid="h70bd3cecgef00g4c96gb9ebg9fb66253d006" version="1">Casque Saint Elfique</content>
+	<content contentuid="h8a73e258g1173g405fg84bbgde0243970cdf" version="1">Avec Cheveux</content>
+	<content contentuid="h6bafad39g833cg498egbde5g75a1b4f785f4" version="1">Cheveux par Défaut</content>
+	<content contentuid="ha03bf112ge483g4ba2gbb03gdb7b04b3ebf0" version="1">Capuche</content>
+	<content contentuid="h7c7ea51fgbc7bg4e4bg82c1g34d82695fc0f" version="1">Gants Saints Elfiques</content>
+	<content contentuid="h1555a185gb487g4aabg9993gf79c916f4cf6" version="1">Bottes Saintes Elfiques</content>
+	<content contentuid="hc11f2e18g01aag412ag9015g52410559ea60" version="1">Lame Sainte Elfique</content>
+	<content contentuid="h572b82c7gd182g4a4agaf55gacd3fbec4ff4" version="1">Bouclier Lourd Elfique</content>
+	<content contentuid="h0951d4aag6fe6g44ecgb72bg0b1d1e120ac0" version="1">Bouclier Saint Elfique</content>
+	<content contentuid="hcd65c3d3g145fg4eb5g81f7gb41e4fe678e8" version="1">Maître d'arme</content>
+	<content contentuid="h885cac5fgb6e8g4057ga476g6b3f806a8f30" version="1">Cette arme peut être changée entre polyvalente et à une main à tout moment. (Utilisez le basculement passif pour cela)</content>
+	<content contentuid="h11b2cc45g38b5g448cg8bd9gc8194f052f18" version="1">Coup de Bouclier</content>
+	<content contentuid="h8c6efe18ga806g4874g87c7g0fb1874d36e9" version="1">Coup de Bouclier (à Terre)</content>
+	<content contentuid="hc1fca8d6g6b2dg4983g89ffg9a4d36ceeeeb" version="1">Coup de Bouclier (Repousser)</content>
+	<content contentuid="hb41beca6g28c8g42a5ga5a8gd7dfd3e95625" version="1">Frappez un adversaire avec votre bouclier pour le repousser.</content>
+	<content contentuid="h24932f97g0850g47degbb76g67cc4910ae59" version="1">Frappez un adversaire avec votre bouclier pour le mettre &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à Terre&lt;/LSTag&gt; ou le repousser.</content>
+	<content contentuid="h0a6d9b68g9b39g454fgb960g000a75991929" version="1">Frappez un adversaire avec votre bouclier pour le mettre &lt;LSTag Type="Status" Tooltip="PRONE"&gt;à Terre&lt;/LSTag&gt;.</content>
+	<content contentuid="h73b6dd1dg90d7g4bf3g849age356871f4a40" version="1">Carquois Saint Elfique</content>
+	<content contentuid="hba619f50g494eg4515gad97gea98b910c397" version="1">Arc Long Saint Elfique</content>
+	<content contentuid="h7deaec1dg2257g4f54g9726gcfff29c1db00" version="1">Avec Ceinture</content>
+	<content contentuid="h52f08fc3gda7dg4d35gb2a9gabe693fb8180" version="1">Sans Ceinture</content>
+	<content contentuid="h7aa84928g3edeg41abga12bg0d73046e87d0" version="1">La limite du Modificateur de Dextérité du porteur pour sa Classe d'Armure est [1]. De plus, cette armure n'impose pas de Désavantage sur les Tests de Discrétion.</content>
+	<content contentuid="h0de97b51g5431g4811gb1fbgaa827638f50e" version="1">Artisanat Elfique</content>
+	<content contentuid="h06530642g14e6g4a5dgb55cga1180dedc4d7" version="1">Armure Bénie</content>
+	<content contentuid="h2a324c50ga9f1g414eg87a3gc3ff1c560f41" version="1">Le porteur bénéficie de la Protection contre le Mal et le Bien.</content>
+	<content contentuid="hf2947ac6gb860g44a5gbf19gca0d386d2578" version="1">Destin</content>
+	<content contentuid="h9c2ef768g1bd1g420bgb5f9g6543428b36b5" version="1">Les attaquants ne peuvent pas infliger de Coups Critiques au porteur et tous les dégâts reçus sont réduits de [1].</content>
+	<content contentuid="hca6f79b3g4edbg4823g97ecg7226ba20afc2" version="1">Le porteur a l'Avantage sur les Tests d'Intuition.</content>
+	<content contentuid="hca726652g2105g4bcegbc33gde7b411916b6" version="1">Vision de l'Âme</content>
+	<content contentuid="hbd20a4d4g60bbg47feg812ag93f26ef94d00" version="1">Le porteur a l'Avantage sur les Tests d'Intuition et ne peut pas être Aveuglé.</content>
+	<content contentuid="h77c38b66g5435g4ef6g809eg16bb020b1909" version="1">Le porteur et ses alliés dans un rayon de [1] ne peuvent pas être Effrayés, et ne peuvent pas être affectés par d'autres conditions altérant les émotions.</content>
+	<content contentuid="h227a477dg4748g458fgae26gf625454a2948" version="1">Et Ils Ne Connaitront Pas La Peur</content>
+	<content contentuid="hee651dc7g2d03g45d4ga94dg9c4581501e85" version="1">Main Bénie</content>
+	<content contentuid="h9673f37fgabecg4926gabc0gdd3118ce9ae8" version="1">Le porteur peut utiliser &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Aide&lt;/LSTag&gt; comme une action libre.</content>
+	<content contentuid="h465a8adfgcfb3g4fecgac27gaff9aaf74118" version="1">Le porteur peut utiliser &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Aide&lt;/LSTag&gt; comme une action libre et lui-même ainsi que ses alliés dans un rayon de [1] bénéficient de &lt;LSTag Type="Status" Tooltip="EW_BA_STATUS_BLESS"&gt;Bénédiction&lt;/LSTag&gt;. Cela peut se cumuler avec d'autres sources de &lt;LSTag Type="Status" Tooltip="BLESS"&gt;Bénédiction&lt;/LSTag&gt;.</content>
+	<content contentuid="he3ec4fccg5b40g4a7cg8b71gc25edd691374" version="1">Équilibré</content>
+	<content contentuid="h9365cca5gb88cg496fgb500g991ea462ba91" version="1">Le porteur a l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les Tests d'Acrobaties et d'Athlétisme.</content>
+	<content contentuid="hb36f4780g1451g4456gbc99gbfc836313d82" version="1">Terrain Sacré</content>
+	<content contentuid="hf45ac722gd1bfg4417g8219gdbbabc7ba538" version="1">Vous ne pouvez pas être déplacé de force par les sorts ou les actions d'un ennemi, et vous ignorez les effets du &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Terrain Difficile&lt;/LSTag&gt;.</content>
+	<content contentuid="h5676ae0cg09e5g4145g89a9geb47f198aea4" version="1">Le porteur et ses alliés dans un rayon de [1] ne peuvent pas être déplacés de force par les sorts ou les actions d'un ennemi, et ils ignorent les effets du &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Terrain Difficile&lt;/LSTag&gt;.</content>
+	<content contentuid="h85f9e22eg0148g4c90ga8ecg35dd1fd23beb" version="1">Bénédiction de Corellon</content>
+	<content contentuid="hff180ce0gbb5dg4e67g9afagb909b9ae827e" version="1">Si le porteur possède &lt;LSTag Type="Passive" Tooltip="ImprovedDivineSmite"&gt;Frappe Divine Améliorée&lt;/LSTag&gt;, ses attaques à l'arc en bénéficient également.</content>
+	<content contentuid="h220e111bg88fag400dga003g101dd0aedd94" version="1">Protection du Protecteur</content>
+	<content contentuid="h1c7be33agcc17g4be8gadf0g40377895f152" version="1">Le porteur a l'&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; contre les sorts. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'Attaque&lt;/LSTag&gt; de sorts contre lui ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hc66d9f3fg05d3g4cefgb9eegd499d94bb667" version="1">Devoir Juré</content>
+	<content contentuid="he1970ca8g8f5bg4c6dg86bag84fdc01c6b26" version="1">Lorsqu'elle est utilisée avec un bouclier, la &lt;LSTag Tooltip="Classe d'Armure"&gt;Classe d'Armure&lt;/LSTag&gt; du porteur est augmentée de [1]. Lorsqu'elle est utilisée à deux mains, les dégâts de l'arme sont augmentés de [2].</content>
+	<content contentuid="hca5ed2b9g8c0ag41a5gab79gbe6020cc427e" version="1">Lorsqu'elle est utilisée avec un bouclier, la &lt;LSTag Tooltip="Classe d'Armure"&gt;Classe d'Armure&lt;/LSTag&gt; du porteur est augmentée de son Modificateur de Charisme avec un minimum de [1] et un maximum de [2]. Lorsqu'elle est utilisée à deux mains, les dégâts de l'arme sont augmentés du Modificateur de Charisme du porteur avec un minimum de [3].</content>
+	<content contentuid="h708c8cceg776fg4224g829eg3fa1eadb5fde" version="1">Corde Synergétique</content>
+	<content contentuid="hb1bdea1fg3ea5g4b21gae5eg0a66de484e60" version="1">Les dégâts de cette arme sont augmentés par le Modificateur de Charisme du porteur.</content>
+	<content contentuid="hd9dea25dg3bbcg4530gaeebg2e0d24800810" version="1">Frappe Divine (À Distance)</content>
+	<content contentuid="hbc1e375bgdf88g46degb808gabf0e2d836d4" version="1">Serment de Corellon</content>
+	<content contentuid="haab5d756gb5dag4da3gb579g286f48327c66" version="1">Un Paladin utilisant cette arme peut lancer &lt;LSTag Type="Spell" Tooltip="EW_BA_Projectile_RangedSmite_1"&gt;Frappe Divine&lt;/LSTag&gt;(À Distance). (Nécessite au moins 2 niveaux de Paladin)</content>
+	<content contentuid="h1ef372c4g17cdg42a5gaee7g42d452b8eed1" version="1">Vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt; et ne pouvez pas être affecté par d'autres conditions altérant les émotions.</content>
+	<content contentuid="h15022c7ega6f4g4f5bg8e32g0c1467c373d5" version="1">Flèches Elfiques</content>
+	<content contentuid="hbd0071e6gd0e7g48eeg9ff8gd5567d5d0119" version="1">Les attaques à l'arc du porteur infligent un supplément de [1].</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+</contentList>
