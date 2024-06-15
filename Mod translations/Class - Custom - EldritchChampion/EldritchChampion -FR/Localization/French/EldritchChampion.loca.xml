@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hef70a186g62deg4f49ga856gc2ee0335993f" version="1">Champion Eldritch</content>
+	<content contentuid="he16d8da6g291ag49d7gb319gca9d507c8c3d" version="1">En surface, les champions eldritch se présentent comme une coalition unie de guerriers magiques. Séparés en différents ordres spécialisés dans diverses formes de magie et d'arts martiaux, la réalité est qu'être un chevalier eldritch, c'est être à la fois uni et seul. Bien qu'il soit vrai que la plupart des champions eldritch se respectent mutuellement, cela reste avant tout par courtoisie. La culture entre, et au sein, des ordres de champions eldritch est celle de la compétition ouverte et de l'ambition
+    
+La politique, les machinations et les secrets sont monnaie courante parmi leurs membres. Il semble n'y avoir qu'une seule règle que nul chevalier ne rompra: la fidélité à l'ordre. Au-delà de cela, tout est permis en guerre. Et pour un champion eldritch, la quête de la connaissance et du pouvoir et  une priorité absolut.</content>
+	<content contentuid="h2fbaee54gb498g4b98gb6c6gd8806ee517ee" version="1">Ordre Mystique</content>
+	<content contentuid="hc4b01d2dg05e9g46dcga6fcgf0e8ae02d5b6" version="1">Secrets Arcaniques</content>
+	<content contentuid="h013dd348g22dfg4c0dgad76ge097e413e1d8" version="1">Mage de Guerre</content>
+	<content contentuid="h6bd6ae3cg74a1g4dc7gb89bga7ee0f2c3859" version="1">Points de Sauvagerie</content>
+	<content contentuid="h23280124g0fd0g44fcg8048gc006ff549650" version="1">Votre potentiel magique est représenté par des points de Sauvagerie, qui vous permettent d'accéder à un certain nombre de vos capacités.</content>
+	<content contentuid="h83c292b0g7b0dg4626gb869gcf7ae42cd52d" version="1">Charges Eldritch</content>
+	<content contentuid="h1326cc67g66ebg4d0cg9661gb0114d8fc235" version="1">Indique le nombre de fois où vous pouvez lancer le secret arcanique spécial de votre sous-classe sans utiliser un emplacement de sort</content>
+	<content contentuid="h92d89930g6b39g463bg8e59g44cc1bddfb3d" version="1">Charge de Secret Arcanique</content>
+	<content contentuid="h23e8e99ege2f3g49b5g8a16g1901611a772d" version="1">Nombre de fois par repos long où vous pouvez utiliser le secret arcanique signature de votre sous-classe</content>
+	<content contentuid="heb3d8209g8389g4668gae12gcfa24a20067e" version="1">Charge de Tempête Arcanique</content>
+	<content contentuid="h23e8e99ege2f3g49b5g8a16g1901611a772d" version="1">Suivi du nombre de charges que vous avez pour votre caractéristique Tempête Arcanique.</content>
+	<content contentuid="h75fd2343g8774g4d91gb321g23a9a3568b5a" version="1">Charge de Tempête Implacable</content>
+	<content contentuid="hf0589558g04c5g4211gba83g0b9dfe177299" version="1">Suivi du nombre de charges que vous avez pour votre caractéristique Tempête Implacable.</content>
+	<content contentuid="h13b4e5a6g3d2ag4d98g86acgba7059c5bbf9" version="1">Lanceur de sorts flexible</content>
+	<content contentuid="hf0e7b113gc8f3g44a7g8044g65ca8d740f82" version="1">Dépenser [1] points de Sauvagerie pour débloquer un emplacement de sort de niveau [2].</content>
+	<content contentuid="hb151def3g1ff5g4e8ag810bg3724be8e4254" version="1">Charge d'Arcane Illimité</content>
+	<content contentuid="he7afcf3eg6f74g45cfgbd8bg6302bda00a2f" version="1">Arcane Illimité</content>
+	<content contentuid="h18069d75gf2feg4322ga041g2ea07b35834d" version="1">Aucun secret de l'Ordre n'est hors de votre portée. Vous pouvez lancer un de vos sorts de 6e niveau sans dépenser d'emplacement de sort. Vous pouvez le faire une fois par repos long.</content>
+	<content contentuid="h522857dbg63fdg490bg9085g397538ccd645" version="1">Dans votre étude des connaissances occultes, vous avez découvert des fragments de connaissances interdites ou perdues qui vous imprègnent d'une capacité magique permanente.</content>
+	<content contentuid="h2ba33dc2g19e4g463cg8f13g0ab0b3645860" version="1">Défense Adaptable</content>
+	<content contentuid="hc7c90b5bgf1fag4021ga2c1ge5e6aba7cd92" version="1">Vous gagnez l'avantage sur les jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.</content>
+	<content contentuid="h0f7a94afgdcfeg4860gab49gab19b61ecac7" version="1">Tempête Arcanique</content>
+	<content contentuid="h0f3c1543g71acg44feg88b3g94d6d2b03264" version="1">Vous avez appris à libérer un torrent d'énergie magique avec vos attaques. Lorsque vous effectuez une attaque d'arme, vous pouvez choisir de dépenser jusqu'à 5 points de Sauvagerie pour créer une aura d'énergie magique autour de vous qui dure jusqu'à un repos long ou que vous l'annuliez.
+ 
+Vous gagnez une charge de Tempête Arcanique pour chaque point de Sauvage dépensé. Lorsque vous ou un allié effectuez une attaque de sort à moins de [1] de vous, vous pouvez canaliser jusqu'à [2] de ces charges dans le sort, augmentant ses dégâts de 1d8 pour chaque charge consommée. Une fois toutes les charges consommées, l'effet prend fin.</content>
+	<content contentuid="hc90b03b0ge781g4e8ega678gaba2910c30fb" version="1">Surpuissance de la Tempête Arcanique</content>
+	<content contentuid="ha4ed340cg2da4g4cabgb0f4gcadf5938a37f" version="1">Lorsque vous ou un allié lancez une attaque de sort à moins de [1] de vous, vous pouvez canaliser jusqu'à [2] de ces charges dans le sort, augmentant ses dégâts de 1d8 pour chaque charge consommée.</content>
+	<content contentuid="hbd3e6fbfg18fag4311gaec7g36fa959e6de2" version="1">Canalisez [1] charge de Tempête Arcanique pour renforcer le sort en cours de lancement, augmentant ses dégâts de [2] du type de dégâts du sort.</content>
+	<content contentuid="h856d96d1g9278g4d96gae24g2f9aee61945f" version="1">Dissiper Tempête Arcanique</content>
+	<content contentuid="haad305b6g59d2g467ag96e4ge4f1b84b381f" version="1">Détendez votre esprit et relâchez les effets de la Tempête Arcanique prématurément.</content>
+	<content contentuid="hc8b8b445g0ca3g4521g99ddg1fdbd7d7de1e" version="1">Mage Éclairé</content>
+	<content contentuid="h9db1b551gc08cg4394g8c62g6b2306ed0de9" version="1">Lorsque vous faites un jet d'initiative et que vous n'avez plus de points de Sauvagerie, vous regagnez 5 points de Sauvagerie.</content>
+	<content contentuid="h55891dcfg43cfg42d3g8bedg8760b4bc8e20" version="1">Sauvages Habiles</content>
+	<content contentuid="heaa1b431g6ae6g4926gb796gf7e1912aaa55" version="1">Vous pouvez utiliser vos points de Sauvagerie pour lancer un sort de champion eldritch avec un temps d'incantation de 1 action en tant qu'action bonus à la place.</content>
+	<content contentuid="h4d2af487gb645g42beg99d2gb7a64d082679" version="1">Frappe Évanescente</content>
+	<content contentuid="h7bfd45a6gf7acg445egba7fg4f1fa75d218d" version="1">Frappe Évanescente: Cible</content>
+	<content contentuid="h58fde899g83aeg4daag894fge9716280759f" version="1">La prochaine fois que vous touchez une créature avec une attaque d'arme de mêlée pendant la durée du sort, la cible subit les effets normaux de l'attaque et vous devenez invisible pour la cible jusqu'à la fin de votre prochain tour ou jusqu'à ce que vous fassiez une autre attaque ou lanciez un sort. Si vous attaquez la même cible en étant invisible, la cible subit [1] de dégâts de force supplémentaires.</content>
+	<content contentuid="h54876d2cg0d8dg479ega3a9g10bed5266ab3" version="1">Récemment touché par Frappe Évanescente. Frappez la même cible à nouveau pour infliger [1] de dégâts supplémentaires.</content>
+	<content contentuid="he1ef65d1gc5f1g4c9egbe91ged2269432e00" version="3">Inflige [1] supplémentaire par niveau.</content>
+	<content contentuid="hbbddadfbg793bg4e2fg81d8gfdc031b03f9d" version="1">Récemment touché par Frappe Évanescente.</content>
+	<content contentuid="h02558e3agc708g41e3g9e1eg02747b34adb5" version="1">Lame Maudite</content>
+	<content contentuid="hcac8f7begcbcdg4061gb295gd443f2b99253" version="1">La prochaine fois que vous touchez une créature avec une attaque d'arme de mêlée pendant la durée du sort, une énergie nauséabonde se dégage de votre lame et l'attaque inflige [1] de dégâts supplémentaires à la cible. De plus, la cible doit soustraire 1d4 de son prochain jet d'attaque ou de sauvegarde avant la fin de votre prochain tour.</content>
+	<content contentuid="h48aa7e1cg2586g42b6g81d1gee7dfed1ee0b" version="1">Lame Maudite: Cible</content>
+	<content contentuid="hf5e668b1g0c87g4274gb2bfgc34e49201748" version="1">Subit une pénalité de 1d4 sur le prochain jet d'attaque ou de sauvegarde effectué. Doit réussir un jet de 4 pour que la malédiction prenne fin.</content>
+	<content contentuid="h508d2f86g16fdg4cb9gbd52gf2502004c1b1" version="1">Gambit de Grim</content>
+	<content contentuid="hd9cf0544g905fg4921gbc3cg8d4d01f009ea" version="1">Vous vous coupez la paume de la main en maniant votre arme, vous liant à elle. Pendant la durée, vous ne pouvez pas être désarmé de cette arme par quelque moyen que ce soit et vous pouvez ajouter votre modificateur d'incantation aux tests de concentration pour maintenir ce sort.
+
+Au début de chaque tour suivant, vous subissez 1d4 dégâts nécrotiques, qui ne peuvent être réduits de quelque manière que ce soit, car votre force vitale est aspirée dans l'épée. Toute attaque d'arme ou de sort qui touche ce tour-là inflige des dégâts nécrotiques supplémentaires égaux au jet plus un [1] supplémentaire. À chaque tour, les dégâts nécrotiques augmentent de 1d4 ([1]+1d4 le deuxième tour, [1]+2d4 le troisième, et ainsi de suite).</content>
+	<content contentuid="h222668d7g1c7eg4f9eg9cd7gb99b99b2afde" version="1">Vous vous coupez la paume de la main en maniant votre arme, vous liant à elle. Au début de chaque tour suivant, vous subissez [1] de dégâts, qui ne peuvent être réduits de quelque manière que ce soit, car votre force vitale est aspirée dans l'arme. Rompre la concentration par tout moyen autre que Supprimer Malédiction ou tuer un ennemi vous causera [2] de dégâts.</content>
+	<content contentuid="h7d716f93g5c4cg418eg9f2dgc2c2a5ebe63e" version="1">Lorsqu'une créature que vous avez attaquée alors que le Gambit de Grim est actif meurt, vous pouvez utiliser votre réaction pour mettre fin au sort sans pénalité.</content>
+	<content contentuid="hbc36570dg4767g4b46gb120g75c30ceca79b" version="1">Arme de Sauvage</content>
+	<content contentuid="h68109156gbff3g4926g9796gce28a9d8013f" version="1">Vous avez appris un rituel de liaison qui vous lie à votre Ordre, vous conférant un plus grand pouvoir magique, et à l'Ordre dans son ensemble.</content>
+	<content contentuid="h806f3723gd7b0g45f6g9e34g8a225212eaba" version="1">Lier l'Arme de Sauvage</content>
+	<content contentuid="h05ab40d4g5c3fg49f9gaad8g357c7573a4fe" version="1">Lier l'Arme de la Main Principale</content>
+	<content contentuid="h6398fbe1ga640g45c9g959bgee317189f18e" version="1">Lier l'Arme de la Main Secondaire</content>
+	<content contentuid="h2779acdag90dfg4be7gb516g71b449d2ecf1" version="1">Lie rituellement l'arme dans votre main principale, ou l'arme ou le bouclier dans votre main secondaire. Ces objets ne peuvent pas être arrachés de votre main, et ils vous reviennent automatiquement lorsqu'ils sont lancés. Vous pouvez également utiliser une action bonus pour rejeter l'arme dans une dimension de poche, et de même, vous pouvez utiliser une action bonus pour la rappeler dans votre main. Vous pouvez avoir jusqu'à deux armes ou boucliers liés à la fois.</content>
+	<content contentuid="h4fb7bfbfgfe05g4c90g9d51gf20b38e19067" version="1">Une arme ou un bouclier qui vous a été rituellement lié.</content>
+	<content contentuid="h3cd48421g2423g43fdg89c5gea68838627dc" version="1">Rappeler les Armes de Sauvage</content>
+	<content contentuid="hcf570cb8g4815g492fga025g05ccacfe52ee" version="1">Rappeler l'Arme de Sauvage: Main Principale</content>
+	<content contentuid="hece28567gf9f4g4719ga12cg578d85898e4a" version="1">Rappeler l'Arme de Sauvage: Main Secondaire</content>
+	<content contentuid="h42a2f492gc2beg4cbdgbae2g9bfeff07cfed" version="1">Invoquez une de vos armes de Sauvage dans votre main.</content>
+	<content contentuid="h1b8ce238g79a2g4f71gb38dg9d56b019cd70" version="1">Invoquez votre arme de Sauvage de la main principale dans votre main.</content>
+	<content contentuid="h3578d3ffg98deg4264g9538g72aef96cbd9c" version="1">Invoquez votre arme de Sauvage de la main secondaire dans votre main.</content>
+	<content contentuid="h5701117aga14dg4c55g8ff0gb47b2e29ee6a" version="1">Dissiper les Armes de Sauvage</content>
+	<content contentuid="h575fd0bagbfafg494fga217g575580aef8ed" version="1">Dissipez vos armes de Sauvage dans une dimension de poche.</content>
+	<content contentuid="hb8563c5fgf60dg48ebg8c3eg3c1adb59b53a" version="1">Investiture de Flammes</content>
+	<content contentuid="hcad5dc1bg32b6g4677ga4ecg888ac22edbbf" version="1">Les créatures se déplaçant ou commençant leur tour à moins de [1] subissent [2] de dégâts.</content>
+	<content contentuid="h3ce9efe5gd8e8g4b02gaa6egbbdd23be8352" version="1">Les flammes parcourent votre corps, émettant une lumière vive dans un rayon de 30 pieds et une lumière faible sur 30 pieds supplémentaires pour la durée du sort. Les flammes ne vous blessent pas. Jusqu'à la fin du sort, vous bénéficiez des avantages suivants:
+
+Vous êtes immunisé aux dégâts de feu et avez une résistance aux dégâts de froid.
+Toute créature qui se déplace à moins de 5 pieds de vous pour la première fois lors d'un tour ou qui termine son tour là prend 1d10 dégâts de feu.
+Vous pouvez utiliser votre action pour créer une ligne de feu de 15 pieds de long et 5 pieds de large s'étendant de vous dans une direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 4d8 dégâts de feu en cas d'échec, ou la moitié des dégâts en cas de succès.</content>
+	<content contentuid="h30334f24g827dg4bacg86f6gb6cc654c4ee9" version="1">Retour de Flamme</content>
+	<content contentuid="h0c394d33gb939g4decg84b6g29e669cdbb62" version="1">Créez une ligne de feu de 15 pieds de long et 5 pieds de large s'étendant de vous dans une direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité. Une créature subit [1] en cas d'échec, ou la moitié des dégâts en cas de succès.</content>
+	<content contentuid="h3d5e9f70gd70cg4998g9207g672c91ace356" version="1">Investiture de Glace</content>
+	<content contentuid="h879ee404gc2bag47eaga038g1d3384edc51c" version="1">Un givre recouvre votre corps, et vous bénéficiez des avantages suivants jusqu'à la fin du sort:
+
+Vous êtes immunisé aux dégâts de froid et avez une résistance aux dégâts de feu.
+Vous pouvez vous déplacer sur un terrain difficile créé par la glace ou la neige sans dépenser de mouvement supplémentaire.
+Le sol dans un rayon de 10 pieds autour de vous est glacé et est un terrain difficile pour les créatures autres que vous. Le rayon se déplace avec vous.
+Vous pouvez utiliser votre action pour créer un cône de vent glacial de 15 pieds s'étendant de votre main tendue dans une direction de votre choix. Chaque créature dans le cône doit effectuer un jet de sauvegarde de Constitution. Une créature subit 4d6 dégâts de froid en cas d'échec, ou la moitié des dégâts en cas de succès. Une créature qui échoue à son jet de sauvegarde voit sa vitesse réduite de moitié jusqu'au début de votre prochain tour.</content>
+	<content contentuid="h8a26b872gc014g4f44ga63ag68b17e7b5718" version="1">Cyclone Bomb</content>
+	<content contentuid="h0ce95697g28c5g45ebgaccdgf20c43b2baa7" version="1">Créez un cône de vent glacial de 15 pieds s'étendant de votre main tendue dans une direction de votre choix. Chaque créature dans le cône doit effectuer un jet de sauvegarde de Constitution. Une créature subit [1] de dégâts en cas d'échec, ou la moitié des dégâts en cas de succès.
+
+Une créature qui échoue à son jet de sauvegarde voit sa vitesse réduite de moitié jusqu'au début de votre prochain tour.</content>
+	<content contentuid="h81fc8bebge42ag463egbb42g576334c8252c" version="1">Lancer de Sauvage</content>
+	<content contentuid="he570d525gfdaeg46a8gaaa7g9c9c91bc9cd2" version="1">Lancer de Sauvage Niveau 3</content>
+	<content contentuid="h8a1228c5g0d02g4c6cga91fg2736674df711" version="1">Lancer de Sauvage Niveau 4</content>
+	<content contentuid="h38c31a2bge95eg4e57g8b58gc606098ebca1" version="1">Lancer de Sauvage Niveau 5</content>
+	<content contentuid="hb038ca2cg9a4bg4005g90d9gdf71945e6d34" version="1">Lancer de Sauvage Niveau 6</content>
+	<content contentuid="h16d6d547g763eg4896gb8e2g2013bb06e9d4" version="1">Lancer de Sauvage Niveau 7</content>
+	<content contentuid="h88467360g6c05g4936g9515g2a9c48263917" version="1">Lancer de Sauvage Niveau 8</content>
+	<content contentuid="hba194d63gc670g4e8eg8d92gfb3b21e3ac8b" version="1">Lancer de Sauvage Niveau 9</content>
+	<content contentuid="hec6a9250ge7aeg4382gb755ga91c65f653cc" version="1">Faites temporairement déferler votre magie, en dépensant un certain nombre de points de Sauvagerie pour débloquer un emplacement de sort supérieur à celui auquel vous avez habituellement accès. Votre prochain sort lancé sera surpuissant, puis la déferlante se dissipera.</content>
+	<content contentuid="hf36bbe76g10cbg4cc0g8e51ge9f521bc1d9b" version="1">Marque du Perdu</content>
+	<content contentuid="hfebaff8fg11a8g4608g8698ga78add7e4939" version="1">Marquez une créature avec un présage de défaite. Pendant 1 minute, lorsque la créature ciblée vous inflige des dégâts, elle se fait [1] dégâts à elle-même. Vous ne pouvez plus le faire avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="hdd16dde4gec72g4d15g8c71g7fa542e2374a" version="1">Déflagration Surchargée</content>
+	<content contentuid="h24e19fb0gabfbg4c55g829eg928124e4d756" version="1">Lorsque vous lancez un sort, vous pouvez dépenser 5 points de Sauvagerie pour augmenter le DD de sauvegarde du sort ou le modificateur d'attaque du sort de 5.</content>
+	<content contentuid="h9a0bdb29gfec6g4011gbf00gbffca5bb2deb" version="1">Pas du Marcheur des Plaines</content>
+	<content contentuid="hec7fea65g856ag4432g8999g3222f8356082" version="1">Dans le cadre de votre mouvement, vous faites pulser une énergie magique à travers vos muscles pendant 1 minute, doublant votre vitesse et vos distances de saut. Vous ne pouvez plus le faire avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="hf07fdd1cg3a67g4b39g8324g2243d29a32ce" version="1">Frappe Élémentaire</content>
+	<content contentuid="h5821a6e0g5eb1g4598g8cd5g38fd4846a94d" version="1">En tant qu'action bonus, vous imprégnez votre arme de puissance élémentaire. Choisissez l'un des types de dégâts suivants: acide, froid, feu, foudre ou tonnerre. Pendant 1 minute, vos attaques avec cette arme infligent ce type de dégâts à la place. Vous ne pouvez plus le faire avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="h9d243f9cga7edg4f6dgb810g7b654722b49a" version="1">Chargez votre arme avec une puissance élémentaire, infligeant [1] de dégâts à la place.</content>
+	<content contentuid="h99907450gb126g4e4bg80e2g520f3c1d521a" version="1">Frappe Arcanique</content>
+	<content contentuid="h02347e86g24e0g44c9gaebdg52a1649b4efb" version="1">Chaque mouvement de votre arme est imprégné de puissance magique. Chaque fois que vous touchez une créature avec une attaque d'arme, la créature subit un [1] de dégâts supplémentaires.</content>
+	<content contentuid="h27ca95f2g90e9g461egba20gcc40d14c14ce" version="1">Votre arme de Sauvage renforce votre Frappe Arcanique. Vous pouvez choisir de dépenser 1 point de Sauvage pour infliger un [1] de dégâts supplémentaires. Ce montant augmente de [1] de dégâts supplémentaires si vous maniez deux armes de Sauvage ou si vous maniez une arme de Sauvage à deux mains.</content>
+	<content contentuid="h9415dda0gca73g4879ga6ecga5b93a7e4d2a" version="1">Explosion de Sort</content>
+	<content contentuid="hce1f44c5g2fd4g4ab8gbf59g46e7d08dd887" version="1">Vous apprenez à façonner le déversement de puissance arcanique avec vos attaques. Lorsque vous touchez une créature avec une attaque, vous pouvez dépenser un certain nombre de points de Sauvagerie (Minimum 3). Les créatures situées à moins de 10 pieds de votre cible initiale subissent des dégâts supplémentaires ou sont repoussées et renversées.</content>
+	<content contentuid="hb58431d7gda20g4303gbda9g2e05df7701af" version="1">Échos du Destin</content>
+	<content contentuid="h15f51a4bga7afg4f63g994ag713669260c18" version="1">Au lieu de votre mouvement, vous et une créature consentante à moins de [1] de vous, que vous pouvez voir, vous téléportez et échangez vos places. Vous ne pouvez plus le faire avant d'avoir terminé un repos court ou long. Alternativement, vous pouvez dépenser 2 points de Sauvagerie pour utiliser cette fonctionnalité à nouveau avant de terminer un repos court ou long.</content>
+	<content contentuid="h068d42c4ga74eg4577g8b86g67d0394e99e3" version="1">Échos du Destin Utilisés</content>
+	<content contentuid="h2e8203d4g2510g4922g987dg9f8adadf3ed1" version="1">Échos du Destin Utilisé Deux Fois</content>
+	<content contentuid="h187ffe8ag7943g4ac5gaebag56cc5a674554" version="1">L'entité affectée a utilisé sa capacité &lt;LSTag Type="ArcaneSecret_EchoesOfDestiny" Tooltip=""&gt;Échos du Destin&lt;/LSTag&gt;. Pour restaurer cette capacité, l'entité doit dépenser [1] points de Sauvagerie.</content>
+	<content contentuid="h295b7453g72dcg45f2g99b0g60955e5cf856" version="1">Déflagration de Sort: Dégâts</content>
+	<content contentuid="h9649bff3gd573g40deg8b1eg64fe3c59b1fa" version="1">Les créatures ciblées doivent réussir un jet de sauvegarde de Constitution, subissant [1] de dégâts.</content>
+	<content contentuid="h995be27bg8b79g4e5cg8b01gcd06e5ebc895" version="1">Déflagration de Sort: Repousser</content>
+	<content contentuid="h9f9fe320gbb35g4766g93c8g33b570dec15d" version="1">Les créatures ciblées sont repoussées de 5 pieds, reculant de 5 pieds supplémentaires pour chaque point de Sauvage dépensé. Elles doivent également réussir un jet de sauvegarde de Force, échouant elles tombent à terre.</content>
+	<content contentuid="h7878520dg70b6g4ebagb8aage0594ee9c365" version="1">Couleurs de la Destruction</content>
+	<content contentuid="hc2e596c8gf4e6g4adcga1e5g3497510e5a6d" version="1">Vous pouvez lancer orbe chromatique sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="he427b015ge55ag47f8gbd12g70c08819e3fb" version="1">Appel de la Malice</content>
+	<content contentuid="h53756bcbg3c03g49c0ga642g24dec6caff5d" version="1">Vous pouvez lancer appel de la foudre sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="h6260e41egfe24g4e3fgbf1egaab5639e0f9b" version="1">Flux Débilitant</content>
+	<content contentuid="h47fe6ea4g7d7dg4134g890ag01c8277055a8" version="1">Vous pouvez lancer fléau sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="hb6f83d88ge9bfg450ag8e63g24572f736685" version="1">Flux Corporel</content>
+	<content contentuid="hf5dff474g09a2g482fgb55bgbd52fee2aacb" version="1">Vous pouvez lancer sphère résiliente sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="hb5203cc4g4a7ag4494gb2edg8d5ac92bb1f2" version="1">Adaptation Vindicative</content>
+	<content contentuid="hb5203cc4g4a7ag4494gb2edg8d5ac92bb1f2" version="1">Vous pouvez lancer absorber les éléments sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="h7007cb81g9218g4305g857bg43c8f06805d5" version="1">Croc de la Nature</content>
+	<content contentuid="h64d475cdgf8bag41bfgbdb3gbdd74a407a12" version="1">Vous pouvez lancer arme élémentaire sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="h523c7a7bg7345g4c4eg8c58gc356ddd26b16" version="1">Toucher du Bienveillant</content>
+	<content contentuid="h992467d5gfc31g4256g85e1gc1a30eb3b0d0" version="1">Vous pouvez lancer soins sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="h68db6e27g458dg4294g8773g98a6bfcab8d3" version="1">Murmures de Vie</content>
+	<content contentuid="hcd33ce92g3cfeg4fd4g8abbgc6068009ec45" version="1">Vous pouvez lancer Réanimation sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="h5a450e93g2206g45f0gae65gb94027465b8e" version="1">Armure de Force</content>
+	<content contentuid="hd967b42fg53b9g4f47gb7e7gec9f90b3ac4a" version="1">Vous pouvez lancer Bouclier sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="h724fb0a8geb3bg4e09gb752gfc1c6b55aa19" version="1">Cieux Assombris</content>
+	<content contentuid="h8b023a38g7983g48a7g923bg4c4d4be0af52" version="1">Vous pouvez lancer Conjuration d'Avancée sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="h58049875g792eg4591g8d77g7a6d4ff385c4" version="1">Présage de la Tempête</content>
+	<content contentuid="h70eba846g492ag4554g9a4fg24a75bdf0ddb" version="1">Vous pouvez lancer Vague de Tonnerre sans dépenser un emplacement de sort. Vous pouvez le faire un nombre de fois égal à votre modificateur d'Intelligence. Vous récupérez toutes les utilisations de cette capacité après un long repos.</content>
+	<content contentuid="hd02b2cadgb07bg4874g9865g94c2866dc685" version="1">Concentration de l'Esprit</content>
+	<content contentuid="h13f9d107gf800g4558g86c2g564cc9d80344" version="1">Vous pouvez lancer Célérité sans dépenser un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="h0d775380gec1eg492bgb8f5g2cfbee9ebc15" version="1">Manipulation Chromatique</content>
+	<content contentuid="hd55ea4f9g1f00g417egb780gc3b502d59b98" version="1">Permet de changer le type de dégâts des sorts élémentaires.</content>
+	<content contentuid="hcabe7301gb67dg48e0g9c49g2220eabcb874" version="1">Manipulation Chromatique: (Acide)</content>
+	<content contentuid="ha01b45b6gedb7g4042gb446g53ceb0b0dc00" version="1">Manipulation Chromatique: (Froid)</content>
+	<content contentuid="h4901e9afg0d06g4b8fgb268g91c14b0f458e" version="1">Manipulation Chromatique: (Feu)</content>
+	<content contentuid="hf5851073g1376g4addg89f3gde930cea0dfa" version="1">Manipulation Chromatique: (Foudre)</content>
+	<content contentuid="hae0f3053g1b2dg490fga052gbf08925ee988" version="1">Manipulation Chromatique: (Poison)</content>
+	<content contentuid="h62bde891gf3b5g47ddga83dg6ee3d7bcc236" version="1">Manipulation Chromatique: (Tonnerre)</content>
+	<content contentuid="hff0c3f27g1201g4268g97dbgaa57a01e5554" version="1">Change le type de dégâts élémentaire en [1].</content>
+	<content contentuid="hc14db7ffg3282g4b14g892egb4eaf2aff9b0" version="1">Boost de Dégâts Manipulation Chromatique 1</content>
+	<content contentuid="h8960bceaga490g41a7gb666gc9ad89c0a4ec" version="1">Boost de Dégâts Manipulation Chromatique 2</content>
+	<content contentuid="h88da5c14gcce6g442dg9d92gf1488e730a61" version="1">Boost de Dégâts Manipulation Chromatique 3</content>
+	<content contentuid="h40f5f94cg149cg4140g8395ga6842421153f" version="1">Boost de Dégâts Manipulation Chromatique 4</content>
+	<content contentuid="hd2b6b518ga8eeg42b7gaf33gbcaa72cae4ac" version="1">Boost de Dégâts Manipulation Chromatique 5</content>
+	<content contentuid="h197e1299g7747g4e42g9124gc2574278d6f8" version="1">Pendant que la Manipulation Chromatique est active, dépensez [1] point(s) de Sauvage pour augmenter les dégâts du prochain sort de [2].</content>
+	<content contentuid="heda39108gb2afg4888g822bg062d41ae8333" version="1">Pas Ascendant</content>
+	<content contentuid="h7ba1c47fg0908g41c4gb48bga2c9f1dbeb2f" version="1">Vous pouvez lancer Vol sur vous-même à volonté, sans dépenser un emplacement de sort.</content>
+	<content contentuid="h39f39db7gb57bg4897g9757g03d7d60dc7a4" version="1">Mot Redoutable</content>
+	<content contentuid="h71b1976agf0ecg4fffgb216gbf59f45339aa" version="1">Vous pouvez lancer Confusion une fois en utilisant un emplacement de sort. Vous ne pouvez plus le faire avant d'avoir terminé un long repos.</content>
+	<content contentuid="he0ebe390g3df6g477dgb9dag1daf1ddf0ffa" version="1">Esprit de l'Élue</content>
+	<content contentuid="h75a7e469g2d34g43cbg8cc4g20c3795670c0" version="1">Vous avez l'avantage aux jets de sauvegarde de Constitution que vous faites pour maintenir votre concentration sur un sort.</content>
+	<content contentuid="h1b934082g6698g4c3eg9cc2g66d9ef665078" version="1">Vision Élue</content>
+	<content contentuid="hc4b1e053g4120g4871g9f15gc0e8ec171852" version="1">Vous pouvez lancer Détecter la Magie à volonté, sans dépenser un emplacement de sort.</content>
+	<content contentuid="h1e136ebeg726eg4469ga414g0c36f31467a8" version="1">Évasion du Tricheur</content>
+	<content contentuid="h24f22f0bg9436g4c38g838dg3f8996f60c32" version="1">Vous pouvez lancer Liberté de Mouvement une fois sur vous-même sans dépenser un emplacement de sort. Vous retrouvez la capacité de le faire après avoir terminé un long repos.</content>
+	<content contentuid="hd1982423g762ag4778g9332g639502e92bd6" version="1">Regard Spectral</content>
+	<content contentuid="h435ee4a8gb233g480cg87abg3b660618b4c6" version="1">En action, vous gagnez la capacité de voir l'invisibilité jusqu'à une portée de 30 pieds. Dans cette portée, vous avez une vision dans le noir si vous ne l'avez pas déjà. Cette vision spéciale dure pendant 1 minute ou jusqu'à ce que votre concentration prenne fin (comme si vous étiez en train de concentrer sur un sort).
+
+Une fois que vous utilisez cette invocation, vous ne pouvez plus l'utiliser avant d'avoir terminé un court ou long repos.</content>
+	<content contentuid="hb38a32e1g30f2g41a8g8d2ag189a523282b7" version="1">Don des Protecteurs</content>
+	<content contentuid="hd5d1414dg1517g4da4gbe1eg2a1f7e34e634" version="1">Lorsque vous êtes réduit à 0 points de vie mais pas tué instantanément, stabilisez-vous à 1 point de vie à la place.
+
+Une fois que cette magie est déclenchée, vous ne pouvez plus en bénéficier avant d'avoir terminé un repos long.</content>
+	<content contentuid="h8be1fd08g1c78g493bg8d0dgd1c46ac14eea" version="1">Sbires du Chaos</content>
+	<content contentuid="he6e45e35ge16fg4b00gba51g6f4471c92ee2" version="1">Vous pouvez lancer Convoquer un élémentaire une fois en utilisant un emplacement de sort de sorcier. Vous ne pouvez plus le faire avant d'avoir terminé un repos long.</content>
+	<content contentuid="hbb21ab91geca4g42a6g8645g6fc2c7efffa5" version="1">Engourdissement de l'Esprit</content>
+	<content contentuid="h89c432dege094g42b7g8605g31b9d2462586" version="1">Vous pouvez lancer Lenteur une fois en utilisant un emplacement de sort de sorcier. Vous ne pouvez plus le faire avant d'avoir terminé un repos long.</content>
+	<content contentuid="hd71e4f96g4e34g497ag81f4gc0aab7087c0a" version="1">Saut Outremonde</content>
+	<content contentuid="h99dba6ffg1fd5g4366g996dgfb693b7d086b" version="1">Vous pouvez lancer Saut à volonté, sans utiliser un emplacement de sort.</content>
+	<content contentuid="h0230623bgde7eg4bb1g8e28g63572a944003" version="1">Voile d'Ombre</content>
+	<content contentuid="h5cd86495g042ag4f7bg8d0eg978fa8b79e74" version="1">Vous pouvez lancer Invisibilité à volonté, sans utiliser un emplacement de sort.</content>
+	<content contentuid="hb275b4d9g2b23g4d80g9e26gc9beae3f9f6c" version="1">Tombe de Levistus</content>
+	<content contentuid="hc66e3f0ega473g4ac3gb518ga3e1f0d84181" version="1">En réaction lorsque vous subissez des dégâts, vous pouvez vous entourer de glace, qui fond à la fin de votre prochain tour. Vous gagnez 10 points de vie temporaires par niveau de sorcier, qui absorbent autant de dégâts que possible. Immédiatement après avoir subi les dégâts, vous devenez vulnérable aux dégâts de feu, votre vitesse est réduite à 0, et vous êtes incapacité. Ces effets, y compris les points de vie temporaires restants, prennent fin lorsque la glace fond.
+
+Une fois que vous utilisez cette invocation, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="hf7628fe2g6fb3g4e17gb3b4g6923858ae422" version="1">En réponse aux dégâts, vous vous enfermez dans la glace, gagnant [1] points de vie temporaires. Cependant, vous êtes aussi vulnérable aux dégâts de feu, votre vitesse est réduite à 0, et vous êtes incapacité jusqu'à la fin de votre prochain tour, quand la glace fond.</content>
+	<content contentuid="h1d6c4b6cg47dbg4418gb4ddgd2f1d2f0339e" version="1">Murmures de la Tombe</content>
+	<content contentuid="h62fa6af9g232dg4b7eg82b5g02c0affc20df" version="1">Vous pouvez lancer Parler aux Morts à volonté, sans utiliser un emplacement de sort.</content>
+	<content contentuid="h0aa5cd70gb979g4ea5gbe35g8cb3bc3f72af" version="1">Visions des Royaumes Éloignés</content>
+	<content contentuid="h73073082gf238g4a72ga3ceg4cbc48b4aca6" version="1">Vous pouvez lancer Œil Arcanique à volonté, sans utiliser un emplacement de sort.</content>
+	<content contentuid="h11be8611g04fdg4a3dga9eegd8be1063955c" version="1">Ordre du Dragon</content>
+	<content contentuid="hc8463edbg1d6ag4ae1g901cg1379c64ff0dd" version="1">L'Ordre du Dragon ne garde pas son savoir différemment des autres ordres, mais se délecte également de la richesse collective de ses membres. Recherchant des insights sur la magie et la puissance des dragons, ces chevaliers ornent souvent leurs vêtements et armures de symboles draconiques.</content>
+	<content contentuid="ha05c02b4g1cb9g4c24gabb2gb413826737df" version="1">Aspect Draconique: Acide</content>
+	<content contentuid="h9794ef36gc91fg4fcdgbb93g6fd4a470813d" version="2">Souffle Acide: Cône</content>
+	<content contentuid="hf343fc05g73d5g4430gb814ga30dba22898e" version="2">Souffle Acide: Ligne</content>
+	<content contentuid="hafb07fd5g4b4dg4f54g90b4gdcc934064d2c" version="1">Aspect Draconique: Froid</content>
+	<content contentuid="h73f352aagcc6cg4cccgbe57gc0a9cfba997a" version="2">Souffle Froid: Cône</content>
+	<content contentuid="h1dc89354g8742g4467g8b78g15d130daa56f" version="2">Souffle Froid: Ligne</content>
+	<content contentuid="h71f12364g75d7g49eega7d2g33a73f567c02" version="1">Aspect Draconique: Feu</content>
+	<content contentuid="h4e0d8275g2a00g4c09gaf06gc42552fcc84f" version="2">Souffle de Feu: Cône</content>
+	<content contentuid="hdd9cdedcgf102g479cg8698g0b68ef7cf4b1" version="2">Souffle de Feu: Ligne</content>
+	<content contentuid="hb22ea86fg827eg4f20gac25gd49ea9b533ab" version="1">Aspect Draconique: Foudre</content>
+	<content contentuid="hffa3492agd5a2g4ef6gb256g99659876caab" version="2">Souffle de Foudre: Cône</content>
+	<content contentuid="haa699305g520dg4a6cgaa91g457a7a066b4a" version="2">Souffle de Foudre: Ligne</content>
+	<content contentuid="hfcd86206g85e8g4f2egbac5g2c02ed680368" version="1">Aspect Draconique: Poison</content>
+	<content contentuid="h35266e14gc306g42d2ga346g0aedf4fcbfc9" version="2">Souffle de Poison: Cône</content>
+	<content contentuid="heca26646g824dg4b86g9e3eg8363b4c49c36" version="2">Souffle de Poison: Ligne</content>
+	<content contentuid="h54d0f6bbg0a07g4fc2g8a31gbae56f31824e" version="1">Aspect Draconique</content>
+	<content contentuid="h7df7da66ge7e8g4285g9889g59fbff2f35ea" version="1">Vous vous entourez de magie draconique. Pendant 1 minute, l'énergie arcane se concentre sur vous, vous accordant diverses capacités:
+
+Ailes du Dragon: L'énergie arcane se rassemble autour de vous sous la forme de deux ailes de dragon spectrales qui poussent dans votre dos, vous accordant une vitesse de vol égale à votre vitesse actuelle.
+
+Écailles du Dragon: Des écailles d'énergie magique se forment sur votre corps. Vous devenez résistant aux dégâts de l'élément que vous avez choisi.
+</content>
+	<content contentuid="h1b45f577gbe03g4e44g8872g91a30016aa32" version="1">Portance du Dragon</content>
+	<content contentuid="h5efc7cf2ge54ag4588g922bg49c869f226bd" version="1">Vous ne pouvez pas être effrayé et vous bénéficiez d'un bonus à vos jets de Charisme égal à votre modificateur d'Intelligence (minimum 1).</content>
+	<content contentuid="hdaf97c30g0211g427dgab14gc220ff10fe2d" version="1">Écailles du Dragon</content>
+	<content contentuid="h3364eb7fgdf0dg4ebag88f7ga8dd1bdd7ace" version="1">Des écailles d'énergie magique se forment sur votre corps. Vous devenez résistant aux dégâts de [1].</content>
+	<content contentuid="hb26de00dg32a8g4b06gaad1gca25ed7f8b18" version="1">Aura Draconique</content>
+	<content contentuid="hfa1959eaga205g44e5g8799g67d811e2acf8" version="1">Aura Draconique: Acide</content>
+	<content contentuid="h459fed86g688eg45beg9e04g927fc21dfc7d" version="1">Aura Draconique: Froid</content>
+	<content contentuid="ha2ba4f96g5f3ag467ega033gb1bf8e24a62b" version="1">Aura Draconique: Feu</content>
+	<content contentuid="h2d9e1d79gbb1ag4146g9fe2gdb8ac51bc49f" version="1">Aura Draconique: Foudre</content>
+	<content contentuid="h0e5f5296ga5b5g4838g8e2cg3c6538fa786e" version="1">Aura Draconique: Poison</content>
+	<content contentuid="h525f0347g297bg4e46gaac5g66748d6aa3bb" version="1">Votre présence draconique devient plus puissante, avec chaque capacité bénéficiant d'améliorations.</content>
+	<content contentuid="h872ee7a3gd1fbg4941gaba3g8759675c7c72" version="1">Votre présence draconique devient plus puissante, avec chaque capacité bénéficiant d'améliorations:
+
+Ailes du Dragon: Lorsque vous êtes soumis à un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez aucun dégât en cas de réussite au jet de sauvegarde, et seulement la moitié des dégâts en cas d'échec.
+
+Portance du Dragon: Vous pouvez lancer Cause Fear en action bonus sur des cibles situées à moins de 10 pieds de vous.
+
+Écailles du Dragon: Vous et les alliés situés à moins de 10 pieds de vous devenez résistants au type de dégâts choisi.
+</content>
+	<content contentuid="hb7ef5cceg4bc5g495bg991eged20aba3bd1d" version="1">Visage Draconique</content>
+	<content contentuid="h0b864301g1bdeg4e81g9acfg296c4a652f25" version="1">Visage Draconique: Acide</content>
+	<content contentuid="h7bb4d45agc7f2g41bfgb3b4gb4ff1a985f0c" version="1">Visage Draconique: Froid</content>
+	<content contentuid="ha2fe4d53g3d4eg4951g836dg203af36b51e0" version="1">Visage Draconique: Feu</content>
+	<content contentuid="h00d6b6e4gd609g421bg84c7g639f6e6a0afe" version="1">Visage Draconique: Foudre</content>
+	<content contentuid="h40b7a70bg0803g4ea5ga3e0g7068a307c0ca" version="1">Visage Draconique: Poison</content>
+	<content contentuid="h79f5e2e4g22d6g4a9fg9d5cgac04bdd73f04" version="1">Votre capacité Aspect Draconique dure maintenant indéfiniment ; de plus, la portée de votre Souffle Draconique augmente à un cône de 30 pieds ou une ligne de 50 pieds.</content>
+	<content contentuid="ha7a85a1fgf774g4fa3gb56cg63c71ee771ce" version="1">Renvoyer Aspect Draconique</content>
+	<content contentuid="h7c501162g2198g4c7ega420g4e54871f85ae" version="1">Renvoyez votre Aspect Draconique et retournez à votre forme d'origine.</content>
+	<content contentuid="h4e9c1aebgc646g4228g8759gb12b5edc079b" version="1">Aspect Renforcé</content>
+	<content contentuid="haf76ed8bgfe7eg4462gaf79g013777c4939a" version="1">Souffle Draconique: Lorsque vous effectuez l'action Attaque pendant votre tour, vous pouvez remplacer l'une des attaques par une exhalation d'énergie draconique sous la forme d'un cône de 20 pieds ou d'une ligne de 30 pieds sur 5 pieds de large (au choix).
+
+Portance du Dragon: Vous pouvez lancer Cause Fear en action bonus sur des cibles situées à moins de 10 pieds de vous.</content>
+	<content contentuid="h3dfe7104g9d19g44edg80a2gdec648ab6fb8" version="1">Ordre des Antimagiciens</content>
+	<content contentuid="h5d0c7866g179cg4a68g8670gda55bca048b3" version="1">L'Ordre du Briseur d'Enchantement est une faction de champions arcaniques qui utilisent leur habileté magique et martiale pour submerger leurs ennemis de coups décisifs. En manipulant le flux de magie autour d'eux, ils utilisent leur magie pour terrasser à la fois les lanceurs de sorts et les non-lanceurs de sorts.</content>
+	<content contentuid="h62ec5c43g7d68g4929g9525gd8c6d963ddca" version="1">Flux de Sort</content>
+	<content contentuid="hf9c23253g1d3eg40e0gbed3g3c56b54c7659" version="1">Vous créez un champ d'énergie magique autour de vous. Lorsque vous êtes touché par une attaque ou que vous échouez à un jet de sauvegarde, vous pouvez utiliser votre réaction pour bénéficier d'un bonus à votre Classe d'armure ou à votre jet de sauvegarde contre cette attaque égal à votre bonus de maîtrise.</content>
+	<content contentuid="hcaeb944eg357eg4e3fgb912g36d406554281" version="1">Champ Protecteur</content>
+	<content contentuid="he5cdbd96g6667g42ddg9b7cg88cbfd9bf634" version="1">Au début de chacun de vos tours, choisissez un nombre d'alliés dans un rayon de 10 pieds jusqu'à votre modificateur d'Intelligence. Jusqu'au début de votre prochain tour, ces créatures bénéficient des mêmes avantages que votre capacité Flux de Sort (en utilisant votre bonus de maîtrise) tant qu'elles restent dans la portée.</content>
+	<content contentuid="h1f5dbbe9g746eg4e32gb3b9ge9609215f060" version="1">Classe d'armure augmentée de [1]. Ajoute un bonus de [2] aux jets de sauvegarde tant que vous êtes dans les effets du champ.</content>
+	<content contentuid="h618b91efgc0a6g47feg82b8g54d7063958c9" version="1">Réflexion Arcanique</content>
+	<content contentuid="h26afdbf6g7c15g453cg938eg1a287f1b26c1" version="1">Réflexion Arcanique: Retour</content>
+	<content contentuid="he4f11530g022eg440ag9c5eg9781e9096b46" version="1">Attrapez un projectile issu d'une attaque à distance et tirez-le sur votre attaquant.</content>
+	<content contentuid="h649bb837gc4a5g4f7egb7b4g633a34af0469" version="1">Utilisez votre réaction pour réduire les dégâts d'une attaque à l'arme ou d'un sort de 1d10 + votre Modificateur d'Intelligence. Si les dégâts sont réduits à 0, utilisez un Point de Sauvage pour Dévier l'Attaque.</content>
+	<content contentuid="h5b79bf7ag7e25g46ddgbbf2gcd61b3a52788" version="1">Vous ne pouvez réduire que les dégâts de l'attaque - tout effet supplémentaire ne peut pas être annulé.</content>
+	<content contentuid="h883c1344g4474g4d37gb68ag378b56fdd2ba" version="1">Charge de Réflexion Arcanique</content>
+	<content contentuid="h4027b5d5g04c7g46f1g8d6fg365db9af5bf2" version="1">Siphon de Flux</content>
+	<content contentuid="hcbd9af50g900eg4624gb362gae913149d5b5" version="1">Lorsque vous touchez une créature avec une attaque au corps à corps, vous pouvez la forcer à effectuer un jet de sauvegarde de Constitution. La cible subit des dégâts supplémentaires de [1] en cas d'échec du jet de sauvegarde et la moitié de ces dégâts en cas de réussite.</content>
+	<content contentuid="h3d2dd1ddgff2ag4123ga4d1gec199ad9fb7f" version="1">Ordre des Intrépides</content>
+	<content contentuid="hcea4999cgee44g4d48gbd36g639fb3a9b14f" version="1">Votre arme a été bénie par la divinité.</content>
+	<content contentuid="h3adbe2ecg2763g4f78g8a71gab5c57a13b66" version="1">En action bonus, vous imprégnez une arme que vous touchez de puissance divine. Pendant 1 minute, les attaques avec cette arme infligent [1] dégâts supplémentaires. L'arme devient également magique pendant la durée. Une fois que vous avez utilisé cette capacité, vous ne pouvez pas le refaire avant d'avoir terminé un repos court ou long.</content>
+	<content contentuid="h41d928aeg50d4g4e6eg98c6geba760fde11e" version="1">Tant que le Guerrier Béni est actif, lorsque vous touchez une cible avec un sort ou un cantrip qui inflige des dégâts, vous pouvez utiliser votre action bonus pour invoquer sur eux la puissance divine. Votre sort inflige [1] dégâts supplémentaires.</content>
+	<content contentuid="h4a921043g8fafg4f51g9eb2g2c2527ded902" version="1">Prière de Repos</content>
+	<content contentuid="h509c4b90g1276g4a70ga847g64f9cfd568b5" version="1">Votre foi est capable de renforcer vos compagnons. Jusqu'à votre prochain repos long, vous et jusqu'à [1] créatures amicales qui peuvent entendre votre prière augmentent leur maximum de points de vie de [2].</content>
+	<content contentuid="h81979535g4450g4492gaf7ag2c38c5aa91b1" version="1">Votre maximum de points de vie a été augmenté de [1] jusqu'à votre prochain repos long.</content>
+	<content contentuid="h778714d8gad75g46c5gbf52g6068db017786" version="1">Rétribution Divine</content>
+	<content contentuid="h27c59c87ga770g4277g8658gd3f661221688" version="1">La faveur que vous portez avec la divinité affaiblit les défenses de votre ennemi. Lorsque vous touchez une créature avec une attaque d'arme, vous pouvez utiliser votre action bonus pour que cette créature ait désavantage sur le prochain jet de sauvegarde qu'elle fait contre un sort que vous lancez avant la fin de votre prochain tour.</content>
+	<content contentuid="ha8c98480gd948g4bb1g834eg1b2d8102dd75" version="1">Lorsque vous touchez une cible, elle subit un désavantage sur les jets de sauvegarde contre les sorts jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="h11be9520g4085g4267g923agb5f9e658376f" version="1">Tempête Implacable</content>
+	<content contentuid="h801b2f92g3d1eg47b4ga378gffcb8fca4486" version="1">Lorsque vous touchez une créature avec votre arme de surtension ou une arme affectée par votre capacité Guerrier Béni, vous pouvez créer les effets de votre capacité Tempête Arcanique sans dépenser de points de surtension, produisant 3 charges pour la capacité.
+
+Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur d'Intelligence, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.</content>
+	<content contentuid="h3076ee5dgb557g4cdbgbec6g30214eacade9" version="1">Lorsque vous touchez une créature avec votre arme de surtension ou une arme affectée par votre capacité Guerrier Béni, vous pouvez créer les effets de votre capacité Tempête Arcanique sans dépenser de points de surtension, produisant 3 charges pour la capacité.</content>
+	<content contentuid="haacb936aga7cag4c57gaaedg1de4ffb2a382" version="1">Aura de Vie</content>
+	<content contentuid="h17aafa60g21dag485ega34ag3e0c0ea01838" version="1">Une énergie préservatrice de la vie émane de vous dans une aura d'un rayon de 30 pieds. Jusqu'à la fin du sort, l'aura se déplace avec vous, centrée sur vous. Chaque créature non hostile dans l'aura (y compris vous) a la résistance aux dégâts nécrotiques. De plus, une créature vivante non hostile regagne 1 point de vie lorsqu'elle commence son tour dans l'aura avec 0 point de vie.</content>
+	<content contentuid="hcf0ade46ge502g47abga7b2g636ce6425289" version="1">Ordre du Parangon</content>
+	<content contentuid="hd83edf79g0073g4434g8a7bga530645fca56" version="1">L'Ordre du Parangon est ce que beaucoup considèrent comme l'ordre original des champions arcaniques. Cet ordre croit que l'utilisation de la magie est un moyen de compléter leurs capacités martiales. En tant qu'ordre, ils considèrent les autres ordres comme inférieurs en raison de leur dépendance à la magie.</content>
+	<content contentuid="h8657ff54g35bdg4fb7g852eg0c7e4c1040f3" version="1">Présence du Commandant</content>
+	<content contentuid="h4e565c46g693bg4842g8d56g6909758d1116" version="1">Chaque fois que vous devez faire un jet de Dextérité ou un jet de sauvegarde pour lequel vous n'ajoutez pas déjà un bonus de maîtrise, vous obtenez un bonus égal à la moitié de votre modificateur d'Intelligence (minimum de +1, arrondi).</content>
+	<content contentuid="h0364f1cegdce1g4852g9f59g57a76dc16af4" version="1">Supériorité Arcanique</content>
+	<content contentuid="ha73a7486gdb87g4596g86c2ge14a3c1be1a4" version="1">Vous ajoutez la moitié de votre modificateur d'Intelligence (minimum de +1) à vos jets de dé de supériorité.</content>
+	<content contentuid="h21e3f1b3g18f7g48bcg8ee3ga5e62e02fae7" version="1">Coups Rapides</content>
+	<content contentuid="h9e9f1b09g2dd9g4606gaed2g6ee0731e2300" version="1">Lorsque vous utilisez votre action sans lancer de sort ou de cantrip, vous pouvez effectuer une attaque d'arme en action bonus.</content>
+</contentList>
