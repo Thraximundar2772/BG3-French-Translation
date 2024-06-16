@@ -7,7 +7,7 @@
 	<content contentuid="h92e5715dg479ag4906g91e9gf38d3436836b" version="1">Poignard Elfe de Main Gauche</content>
 	<content contentuid="h6a241ebagd161g4e9dga00fg455e8c5a2b12" version="1">Arme de Duel Drow</content>
 	<content contentuid="h71122f36g3aaag4ae7gacbcg3f3f58e02839" version="1">Main Gauche</content>
-	<content contentuid="h019f9a3ag2e62g4467g9d6bg03b93182506b" version="1">En tenant une Rapière, un Scimitar ou une Épée dans votre main principale, votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1]. Cette capacité ne s'accumule pas avec "Escrime Menzoberranzan" ou "Lame et Poignard".</content>
+	<content contentuid="h019f9a3ag2e62g4467g9d6bg03b93182506b" version="1">En tenant une Rapière, un Cimeterre ou une Épée dans votre main principale, votre &lt;LSTag Tooltip="ArmorClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de [1]. Cette capacité ne s'accumule pas avec "Escrime Menzoberranzan" ou "Lame et Poignard".</content>
 	<content contentuid="ha58a0882gd1feg440ega21dgd1c68426690c" version="1">Attaquez une cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prostrée&lt;/LSTag; ou &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralysée&lt;/LSTag;, infligeant un supplément de [1].</content>
 	<content contentuid="h96874088g2031g4638g86c0g4f8184a690e4" version="1">Coup de Grâce</content>
 	<content contentuid="hee7c0fb0g845bg4f6bgbf01gccd8d2cbf181" version="1">Aucun guerrier digne de ce nom ne se passerait d'un tel poignard de secours.</content>

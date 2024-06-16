@@ -243,7 +243,7 @@
 	<content contentuid="hecc2d9d5g29d4g4da5g8bf0gaa460828639e" version="1">Une ceinture célébrant l'équilibre impossible entre Shar et Séluné.</content>
 	<content contentuid="hb5b63d88gafd6g4989g915cgb7096596ecf6" version="1">Totem de la Bête</content>
 	<content contentuid="h3e349385g1a09g408eg93e3gd4d27d1d82df" version="1">Une petite idole en bois sculptée en forme de plusieurs bêtes différentes.</content>
-	<content contentuid="h0f7518b4g8148g4a93g9cc9g5e5acd94cd6e" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt; pour [1] tours.</content>
+	<content contentuid="h0f7518b4g8148g4a93g9cc9g5e5acd94cd6e" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Vélocité&lt;/LSTag&gt; pour [1] tours.</content>
 	<content contentuid="h460b90a5g45b3g468cg9f9fgb23925173eb0" version="1">Totem de la Terreur</content>
 	<content contentuid="h3d7ded3eg5c26g4300gadb6g9d2077772869" version="1">Quelle que soit la signification de cet objet, il est d'une grande importance pour l'Illithid.</content>
 	<content contentuid="h7611d9e7g25dfg42a8ga65ag166a225a8a89" version="1">Lorsque vous &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Changez de forme&lt;/LSTag&gt;, vous gagnez &lt;LSTag Type="Status" Tooltip="JWL_Status_TotemDread"&gt;Soif de Domination&lt;/LSTag&gt; pour [1] tours. Si vous ne faites pas de dégâts, vous subissez [2] à la fin de votre tour.</content>
@@ -373,7 +373,7 @@
 	<content contentuid="haad3e91ag9fcbg408cg9d9fga82d7410022a" version="1">Symbole Sacré de Mielikki</content>
 	<content contentuid="h8f88a713g2b6eg45e9g8862g2cb1dfec5d50" version="1">Un petit jeton façonné sous la forme de Mielikki, la déesse des forêts.</content>
 	<content contentuid="h2feb84c0g7c38g4517ga5f9g977364fd4dfa" version="1">Les Vents Galopants</content>
-	<content contentuid="hf8f153ecg250fg4706gaec5g4a0f3859e9dc" version="1">Soigner une autre créature leur accorde &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt; pendant 1 tour et vous restaurez [1] de votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;.</content>
+	<content contentuid="hf8f153ecg250fg4706gaec5g4a0f3859e9dc" version="1">Soigner une autre créature leur accorde &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Vélocité&lt;/LSTag&gt; pendant 1 tour et vous restaurez [1] de votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;.</content>
 	<content contentuid="h8a266007gacddg4700ga876g83d866fedd26" version="1">Symbole Sacré d'Ilmater</content>
 	<content contentuid="h8e871668gd6a4g480agb654g1a8f1a97f553" version="1">Un jeton simple et rudimentaire en bois peint dédié au Dieu Pleureur.</content>
 	<content contentuid="hf20fa9e6g2e6fg4c41g9558g2385e2ff3148" version="1">La Miséricorde d'Ilmater</content>
