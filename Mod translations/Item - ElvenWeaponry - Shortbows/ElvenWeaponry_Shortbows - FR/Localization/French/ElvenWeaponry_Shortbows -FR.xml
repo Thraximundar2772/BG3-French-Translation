@@ -14,7 +14,7 @@
 	<content contentuid="hcdfc0042gabeeg458agac45g1aefce80617a" version="1">Arc Court Elfe Enchanté</content>
 	<content contentuid="h27f0797cg335dg42e2g98a2g4340261e057e" version="1">Presque aussi mortel qu'un arc long pour une fraction du poids!</content>
 	<content contentuid="h98503f42g4005g4057g9f4dg9cfe0f11265b" version="2">Les arcs courts elfiques peuvent être tirés en succession rapide. Tous les tirs effectués de cette manière ont une pénalité de -[1] à leur &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; mais peuvent sélectionner une cible supplémentaire. Cela ne peut être utilisé qu'avec les tirs spéciaux des arcs courts elfiques. (Vous pouvez activer ou désactiver cela.)</content>
-	<content contentuid="he382a47ag1e68g4e09gb33bg9f696fca53a1" version="1">Lorsque le porteur réalise un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; avec cette arme, il gagne &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Élan&lt;/LSTag&gt; pendant [1] tours.</content>
+	<content contentuid="he382a47ag1e68g4e09gb33bg9f696fca53a1" version="1">Lorsque le porteur réalise un &lt;LSTag Tooltip="CriticalHit"&gt;coup critique&lt;/LSTag&gt; avec cette arme, il gagne &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Vélocité&lt;/LSTag&gt; pendant [1] tours.</content>
 	<content contentuid="h3dcb3ce4g8f7cg4dcdg904bg5aa815c33c69" version="1">Charge Critique</content>
 	<content contentuid="hfe3a8c14g3777g4206g9d53ga8fdab794e4b" version="1">Doit avoir Sprinté ce tour.</content>
 	<content contentuid="hcfdcc167g8e40g4c2dgbaebgc2ae34ec36ee" version="1">Après avoir utilisé Sprint, vous pouvez effectuer une attaque à distance en tant que &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action Bonus&lt;/LSTag&gt;.</content>
