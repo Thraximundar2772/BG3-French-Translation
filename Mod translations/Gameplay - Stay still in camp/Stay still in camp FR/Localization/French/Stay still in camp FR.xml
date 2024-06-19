@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+
+    <!-- Toggle for entity to stay still in camp -->
+
+    <content contentuid="h03652d052f114f8ebbc10bc2602cddc835e7" version="1">Arrête de bouger</content>
+    <content contentuid="h31d5cb6c31ed4d198231d44624caf7c59f5b" version="1">Une fois activé au camp, le compagnon ne retournera pas à sa tente.</content>
+
+    <!-- Passive Applied to entity when it is standing still -->
+
+    <content contentuid="h38fc0213b20a4412bf0f223aeda5a7e974a9" version="1">Ne bouge pas</content>
+    <content contentuid="hd5dfdb8b7aa34a808f628362b0f04fa8884a" version="1">L'entité reste sans bouger dans le camp.</content>
+
+
+
+     <!-- Spell that removes the Please stay passive from all entities -->
+
+    <content contentuid="hd9f2b907gf748g4ce6g9a41gd200bd9d34ff" version="1">Tout le monde dans leur tente</content>
+    <content contentuid="hcbb40652g8090g44c8gbc6bgf49df29f2d3c" version="1">Enlève les passifs "Ne bouge pas" et "Animations activées" pour tous les compagnons. Les animations s'arrêteront et les compagnons retourneront à leur tente.</content>
+
+
+    <!-- Toggle for entity to play animations -->
+
+    <content contentuid="hf915ccb7c6ab460089bf6e132b6b9172ggd6" version="1">Jouer les animations de camp</content>
+    <content contentuid="hd56d3f4d08e140afa6ce277a0e74b1727542" version="1">Une fois activé, l'entité jouera une animation de camp au hasard.</content>
+
+    <!-- Passive Applied to entity when it is allowed to play animations -->
+    <content contentuid="h301d45d59433416298cdb7e131595f0e00ea" version="1">Animations activées</content>
+    <content contentuid="h7f1e1f279d594213bdc4a6fe1d936039f1db" version="1">L'entité va jouer une animation de camp.</content>
+
+</contentList>
