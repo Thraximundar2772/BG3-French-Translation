@@ -8,9 +8,9 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Anklem" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Kisses FR" />
+          <attribute id="Name" type="FixedString" value="CBR_Kisses FR" />
           <attribute id="Description" type="LSString" value="Traduction en français du mod : Kisses" />
-          <attribute id="Folder" type="LSString" value="TKisses FR" />
+          <attribute id="Folder" type="LSString" value="Kisses FR" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
@@ -22,10 +22,10 @@
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="Tags" type="LSString" value="Translation" />
           <attribute id="UUID" type="FixedString" value="7336878b-a21f-4b03-9526-428650ca8960" />
-          <attribute id="Version" type="int64" value="108086391056891904" />
+          <attribute id="Version" type="int64" value="144255925564211200" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version" type="int64" value="108086391056891904" />
+              <attribute id="Version" type="int64" value="144255925564211200" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
