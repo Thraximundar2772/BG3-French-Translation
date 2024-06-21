@@ -15,7 +15,7 @@
 	<content contentuid="h45a059a6g416ag43c0g95b1ga04b2cae043c" version="1">Créez un allié Sylvanien, un arbre sensible qui vous aide au combat.</content>
 	<content contentuid="h8df9d212gc63cg4a59g8173g6c1ff6d72df3" version="1">Flottabilité de Mielikki</content>
 	<content contentuid="h7916b0a5g91e9g45d0g8de6g5e71ed35ca54" version="1">Capuche de la bénédiction de la licorne</content>
-	<content contentuid="hfb4df0b0g4102g41d5gab9bgfb729131e51a" version="1">Ce capuchon est porté par les membres de l'Ordre de la corne de licorne, une petite société de guérisseurs dévoués et errants de Mielikii dont le but était d'apporter la paix aux personnes, aux animaux et aux plantes blessés.</content>
+	<content contentuid="hfb4df0b0g4102g41d5gab9bgfb729131e51a" version="1">Ce capuchon est porté par les membres de l'Ordre de la corne de licorne, une petite société de guérisseurs dévoués et errants de Mielikki dont le but était d'apporter la paix aux personnes, aux animaux et aux plantes blessés.</content>
 	<content contentuid="h4550094bgecd3g4466ga50bg6fa82256fa24" version="1">Bénédiction de la licorne</content>
 	<content contentuid="hbf9657f7gba38g47d9gb57cgfc5f0ae79ddf" version="1">En tant que membre de l'Ordre de la corne de licorne, lorsqu'il soigne quelqu'un, le porteur regagne [1]..</content>
 	<content contentuid="h68649127g28bfg4a59g9b94gad363fe448df" version="1">On dit que les vrais dévots de son Temple peuvent invoquer la dame de la Forêt elle-même.</content>
@@ -26,6 +26,9 @@
 	<content contentuid="h35784c96gd23bg4b66g937cg534074cf0678" version="1">Volée de familiés : Ours</content>
 	<content contentuid="h9683ad0ag001fg465eg881dg56385115c896" version="1">Volée de familiés : Écureuil </content>
 	<content contentuid="h4227a447g83e4g4583g8cddgdefc1094cd59" version="1">Volée de familiés : Loup</content>
+	<content contentuid="hbf46a786g1406g4ffdg8605ga2459e97ee25" version="1">Volée de familiés : Lapin</content>
+	<content contentuid="h3e18c441gecf4g4428gb816g683ef445a74a" version="1">Volée de familiés : Geai bleu</content>
+	<content contentuid="hd49434f0g4bc3g4481ga7c6g1d4cd2a95c86" version="1">Volée de familiés : Sanglier</content>
 	<content contentuid="h910838acg9c51g47ccg8e3dgdf9a65279878" version="1">Protégé du feu</content>
 	<content contentuid="ha7b45f8cg184bg42ccga215ga12f6220c620" version="1">Cette créature ou cet objet ne peut pas être blessé par le feu</content>
 	<content contentuid="h82fc97fcg3a14g462cgb25dg794757aacd5f" version="1">Amulette des Parleurs d'arbres</content>
