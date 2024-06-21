@@ -18,7 +18,7 @@
 	<content contentuid="ha0a29d0dgc5d0g4c95g8502g3f7a27cfd6d9" version="1">Queue</content>
 	<content contentuid="h416dcb42gd5fdg4270ga373gfbb9a2d32083" version="1">Défense de queue</content>
 	<content contentuid="h877ce08dg161cg47d8gbfc9g93da5256613d" version="1">Queue (Portée)</content>
-	<content contentuid="h4b2557f2g71d0g4b84g80d0g2252606ea0a6" version="1">Left Tail Attack Range</content>	
+	<content contentuid="h4b2557f2g71d0g4b84g80d0g2252606ea0a6" version="1">Portée d'attaque de la queue</content>	
 	<content contentuid="h091a6a99ga478g48degb368g8fc72640f3a0" version="1">La cible provoque un &lt;LSTag Tooltip="OpportunityAttack"&gt;Attaque d'opportunité&lt;/LSTag&gt; si elle bouge hors de portée.</content>
 	<content contentuid="h41c7af1ag0c00g4d1cg807dgcb4d7758e76b" version="1">Fouettez votre queue sur une cible dans [1].</content>
 	<content contentuid="hd0c5f4e7gc7b8g4076ga960g92197dd9c54a" version="1">Lorsque vous êtes attaqué par une créature que vous pouvez voir à portée [1], ajoutez [2] à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;LSTag&gt;, ce qui peut causer à l'attaque de rater.</content>
