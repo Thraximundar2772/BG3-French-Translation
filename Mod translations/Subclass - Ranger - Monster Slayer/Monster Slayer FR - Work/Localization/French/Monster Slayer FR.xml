@@ -34,7 +34,7 @@
 	<content contentuid="hec27e74bg2805g47d1g82a7g78148db42e4a" version="1">Compteur du Tueur (Désarmé)</content>
 	<content contentuid="hb5295945g2bb3g4e2fgbe98gbdea463f0547" version="1">Compteur du Tueur (A distance)</content>
 	<content contentuid="hbd56e046gdc70g49bagbb8dgb76ed2e7a5af" version="1">Si la cible de votre &lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;Proie du tueur&lt;/LSTag&gt; vous oblige à faire un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; pour effectuer une attaque avec une arme contre la Proie. Si l’attaque réussit, votre sauvegarde réussit automatiquement, en plus des effets normaux de l’attaque.</content>
-	<content contentuid="h1aa23e1fg6075g4f35g8f1dgf62c1f679ef3" version="1">Si la cible de votre &lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;Proie du tueur&lt;/LSTag&gt; vous oblige à faire un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez contre-attaquer avec votre arme équipée ou une frappe à mains nues. Si l’attaque réussit, votre sauvegarde réussit automatiquement. </content>
+	<content contentuid="h1aa23e1fg6075g4f35g8f1dgf62c1f679ef3" version="1">Quand la cible de votre &lt;LSTag Type="Spell" Tooltip="Target_DesignatePrey"&gt;Proie du tueur&lt;/LSTag&gt; vous oblige à faire un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;, vous pouvez contre-attaquer avec votre arme équipée ou une frappe à mains nues. Si l’attaque réussit, votre sauvegarde réussit automatiquement. </content>
  </contentList>
 
  	
