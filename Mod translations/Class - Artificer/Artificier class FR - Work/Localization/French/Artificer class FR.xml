@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h777777777777777777777777777777777777" version="1">Debug</content>
+	<content contentuid="h777777777777777777777777777777777778" version="1">Debug [1]</content>
+	<content contentuid="h177777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer</content>
+	<content contentuid="h277777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive (Technical)</content>
+	<content contentuid="h377777777777777777777777777777777777" version="1">Debug: BOOST Aura of Artificer - Passive</content>
+	<content contentuid="h477777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Technical</content>
+	<content contentuid="h577777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck</content>
+	<content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10</content>
+	<content contentuid="h877777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Passive (Technical) - Self</content>
+
+	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Armure solide</content>
+
+	<content contentuid="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1">Armure de travailleur</content>
+	<content contentuid="h463018ecgbd05g4002g9584gcfc750efe37a" version="1">Une armure solide qui permet la pratique du combat et la confection d'objets.</content>
+
+	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificier</content>
+	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Maîtres dans l'art de libérer la magie dans les objets du quotidien, les artificiers sont les inventeurs suprêmes. Ils considèrent la magie comme un système complexe qui n'attend que d'être décodé et contrôlé. Les artificiers utilisent leurs outils pour canaliser les pouvoirs des arcanes, en confectionnant des objets magiques tant temporaires que permanents. Pour lancer un sort, un artificier peut utiliser des ingrédients alchimiques et concocter un puissant élixir, du matériel de calligraphie pour tracer un sceau de pouvoir sur l'armure d'un allié, ou encore des outils de bricoleur pour fabriquer une breloque temporaire. La magie des artificiers est liée à leurs outils et à leurs talents.</content>
+
+	<content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Expertise en Escamotage</content>
+	<content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; et l'&lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; pour les &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; impliquant l'&lt;LSTag Tooltip="SleightOfHand"&gt;Escamotage&lt;/LSTag&gt;.</content>
+
+	<content contentuid="77877fb3deaa14de1766304e0911fbc49ae66" version="1">Niveau arrondi du lanceur de sorts</content>
+	<content contentuid="77899fb3deaa14de1766304e0911fbc49ae66" version="1">Les niveaux d'Artificier donnent des &lt;LSTag Tooltip="SpellSlot"&gt;emplacements de sort&lt;/LSTag&gt; supplémentaires par rapport aux autres lanceurs de sorts lors du multiclassage.</content>
+
+	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchimiste</content>
+	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Sorts d'Alchimiste</content>
+	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Certains de vos sorts sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt; après avoir atteint certains niveaux dans cette classe. Ces sorts rentrent dans la catégorie des sorts de votre classe et n'ont pas besoin d'être préparés.</content>
+	<content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">Un Alchimiste est un expert dans la combinaison de réactifs chimiques pour produire des effets mystiques. Les Alchimistes utilisent leurs créations pour donner la vie et la reprendre. L'alchimie est la plus ancienne des traditions d'artificier, et sa polyvalence est appréciée depuis longtemps, en temps de guerre comme en temps de paix.</content>
+	<content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Élixir expérimental de Soins</content>
+	<content contentuid="h1169aa0dg1091g4fb8g827egc7228b21984d" version="1">Élixir expérimental de Soins supérieur</content>
+	<content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Un élixir rouge, produisant une lumière chaude.</content>
+	<content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Le buveur regagne un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; égal à 2d4 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;.</content>
+	<content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Élixir expérimental de Rapidité</content>
+	<content contentuid="h88119a60g86efg4d27g938bg44ccdfa66007" version="1">Élixir expérimental de Rapidité supérieur</content>
+	<content contentuid="h69116960g86efg4d27g938bg44ccdfa66007" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; de la créature est doublée.</content>
+	<content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Un élixir vert, produisant une lumière vacillante.</content>
+	<content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; du buveur est doublée.</content>
+	<content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Élixir expérimental de Résilience</content>
+	<content contentuid="h1140f63fgd75eg459egbaa0gd40813a27ad1" version="1">Élixir expérimental de Résilience supérieur</content>
+	<content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Un élixir violet, produisant une lumière réconfortante.</content>
+	<content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Le buveur bénéficie d'un bonus à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt;.</content>
+	<content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Élixir expérimental d'Audace</content>
+	<content contentuid="h11075fecg7f0bg4c71gb53cge98be513a083" version="1">Élixir expérimental d'Audace supérieur</content>
+	<content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Un élixir rose, produisant une lumière confiante.</content>
+	<content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Le buveur bénéficie d'un bonus temporaire à ses &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de &lt;LSTag Tooltip="SavingThrow"&gt;sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Élixir expérimental de Vol</content>
+	<content contentuid="h11f06693gf819g4d28g9a80g335e3824f691" version="1">Élixir expérimental de Vol supérieur</content>
+	<content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Un élixir bleu, produisant une lumière onirique.</content>
+	<content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Le buveur peut voler pendant une durée limitée.</content>
+	<content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Création d'un Élixir expérimental</content>
+	<content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Vous pouvez magiquement produire un élixir expérimental comprenant des propriétés aléatoires. Entre chaque &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;, le nombre d'élixirs que vous pouvez créer augmente lorsque vous prenez des niveaux dans cette classe. Vous pouvez créer des élixirs expérimentaux supplémentaires en dépensant des &lt;LSTag Tooltip="SpellSlot"&gt;emplacements de sort&lt;/LSTag&gt;. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Les élixirs créés non consommés disparaissent après que vous ayez effectué un &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Vous créez un de vos élixirs quotidiens. </content>
+	<content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Vous créez un élixir nécessitant de dépenser un &lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Érudit alchimique</content>
+	<content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">Votre contrôle des réactifs magico-chimiques est devenu magistral, améliorant les soins et les dégâts que vous en tirez. Lorsque vous lancez un sort en utilisant votre matériel d'alchimiste comme focaliseur d'incantation, vous recevez un bonus au &lt;LSTag Tooltip="AttackRoll"&gt;jet&lt;/LSTag&gt; du sort. Ce jet doit restaurer des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; ou infliger des dégâts d'acide, de feu, nécrotiques ou de poison, et le bonus est égal à votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; (minimum +1).</content>
+	<content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Ingrédients revigorants</content>
+	<content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">Vous pouvez incorporer des ingrédients revigorants dans certains de vos travaux. Chaque fois qu'une créature boit un élixir expérimental que vous avez créé, la créature gagne des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires égaux à 2d6. Vous pouvez également lancer &lt;LSTag Type="Spell" Tooltip=" Tooltip="Target_LesserRestoration "&gt;Restauration Partielle&lt;/LSTag&gt; sans dépenser d'emplacement de sort et sans avoir à le préparer.</content>
+	<content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Maîtrise chimique</content>
+	<content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">Vous avez appris à utiliser votre alchimie pour reproduire certains ingrédients magiques à partir d'éléments extraits. Vous pouvez utiliser les éléments extraits pour créer une grande variété de composants de base utiles aux recettes d'alchimie.</content>
+	<content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Charges d'Élixir expérimental</content>
+	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">Le nombre de fois restant vous permettant de créer des Élixirs expérimentaux.</content>
+	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Charges d'Ingrédients revigorants</content>
+	<content contentuid="ha703390agfa66g4267gbb32g9185b1ad2410" version="1">Le nombre de fois restant vous permettant de lancer &lt;LSTag Type="Spell" Tooltip=" Tooltip="Target_LesserRestoration "&gt;Restauration Partielle&lt;/LSTag&gt; sans dépenser d'emplacement de sort et sans avoir à le préparer.</content>
+
+	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armurier</content>
+	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Sorts d'Armurier</content>
+	<content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">Certains de vos sorts sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt; après avoir atteint certains niveaux dans cette classe. Ces sorts rentrent dans la catégorie des sorts de votre classe et n'ont pas besoin d'être préparés.</content>
+	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">Un artificier qui se spécialise dans l'armurerie modifiant les armures pour qu'elles s'apparentent à une seconde peau. Ces modifications ont pour but de perfectionner la magie de l'Artificier, de déclencher des attaques puissantes et de produire une défense redoutable. L'Artificier se lie à son armure, ne faisant plus qu'un avec elle alors même qu'il expérimente et affine ses capacités magiques.</content>
+
+	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artilleur</content>
+	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Sorts d'Artilleur</content>
+	<content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">Certains de vos sorts sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt; après avoir atteint certains niveaux dans cette classe. Ces sorts rentrent dans la catégorie des sorts de votre classe et n'ont pas besoin d'être préparés.</content>
+	<content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">L'Artilleur est spécialisé dans l'utilisation de la magie pour lancer des projectiles et créer des explosions sur un champ de bataille. Cette puissance destructrice était appréciée par toutes les armées de la Dernière Guerre. Maintenant que la guerre est terminée, certains membres de cette spécialisation ont cherché à construire un monde plus pacifique en utilisant leurs pouvoirs pour lutter contre la résurgence des conflits au Khorvaire.</content>
+	<content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Canon occulte</content>
+	<content contentuid="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1">Canon occulte (petite taille)</content>
+	<content contentuid="7736e61e8g9b89g4f30gb649gb3a97346a443" version="1">Vous apprenez à créer un canon occulte. Avec des outils de menuisier ou de forgeron en main, vous pouvez par une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; créer magiquement un canon occulte de taille normale ou petite dans un espace inoccupé sur une surface horizontale dans un rayon de 1,50 mètre autour de vous. Un canon occulte de taille normale occupe son espace et un canon de petite taille peut être tenu à une main.</content>
+	<content contentuid="1126e61e8g9b89g4f30gb649gb3a97346a443" version="1">Lance-flammes</content>
+	<content contentuid="1136e61e8g9b89g4f30gb649gb3a97346a443" version="1">Le canon projette du feu dans un cône de 4,50 m devant vous. Chaque créature dans cette zone doit réaliser un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; contre le &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Degré de difficulté de sort&lt;/LSTag&gt; de sauvegarde de vos sorts et subir 2d8 dégâts de feu en cas d'échec ou la moitié en cas de réussite. Le feu enflamme tout objet inflammable dans la zone qui n'est pas tenu ou porté.</content>
+	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a443" version="1">Baliste de choc</content>
+	<content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a444" version="1">Baliste de choc (main secondaire)</content>
+	<content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Effectuez une attaque à distance avec un sort en prenant le canon pour origine et en ciblant une créature ou un objet à portée. Si l'attaque touche, la cible subit 2d8 dégâts de Force et est repoussée de 1,50 m.</content>
+	<content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Protecteur</content>
+	<content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">Le canon émet un jaillissement d'énergie positive qui lui octroie, ainsi qu'à chaque créature de votre choix dans un rayon de 3 mètres, un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires égal à 1d8 + votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; (minimum +1).</content>
+	<content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arme à feu arcanique</content>
+	<content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">Vous savez comment transformer une baguette, un bâton ou un sceptre en une arme à feu arcanique, un conduit pour vos sorts destructeurs. Lorsque vous lancez un sort d'artificier, vous lancez 1d8 et ajoutez le résultat aux dégâts.</content>
+	<content contentuid="h7750c3cfg334bg448dgad59g079e7e0a2b46" version="1">Canon explosif</content>
+	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">Tous les jets de dégâts du canon augmentent de 1d8. Par une &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt;, vous pouvez ordonner au canon d'exploser si vous êtes dans un rayon de 18 mètres autour de lui. Cela détruit le canon et force toute créature à 6 mètres ou moins de lui à effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, subissant 3d8 dégâts de force en cas d'échec ou la moitié de ces dégâts en cas de réussite.</content>
+	<content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Auto-destruction</content>
+	<content contentuid="he26b31c4g0908g4b94g872ag9e61113a5b65" version="1">Le canon s'auto-détruit et force toute créature à 6 mètres ou moins de lui à effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;, subissant 3d8 dégâts de force en cas d'échec ou la moitié de ces dégâts en cas de réussite.</content>
+
+	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Forgeron de guerre</content>
+	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Sorts de Forgeron de guerre</content>
+	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Certains de vos sorts sont &lt;LSTag Tooltip="AlwaysPrepared"&gt;toujours préparés&lt;/LSTag&gt; après avoir atteint certains niveaux dans cette classe. Ces sorts rentrent dans la catégorie des sorts de votre classe et n'ont pas besoin d'être préparés.</content>
+	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Les armées ont besoin de protection, et si les défenses échouent quelqu'un doit bien se charger de recoller les morceaux. Combinaison de protecteur et de soigneur, le forgeron de guerre est un expert pour défendre les autres et pour réparer aussi bien le matériel que le personnel. Pour les aider dans leur travail, les forgerons de guerre sont généralement accompagnés d'un défenseur d'acier, un compagnon protecteur de leur propre création. Nombre de soldats racontent comment, à l'article de la mort, ils ont été sauvés par un forgeron de guerre et son défenseur d'acier.</content>
+	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">La &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; et les dégâts du compagnon augmentent en fonction du &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; de l'Artificier.</content>
+
+	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Défenseur d'Acier</content>
+	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Vos bricolages dans vos temps libres ont donné naissance à un compagnon fidèle, un Défenseur d'Acier. Il est amical envers vous et vos compagnons, et obéit à vos ordres.</content>
+	<content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Morsure de force</content>
+	<content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Inflige des dégâts de Force à la cible équivalents à 1d8 + le &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; du Défenseur d'Acier</content>
+	<content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Apte au combat</content>
+	<content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">Lorsque vous attaquez avec une arme magique, vous utilisez votre &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; pour vos &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaques&lt;/LSTag&gt; et de dégâts au lieu de votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou de votre &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;.</content>
+	<content contentuid="7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Décharge arcanique</content>
+	<content contentuid="778f41faag16e8g4399g8efbgc2af8304f248" version="1">Vous apprenez de nouvelles façons de canaliser l'énergie arcanique pour endommager ou soigner. Lorsque vous touchez une cible lors d'une attaque avec une arme magique ou que votre défenseur d'acier touche sa cible, elle subit 2d6 dégâts de force supplémentaires. Vous pouvez aussi choisir une créature ou un objet que vous pouvez voir dans un rayon de 9 mètres et lui faire récupérer 2d6 &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;.</content>
+	<content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Charges de Décharge arcanique</content>
+	<content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">Le nombre de fois où vous pouvez utiliser votre Décharge arcanique.</content>
+	<content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Décharge arcanique (Dégâts)</content>
+	<content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">Vous pouvez infliger des dégâts de Force à une cible que vous avez touchée pendant ce tour.&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Dépense une charge de Décharge arcanique.</content>
+	<content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Décharge arcanique (Soins)</content>
+	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choisissez une créature ou un objet que vous pouvez voir. Une énergie curative s'applique à la cible, lui redonnant &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Dépense une charge de Décharge arcanique.</content>
+	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Parade d'attaque</content>
+	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">Le Défenseur d'Acier impose un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; au &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; d'une créature qu'il peut voir et qui se trouve à [1] ou moins de lui, à condition que le jet d'attaque soit contre une créature autre que le défenseur.</content>
+
+	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Adepte de l'alchimie</content>
+	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">Vous avez acquis une connaissance approfondie de l'utilisation et de la création d'objets consommables utiles au combat. Vous pouvez utiliser vos éléments extraits pour les fabriquer.</content>
+	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Éléments extraits</content>
+	<content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Extrayez magiquement des éléments d'alchimie utiles pour fabriquer des objets consommables utiles au combat ou des ingrédients rares grâce à votre magie d'adepte ou de Maîtrise chimique. Certains objets peuvent nécessiter plus d'éléments que d'autres pour être fabriqués.</content>
+	<content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Éléments extraits</content>
+	<content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">Vous avez magiquement extrait des éléments utiles à la création d'objets et d'ingrédients consommables. Certains objets peuvent nécessiter plus d'éléments que d'autres pour être fabriqués.</content>
+	<content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Requiert 2 Éléments Extraits pour être créé. </content>
+	<content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Éléments extraits</content>
+	<content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Des éléments utiles ont été extraits. Peut potentiellement causer des problèmes de santé ou des dégâts structuraux.</content>
+	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Objet de stockage de sort</content>
+	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">Vous apprenez à stocker un sort dans un parchemin. Vous pouvez créer un nombre de parchemins égal à votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; et ces derniers sont utilisables jusqu'à votre prochain &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Charges d'Objet de stockage de sort</content>
+
+	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Charges d'Imprégnation</content>
+	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Imprégnation</content>
+	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Charges d'Imprégnation: [3]</content>
+	<content contentuid="h779d4496g788ag4a57gb9degb99532438188" version="1">Aucune charge d'Imprégnation disponible</content>
+	<content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">Le nombre de fois où vous pouvez imprégner des objets ordinaires avec certaines propriétés magiques.</content>
+	<content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Bricolage magique</content>
+	<content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">Vous apprenez à imprégner une étincelle de magie dans des objets ordinaires.</content>
+	<content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Trait de génie</content>
+	<content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Trait de génie</content>
+	<content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Vous gagnez la capacité de proposer des solutions tout en étant sous pression. Lorsque vous ou une autre créature que vous voyez à 9 mètres ou moins de vous effectue un &lt;LSTag Tooltip="AbilityCheck"&gt;test de compétence&lt;/LSTag&gt; ou un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour ajouter votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; au jet.</content>
+	<content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Création d'un emplacement de sort</content>
+	<content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Vous pouvez dépenser une charge d'Imprégnation pour créer un &lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">Outil de circonstance</content>
+	<content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">Vous apprenez à produire exactement l'outil dont vous avez besoin, que ce soit des outils de voleur, de désamorçage de pièges ou même une pelle.</content>
+	<content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Outils de voleur</content>
+	<content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Kit de désarmorçage de pièges</content>
+	<content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Pelle</content>
+	<content contentuid="h4b087c50g9efdg4c02g928dg551847b111f0" version="1">Imprégnation: Défense améliorée</content>
+	<content contentuid="h11087c50g9efdg4c02g928dg551847b111f0" version="1">Imprégnation: Armure améliorée</content>
+	<content contentuid="h22087c50g9efdg4c02g928dg551847b111f0" version="1">Imprégnation: Bouclier améliorée</content>
+	<content contentuid="h57787c50g9efdg4c02g928dg551847b111f0" version="1">Imprégnation: Équipement amélioré</content>
+	<content contentuid="h39958a9dg4375g4b4egb042ga1ad0cfd6907" version="1">Une créature reçoit un bonus de +1 à sa &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; lorsqu'elle porte l'objet imprégné (armure ou bouclier). Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.</content>
+	<content contentuid="hacae19c9gd05cg4e61ga0b9gdcc364c0ae32" version="1">Imprégnation: Focaliseur arcanique amélioré</content>
+	<content contentuid="h60cef40bg0029g48d8ga8eeg9c64c231b614" version="1">Tant qu'elle tient cet objet, une créature gagne un bonus de + 1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; avec un sort et aux &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;. Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.</content>
+	<content contentuid="h74c2b6ddg453cg4554ga247g3c7e9847b8bd" version="1">Imprégnation: Arme améliorée</content>
+	<content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">Octroie un bonus de +1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts effectués avec cette arme magique. Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.</content>
+	<content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Imprégnation: Armure de puissance magique</content>
+	<content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Imprégnation: Bottes du sentier sinueux</content>
+	<content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">Vous pouvez imprégner une paire de bottes octroyant ainsi à son porteur un bonus de [1] à sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt;. Aussi, le porteur ne provoque plus d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Imprégnation: Heaume de conscience</content>
+	<content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Imprégnation: Aiguiseur d'esprit</content>
+	<content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Imprégnation: Arme radiante</content>
+	<content contentuid="h78612d52g9edeg471eg9c3fg2e0bf8c4d057" version="1">Vous obtenez un bonus de +1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts effectués avec cette arme magique. Lorsqu'il la tient en main, une lumière vive émane de cette dernière.</content>
+	<content contentuid="h5660aa44gdd6dg475cgb896g1ee6e25f8066" version="1">Imprégnation: Arme boomerang</content>
+	<content contentuid="h7760aa44gdd6dg477cgb896g1ee6e25f8077" version="1">Octroie un bonus de +1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts effectués avec cette arme magique, qui retourne dans la main de son porteur immédiatement après avoir effectué une attaque à distance.</content>
+	<content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">Octroie un bonus de +1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts effectués avec cette arme magique, qui retourne dans la main de son porteur immédiatement après avoir effectué une attaque à distance.</content>
+	<content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Imprégnation: Tir à répétition</content>
+	<content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">Vous imprégnez une arbalète ou une arme à feu avec de la magie, accordant un bonus de +1 aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et de dégâts effectués avec l'arme lorsqu'elle est utilisée pour faire une attaque à distance. Si vous l'équipez dans votre main principale et que vous ne chargez pas de munitions dans l'arme, elle en produit elle-même, créant automatiquement une munition magique lorsque vous effectuez une attaque à distance avec elle, ce qui permet d'attaquer deux cibles une fois par tour. Les attaques deviennent plus rapides lorsque vous atteignez le niveau 10, ne nécessitant pas d'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hc0f7ac54391a4420688e6f814692e99a8ccc" version="1">Imprégnation: Armure résistante</content>
+	<content contentuid="hc6bbc38e41b25457cb813aa8a4c96b313ccc" version="1">Une créature qui porte cette armure obtient la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; à un des types de dégâts suivants, que vous choisissez au moment d'imprégner l'objet : acide, feu, force, foudre, froid, nécrotique, poison, psychique, radiant ou tonnerre.</content>
+	<content contentuid="hc4ad6526d19724cf98e69fb6fa0d7818accc" version="1">Imprégnation: Armure résistante (Acide)</content>
+	<content contentuid="hc62d5b1e0ead24bfb906f25805193eeeaccc" version="1">Imprégnation: Armure résistante (Froid)</content>
+	<content contentuid="hcc9e8619064b840daae4249fb7177c7caccc" version="1">Imprégnation: Armure résistante (Feu)</content>
+	<content contentuid="hce3ac2645372e48769b076e38e72977c5ccc" version="1">Imprégnation: Armure résistante (Force)</content>
+	<content contentuid="hca53abab6abbc40f4b435a8c028d32b1accc" version="1">Imprégnation: Armure résistante (Foudre)</content>
+	<content contentuid="hcd403f76bc97c4d16bfbefb19fb065071ccc" version="1">Imprégnation: Armure résistante (Nécrotique)</content>
+	<content contentuid="hc54fb99874318412c9b0baecf0e2cc8aaccc" version="1">Imprégnation: Armure résistante (Poison)</content>
+	<content contentuid="hc8c916b9bb524451aaa3adc087b2c424dccc" version="1">Imprégnation: Armure résistante (Psychique)</content>
+	<content contentuid="hc7dd67db436c64dd4a8ff9dec8751431bccc" version="1">Imprégnation: Armure résistante (Radiant)</content>
+	<content contentuid="hcd3f25c1aacdd4847a4d77b4e16fdd2b6ccc" version="1">Imprégnation: Armure résistante (Tonnerre)</content>
+	<content contentuid="hcec2b945d6c0649a6949bb647334bdd66ccc" version="1">Imprégnation: Tir à répétition</content>
+	<content contentuid="hca760a388a7eb4633a6af4092572fa8efccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts d'acide.</content>
+	<content contentuid="hc0afdae880960456fb4d2bf44ffff43f6ccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de froid.</content>
+	<content contentuid="hcdf653a5dd3cb4aaea3e3d6b5fc195200ccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de feu.</content>
+	<content contentuid="hc291f57d788e34ab2889e27d8b9e1aaf1ccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de force.</content>
+	<content contentuid="hc6ceab6e1359243a1ae80ec83b51bbb4bccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de foudre.</content>
+	<content contentuid="hc660fd1836327452694bcd112c6b11bc3ccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts nécrotiques.</content>
+	<content contentuid="hc49935aa1569f4e5f909749cc8767c56cccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de poison.</content>
+	<content contentuid="hca072064f56274e069a4a9445a80c288dccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts psychiques.</content>
+	<content contentuid="hc2ddb2c559adf4f55b86e68aa120bf0f1ccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts radiants.</content>
+	<content contentuid="hc59fddbd239e841a8bcbff79706acce0dccc" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux dégâts de tonnerre.</content>
+	<content contentuid="hc3e7d9c3012254b64ade461c1fd99f581ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts d'acide.</content>
+	<content contentuid="hc8172ad159b9f4da3aa19338a69c54830ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de froid.</content>
+	<content contentuid="hcf3dd50c9796c41d58af39e9916f7e93cccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de feu.</content>
+	<content contentuid="hc69d85df14b9648c39fef35677442e74bccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de force.</content>
+	<content contentuid="hc816b6cf9b38a4517b98413cad0a13bd4ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de foudre.</content>
+	<content contentuid="hcd39e633ce7b24d6e8eca3d167535895accc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts nécrotiques.</content>
+	<content contentuid="hcf8df4d6d1a4a41b2b060bded89db3f39ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de poison.</content>
+	<content contentuid="hc7d2e818798044bd492f7a5150b9c91c5ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts psychiques.</content>
+	<content contentuid="hc5e87b2a8f9bc4046902b677a3a3143a8ccc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts radiants.</content>
+	<content contentuid="hc328b59e9ad994d0fa282fc6f7d8fa65accc" version="1">Lorsqu'elle porte cette armure, une créature a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts de tonnerre.</content>
+	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Imprégnation: Sac sans fond</content>
+	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfaa" version="1">Imprégnation: Sac sans fond - Désactivé</content>
+	<content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfab" version="1">Le lien avec le plan Astral ne fonctionne pas lorsque l'on se trouve à l'intérieur du plan Astral.</content>
+	<content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info="Warning"/&gt; En l'utilisant deux fois, vous créerez un bref portail vers le plan Astral.</content>
+	<content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">Vous avez appris à imprégner de l'énergie magique à votre sac à dos pour le transformer en un sac sans fond qui vous permet de placer des objets dans un espace extradimensionnel, ce qui augmente considérablement la quantité d'objets qu'il peut transporter et ne tient pas compte du poids. Le sac ne fonctionne pas dans le plan Astral. Utiliser cette imprégnation deux fois ou placer le sac dans un autre espace extradimensionnel détruit instantanément les deux objets et ouvre un portail vers le plan Astral. Le portail apparaît à l'endroit où l'un des objets a été placé. Toute créature située à moins de 3 mètres du portail est aspirée à travers celui-ci. Le portail se referme ensuite. Le portail est à sens unique et ne peut être rouvert.</content>
+	<content contentuid="h77821844g2288g4c8dg9663gc53d74456c29" version="1">Tir à répétition</content>
+	<content contentuid="h8358452eg4441g4385gae6fg12d286bfd567" version="1">Vous pouvez tirer deux fois avec votre arme à distance sur la même cible.</content>
+	<content contentuid="h42f3f78bg17bdg4a51g9e7dg7e26feeef846" version="1">Imprégnation: Serviteur Homoncule</content>
+	<content contentuid="h399ba2a0g7772g4072g944dgbcd0e11c885a" version="1">Vous découvrez d'anciennes méthodes pour créer magiquement un homoncule spécial qui vous sert. L'objet que vous imprégnez sert de cœur à la créature, autour duquel se forme instantanément le corps de la créature.</content>
+	<content contentuid="77715041bga873g4f1cgb45eg7774bac4a109" version="1">Serviteur Homoncule: Chat</content>
+	<content contentuid="777633996g3e8ag4cb8ga616g141d6dad37af" version="3">Vous invoquez un Serviteur Homoncule adoptant la forme d'un chat qui peut &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;miauler&lt;/LSTag&gt; pour distraire vos ennemis.</content>
+	<content contentuid="777b7d430gea4ag42abg92c0gf2f646e967f1" version="1">Serviteur Homoncule: Crabe</content>
+	<content contentuid="77785d10bg98d0g4722gba69g69b592c53677" version="3">Vous invoquez un Serviteur Homoncule adoptant la forme d'un crabe qui peut &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;pincer&lt;/LSTag&gt; vos ennemis.</content>
+	<content contentuid="777e6ae06g0e2eg43cfga2feg7a59d317dca8" version="1">Serviteur Homoncule: Grenouille</content>
+	<content contentuid="77735e6e7g2d4dg43b4ga7e6gcc1852abb392" version="4">Vous invoquez un Serviteur Homoncule adoptant la forme d'une grenouille qui peut administrer une &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;bufotoxine&lt;/LSTag&gt; à vos ennemis.</content>
+	<content contentuid="777f2a45bg24ebg4a3ega2b1gc157a1b738d2" version="1">Serviteur Homoncule: Rat</content>
+	<content contentuid="777547a2fg2225g4052g86c9g1a7a03f6c207" version="3">Vous invoquez un Serviteur Homoncule adoptant la forme d'un rat qui peut infliger une &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;morsure infectieuse&lt;/LSTag&gt; à vos ennemis.</content>
+	<content contentuid="777341008gfad0g4868g817eg856bada1bff8" version="1">Serviteur Homoncule: Corneille</content>
+	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Vous invoquez un Serviteur Homoncule adoptant la forme d'une corneille qui peut &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;aveugler&lt;/LSTag&gt; vos ennemis.</content>
+	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Serviteur Homoncule: Araignée</content>
+	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Vous invoquez un Serviteur Homoncule adoptant la forme d'une araignée qui peut infliger une &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;morsure venimeuse&lt;/LSTag&gt; à vos ennemis.</content>
+
+	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Réplique d'objet magique</content>
+	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">En utilisant cette imprégnation, vous reproduisez un objet magique spécifique. Chaque objet répliqué consommera une charge d'Imprégnation et disparaîtra après chaque &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt; effectué.</content>
+	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Réplique: Circlet de télépathie </content>
+	<content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">Ce circlet magique permet à son porteur de lire dans les pensées.</content>
+	<content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Réplique: Bottes ailées</content>
+	<content contentuid="h888550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">Ces bottes permettent à leur porteur de voler.</content>
+	<content contentuid="hfff13be0g55d1g413dg93b9g2f0b17780151" version="1">Réplique: Anneau du Seigneur des cryptes</content>
+	<content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Réplique: Amulette de Cicatrisation</content>
+	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Réplique: Gantelets de puissance d'ogre</content>
+
+	<content contentuid="h459b895bg4564g4064g800cge118219eec17" version="1">Imprégnation: Armure à propulsion arcanique</content>
+	<content contentuid="h61fad7f4g7b21g4f4fgac8fg3223752b38e3" version="1">Vous apprenez à imprégner votre armure de magie arcanique, ce qui permet à son porteur de se déplacer plus rapidement et d'utiliser des attaques de Force. Une fois par tour, vous pouvez attaquer en utilisant des explosions de Force et des attaques de zone, et toutes vos attaques d'armes infligent des dégâts de Force supplémentaires.</content>
+	<content contentuid="hb87b8cc5g3c9bg4690g8100g8aee4432cf18" version="1">Charges de Propulsion arcanique</content>
+	<content contentuid="h11e4951cg210dg4143g9306g1d6c7733a5c1" version="1">Vous utilisez la propulsion de votre armure pour porter une attaque dévastatrice avec votre arme.</content>
+	<content contentuid="h797aa447g66e8g4c92g90f8g084aa97c9e1e" version="1">Explosion de propulsion arcanique</content>
+	<content contentuid="hae87f8d1g52e7g4011g9858gdbed01f13c2c" version="1">Vous pouvez canaliser la magie à travers vos gantelets et lancer des projectiles de Force.</content>
+
+	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Armure arcanique</content>
+	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Vos recherches en métallurgie vous ont amené à faire de votre armure, un catalyseur pour votre magie. Par une action, vous pouvez transformer une armure que vous portez en armure arcanique.</content>
+	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">Vous gagnez la &lt;LSTag Tooltip="ArmourProficiency"&gt;maîtrise&lt;/LSTag&gt; des armures lourdes.</content>
+	<content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Modèle d'armure: Gardien</content>
+	<content contentuid="h77d62355g3b68g457aga31dg36e1b81ae6f3" version="1">Modèle d'armure: Gardien (Perfectionné)</content>
+	<content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">Vous concevez votre armure pour qu'elle soit une ligne de front en cas de conflit.</content>
+	<content contentuid="h83fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Modèle d'armure: Infiltré</content>
+	<content contentuid="h01fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Modèle d'armure: Infiltré (Main principale)</content>
+	<content contentuid="h02fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Modèle d'armure: Infiltré (Main secondaire)</content>
+	<content contentuid="h03fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Modèle d'armure: Infiltré (Port sur le torse)</content>
+	<content contentuid="h77fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Modèle d'armure: Infiltré (Perfectionné)</content>
+	<content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">Vous personnalisez votre armure pour des projets subtiles.</content>
+	<content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Armure perfectionnée</content>
+	<content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Votre armure arcanique bénéficie d'avantages supplémentaires en fonction de son modèle.&lt;br&gt;&lt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Se reforge après une montée en niveau. </content>
+	<content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Gardien: Lorsqu'une créature que vous pouvez voir attaque un allié proche, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour forcer magiquement cette créature à effectuer un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; en opposition au &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Degré de difficulté de votre sort&lt;/LSTag&gt;, attirant la créature vers vous et lui infligeant des dégâts. &lt;br&gt;Infiltré: Toute créature qui subit des dégâts de foudre provenant de votre lance-foudre émane une lumière magique jusqu'au début de votre prochain tour. Elle subit également un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre vous et subit 1d6 points de dégâts de foudre supplémentaires de vos attaques.</content>
+	<content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Gants de tonnerre (Main principale)</content>
+	<content contentuid="ha111159eg3214g4772g9085gce3dcff90a4d" version="1">Votre gant droit est imprégné d'énergie.</content>
+	<content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Chaque gant est considéré comme étant une arme de mêlée courante tant que vous ne tenez pas d'arme et inflige des dégâts de tonnerre. Une créature touchée par le gantelet subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre des cibles autres que vous jusqu'au début de votre prochain tour, l'armure émet magiquement une impulsion distrayante lorsque la créature attaque quelqu'un d'autre.</content>
+	<content contentuid="h1111259eg3214g4772g9085gce3dcff90a4d" version="1">Gants de tonnerre (Main secondaire)</content>
+	<content contentuid="ha111259eg3214g4772g9085gce3dcff90a4d" version="1">Votre gant gauche est imprégné d'énergie.</content>
+	<content contentuid="h111124bcg3365g4812ga6a5gb0fa92c75165" version="1">Chaque gant est considéré comme étant une arme de mêlée courante tant que vous ne tenez pas d'arme et inflige des dégâts de tonnerre. Une créature touchée par le gantelet subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; contre des cibles autres que vous jusqu'au début de votre prochain tour, l'armure émet magiquement une impulsion distrayante lorsque la créature attaque quelqu'un d'autre.</content>
+	<content contentuid="h7766559eg3214g4772g9085gce3dcff90a4d" version="1">Émetteur de tonnerre (Main principale)</content>
+	<content contentuid="h7866559eg3214g4772g9085gce3dcff90a4d" version="1">Émetteur de tonnerre (Main secondaire)</content>
+	<content contentuid="h7966559eg3214g4772g9085gce3dcff90a4d" version="1">Ce dispositif peut être ajouté à vos gants (ou à vos mains nues) pour former des gants de tonnerre. Chacun d'entre eux compte comme une arme de mêlée courante tant que vous ne tenez pas d'autre arme en main.</content>
+	<content contentuid="h2111159eg3214g4772g9085gce3dcff90a4d" version="1">Champ défensif</content>
+	<content contentuid="h211114bcg3365g4812ga6a5gb0fa92c75165" version="1">Par une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;, vous pouvez gagner des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires.</content>
+	<content contentuid="h1222259eg3214g4772g9085gce3dcff90a4d" version="1">Lance-foudre (Main principale)</content>
+	<content contentuid="h1333259eg3214g4772g9085gce3dcff90a4d" version="1">Lance-foudre (Main secondaire)</content>
+	<content contentuid="h1c22259eg3214g4772g9085gce3dcff90a4d" version="1">Lance-foudre (Port sur le torse)</content>
+	<content contentuid="hc966559eg3214g4772g9085gce3dcff90a4d" version="1">Ce dispositif peut être ajouté à vos gants (ou à vos mains nues) pour créer des Lances-Foudre. Chacun d'entre eux compte comme une arme à distance tant que vous ne tenez pas d'autre arme à distance en main.</content>
+	<content contentuid="h222224bcg3365g4812ga6a5gb0fa92c75165" version="1">Vous pouvez tirer des éclairs avec vos mains. Une fois par tour, lorsque vous touchez une créature avec, vous pouvez lui infliger des dégâts supplémentaires de foudre.</content>
+	<content contentuid="hc22224bcg3365g4812ga6a5gb0fa92c75165" version="1">Vous pouvez tirer des éclairs depuis votre torse. Une fois par tour, lorsque vous touchez une créature avec, vous pouvez lui infliger des dégâts supplémentaires de foudre.</content>
+	<content contentuid="h2222259eg3214g4772g9085gce3dcff90a4d" version="1">Marche forcée</content>
+	<content contentuid="h322224bcg3365g4812ga6a5gb0fa92c75165" version="1">Votre &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; augmente de 1,5m.</content>
+	<content contentuid="h4222259eg3214g4772g9085gce3dcff90a4d" version="1">Champ d'atténuation</content>
+	<content contentuid="h522224bcg3365g4812ga6a5gb0fa92c75165" version="1">Vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;. Si votre armure vous impose un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ces mêmes tests, l'avantage et le désavantage s'annulent.</content>
+	<content contentuid="h6222259eg3214g4772g9085gce3dcff90a4d" version="1">Armure perfectionnée: Gardien</content>
+	<content contentuid="h722224bcg3365g4812ga6a5gb0fa92c75165" version="1">Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour attirer à vous une créature qui attaque un allié à proximité, annulant ainsi cette attaque.</content>
+	<content contentuid="h8222259eg3214g4772g9085gce3dcff90a4d" version="1">Armure perfectionnée: Infiltré</content>
+	<content contentuid="h922224bcg3365g4812ga6a5gb0fa92c75165" version="1">Les créatures que vous touchez avec le Lance-foudre émettent une lumière magique, subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et subissent des dégâts supplémentaires du Lance-foudre.</content>
+	<content contentuid="h922224ccg3365g4812ga6a5gb0fa92c75165" version="1">Les créatures que vous touchez avec le Lance-foudre émettent une lumière magique, subissent un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; et subissent des dégâts supplémentaires du Lance-foudre. Additionnellement, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; contre ces dernières.</content>
+
+	<content contentuid="h7777f09fg3063g4abbg9332gf089e61d313e" version="1">Adepte des objets magiques</content>
+	<content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Vous bénéficiez d'un bonus de +1 aux dégâts lorsque vous attaquez ou lancez un sort en tenant une arme magique.</content>
+	<content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Érudit des objets magiques</content>
+	<content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Vous bénéficiez d'un bonus de +1 aux dégâts lorsque vous attaquez ou lancez un sort en tenant une arme magique. Vous ignorez toutes les exigences de classe et de race lorsque vous utilisez un objet.</content>
+	<content contentuid="h5854f09fg3063g4abbg9332gf089e61d313e" version="1">Maître des objets magiques</content>
+	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Vous bénéficiez d'un bonus de +2 aux dégâts lorsque vous attaquez ou lancez un sort en tenant une arme magique.</content>
+	<content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Âme de l'artifice</content>
+	<content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Vous bénéficiez d'un bonus de +1 à vos &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; lorsque vous attaquez ou lancez un sort en tenant une arme magique. Lorsque vous possédez un objet magique répliqué, si vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; sont réduits à 0 mais que vous ne mourez pas, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour vous faire tomber vos &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; à 1 au lieu de 0.</content>
+
+	<content contentuid="hf370db3cg613dg4943gafe8ge316307ce44e" version="1">Maîtrise chimique</content>
+	<content contentuid="h9dab0330gd89ag4b76g87d8gfbcfdfcd8c3c" version="1">vous avez été exposé à tant d'éléments chimiques dont vous avez percé les secrets qu'ils ne présentent plus aucun risque pour vous, au point que vous les utilisez même pour mettre fin prestement à certaines affections. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip=" Tooltip="Target_GreaterRestoration"&gt;Restauration suprême&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_CureWounds"&gt;Soin des Blessures&lt;/LSTag&gt; sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;. Vous gagnez également une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts d'acide et de poison et l'&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; à l'&lt;LSTag Type="Status" Tooltip="POISONED"&gt;empoisonnement&lt;/LSTag&gt;.</content>
+	<content contentuid="h0e497d40g28b2g47c5g8947g915af0c1bfd5" version="1">Armure perfectionnée MkII</content>
+	<content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">Les avantages de votre Armure perfectionnée s'améliorent encore: Votre réaction de gardien inflige désormais des dégâts supplémentaires, tandis que votre lance-foudre inflige 1d6 dégâts supplémentaires et vous donne un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; contre la créature touchée.</content>
+
+	<content contentuid="h91e92732g0969g4c2egb478gfdf53e2fd6e4" version="1">Position fortifiée</content>
+	<content contentuid="h0258e5e2gbdb4g4005gbb9cg95d489be1871" version="1">vous êtes passé maître dans l'art de défendre une position avec Canon occulte. Vous pouvez maintenant en invoquer deux par le biais d'une seule &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt;.</content>
+	<content contentuid="hd44d7d4ag0cefg4e26g9519g1a311c277e91" version="1">Défenseur amélioré</content>
+	<content contentuid="h0bcbee6ag0e91g4054g85f8g86814bbf0198" version="1">Votre Décharge arcanique et votre Défenseur d'Acier deviennent plus puissants. Les dégâts supplémentaires et les soins de votre Décharge arcanique passent à 4d6 et lorsque votre Défenseur d'Acier utilise sa Parade d'attaque, l'attaque subit des dégâts de force.</content>
+
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000001" version="1">Armure d'armes à feu arcaniques</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000001" version="1">Le premier prototype de cette armure a été créé par Jan Jansen vers 1369 et est devenu célèbre pour avoir été utilisé lors des batailles qui ont conduit à la défaite du sorcier fou Irenicus. Elle a ensuite été perfectionnée par un inventeur de Lantan qui a gagné ses modèles lors d'un jeu de dés. Il n'est apparu sur le marché que soixante ans plus tard, mais il est désormais considéré comme l'équipement standard de tout artificier compétent en matière d'artillerie.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000001" version="1">Canon occulte MkII</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000001" version="1">La magie infusée dans cette armure permet au porteur de construire un petit canon occulte plus puissant au lieu d'un canon normal.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000001" version="1">Canon occulte en surrégime</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000001" version="1">Vous avez infusé de la magie de foudre à votre petit canon occulte, ce qui lui confère un bonus à l'attaque et de nouvelles capacités.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000001" version="1">Vous avez infusé de la magie de foudre, ce qui confère un bonus à l'attaque et de nouvelles capacités.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000002" version="1">Armure de la Tempête arcanique</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000002" version="1">Cette armure est une réplique de son homonyme fabriquée par les artisans gondiens présents dans le temple de Wonderbringer à Tilverton. Elles étaient destinées aux artisans chargés de défendre la ville. En 1372, suite à un cataclysme provoqué par l'Enclave de l'Ombre, Tilverton disparut, et avec elle, ces artefacts. En 1409, un groupe d'aventuriers en quête de fortune explorant le trou laissé à la place de la ville trouva des pages contenant des schémas. Apparemment, il s'agissait des dessins originaux des armures aujourd'hui perdues. Personne n'a réussi à reproduire les originaux, et ceux qui circulent aujourd'hui sont les meilleures reproductions.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000002" version="1">Métal insonore</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000002" version="1">Lorsqu'un modèle d'armure arcanique est actif, le porteur ne subit pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000002" version="1">Armure tempétueuse</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000002" version="1">Lorsque le porteur inflige des dégâts de tonnerre ou de foudre, une barrière arcanique se forme autour de lui. Lorsqu'il reçoit une attaque de mêlée, la barrière explose en infligeant des dégâts.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000002" version="1">En recevant une attaque de mêlée, la barrière explose en infligeant des dégâts.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000003" version="1">Robes de l'alchimiste</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000003" version="1">La nature de ces robes remonte à la lointaine Cormanthor. Ces vêtements étaient utilisés par les alchimistes de la maison Jaerle, une maison Drow Vhaerunite. Comme tous les équipements créés par les drows, ils sont efficaces et pratiques. Il s'est répandu dans tout Faerûn lorsqu'un aventurier a réussi à en voler un sur le cadavre d'un drow tué lors d'une embuscade. De retour à Valombre, ils demandèrent à un tanneur d'y apporter des modifications pour le rendre moins maléfique. Le tailleur en profita pour créer un modèle et en fabriquer de nouveaux. L'un d'entre eux parvint à un artificier et le reste appartient à l'histoire.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000003" version="1">Armure corrosive</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000003" version="1">Lorsque le porteur inflige des dégâts d'acide ou de poison, une barrière arcanique se forme autour de lui. Lorsqu'il reçoit une attaque de mêlée, la barrière explose en infligeant des dégâts nécrotiques.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000003" version="1">En recevant une attaque de mêlée, la barrière explose en infligeant des dégâts nécrotiques.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000003" version="1">Invoquer un Slime</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000003" version="1">Vous pouvez invoquer un Slime pour se battre à vos côtés et qui inflige des dégâts d'acide.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000005" version="1">Inventions d'Armure de combat</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000005" version="1">Cette armure est l'héritage d'un aventurier qui a voyagé le long de la Côte des Épées en 1372. Elle a été conçue pour être efficace et fonctionnelle dans toutes les situations. Elle est équipée d'un condensateur d'énergie arcanique pour améliorer les performances de son défenseur d'acier. On raconte que le premier exemplaire a été fabriqué à partir de pièces de récupération achetées à des brocanteurs. Lorsque l'aventurier devint célèbre, il créa un prototype plus précis de cette armure et partagea ensuite ses connaissances avec les prêtres de Gond pour en faire profiter les inventeurs de tout Faerûn.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000005" version="1">Décharge Arcanique chargée</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000005" version="1">Ajoute des dégâts de foudre ou des soins supplémentaires à votre Décharge arcanique. </content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000005" version="1">Défenseur d'Acier en surrégime</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000005" version="1">Infusez votre Défenseur d'Acier avec de la magie de foudre, lui accordant une attaque supplémentaire, un bonus de dégâts et de nouvelles capacités.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000005" version="1">Infusé avec de la magie de foudre, accordant une attaque supplémentaire, des dégâts bonus et de nouvelles capacités.</content>
+
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000004" version="1">Le Déconstructeur</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000004" version="1">Les années qu'un artificier consacre à son travail servent principalement à créer des merveilles. Cependant, il arrive que la création soit un peu trop belle et qu'elle doive être mise hors service rapidement afin de sauver la face et les primes d'assurance. Trop d'explosions ont tendance à impliquer les forces de l'ordre, il est donc préférable de la mettre hors service avant que trop d'yeux ne s'en aperçoivent... Ceci est également utile pour déblayer le passage.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000004" version="1">Déconstruction</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c73000004" version="1">Les attaques d'armes infligent des dégâts dévastateurs aux objets et aux créatures artificielles.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000004" version="1">Électrocution</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000004" version="1">Les attaques d'armes infligent des dégâts de foudre supplémentaires.</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000004" version="1">Déconstructeur draconique</content>
+	<content contentuid="h7d80071bga99bg463ag8d37gcc4c77000004" version="1">On ne sait pas si le Déconstructeur était à l'origine une tentative de reproduire cette merveille ou si un jour un puissant dragon a simplement décidé d'accorder son don à un marteau bien fait. Il est également possible que cette arme soit le résultat d'une collaboration entre des artisans et des clercs talentueux. Tout ce que nous savons, c'est que cette arme n'a rien à envier à sa version la plus courante, mais qu'elle est porteuse d'une bénédiction très puissante.</content>
+
+	<content contentuid="h778820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Schémas du Garde d'Acier</content>
+	<content contentuid="h778920e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Instructions détaillées du mécanisme interne d'un Garde d'Acier. Il semble que le nom initial du projet était "Garde automatisée Gondienne". </content>
+	<content contentuid="h997820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Votre bricolage vous a permis de créer un fidèle compagnon, un Défenseur d'Acier modifié grâce au projet de la Garde automatisée Gondienne. Ce Garde d'Acier, plus petit, peut être invoqué librement par un forgeron de combat aguerri.</content>
+
+	<content contentuid="h77770ee8g980fg4327ga0e9g46dd7368310e" version="1">Ce marteau peut être utilisé pour améliorer votre armure de travailleur, mais vous aurez besoin d'un métal rare.</content>
+
+	<content contentuid="h12310ee8g980fg4327ga0e9g46dd7368310e" version="1">Monocle de Vision dans le noir</content>
+	<content contentuid="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1">Un étrange monocle d'origine githyanki. Il permet au porteur de voir même dans les ténèbres magiques.</content>
+	<content contentuid="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Pistolet à silex</content>
+	<content contentuid="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Les armes à feu sont de plus en plus répandues à Faerûn, car les prêtres lantanais de Gond, le Faiseur de Merveilles, les fabriquent et les diffusent dans tous les royaumes. Les Lantanais maîtrisent la fabrication d'armes à silex et peuvent régulièrement produire des pistolets de grande qualité.</content>
+
+	<content contentuid="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Arme à feu</content>
+	<content contentuid="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1">Un dispositif permettant de tirer des projectiles grâce à la puissance de la poudre à canon.</content>
+
+	<content contentuid="haccceee8g980fg4327ga0e9g46dd7368310e" version="1">Mousquet à silex</content>
+
+	<content contentuid="hbccceee8g980fg4327ga0e9g46dd7368310e" version="1">Les armes à feu sont de plus en plus répandues à Faerûn, car les prêtres lantanais de Gond, le Faiseur de Merveilles, les fabriquent et les diffusent dans tous les royaumes. Les Lantanais maîtrisent la fabrication d'armes à silex et peuvent régulièrement produire des mousquets de grande qualité.</content>
+	<content contentuid="h000f7c68ge983g4735g979eg25c197ee9962" version="1">Attaque à distance (arme à feu)</content>
+	<content contentuid="h001f7c68ge983g4735g979eg25c197ee9962" version="1">Vous pouvez effectuer une attaque à distance avec votre arme à feu.</content>
+	<content contentuid="h010f7c68ge983g4735g979eg25c197ee9962" version="1">Attaque à distance (arme à feu) - Main secondaire</content>
+	<content contentuid="h011f7c68ge983g4735g979eg25c197ee9962" version="1">Vous pouvez effectuer une attaque à distance avec l'arme à feu de votre main secondaire.</content>
+
+	<content contentuid="h9cd08861g50cfg4a67gb598gdbe47fbce245" version="1">Arme à feu</content>
+	<content contentuid="hc5bd4565g187cg49e2ga99eg43b33c5b8142" version="1">Armes à feu</content>
+
+	<content contentuid="hfffd4565g187cg49e2ga99eg43b33c5b8142" version="1">Canonnier</content>
+	<content contentuid="hffff4565g187cg49e2ga99eg43b33c5b8142" version="1">Canonnier: À bout portant</content>
+	<content contentuid="hfffff565g187cg49e2ga99eg43b33c5b8142" version="1">Canonnier: Maîtrise</content>
+	<content contentuid="hddfff565g187cg49e2ga99eg43b33c5b8142" version="1">Canonnier: Bonus de Dextérité</content>
+	<content contentuid="hdffff565g187cg49e2ga99eg43b33c5b8142" version="1">Augmente votre Dextérité de 1, pour un maximum de 20.</content>
+	<content contentuid="hffddd565g187cg49e2ga99eg43b33c5b8142" version="1">Vous avez la main agile et l'œil vif lorsque vous utilisez des armes à feu, ce qui vous confère les avantages suivants :&lt;br&gt;&lt;br&gt;- Augmente votre Dextérité de 1, pour un maximum de 20.&lt;br&gt;&lt;br&gt;- Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des armes à feu. &lt;br&gt;&lt;br&gt;Lorsque vous faites une attaque à l'arme à feu en étant au corps-à-corps, vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; ne subissent pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hccddd565g187cg49e2ga99eg43b33c5b8142" version="1">Lorsque vous faites une attaque à l'arme à feu en étant au corps-à-corps, vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; ne subissent pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hccddf565g187cg49e2ga99eg43b33c5b8142" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des armes à feu.</content>
+	<content contentuid="hbbddf565g187cg49e2ga99eg43b33c5b8142" version="1">Vous gagnez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; des armes à feu. &lt;br&gt;&lt;br&gt;Lorsque vous faites une attaque à l'arme à feu en étant au corps-à-corps, vos &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; ne subissent pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.</content>
+</contentList>
