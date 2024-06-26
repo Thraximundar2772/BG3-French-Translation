@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h0d4dcde1g7d11g4529g9696gec5db42a63ee" version="1">Toxicologue</content>
+  <content contentuid="h747014e1g5987g4a9cg802dgcfa9018a7c79" version="1">Un maître des poisons, équipé de diverses toxines et concoctions pour prendre l'avantage au combat.</content>
+  <content contentuid="h3e65ee18g7422g41f2g902eg65414668dd67" version="1">Linceul de venin</content>
+  <content contentuid="hb57c2fbfg9357g40a5g8675gd92d99944dcc" version="1">Vous déployez un linceul de venin, augmentant tous les dégâts que vous infligez de 1d8 points de dégâts de poison.</content>
+  <content contentuid="h0700df01gabd6g4e60g9087gb08e936869f2" version="1">Dosage léthal</content>
+  <content contentuid="hf9958157gf016g4f09ga110g66b66188cae8" version="1">Chaque fois que vous infligez des dégâts de poison à une cible, elle devient &lt;LSTag Type="Status" Tooltip="DAZED"&gt;hébétée&lt;/LSTag&gt; pendant un tour. </content>
+  <content contentuid="h8fedee1dgaaddg4d19gb4ddg668b796a3582" version="1">Sang toxique</content>
+  <content contentuid="hd1fcccadg7465g483dg9aafge88df8b5b791" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;résistant&lt;/LSTag&gt; aux &lt;LSTag Tooltip="Poison"&gt;Dégâts de poison&lt;/LSTag&gt;. </content>
+  <content contentuid="ha1b99acbg7d85g4bc1gbabfgc39d9e54f6d9" version="1">Siphon à poison</content>
+  <content contentuid="h778fccf2g1aaeg4569g91e5gc6437e90977c" version="1">Jusqu'à la fin de votre prochain tour, vous vous &lt;LSTag Tooltip="Heal"&gt;soignez&lt;/LSTag&gt; de la moitié des dégâts de poison que vous infligez. </content>
+  <content contentuid="hda3b6de7g1741g4f8dg851bg2f190ff9604e" version="1">Charges d'Arsenal de l'empoisonneur</content>
+  <content contentuid="h8f2b4a44g1245g4c09g8849g388a502232b4" version="1">Le nombre de fois vous permettant de créer les poisons spécialisés d'un toxicologue. </content>
+  <content contentuid="hf1ec4614ga16fg4dc4ga641g66cdd8ac4433" version="1">Arsenal de l'empoisonneur</content>
+  <content contentuid="hb8044b64gdc6bg408eg8949g46d51d20deb4" version="1">Vous pouvez créer diverses toxines pour enduire votre arme. </content>
+  <content contentuid="hbadab3d8g1ec6g4e36g93c3ga3afc5f607f6" version="1">Relaxant musculaire</content>
+  <content contentuid="ha4649173g2e57g4b9fg92c7g6ff1f3a33a83" version="1">Vous enduisez votre arme d'un relaxant musculaire toxique, imposant, à toute créature affectée, un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur tous les &lt;LSTag Tooltip="SavingThrow"&gt;jets de Sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; , réduit de moitié la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; ainsi que les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt; impliquant la &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;.</content>
+  <content contentuid="h67acc76eg6355g499bgbf56g7eebe0f15829" version="1">Enduisage du Relaxant musculaire</content>
+  <content contentuid="hc69b3dfdg8ca5g4a5fgaf6eg468b7f8e22c0" version="1">Votre arme est enduite d'un puissant Relaxant musculaire. </content>
+  <content contentuid="h86291cefg64c7g4cbcgabbag54172c30d4bd" version="1">Muscles relâchés</content>
+  <content contentuid="h8e755661g51a2g4dd9g8ee7g016d4f9a51d6" version="1">Cette créature a les muscles relâchés, ce qui entraîne un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt;, sa  et &lt;LSTag Tooltip="Damage"&gt;Dégâts altérés&lt;/LSTag&gt; sur &lt;LSTag Tooltip="Strength"&gt;Résistance&lt;/LSTag&gt; &lt;LSTag Tooltip="AttackRoll"&gt;Attaque à l'arme&lt;/LSTag&gt;. </content>
+  <content contentuid="hc37439ebga9f3g4a22g980cg498cda8d0a0a" version="1">Piqûre sapante</content>
+  <content contentuid="h56931b7eg4dccg45c6g96e5ge5fb059556b7" version="1">Vous sapez la vitalité d'une créature à portée, lui infligeant [1] et pouvant la faire &lt;LSTag Type="Status" Tooltip="PRONE"&gt;chuter&lt;/LSTag&gt;. </content>
+  <content contentuid="h954d88a4g155bg4839g97d2g40b8af71611e" version="1">Kit d'enduisage de poison basique</content>
+  <content contentuid="h8b2dde92g0ad0g41b2g99dcg42ceb8988b75" version="1">You should never see this. If you did, report it to me on Nexus. </content>
+  <content contentuid="hbb6461d7g905cg4169ga9c8gd9668c976a9b" version="1">Neurotoxine</content>
+  <content contentuid="hb6900be3g13feg41adga7c3g00db8c8d14d8" version="1">Vous enduisez votre arme d'une neurotoxine, qui &lt;LSTag Type="Status" Tooltip="PRONE"&gt;étoudit&lt;/LSTag&gt; toute créature affectée et réduit sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; à 0.</content>
+  <content contentuid="h0326ac18gea62g4de6g9da2g08e27f240cef" version="1">Enduisage de neurotoxine</content>
+  <content contentuid="h053e9451gae28g452cgbf03ga007cc8a2ca6" version="1">Votre arme est enduite d'une puissante neurotoxine. </content>
+  <content contentuid="hc328718fgcb97g4ef3gb5a4g1a084d1a7d86" version="1">Neurotoxine</content>
+  <content contentuid="heb97aa83g4cbbg4d66g8e2fg0ea5d0c80286" version="1">Cette créature est affectée par une neurotoxine, l'&lt;LSTag Type="Status" Tooltip="PRONE"&gt;étourdissant&lt;/LSTag&gt; et réduisant sa &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; à 0. </content>
+  <content contentuid="hf40cc599g36c0g40a2ga44fg1c39fda96a16" version="1">Tranquillisant</content>
+  <content contentuid="h22a830f8g5eabg4978g90a2g2d021ee9dd1f" version="1">Vous enduisez votre arme d'un tranquillisant. Votre prochain &lt;LSTag Tooltip="Attack"&gt;Attaque&lt;/LSTag&gt; force la cible à réaliser un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; et la plongera dans le &lt;LSTag Type="Status" Tooltip="SLEEP"&gt;sommeil&lt;/LSTag&gt; en cas d'échec.</content>
+  <content contentuid="hb4afd621g3ca3g4e75g8fa2g0ad7645cf38c" version="1">Enduisage de tranquillisant</content>
+  <content contentuid="heb7ba374g23e8g4564gbecbgd4d664c9c15c" version="1">Votre arme est enduite d'un puissant tranquillisant. </content>
+  <content contentuid="h762083bcgb2a8g45dbg8793ge5710520be14" version="1">Siphon à poison</content>
+  <content contentuid="h95f6acaag4358g42f0gba18g35eb2cff34b7" version="1">Vous soigne pour [1] chaque fois qu'il inflige des dégâts de poison. </content>
+  <content contentuid="hf2bf46c7g7621g4c9cg8e63g73d49920b76f" version="1">Toxines raffinées</content>
+  <content contentuid="ha4ad8167g791bg41b3gbc8ag8f6af2d82433" version="1">Vos attaques ignorent la &lt;LSTag Tooltip="Resistant"&gt;résistance&lt;/LSTag&gt; de votre cible aux dégâts de poison. </content>
+  <content contentuid="hd4dc2bc3g3822g45b1g8bc5gf4f92e402a6f" version="1">Mixtion parfaite</content>
+  <content contentuid="hf4d10205g0367g42e2gbe9egf20ccca11eca" version="1">Vos attaques ignorent l'&lt;LSTag Tooltip="Immune"&gt;immunité&lt;/LSTag&gt; de votre cible aux dégâts de poison. </content>
+</contentList>
