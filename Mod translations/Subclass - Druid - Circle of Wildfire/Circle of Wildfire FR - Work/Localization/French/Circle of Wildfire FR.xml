@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h12acb87egffc3g4d46g82e3g8739ba218d44" version="1">Cercle des Fournaises</content>
+  <content contentuid="habd770e7gf2d4g4dbcga0fcgf99cee1b9817" version="1">Les druides du Cercle des Fournaises se lient à un esprit primitif qui abrite à la fois un pouvoir destructeur et créatif, ce qui leur permet de créer des flammes contrôlées qui brûlent une chose mais donnent vie à une autre.</content>
+  <content contentuid="h237071a4g5c80g423eg8fedga4a7b173fdbf" version="1">Invoquer un Esprit des Fournaises</content>
+  <content contentuid="h791cea26g6cd3g49d2gbb8bg37f3b91d2bc4" version="1">Esprit des Fournaises</content>
+  <content contentuid="h696d6ecfgff54g4ab7g936cg76050505ea20" version="1">Vous dépensez une de vos charges de &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Forme Sauvage&lt;/LSTag&gt; pour invoquer un Esprit des Fournaises, plutôt qu'adopter une forme bestiale.&lt;br&gt;&lt;br&gt;Vous pouvez faire apparaître l'esprit à un endroit innocupé de votre champ de vision et dans un rayon de [1], chaque créature se trouvant à moins de [2] de l'endroit où apparaîtra votre esprit subit [3].</content>
+  <content contentuid="h1fb5191bgccebg472bgbde2ge98e50279271" version="1">L'Esprit des Fournaises bénéficie de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires basés sur le niveau du lanceur, ainsi qu'un &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
+  <content contentuid="h683d1b68g3c11g42dbg8ec9g07c3a3548dad" version="1">Germe de flamme</content>
+  <content contentuid="hd1fe3570ga0dbg4403g8690g308dd7c11cf6" version="1">Jette une germe de flamme qui inflige [1].</content>
+  <content contentuid="hd11c2f88gd23dg4952ga486g220b8cbb9b50" version="1">Téléportation fougueuse </content>
+  <content contentuid="hec0e6f62g7b6bg4633g9fe2gaf59d18fe569" version="1">L'esprit et une créature consentante de votre choix à moins de [1] de lui se téléportent jusqu'à [2] dans des espaces inoccupés de votre champ de vision. Ensuite, chaque créature dans un rayon de [3] de l'espace de départ subit [4].</content>
+  <content contentuid="h0f632267gdde9g4871gb3b8g258c52197930" version="1">Lien de l'âme</content>
+  <content contentuid="ha3a86ea4g50c3g4711g9247g55e694bd6fb1" version="1">Chaque fois que vous lancez un sort qui inflige des dégâts de feu ou restaure des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; alors que votre Esprit des Fournaises est invoqué, vous gagnez un bonus de 1d8 à un jet de dégâts ou de soins du sort.</content>
+  <content contentuid="hc810cac3gf962g4bb4ga6d0g30a05e73c466" version="1">Faire jaillir une flamme spectrale inoffensive d'un cadavre qui vacillera autour de ce dernier pendant une minute.&lt;br&gt;&lt;br&gt;Lorsqu'une créature entre dans cet espace, le druide éteint la flamme spectrale, soignant un allié pour [1] ou infligeant [2] à un ennemi.</content>
+  <content contentuid="h20a2b280g7ba8g4828gb4fag43bfa7d7f8a8" version="1">Flammes de Vie</content>
+  <content contentuid="hffbad676g31c4g41d4gbae6g825f2d70b90a" version="1">Lorsqu'une créature s'approche de ce cadavre, le druide peut éteindre la flamme spectrale persistante pour soigner un allié ou infliger des dégâts de feu à un ennemi.</content>
+  <content contentuid="h1cba83a3gcba3g4adaga5bcgcc4356c23f48" version="1">Flammes de Vie: Soin</content>
+  <content contentuid="h7589135fg900ag4686gbdecg932d996a863c" version="1">Un druide du Cercle des Fournaises a soigné cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h08c1bd98ga67dg4ed3g9a49g74589feacd29" version="1">Flammes de Vie: Dégâts</content>
+  <content contentuid="h5ca8e33fgd05eg410cg8973g539e1639b87c" version="1">Un druide du Cercle des Fournaises a infligé des dégâts à cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h43383f73g162eg4669g8a97ge07f9872c87a" version="1">Charge de Flammes de Vie</content>
+  <content contentuid="h6fa0a476gb414g40f2g9b10gc2ca51756dbe" version="1">Vous pouvez utiliser &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt; un nombre de fois équivalent à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt;.</content>
+  <content contentuid="hb57f94a6g849cg4dcdg825egd6ac258d879d" version="1">Aura de Vie</content>
+  <content contentuid="hc44fc7ffg569eg48caga976g6f74ef801569" version="1">Chaque créature non-hostile, vous y compris, obtient une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts nécrotiques lorsqu'elle bénéficie de l'aura, et son maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; ne peut pas être réduit. &lt;br&gt;De plus, une créature &lt;LSTag Tooltip="Downed"&gt;à l'agonie&lt;/LSTag&gt; regagne [2] au début de son tour tant qu'elle se trouve dans le rayon de l'aura.</content>
+  <content contentuid="h262e9244gbd1fg4abfg85d6g6f51d6d1a481" version="1">La créature obtient une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts nécrotiques lorsqu'elle bénéficie de l'aura, et son maximum de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; ne peut pas être réduit. &lt;br&gt;Si elle est &lt;LSTag Tooltip="Downed"&gt;à l'agonie&lt;/LSTag&gt;, elle regagne également [2] au début de son tour tant qu'elle se trouve dans le rayon de l'aura.</content>
+  <content contentuid="h1c365ef7g1534g4885ga776g941c4f8871a2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Le cadavre doit être celui d'une créature de petite taille ou plus grande.</content>
+  <content contentuid="hc104d98agf235g45d4ga926gdcc3e21bf563" version="1">Une créature &lt;LSTag Tooltip="Downed"&gt;à l'agonie&lt;/LSTag&gt; bénéficiant de cette aura regagnera [2] au début de son tour.</content>
+  <content contentuid="hc34f261agb73bg4488g8e6fgab0cf94d0b3f" version="1">Enveloppé d'un brasier, vous vous téléportez dans un espace inoccupé que vous pouvez voir.</content>
+	<content contentuid="h3ee96365g7465g4dd2gb74bg80193ac8bc3d" version="1">Traces de la fournaise</content>
+	<content contentuid="haee7ab4ag6e81g4bddg9e68ga09013007bf0" version="1">Laissez les traces de votre magie de feu de forêt persister sur votre arme.</content>
+	<content contentuid="hbb55e427g2913g4f03gb16bgf09413e08be4" version="1">Des vrilles enflammées s'enroulent autour de votre arme, vacillant avec l'intensité d'un feu de forêt contenu.</content>
+	<content contentuid="hfaee09efga208g44d0gaf60g35aecdf01a88" version="1">Cet effet est purement cosmétique et peut être activé ou désactivé.</content>
+</contentList>
