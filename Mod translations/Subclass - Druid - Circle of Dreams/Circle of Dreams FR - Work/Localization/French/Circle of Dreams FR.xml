@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="circleofdreams" version="1">Cercle des Rêves</content>
+  <content contentuid="circleofdreamsscript" version="1">Ces druides cherchent à remplir le monde de merveilles oniriques. Leur magie guérit les blessures et apporte la joie aux coeurs endeuillés, et les royaumes qu'ils protègent sont des lieux étincelants et féconds, où le rêve et la réalité se confondent et où les personnes épuisées peuvent s'y reposer.</content>
+  
+  <content contentuid="balmsummercourt" version="1">Baume de la Cour d'Été</content>
+  <content contentuid="balmsummercourtscript" version="1">En faisant appel au pouvoir de la Cour d'Été, vous pouvez soigner les blessures d'une créature à distance et lui donner des &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires.</content>
+  <content contentuid="balmsummerlesser" version="1">Baume inférieur de la Cour d'Été</content>
+  <content contentuid="balmsummerlesserscript" version="1">Soignez votre allié à distance et donnez lui un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaire équivalent à votre niveau.</content>
+  <content contentuid="balmcharge" version="1">Charge du Baume</content>
+  
+  <content contentuid="balmsummergreater" version="1">Baume supérieur de la Cour d'Été</content>
+  <content contentuid="balmsummergreaterscript" version="1">Soignez votre allié à distance et donnez lui un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaire équivalent à votre niveau.</content>
+  <content contentuid="balmtempscript" version="1">Cette créature bénéficie de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; temporaires.</content>
+  
+  
+  <content contentuid="hearthshadow" version="1">Foyer de Clair de Lune et de l'Ombre</content>
+  <content contentuid="hearthshadowscript" version="1">Vous invoquez le pouvoir de la Cour de l'Ombre et dégagez une aura octroyant à vous et vos alliés proches, un bonus de +3 à vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt; et de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="hearthshadowaura" version="1">Aura du Clair de Lune et de l'Ombre</content>
+  <content contentuid="hearthshadowaurascript" version="1">Vous et vos alliés proches gagnez un bonus de +3 à vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt; et de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  
+  <content contentuid="hiddenpaths" version="1">Sentiers Cachés</content>
+  <content contentuid="hiddenpathsscript" version="1">Vous pouvez vous téléporter, ou téléporter un allié, à un endroit situé dans votre champ de vision et dans un rayon de 18m. Vous, ou votre allié, devenez également invisible.</content>
+  <content contentuid="pathscharge" version="1">Poids des Sentiers</content>
+
+</contentList>
