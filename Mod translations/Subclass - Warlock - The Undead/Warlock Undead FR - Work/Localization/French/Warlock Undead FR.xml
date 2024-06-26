@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h569a20cbg4b09g4a14ga029gdfa607b6ca41" version="1">Démoniste : les morts-vivants</content>
+	<content contentuid="ha5f68611gae32g4f73ga092g6b9fb39efb3b" version="1">Vous avez conclu un pacte avec un être immortel, une créature qui défie le cycle, la vie et la mort, abandonnant sa coquille mortelle pour pouvoir poursuivre éternellement ses ambitions insondables.</content>
+	<content contentuid="h0de7eadcgaa31g4412g93bagafcebfa2a3f0" version="1">Mort-vivant</content>
+	<content contentuid="h70d9ba7ag8361g4111gbbaegbf178882e96b" version="1">Ce sorcier a conclu un pacte avec la mort elle-même, cherchant à acquérir les connaissances de son patron sur la manière de se libérer du cycle de la vie et de la mort.</content>
+	<content contentuid="h9501cd1ag9d52g4932gb306gb1435cabcedf" version="1">Sélectionnez un mécène</content>
+	<content contentuid="hfd54c21dg23d8g4814ga531g312ecbb6bfc8" version="1">Ayant été eux-mêmes mortels, ces anciens morts-vivants connaissent de première main les chemins de l’ambition et les routes menant aux portes de la mort.  Ils partagent avec empressement ces connaissances profanes, ainsi que d’autres secrets, avec ceux qui exercent leur volonté parmi les vivants.</content>
+	<content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Patron : Archlich</content>
+	<content contentuid="hb0df370eg29b1g4632g9609gcddaf495350a" version="1">Votre patron est un Archlich d'un grand pouvoir, possédant des connaissances interdites et capable de manipuler les forces de vie et de mort.</content>
+	<content contentuid="h4c0b7fbegc219g4d8cg93e5g5664ba04d6ac" version="1">Patron : Seigneur Vampire</content>
+	<content contentuid="h2882c3d2g2c15g4aafg9276g8930955eb6f2" version="1">Votre patron est un seigneur vampire impitoyable doté de pouvoirs obscurs exceptionnels, commandant une armée de vampires et d'autres morts-vivants.</content>
+	<content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Patron : Mort-vivant surnaturel</content>
+	<content contentuid="h2bda3b93gfc33g4dc1ga292g82507f59c0d6" version="1">Votre patron est un mystérieux mort-vivant surnaturel doté d'une motivation incompréhensible, maniant des forces arcaniques au-delà de la portée des mortels.</content>
+	<content contentuid="heaeba52bg938fg4ccdga937g94d45d18e228" version="1">Patron : Spectre</content>
+	<content contentuid="hcd6460edgb369g4597g901ege03b2dd002ac" version="1">Votre patron est un Spectre vengeur captif du plan Matériel, plein de ressentiment et affligé d'une faim vorace de forces vitales mortelles.</content>
+	<content contentuid="h6b692237g3f02g4c97ga878gbda4b8146ca5" version="1">Patron : Marcheur de la nuit</content>
+	<content contentuid="hc51a6d84g3c86g42c4gb924gbae192ffb51b" version="1">Votre patron est une Nightshade sensible du plan de l'Ombre, maître de la mort et des ombres dotée d'un pouvoir étendu sur les ténèbres.</content>
+	<content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Patron : Grande Maman</content>
+	<content contentuid="hc38fca19gb8b6g4d0ega1a7g293f7f6a5eb7" version="1">Votre patron, autrefois un grand seigneur puissant et rusé, a été réanimé pour servir de gardien mort-vivant et exerce désormais une magie ancienne et effrayante.</content>
+	<content contentuid="hd02c27e8ge183g43acgb312g72d0f07bf77f" version="1">Patron : Goule touchée par la tombe</content>
+	<content contentuid="ha837b783gd2edg41b3g81deg80da09c1fcc6" version="1">Votre patron était autrefois un inquisiteur en chef brutal pour un culte notable. Transformé à sa mort et béni par le roi des goules lui-même, il chasse désormais les êtres sensibles avec une soif sans fin de consommer de la chair.</content>
+	<content contentuid="h5035adcfg5515g45cfgb265gf0d594b3fa89" version="1">Patron : Chevalier de la Mort</content>
+	<content contentuid="h2302036eg9d4cg4e59g82a0gab434228eedf" version="1">Votre patron exerce de sombres pouvoirs forgés au cours de siècles de bataille et de domination. Réanimés à partir d'un passé riche, ils offrent une force impie et de sinistres conseils à ceux qui prêtent allégeance.</content>
+	<content contentuid="hfe52b5b2g9d7dg475cg9be4ge4f8f61e0f11" version="1">Forme d'effroi</content>
+	<content contentuid="hde3ffb8ag9a04g48b5ga383g840f9498efed" version="1">Forme d'utilisations effrayantes</content>
+	<content contentuid="h3ae01de6g94bfg4b7agb931g1501bb9b5ef3" version="2">Vous pouvez vous transformer en utilisant la &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Forme d'effroi&lt;/LSTag&gt; un nombre de fois égal à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de compétence&lt;/LSTag&gt;.  Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.</content>
+	<content contentuid="hc55dd849gb5ffg4de0g8f6dg9bf47fc9d4b6" version="1">Effrayer</content>
+	<content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque, vous pouvez la forcer à faire un jet de sauvegarde de Sagesse, et si le jet de sauvegarde échoue, la cible a peur de vous jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Forcez la créature à effectuer un jet de sauvegarde de Sagesse, et si le jet de sauvegarde échoue, la cible a peur de vous jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="h80f98af5ga24cg4b79ga92eg4e36d2861582" version="1">La créature ciblée est &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayée&lt;/LSTag&gt;.</content>
+	<content contentuid="hef81fddeg4d46g4a3agae32gb707c0797b99" version="1">Forme d'effroi : ressource effrayante</content>
+	<content contentuid="h5ae0966dg5a6ag4f1bg94bfgf004064e03fb" version="1">Forme d'effroi : Archlich</content>
+	<content contentuid="h3a1d44d4gc95fg4c9cg81a7gc0e862b1b124" version="1">Forme d'effroi : Seigneur vampire</content>
+	<content contentuid="h50c83b09g8767g4b70g9b1cg6c2ea6acde1b" version="1">Forme d'effroi : morts-vivants surnaturels</content>
+	<content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Forme d'effroi : Spectre</content>
+	<content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Forme d'effroi : Marcheur nocturne</content>
+	<content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Forme d'effroi : Grande Momie</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82a" version="1">Forme d'effroi : Goule touchée par la tombe</content>
+	<content contentuid="h046e5c8bg333ag4294gb4f5g46216bd2c802" version="1">Forme d'effroi : Chevalier de la Mort</content>
+	<content contentuid="h905a0ef1ge0f2g493ag9408g511444fa3ec6" version="1">Manifestez un aspect du terrible pouvoir de votre patron.</content>
+	<content contentuid="h69ff16dbgf9fag4afdg95d4gef75889ea8e6" version="1">Vous gagnez [1] et êtes immunisé contre &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayé&lt;/LSTag&gt;.  Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque, vous la forcez à faire un jet de sauvegarde de Sagesse, et si le jet de sauvegarde échoue, la cible a peur de vous jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Les terribles pouvoirs de votre protecteur imprègnent tout votre être, modifiant votre apparence et émanant de vous.  Vos forces vitales sont vivifiées et vous vous sentez intrépide.</content>
+	<content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immunisé contre la condition Effrayé.</content>
+	<content contentuid="h19d616aag35e8g4fa4ga59dg7847a72609e0" version="1">Vous ne pouvez pas être &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;effrayé&lt;/LSTag&gt;.</content>
+	<content contentuid="h29e87a3fga7d9g42c0gbaf2g3a44f196ec85" version="1">Décharge occulte : Tourment</content>
+	<content contentuid="h99e4e6abg0492g4bb1g9ac6g6c45d97d2b8e" version="2">L'entité affectée est infligée à un horrible tourment</content>
+	<content contentuid="h7964e0c3gb521g4d01g887dgd06cd8bdc3c7" version="1">Tombe touchée : conversion nécrotique</content>
+	<content contentuid="h8f963fd9g5ddbg4becg8b61g39bc21e76154" version="1">Une fois à chacun de vos tours, lorsque vous frappez une créature avec une attaque et que vous lancez des dégâts contre la créature, vous pouvez remplacer le type de dégâts par des dégâts nécrotiques.</content>
+	<content contentuid="hb29f4ce1g786dg4ba4ga314gd43ed29c2b3b" version="1">Tombe touchée : forme d'effroi</content>
+	<content contentuid="h5a6fe489gc8ebg495agb20eg3e0b59aeede2" version="1">Pendant que vous utilisez votre &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Forme d'effroi&lt;/LSTag&gt;, vous pouvez lancer un dé de dégâts supplémentaire pour déterminer les dégâts nécrotiques subis par la cible.</content>
+	<content contentuid="h2ceffc80gb3d0g4aacgb8d4gb842851456e5" version="1">Grave touchée : forme de dégâts supplémentaires d'effroi</content>
+	<content contentuid="hf7346b89g0b04g4daagac54g79c07a69021d" version="1">Tombe touchée : Sans souffle</content>
+	<content contentuid="haa5f6982gf417g4f92g8e44g9f3f4834994c" version="1">Les pouvoirs de votre protecteur ont un effet profond sur votre corps et votre magie. Vous n’avez pas besoin de manger, de boire ou de respirer.</content>
+	<content contentuid="hf29fe240g3346g4c62ga223ga0e25f10ceed" version="1">Destrier fantôme</content>
+	<content contentuid="h26a5f328g0102g4498gb5f3g0f9ca73a241f" version="1">Invoquez l'esprit d'une grande créature quasi réelle, ressemblant à un cheval, équipée d'une selle, d'un mors et d'une bride.  Vous ou une créature de votre choix êtes imprégné par l'esprit du destrier pendant toute la durée ou jusqu'à ce que vous subissiez des dégâts.</content>
+	<content contentuid="hfdd33446ge468g4f3bg9d81gbaa9061df8f0" version="1">Augmentez la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; d'une créature de [1] et doublez sa capacité de transport.</content>
+	<content contentuid="h7f7c6e1cg5d86g4644gb492g7a486a7a7479" version="1">Destrier fantôme</content>
+	<content contentuid="h8f4aeec4g3e53g4355g97a1gb1de6ab9151d" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; a augmenté de [1] et la capacité de transport est doublée.  Ce buff prend fin s'ils subissent des dégâts.</content>
+	<content contentuid="h0d75ad10g52d0g4da9gaa73g1549320e5c85" version="1">Résistance nécrotique</content>
+	<content contentuid="h7fe181b8gb1cfg4354g94d6g931483145c6b" version="1">Votre connexion à la non-vie et à l’énergie nécrotique sature désormais votre corps.  Vous avez une résistance aux dégâts nécrotiques.  Si vous êtes transformé à l'aide de votre &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Forme d'effroi&lt;/LSTag&gt;, vous devenez à la place immunisé contre les dégâts nécrotiques.</content>
+	<content contentuid="hd3782ef3g7413g4c24g8246ge951e9919811" version="1">De plus, lorsque vous êtes réduit à 0 &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt;, vous pouvez utiliser votre réaction pour regagner [2] à la place et faire éclater votre corps avec une énergie mortelle.  Tous les ennemis à moins de [3] de vous prennent [1].  Vous êtes alors &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Épuisé&lt;/LSTag&gt;.</content>
+	<content contentuid="h2695730dg14c8g47ccg8b9cg61d7097b2f62" version="1">Résistance nécrotique</content>
+	<content contentuid="h9b16907bg85d4g498egb54ag8370d014b864" version="1">L'entité affectée a une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts nécrotiques.</content>
+	<content contentuid="h569c881dg2b95g41fbg99f6gb51f00fa59dd" version="1">Immunité nécrotique</content>
+	<content contentuid="hfb528918g0592g4528gab28g424f15d2849b" version="1">L'entité affectée a l'&lt;LSTag Tooltip="Immune"&gt;Immunité&lt;/LSTag&gt; contre les dégâts nécrotiques.</content>
+	<content contentuid="hb36bb282g37ddg4c69gaaf0g089055d05c5e" version="1">Coque nécrotique</content>
+	<content contentuid="hbfbac611g5c80g4d28ga8fdgb2d98e2a2f08" version="1">Lorsque vous êtes réduit à 0 point de vie, récupérez [2] et faites éclater votre corps avec une énergie mortelle.  Tous les ennemis à moins de [3] de vous prendront [1] + [4].  Vous serez affecté par &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Épuisement&lt;/LSTag&gt;.</content>
+	<content contentuid="h42a70b3egd575g4f40g9f24g6e389a502f9d" version="1">Coque nécrotique : abattue</content>
+	<content contentuid="h72fabc92g4ea9g4c70gaa9fg358b3aa55927" version="1">Épuisé</content>
+	<content contentuid="h32eeee21g2bb7g400fgad19gbebd66f63eb7" version="1">Effectuer un &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; réduit votre niveau d'épuisement de 1.</content>
+	<content contentuid="h50f64f86gb085g4c73g8b63g9925e37f3ea3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Lorsque la condition prend fin, devenez &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Epuisé&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f24554cgd225g4163g8692g901d9f15f006" version="1">Niveaux 1 à 4</content>
+	<content contentuid="h289ecb12ga71fg4614g8449gcb66b38a498a" version="1">Bonus de compétence +2</content>
+	<content contentuid="h0eabfd3cg636fg4730g8f13g22a5a0e92c28" version="1">Niveaux 5-8</content>
+	<content contentuid="h0d7f353fg90d1g474ag8871g61c7b18e2312" version="1">Bonus de compétence +3</content>
+	<content contentuid="h045e350dgcf0fg4474gabf6gfec383beaaaf" version="1">Niveaux 9-12</content>
+	<content contentuid="h4a524f8bge902g46bbga01ag17ae362af23e" version="1">Bonus de compétence +4</content>
+	<content contentuid="he7ddb2aeg8da2g4b24gb77fgb6b0fe19f04b" version="1">Niveaux 13-16</content>
+	<content contentuid="h34df0d47gd3b1g4f26gada0g407946fd1d4e" version="1">Bonus de compétence +5</content>
+	<content contentuid="h4e9839d4g805cg4d14g87ddg378933b29dd6" version="1">Niveaux 17-20</content>
+	<content contentuid="h7c8e2921g3cbdg416fga85dg1f95ee19ac97" version="1">Bonus de compétence +6</content>
+	<content contentuid="hdf090126g87a4g45cdgacb4g3b01c016ca83" version="1">Armure rembourrée</content>
+	<content contentuid="h3387091eg37eeg47b8g9cfdg42a11de3efba" version="1">Un gambison standard en tissu matelassé. Bon pour attraper les coups, mais presque insupportablement en sueur.</content>
+	<content contentuid="hc4623646g3b59g4299g9042g65fd3e64a4e3" version="1">Arcanum mystique</content>
+	<content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Sélectionnez un de vos sort de niveau 7. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; vous pouvez lancer ce sort sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Sélectionnez un de vos sort de niveau 8. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; vous pouvez lancer ce sort sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="h9c4775d7g0233g4e20gab5dg012d4581435a" version="1">Sélectionnez un de vos sort de niveau 8. Une fois par &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt; vous pouvez lancer ce sort sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+	<content contentuid="hcb993405g10f6g4bbfgbe3agbca8ede0081a" version="1">Projection spirituelle</content>
+	<content contentuid="h5557f10egc671g43b4gb69fg6a765dabdb85" version="1">Par une action, vous pouvez libérer votre esprit de votre forme physique pendant 1 heure maximum ou jusqu'à ce que votre concentration soit brisée.</content>
+	<content contentuid="h5ca60038g9516g4a7cgbf18g55b0fc19ce2d" version="1">En projetant votre esprit, vous gagnez une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts contondants, tranchants et perçants. Vous avez également une vitesse de vol égale à votre vitesse de marche et vous ne pouvez pas être poussé ou bousculé. De plus, pendant que vous utilisez votre &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Forme d'effroi&lt;/LSTag&gt;, une fois à chacun de vos tours lorsque vous infligez des dégâts nécrotiques à une créature, vous récupérez un nombre de &lt;LSTag Tooltip="HitPoints"&gt;points de vie&lt;/LSTag&gt; à la moitié du montant des dégâts nécrotiques infligés.</content>
+	<content contentuid="ha2cced8bg296eg4fe1g978eg7f36ce03c7e9" version="1">Votre esprit est détaché de votre forme physique pendant 1 heure maximum ou jusqu'à ce que votre concentration soit brisée.</content>
+	<content contentuid="h2fb6d6c6g52f7g4f6dga3caga8e548ab2d34" version="1">Vous avez une &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts contondants, tranchants et perçants. Vous avez une vitesse de vol égale à votre vitesse de marche et vous ne pouvez pas être poussé ou bousculé. De plus, pendant que vous utilisez votre &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Forme d'effroi&lt;/LSTag&gt;, une fois à chacun de vos tours lorsque vous infligez des dégâts nécrotiques à une créature, vous récupérez un nombre de &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; à la moitié du montant des dégâts nécrotiques infligés.</content>
+	<content contentuid="h6050c533gb416g4409g9deeg9fcb67a3b1b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; La condition prend fin si vous lancez un sort qui nécessite de la concentration.</content>
+	<content contentuid="h989ff0f8g5201g49bcgb175g08f7012d6c1c" version="1">Mettre fin à la Projection spirituelle</content>
+	<content contentuid="h0d48cfe8g4bf8g4c19g89c6gf1670e643a42" version="1">Liez votre esprit à votre forme physique, brisant la projection et redevenant entier.</content>
+
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82f" version="1">Forme d'effroi : Test 1</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82g" version="1">Forme d'effroi : Test 2</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82h" version="1">Forme d'effroi : Test 3</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82i" version="1">Forme d'effroi : Test 4</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82j" version="1">Forme d'effroi : Test 5</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82k" version="1">Forme d'effroi : Test 6</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82l" version="1">Forme d'effroi : Test 7</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82m" version="1">Forme d'effroi : Test 8</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82n" version="1">Forme d'effroi : Test 9</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82o" version="1">Forme d'effroi : Test 10</content>
+</contentList>
