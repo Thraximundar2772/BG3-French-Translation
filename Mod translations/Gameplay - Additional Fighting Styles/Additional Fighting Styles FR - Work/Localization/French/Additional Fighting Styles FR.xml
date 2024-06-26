@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hf3039b1612egb5aea1822a40bg619c03g8g7" version="1">Interception</content>
+  <content contentuid="h43091541gbbfd0g01ab7049afdbcb9157f61" version="1">Quand un ennemi attaque un allié dans un rayon de [1], vous réduisez les dégâts qu'il subira de 1d10 + votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de Maîtrise&lt;/LSTag&gt;. Vous devez être capable de voir l'attaquant.</content>
+  <content contentuid="h04f43af1c7fgb09943ggcd572g15g2c95ff9" version="1">Combat à l'aveugle</content>
+  <content contentuid="h0f5d4ggb806g1fee5bgf6g189c5bc2g89bdd" version="1">Vous pouvez voir normalement à travers les Ténèbres.</content>
+  <content contentuid="hddd67ggcaaab2397cgd5f2ba50e28a3dd02c" version="1">Tireur au corps à corps</content>
+  <content contentuid="hgee19700c654b2eb55c874d3e8374dbd8395" version="1">Vous ignorez le désavantage d'attaquer avec une arme à distance dans un rayon de [1]. Vous gagnez également un bonus de +1 aux &lt;LSTag Tooltip="RangedWeaponAttack"&gt;attaques avec une arme à distance&lt;/LSTag&gt;.</content>
+  <content contentuid="h9e0g1g205d51d79ab2849e11ffdd7563g527" version="1">Technique supérieure</content>
+  <content contentuid="hcf05190g842c5de353c6f89f1925g53406e6" version="1">Vous gagnez un dé de supériorité et apprenez la manœuvre Riposte de la sous-classe Maître de Guerre.</content>
+  <content contentuid="h5242194g7ge5ce04388f3e751d44a0bg1150" version="1">Guerrier sanctifié</content>
+  <content contentuid="h87678942e6d17gb8def3e31e2344f578f979" version="1">Vous apprenez le &lt;LSTag Tooltip="Cantrip"&gt;Sort mineur&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Target_SacredFlame"&gt;Flamme Sacrée&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_Guidance"&gt;Assistance&lt;/LSTag&gt;. Le &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; est votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de la Caractéristique d'Incantation&lt;/LSTag&gt; pour ces deux sorts.</content>
+  <content contentuid="hg4e08547319e7ee5b5ced9deb6d841b1b0b6" version="1">Guerrier druidique</content>
+  <content contentuid="h25eb89b4b1a7cg4c4f59971bf906dfed137f" version="1">Vous apprenez les &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt; &lt;LSTag Type="Status" Tooltip="SHILLELAGH"&gt;Gourdin Magique&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_ThornWhip"&gt;Fouet Épineux&lt;/LSTag&gt;. La &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt; est votre &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de la Caractéristique d'Incantation&lt;/LSTag&gt; pour ces deux sorts.</content>
+  <content contentuid="hd5eb6d875e904ab7a2493f1fed9b9d0bd5e9" version="1">Marinier</content>
+  <content contentuid="hf28d26f83a11804gf498b3ce4eb7018e795b" version="1">Tant que vous ne portez pas d'armure lourde ou que vous ne brandissez pas de bouclier, votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; est augmentée de 1, votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; augmente de [1] et votre distance de saut augmente de 50%.</content>
+  <content contentuid="h95910egf65495a9c78289acb4a37706ac764" version="1">Combat à mains nues</content>
+  <content contentuid="h3969ef15033ba0b1b994f6ae90b25faa3426" version="1">Vos attaques à mains nues infligent [1].</content>
+  <content contentuid="h123879f7cc5c3f9a5a837afbeca6f53073db" version="1">Combattant alerte</content>
+  <content contentuid="h8f8b89abge6a6c402a6d15f5g143d6g5gae7" version="1">Votre &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; vous permet d'adopter une posture défensive jusqu'à votre prochain tour. Cette posture augmente votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de 1 et vous octroie une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; supplémentaire.</content>
+  <content contentuid="hcaag1272dec6gef2ddcc27g7765g85b63b17" version="1">Combattant alerte: Posture Défensive</content>
+  <content contentuid="hd401bd4fa60119973376eea3c46c87g22d58" version="1">Adoptez une posture défensive. Cette posture augmente votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; de 1 et vous octroie une &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; supplémentaire.</content>
+  <content contentuid="h5b7g6ee71783c63efa6fd039a3fc55a7fcfe" version="1">Combat à l'arme de lancer</content>
+  <content contentuid="hag66bb3612b9108dg7gg6gb2gc9a4e96g40g" version="1">Inflige 2 points de dégâts supplémentaires avec les armes de lancer.</content>
+</contentList>
