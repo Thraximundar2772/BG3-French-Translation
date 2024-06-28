@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="13/05/2021 17:29">
+  <!-- Condition Error -->
+  <content contentuid="h1eceeeb7gcaeeg46eagb8afg4ff8386033a5" version="1">Vous êtes déjà concentré sur un sort</content>
+  <!-- Concentration blocker -->
+  <!-- Passive Display Name -->
+  <content contentuid="h4d215fa7g6d15g4acbg8139g56cb67212a5c" version="1">Concentration unique</content>
+  <!-- Concentration Block -->
+  <!-- Passive Description -->
+  <content contentuid="h7af02440ga775g44ddga0e4g04987028c1e7" version="1">Vous empêche de lancer un sort qui requiert de la &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; lorsque vous êtes déjà concentré sur un autre sort.</content>
+  <!-- Concentration Block -->
+</contentList>
