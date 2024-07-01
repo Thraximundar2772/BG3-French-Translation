@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- War Magic -->
+  <content contentuid="h4a0708ecgedfeg4ac8ga842g230dc869c867" version="1">Magie de Guerre</content>
+  <content contentuid="hffefb97dgb09bg4394gbaf2g9e86387693df" version="1">La tradition de la Magie de Guerre mélange en effet des concepts d'évocation et d'abjuration. Elle enseigne des techniques qui renforcent les sorts d'un lanceur, tout en fournissant à un magicien des méthodes pour fortifier ses propres défenses. Ils voient leur magie à la fois comme une arme et une armure, une ressource supérieure à toute pièce d'acier. Les mages de guerre frappent rapidement dans la bataille et utilisent leurs sorts pour prendre le contrôle tactique d'une situation. </content>
+  <content contentuid="h01b02112gb0b4g46f3gb985ge24257170792" version="2">Magie de Guerre</content>
+  <content contentuid="h166b6f4ag1b00g400ag8ac5ga2eb15c70459" version="2">La tradition de la Magie de Guerre mélange en effet des concepts d'évocation et d'abjuration. Elle enseigne des techniques qui renforcent les sorts d'un lanceur, tout en fournissant à un magicien des méthodes pour fortifier ses propres défenses. Ils voient leur magie à la fois comme une arme et une armure, une ressource supérieure à toute pièce d'acier. Les mages de guerre frappent rapidement dans la bataille et utilisent leurs sorts pour prendre le contrôle tactique d'une situation. </content>
+  <!-- Tactical Wit -->
+  <content contentuid="hb804eee9g84bcg4a52g91e5g895fbc849097" version="1">Esprit tactique</content>
+  <content contentuid="hda8873a7gc134g44e1g9bc8ge92788642a3e" version="1">Votre capacité à évaluer les situations tactiques vous permet d'agir rapidement au combat. Vous bénéficiez d'un bonus de +3 à vos jets d'initiative.</content>
+  <content contentuid="h4fbc6150g46a4g459cgadbfg63951030d14f" version="1">Votre capacité à évaluer les situations tactiques vous permet d'agir rapidement au combat. Vous bénéficiez d'un bonus de +4 à vos jets d'initiative.</content>
+  <content contentuid="h54d17d65g447bg47f0gb3e5gdd0fedd8975d" version="1">Votre capacité à évaluer les situations tactiques vous permet d'agir rapidement au combat. Vous bénéficiez d'un bonus de +5 à vos jets d'initiative.</content>
+  <!-- Arcane Deflection -->
+  <content contentuid="h70f3c495g6fe4g45eeg87a6g4a114c06c7cc" version="1">Déviation Arcanique</content>
+  <content contentuid="h0a77fd5dg4e9eg4006ga5eeg33b6dd2248db" version="1">Vous avez appris à tisser votre magie pour vous fortifier contre le mal. 
+Lorsque vous êtes touché par une attaque ou que vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour gagner un bonus de +2 à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; contre cette attaque ou un bonus de +4 à ce jet de sauvegarde. 
+Lorsque vous utilisez cette action, vous ne pouvez pas lancer de sorts autres que des &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt; jusqu'à la fin de votre prochain tour.</content>
+  <content contentuid="h506d7c8bgbe71g4727ga3e4g94d1b299fe17" version="1">Vous ne pouvez pas utiliser de sorts qui ne sont pas des &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt;.</content>
+  <!-- Power Surge -->
+  <content contentuid="h5c6d9416gabc2g4441gabaegf4e8e0a273d1" version="1">Surtension</content>
+  <content contentuid="h387098a3g551bg48ddgb7ebg6614bff3ec7c" version="1">Vous pouvez stocker de l'énergie magique en vous pour renforcer vos sorts de destruction. 
+Chaque fois que vous lancez Délivrance des Malédictions ou Contresort, vous gagnez une charge de Surtension.</content>
+  <content contentuid="h2786f339g6872g45c1gbfc5g57332deed5e2" version="1"></content>
+  <!-- Durable Magic -->
+  <content contentuid="h73931904g0389g4e4cg8c7cg81e510b99ed5" version="1">Magie durable</content>
+  <content contentuid="hce53ef15g4bdag459agb0dcg3cb053fd37a5" version="1">Tant que vous restez concentré sur un sort, vous bénéficiez d'un bonus de +2 à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'Armure&lt;/LSTag&gt; et à tous les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegarde&lt;/LSTag&gt;.</content>
+  <!-- Deflecting Shroud -->
+  <!-- At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice within 60 feet of you each take force damage equal to half your wizard level. -->
+</contentList>
