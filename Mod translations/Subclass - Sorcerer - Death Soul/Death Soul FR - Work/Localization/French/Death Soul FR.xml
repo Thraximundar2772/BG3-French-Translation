@@ -1,0 +1,48 @@
+<contentList>
+  <content contentuid="haae170b5g9d95g4f65gaaadg3e7a9a0e857b" version="1">Vous êtes à la frontière entre la vie et la mort. L'énergie nécrotique qui vous traverse est à la fois votre arme et votre entrave.</content>
+  <content contentuid="hd222cba0g5b83g46bbg8082g363ed44ca27b" version="1">Âme de la mort</content>
+  <content contentuid="h85e1045dgdd41g4944g8e73g71a55f6a2d3f" version="1">Tenir ce couteau vous procure un sentiment de chaleur, comme si vous retrouviez un vieil ami.</content>
+  <content contentuid="h90723374g58cag432fgb65fg0880b5ea63c9" version="1">Votre couteau préféré</content>
+  <content contentuid="h0a68401bg5674g4565g9c87ga62f60978e4d" version="1">Vous êtes prêt à poignarder ! Gagnez +2 à l'initiative et +1 à la classe d'armure.</content>
+  <content contentuid="hfc0110ceg66c3g4c93g989eg8fff98bf8a56" version="1">Poignardé</content>
+  <content contentuid="h624c29d1g25bbg4e44g83cfg8b39cc2e9fb2" version="1">Harceleur de la mort : Se cacher</content>
+  <content contentuid="h28d5139cgf15bg4585gba92g2ae807b11dd6" version="1">Frappe du harceleur Charge</content>
+  <content contentuid="h81371e7dga15fg436agb916gb65d631fbfd9" version="1">Frappe du harceleur Q</content>
+  <content contentuid="h07641d4cg428bg4774g8f0fg4641728e8c4f" version="1">Danse de la Mort</content>
+  <content contentuid="h9cc1f7cag8158g4defg9496g894a37a9593e" version="1">Votre soif de sang vous rend anormalement agile dans le feu de l'action. Gagnez +2 à la classe d'armure lorsque vous êtes menacé.</content>
+  <content contentuid="h0008edc8g17c7g41a6g92e1g283512cd6dc5" version="1">Votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; augmente de 1.</content>
+  <content contentuid="h42189596ga4b2g415dg8be1ga157b35d6e78" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ne s'applique pas si vous avez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les jets de furtivité.</content>
+  <content contentuid="h86b7fd59gaa75g4049gb197gf325d658260b" version="1">Harceleur de la mort : Pas de l'Ombre</content>
+   <content contentuid="h10c4bef7g7898g4ba8g9f58g5c66f461153c" version="1">Harceleur de la mort : Frappe du harceleur</content>
+  <content contentuid="h9c5a7116g63eag4dc9ga370ged6a109863b8" version="1">Frappe du harceleur</content>
+  <content contentuid="h1ccc93efg6851g47a9gbebeg6da9451f91d7" version="1">Infliger des dégâts nécrotiques supplémentaires à un ennemi contre lequel vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h377c63e4ge049g4088ga3c3g56b86fb54e78" version="1">Votre énergie négative afflue dans votre lame. Une fois par tour, vous pouvez ajouter des dégâts nécrotiques à une attaque d'arme &lt;LSTag Tooltip="Finesse"&gt;Fine&lt;/LSTag&gt; contre un ennemi sur lequel vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;. Cet effet peut se cumuler avec Attaque furtive.</content>
+  <content contentuid="h112d3692gcfbeg49bfg8531gea726b2f80df" version="1">Frappe du harceleur (Arme secondaire)</content>
+  <content contentuid="h5a91f194g3e5dg4d17gb91agff5493fa1e12" version="1">Frappe du harceleur (Coup critique)</content>
+  <content contentuid="he7cc872cg47feg40a7gbe09g4cb3c3feaa81" version="1">Une fois par tour, vous pouvez ajouter des dégâts nécrotiques à une attaque d'arme &lt;LSTag Tooltip="Finesse"&gt;Fine&lt;/LSTag&gt; sur un ennemi contre lequel vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;. Cet effet peut se cumuler avec Attaque furtive.</content>
+  <content contentuid="hd4b6deb1gcc64g45faga17ag59f9028328bd" version="1">Frappe du harceleur: Attaque supplémentaire</content>
+  <content contentuid="h956f35fcg88acg4ea6gac38gf3f047a3ae12" version="1">Vous pouvez lancer un sort mineur nécrotique après avoir porté une &lt;LSTag Type="Spell" Tooltip="Target_StalkerStrike"&gt;Frappe du harceleur&lt;/LSTag&gt;.</content>
+  <content contentuid="hd9abf6f0g328fg46a6gab30g176028ccce2b" version="1">Toucher de goule</content>
+  <content contentuid="hc85e2c65g63eeg4210g8cdbg050fe8089eb7" version="1">Enveloppez votre main d'énergie négative et attaquez vos ennemis. Peut &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyser&lt;/LSTag&gt; un ennemi.</content>
+ <content contentuid="h949a006bga58dg48dbgb5f4gb83ad061ba89" version="1">Destruction inéluctable</content>
+  <content contentuid="h3a08eb8agf866g49c8gb215gb4fcf3720404" version="1">Vous devez être la Mort elle-même. Vos dégâts nécrotiques ignorent la &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; et les &lt;LSTag Tooltip="Immune"&gt;Immunitées&lt;/LSTag&gt;.</content>
+  <content contentuid="he16babadgf872g4b07g88cag54ca04ad9999" version="1">Psychopompe : Résistance</content>
+  <content contentuid="hdaf45d73g744eg4f57ga24cg0668ee5ee57b" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dommages nécrotiques. Les dégâts que vous subissez de vos propres sorts nécrotiques sont réduits de moitié.</content>
+  <content contentuid="hdab749afgcfb7g48c8g8db4ga66b43682938" version="1">Oeil du Harceleur de la Mort</content>
+  <content contentuid="h9f8f7d58g6ab1g49bbg9d7eg661dd0092c5d" version="1">Vous pouvez voir normalement dans l'obscurité, qu'elle soit magique ou non, jusqu'à une distance de 24 m.</content>
+  <content contentuid="hb2b7c70cg79f1g4891g990ag3df141ff2c01" version="1">Dernier souffle</content>
+  <content contentuid="ha45ffbd5g3f88g4d6eg8eb5ge2f9175caf14" version="1">Métamagie : Sort de récolte</content>
+  <content contentuid="hb8b5a689g28b4g4b55gb3c6g2af6971473ca" version="1">Tuez avec un sort nécrotique pour gagner une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; supplémentaire. Ne peut être utilisé qu'une fois par tour. &lt;br&gt;&lt;br&gt;Coûte 2 &lt;LSTag Tooltip="SorceryPoint"&gt;Points de sorcellerie&lt;/LSTag&gt;.</content>
+  <content contentuid="h5197bbd9ge7e3g42ffgbd69g0f40b2522bd9" version="1">Linceul de mort</content>
+  <content contentuid="h7e741e6eg6c37g4fccgb57cgf8e5f8362145" version="1">Créez un nuage d'obscurité magique et essayez immédiatement de vous &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Cacher&lt;/LSTag&gt;.</content>
+  <content contentuid="hd0460e32gb829g499bg8104g8ff4fbe0591b" version="1">Ne coûte pas d'&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;action bonus&lt;/LSTag&gt; après avoir tué avec des dégâts nécrotiques.</content>
+  <content contentuid="h6d46676dg5717g4a0egbaedg2959b5a5905d" version="1">Votre &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Attaque furtive&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Target_StalkerStrike"&gt;Frappe du harceleur&lt;/LSTag&gt; inflige [1] supplémentaire.</content>
+  <content contentuid="h3d3285d6ga249g43e9g979cgcd80915eb605" version="1">Harceleur de la mort : Linceul de mort</content>
+  <content contentuid="h05927d51g3982g410cg9a65g19634208571c" version="1">Les ténèbres en vous sont devenues suffisamment puissantes pour se manifester dans la réalité. Vous pouvez créer un nuage de ténèbres magiques et tenter immédiatement de vous y &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Cacher&lt;/LSTag&gt;.</content>
+  <content contentuid="hbb8f577dgec33g4617g96a6gb71c1f8f964b" version="1">Harceleur de la mort : Pas de l'Ombre</content>
+  <content contentuid="hf010a4a7gedc1g40e7ga912g5d44822ae350" version="1">Une vie passée à vous cacher dans le noir a fait des ombres elles-mêmes une extension de vous. Vous pouvez vous téléporter d'ombre en ombre et gagner un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; lors de votre prochaine &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; de mélée.</content>
+  <content contentuid="h9f15c1d6g3503g4d95ga3d2ga8570a0ab29a" version="1">Ombre de la mort</content>
+  <content contentuid="h753bb6a6gc264g4b36g8d24g37a3b99d0090" version="1">Vous vous sentez chez vous dans l'ombre, traquant avec impatience votre prochaine victime. Choisissez l'une des capacités suivantes.</content>
+  <content contentuid="h7829118bg8579g47ccga3a1g3c69333c8c54" version="1">Scion de la mort</content>
+  <content contentuid="h19f72104ge335g44e2g9a85g497da5bcf2e5" version="1">Vous êtes la Mort incarnée, récoltant les âmes et presque impossible à tuer.. Choisissez l'une des capacités suivantes.</content>
+</contentList>
