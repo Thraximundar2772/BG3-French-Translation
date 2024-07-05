@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h9bf7ef1ag3403g49b5ga9ceg54ab232af032" version="1">BloodLetter</content>
+	<content contentuid="h0da7b989gcbebg41ebgb9d5g038065b582ac" version="1">Les Bloodletter se concentrent sur les connaissances anatomiques et chirurgicales, excellant à provoquer et à exploiter les effets de saignement et à utiliser les surfaces sanguines.</content>
+	<content contentuid="h41c3073ag493fg4e99gba94g769b4038f79d" version="1">Essence de sang</content>
+	<content contentuid="he921be69g7dd6g4254g8cffg7b109dfcae55" version="1">L'essence de sang alimente les compétences chirurgicales et hémorragiques du Bloodletter, source vitale de précision et de létalité.</content>
+	<content contentuid="h5e350649g8cefg4c51gace6g169759891ec2" version="1">Clignotement cramoisi</content>
+	<content contentuid="hb7c5647bgf13ag41a5ga7d1gc69449a8dfe8" version="1">Traverse toute surface de sang disponible. Ce mouvement ne peut être exécuté que si aucun ennemi ne se trouve à moins de 1,5 m.</content>
+	<content contentuid="h6ebbf9c2gd1b0g4576gb557gd68abba66a8b" version="1">Anatomiste</content>
+	<content contentuid="hb34138eag1342g4724g990bgb02380728616" version="1">Vous gagnez un  &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les jets d'attaque lorsque votre cible saigne et gagnez un &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de compétence&lt;/LSTag&gt; en Medecine.</content>
+	<content contentuid="hfdfd167cga769g4693gaf4cg56d9bd0557a6" version="1">Dissection optique</content>
+	<content contentuid="he96bbce8g5a2bg4ee9gb87dgf2c268fce3d2" version="1">Grâce à votre expertise en matière d'autopsie et d'anatomie, disséquez les yeux du cadavre.</content>
+	<content contentuid="h5a8d39ecge4c2g4626gbae5g2dbc609e676e" version="1">Dissection du cerveau</content>
+	<content contentuid="hdb794390g6356g4b57g905cgf4c00b5f1b76" version="1">Grâce à votre expertise en matière d'autopsie et d'anatomie, disséquez le cerveau du cadavre.</content>
+	<content contentuid="hafa5582egb351g406bga8dbg60a8c026673e" version="1">Dissection des vocalises</content>
+	<content contentuid="h2f714153g2180g4984gb571g588e1d4db670" version="1">Grâce à votre expertise en matière d'autopsie et d'anatomie, disséquez le larynx du cadavre.</content>
+	<content contentuid="hc220d2a0g3cdcg4690ga8fcge232c1f9bdd8" version="1">Projection sanguinaire</content>
+	<content contentuid="h4517bdfcg8707g4473g87cegcc8b97b3f9ef" version="1">Lance une jarre de sang sur une surface ciblée, créant une zone recouverte de sang. Les créatures situées dans cet espace deviennent humides.</content>
+	<content contentuid="hbbfeba37g414eg4e80g9454g574383b73261" version="1">Saignée</content>
+	<content contentuid="h17b5623cg793ag4dd8g91f6gae8b05201c77" version="1">Fait couler le sang intentionnellement. Si la cible est hostile, infliger &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignement&lt;/LSTag&gt;. Sinon, purge la cible de toute maladie, poison, paralysie ou cécité.</content>
+	<content contentuid="hd53766c4gaeafg40feg8491g79a03eba4f7b" version="1">Fondre dans le sang (à retirer) </content>
+	<content contentuid="h3f19ebd0g798eg47c0gaa8cg89da8afeca73" version="1">Invisible pendant un tour si vous êtes sur une surface de sang.</content>
+	<content contentuid="h59913ddcgf289g476fg95e5gacb9763ab8ca" version="1">Frappe exsangue</content>
+	<content contentuid="h51a3d174gbca4g4a1cg83c6gefd01be7ca46" version="1">Après une attaque sournoise réussie, vous passez sans transition à une attaque de mêlée pouvant causer &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignement&lt;/LSTag&gt; et inflige [1]</content>
+	<content contentuid="h24bb3288gbba3g43a6g9dc7gb7d3f971df81" version="3">Essence de sang : [3]</content>
+	<content contentuid="hd2ed2759gd104g4a99ga31dg2f61d29e9812" version="2">Vous avez [3]. Elles alimentent vos compétences de Bloodletter et sont dépensées lors de leur utilisation. Vous récupérez l'essence de sang dépensée après un &lt;LSTag Tooltip="ShortRest"&gt;Court&lt;/LSTag&gt; ou &lt;LSTag Tooltip="LongRest"&gt;Long Repos&lt;/LSTag&gt;.</content>
+	<content contentuid="h67a91ab0gcaaeg4d5bg974age89a10d44656" version="1">Autopsie des morts-vivants</content>
+	<content contentuid="h041c62f9g5d3ag48f3gb1ceg62376a825e89" version="1">En choisissant un mort-vivant, vous effectuez une dissection précise et infligez [1]. Cette attaque est considérée comme une attaque sournoise.</content>
+	<content contentuid="h51305266gc327g4472gaeddg75f0cf16ca1b" version="1">Avis de décès</content>
+	<content contentuid="h0c646d05gc98ag4289ga9c9g2ec8bd8b9f7e" version="1">Déclare la mort imminente d'une cible blessée ayant moins de 25 % de points de vie.</content>
+	<content contentuid="h27952cf8gbd40g4b8dg8555g8a199099b542" version="1">En cas de raté : ne dépense pas d'essence de sang</content>
+	<content contentuid="h35eea38fg12d5g4d05gba60ga770d8c65df5" version="1">Sur un jet de sauvegarde réussi, la cible subit toujours la moitié des dégâts.</content>
+	<content contentuid="he4342ed9g2b6dg4d07gaa91g82482eb2874b" version="1">Saignement sévère</content>
+	<content contentuid="h0cceeab0gf30fg40degbb21g998d8199e50b" version="1">Prend [1] au début de chaque tour et empêche la guérison.</content>
+	<content contentuid="h2c6044a9g1e74g4b6ag9649g90192db9a7b0" version="1">%%% Dégâts de saignement excessifs</content>
+	<content contentuid="h64094245gc7feg45c9gb49ege62e4d820012" version="1">Aura de traçage du sang</content>
+	<content contentuid="he687acafg45e9g4ddfg8b3eg5c2ce759ee21" version="1">Marque tous les ennemis qui entrent en contact avec des flaques de sang, révélant potentiellement la présence d'ennemis invisibles. Vous gagnez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les jets d'attaque.</content>
+	<content contentuid="h707bff99gf714g4d8dga4eeg87fbd72eae53" version="1">Sang tracé</content>
+	<content contentuid="hf742d0d0g8db6g45aegb22fg5c290e55303f" version="1">Cette créature se tient sur une surface de sang et est suivie.</content>
+	<content contentuid="h808ab747g0da4g46d4gabd4g0ada75afbd0d" version="1">Corruption du fléau du sang</content>
+	<content contentuid="h72622bfeg60d6g4491ga903g4dd57f18298f" version="1">Corrompt les flaques de sang, inflige [1] à tous les ennemis se trouvant sur des surfaces de sang. Les cibles avec le statut &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignement&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="SEVERE_BLEEDING_BLOODLETTER"&gt;Saignement sévère&lt;/LSTag&gt; subit un supplément [2] et s'applique éventuellement &lt;LSTag Type="Status" Tooltip="POISON_BLOOD_CORRUPTION_BLOODLETTER"&gt;Sang corrompu.&lt;/LSTag&gt;</content>
+	<content contentuid="h2cfaad23g440ag48e0gb906g065bcaff26f2" version="1">Sang corrompu</content>
+	<content contentuid="hf8dd15f8g81f8g4f52gbc54gbcdf631cbd58" version="1"> &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et &lt;LSTag Tooltip="AbilityCheck"&gt;Jets de caractéristique&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; et subit [1].</content>
+	<content contentuid="hcdad3dedg6fb2g4d10g9543g0ff1f91ae9a3" version="1">Premier sang</content>
+	<content contentuid="hf3370b56g6516g4364gb276ge060eab16c4c" version="1">Après avoir réussi une attaque sur un ennemi en pleine santé, le Bloodletter éclabousse du sang, créant une surface de sang au point d'impact.</content>
+	<content contentuid="hbee4faecg72d1g4ad5ga0c3gfdc003800ada" version="1">Trempé de sang</content>
+	<content contentuid="hc52391fag4f7dg41c7gbce9gaf09b2179980" version="1">Protège des &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlures&lt;/LSTag&gt;. &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de feu mais &lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; aux dégâts de foudre, de froid et nécrotiques.</content>
+	<content contentuid="hd4edd9cdg9dfeg4efdg9150g0ad9eafccda2" version="1">Rituel d'hémorragie</content>
+	<content contentuid="h064f9d8dg8843g4ddcg808agda78d348bb07" version="1">Sacrifiez la moitié de vos points de vie actuels et entrez dans l'état &lt;LSTag Type="Status" Tooltip="BLOODLUST_BLOODLETTER"&gt;Hommage de sang&lt;/LSTag&gt;.</content>
+	<content contentuid="haa9feee7g884bg4570gbdc9gf42af189879e" version="1">Récolter du sang</content>
+	<content contentuid="h82cad372g6560g47c5ga219gafff8b283d88" version="1">Récoltez le sang de la surface, restaurant des points de vie égaux à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; chaque fois que vous marchez sur une surface en sang.</content>
+	<content contentuid="hca68a751ge9aeg4358gbc74gead4c0cf5b4e" version="1">Hommage de sang</content>
+	<content contentuid="h6106b207g1bcfg44e3gb238ge5f8e5ab7602" version="1">Gagner une &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; supplémentaire. Lorsque vous portez un coup fatal, récupérez 1 essence de sang et vous soigne.</content>
+	<content contentuid="hf0ff7ba5gc295g4388ga173gf7a259394340" version="1">Aura de traçage du sang</content>
+	<content contentuid="hdb9d8727geaf2g4bd7ga3a9g09f6c95a3ac9" version="1">Marque tous les ennemis qui entrent en contact avec des flaques de sang, révélant potentiellement la présence d'ennemis invisibles. Vous gagnez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les Jets d'attaque.</content>
+	<content contentuid="h37e71d4cg797eg4fb6g8081g4398a7c8c8cc" version="1">Précision chirurgicale</content>
+	<content contentuid="h56d14886g9ebcg4ef8g97fdg73cc1abb216e" version="1">Inflige [1] supplémentaire lorsque vous attaquez un ennemi avec un avantage, en ciblant ses blessures vulnérables.</content>
+
+
+
+</contentList>
