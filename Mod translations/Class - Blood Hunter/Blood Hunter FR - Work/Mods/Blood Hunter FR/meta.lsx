@@ -1,43 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="6" build="5" />
-    <region id="Config">
-        <node id="root">
-            <children>
-                <node id="Dependencies"/>
-                <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="Sewayn - Thraximundar2772"/>
-                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="Traduction en français du mod Blood Hunter"/>
-                    <attribute id="Folder" type="LSWString" value="Blood Hunter FR"/>
-                    <attribute id="GMTemplate" type="FixedString" value=""/>
-                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSWString" value=""/>
-                    <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
-                    <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="Blood Hunter FR"/>
-                    <attribute id="NumPlayers" type="uint8" value="4"/>
-                    <attribute id="PhotoBooth" type="FixedString" value=""/>
-                    <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="Tags" type="LSWString" value="Translation"/>
-                    <attribute id="Type" type="FixedString" value="Add-on"/>
-		            <attribute id="UUID" type="FixedString" value="411d5s3c6e-2be5-4ew14e-aab72-67dycc347bn8c0e"/>
-		            <attribute id="Version64" type="int64" value="37717646879227904"/>
-                    <children>
-                        <node id="PublishVersion">
-                            <attribute id="Version64" type="int64" value="37717646879227904"/>
-                        </node>
-                        <node id="Scripts"/>
-                        <node id="TargetModes">
-                            <children>
-                                <node id="Target">
-                                    <attribute id="Object" type="FixedString" value="Story"/>
-                                </node>
-                            </children>
-                        </node>
-                    </children>
+  <version major="4" minor="0" revision="9" build="331" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSString" value="Sewayn Thraximundar2772" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSString" value="Traduction en français du mod Blood Hunter" />
+          <attribute id="Folder" type="LSString" value="Blood Hunter FR" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="LSString" value="Blood Hunter FR" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSString" value="Translation" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="21049d33-a89f-4937-a682-de7c7fc8f9ec" />
+          <attribute id="Version64" type="int64" value="37717646879227904" />
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="37717646879227904" />
+            </node>
+            <node id="Scripts" />
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story" />
                 </node>
-            </children>
+              </children>
+            </node>
+          </children>
         </node>
-    </region>
+      </children>
+    </node>
+  </region>
 </save>
