@@ -1,37 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-  <version major="4" minor="0" revision="0" build="49"/>
+  <version major="4" minor="0" revision="9" build="331" />
   <region id="Config">
     <node id="root">
       <children>
-        <node id="Dependencies"/>
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="Sewayn"/>
-          <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-          <attribute id="Description" type="LSWString" value="Traduction en français du mod Circle of Stormchasers"/>
-          <attribute id="Folder" type="LSWString" value="Circle of Stormchasers FR"/>
-          <attribute id="GMTemplate" type="FixedString" value=""/>
-          <attribute id="LobbyLevelName" type="FixedString" value=""/>
-          <attribute id="MD5" type="LSString" value=""/>
-          <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
-          <attribute id="MenuLevelName" type="FixedString" value=""/>
-          <attribute id="Name" type="FixedString" value="Circle of Stormchasers FR"/>
-          <attribute id="NumPlayers" type="uint8" value="4"/>
-          <attribute id="PhotoBooth" type="FixedString" value=""/>
-          <attribute id="StartupLevelName" type="FixedString" value=""/>
-          <attribute id="Tags" type="LSWString" value="Translation"/>
-          <attribute id="Type" type="FixedString" value="Add-on"/>
-          <attribute id="UUID" type="FixedString" value="1447130e9-5e0af-481c3-b28f-446a40c2481aa"/>
+          <attribute id="Author" type="LSWString" value="Sewayn" />
+          <attribute id="Folder" type="LSWString" value="Circle of Stormchasers FR" />
+          <attribute id="Name" type="FixedString" value="Circle of Stormchasers FR" />
+          <attribute id="Description" type="LSString" value="Traduction en français du mod Circle of Stormchasers" />
+          <attribute id="Tags" type="LSString" value="Translation" />
+          <attribute id="UUID" type="FixedString" value="db0e2bd1-b7f7-45a0-bf61-8a3fed5e4857" />
+          <attribute id="Version64" type="int64" value="36028839968636928" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="331" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSString" value="Sewayn" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSString" value="Traduction en français du mod Circle of Stormchasers" />
+          <attribute id="Folder" type="LSString" value="Circle of Stormchasers FR" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="LSString" value="Circle of Stormchasers FR" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSString" value="Translation" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="db0e2bd1-b7f7-45a0-bf61-8a3fed5e4857" />
           <attribute id="Version64" type="int64" value="36028839968636928" />
           <children>
             <node id="PublishVersion">
               <attribute id="Version64" type="int64" value="36028839968636928" />
             </node>
-            <node id="Scripts"/>
+            <node id="Scripts" />
             <node id="TargetModes">
               <children>
                 <node id="Target">
-                  <attribute id="Object" type="FixedString" value="Story"/>
+                  <attribute id="Object" type="FixedString" value="Story" />
                 </node>
               </children>
             </node>
