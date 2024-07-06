@@ -1,0 +1,23 @@
+<contentList>
+    <content contentuid="h2ec118c40a9c4b3b93da44a79854c1349950" version="1">Récupération de forme sauvage</content>
+    <content contentuid="ha4ff4d220538416d9053395dd63279311e5c" version="1">Vous retrouvez un utilisation de votre &lt;LSTag Type="ActionResource" Tooltip="WildShape"&gt;Forme sauvage&lt;/LSTag&gt; après un &lt;LSTag Tooltip="ShortRest"&gt;Court repos&lt;/LSTag&gt; et toutes les utilisations après un &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
+    <content contentuid="hb24965ea882a4cc39064ee6fe632eede8765" version="1">Résurgence sauvage</content>
+    <content contentuid="h64cfc54d2b764e0ca39740cf4d908f5036f1" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; pour restaurer une &lt;LSTag Type="ActionResource" Tooltip="WildShape"&gt;Charge de forme sauvage&lt;/LSTag&gt; et vice versa.</content>
+    <content contentuid="h4c8e518383ef4185b61544ff3e32a1bf201a" version="1">Résurgence sauvage : Restaurer l'emplacement de sort</content>
+    <content contentuid="hc7a9f222959741dbb428ee50e4f0ff046fcf" version="1">Dépensez une &lt;LSTag Type="ActionResource" Tooltip="WildShape"&gt;Charge de forme sauvage&lt;/LSTag&gt; pour restaurer un &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau [1].</content>
+    <content contentuid="hb3259bd2172e4324b203a0ef7a16754be8e0" version="1">Résurgence sauvage : Restaurer la forme sauvage</content>
+    <content contentuid="hdf582e42499e4977a7f6915f07903d86d588" version="1">Dépensez un &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; de niveau [1] pour restaurer une &lt;LSTag Type="ActionResource" Tooltip="WildShape"&gt;Charge de forme sauvage&lt;/LSTag&gt;.</content>
+  <!-- Circle of the Moon -->
+    <content contentuid="h9035e4684beb4c59a91a2d6bfb68b20b8f6d" version="1">Charge de pas de clair de lune</content>
+    <content contentuid="h7a10340ecdbf41d3aad430ac4fc85dc9e09a" version="1">Le nombre de fois que vous pouvez utiliser Pas de clair de lune.&lt;br&gt;C'est égal à votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de sagesse (minimum 1).</content>
+    <content contentuid="h9403ab71bf954b62bf003933033e81cd71g1" version="1">Pas de clair de lune</content>
+    <content contentuid="h89fa10fae25140eb83d1a4bc5093be63a6e9" version="1">Téléportez-vous vers un espace inoccupé que vous pouvez voir dans [1], gagnant également un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; au prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; que vous faites avant la fin de votre tour.</content>
+    <content contentuid="hcb536164109f488da4d60c65f846f038a89a" version="1">&lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; au prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+
+    <content contentuid="h4cf2341f30994619887eba7703708959fda0" version="1">Pas de clair de lune partagé/content>
+    <content contentuid="haf57fbe442b34d9d8687d6153ca24cdb6d61" version="1">Chaque fois que vous utilisez &lt;LSTag Type="Spell" Tooltip="CL_Teleportation_OneDnD_MoonlightStep"&gt;Pas de clair de lune&lt;/LSTag&gt;, vous pouvez également téléporter un allié à moins de [1] de vous.</content>
+    <content contentuid="h0415be9483784d4abdf938c95df79d3c007e" version="1">Téléportez-vous ainsi que jusqu'à un allié à [1] de vous vers un espace inoccupé que vous pouvez voir à l'intérieur de [2], gagnant également un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; au prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; que vous faites avant la fin de votre tour.</content>
+
+
+
+</contentList>
