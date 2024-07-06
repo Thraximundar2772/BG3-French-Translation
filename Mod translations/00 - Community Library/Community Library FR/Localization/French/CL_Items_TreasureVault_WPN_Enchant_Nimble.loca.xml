@@ -1,0 +1,39 @@
+<contentList>
+    <content contentuid="h3a5bb727f8244aafb9627ca66dd4c3657g65" version="1">Hache d'armes agile</content>
+    <content contentuid="h9b0bb856c3da40adb217e44f2a375533c19c" version="1">Gourdin agile</content>
+    <content contentuid="hb61dae34e62f41b99c1ce95f2008a56c9b54" version="1">Dague agile</content>
+    <content contentuid="hdf2dcdbc02434340b0522c10cf24cd6b3cf7" version="1">Fléchette agile</content>
+    <content contentuid="hab7c74cc270343c8a29f6c1828dda5413355" version="1">Fléau d'armes agile</content>
+    <content contentuid="hc3e8fbb8b9b948e39921e7fb2690126d3c5d" version="1">Coutille agile</content>
+    <content contentuid="hb8ce73ca12fd4426a482baf629ce99f33dg0" version="1">Hache à deux mains agile</content>
+    <content contentuid="hb558462364cb4e7a8e1b4a53ef8fb25ebbd7" version="1">Massue agile</content>
+    <content contentuid="hd3e4276a43604bfb9f1990adae79935d775g" version="1">Épée à deux mains agile</content>
+    <content contentuid="hd4218bd0a82c4eeeb0781c1986c41b61fe52" version="1">Hallebarde agile</content>
+    <content contentuid="h87c1648953c545cdb59077eac8b377cee92c" version="1">Hachette agile</content>
+    <content contentuid="h8a69b6ab3edf401d84ce1d48efe24ddef79c" version="1">Arbalète de poing agile</content>
+    <content contentuid="h437016d5ccc8467ebca0037ba36c0b33gd73" version="1">Arbalète lourde agile</content>
+    <content contentuid="h60be4857d7c84b779dd94aa71194b72cadf6" version="1">Javeline agile</content>
+    <content contentuid="hd49fe2a8f26f42eca7e6dff8fb5c13fab82b" version="1">Arbalète légère agile</content>
+    <content contentuid="h2be0e81c5c064312844419ccf335d79516c5" version="1">Marteau léger agile</content>
+    <content contentuid="h98fa3ce32cb84fe69634178849998d12be95" version="1">Arc long agile</content>
+    <content contentuid="hcaf978f4027946509cba74d5d48c90469612" version="1">Épée longue agile</content>
+    <content contentuid="h1798aac7ccd14044bc87353ab22f310e7579" version="1">Masse d'armes agile</content>
+    <content contentuid="h824e07cdc44448df81f4d92ac1f2e2d8c4a4" version="1">Maillet agile</content>
+    <content contentuid="hd32759a30c4842398c287fb97ba64a09b4c4" version="1">Morgenstern agile</content>
+    <content contentuid="h1a644547e7454692be9b688108220168fd39" version="1">Pique agile</content>
+    <content contentuid="h7f448ff348a542a6bf2a4c7d8b561e3ab2e1" version="1">Bâton agile</content>
+    <content contentuid="h81da620bd6d94a3f8241daf66f46f1dd1db9" version="1">Rapière agile</content>
+    <content contentuid="h768395038cbe4aef9a955b0350a67a1b1ge9" version="1">Cimeterre agile</content>
+    <content contentuid="h649eb6d123a843728d6b0df2f6e231107eb4" version="1">Arc court agile</content>
+    <content contentuid="h4bee39e8b727433ba9d8c1da55b00760036b" version="1">Épée courte agile</content>
+    <content contentuid="h0f4d1090f02e4e94bab40d0b2f8148ce7093" version="1">Serpe agile</content>
+    <content contentuid="hbd0d9b4dbd33415496a38cae85043ef9c72c" version="1">Fronde agile</content>
+    <content contentuid="h309903b6c2924776aa61fbeee26298eca52g" version="1">Lance agile</content>
+    <content contentuid="hb1f49786c7fe4cf79c4ce4c4b7b7893b7gd0" version="1">Trident agile</content>
+    <content contentuid="hf17a0a126c7d4205a67a96b57bfbfc7609ab" version="1">Marteau de guerre agile</content>
+    <content contentuid="hc902c0c0aea14696bd0e096f8213ba9075c8" version="1">Pic de guerre agile</content>
+    <content contentuid="h14298d11472a4e478fad231a28f641033333" version="1">Arme agile</content>
+    <content contentuid="h3376147978a8443188e9f4ba23c749716133" version="1">Lorsque le porteur frappe un ennemi avec cette arme, il gagne &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Élan&lt;/LSTag&gt; pendant 2 tours.</content>
+    <content contentuid="hbffda161a0e94543a00526df9f86b5058g96" version="1">Mouvement agile</content>
+    <content contentuid="h21d90f7365244f84b71de90248e17e870779" version="1">Votre &lt;LSTag Tooltip="MovementSpeed""&gt;vitesse de mouvement&lt;/LSTag&gt; augmente de [1] tant que vous ne portez pas d'armure lourde.</content>
+</contentList>

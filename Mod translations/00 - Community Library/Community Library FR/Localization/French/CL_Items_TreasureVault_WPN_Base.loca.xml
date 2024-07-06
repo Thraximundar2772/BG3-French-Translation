@@ -1,0 +1,52 @@
+<contentList>
+    <content contentuid="h55f3442341b2411bbad980183c8c4b5dabe7" version="1">Hache d'armes magique</content>
+    <content contentuid="hacc1280d54504703ad5ac30f4302d89691de" version="1">Gourdin magique</content>
+    <content contentuid="hf8d6de04db474e8fb6164137bfd64cbc8b14" version="1">Dague magique</content>
+    <content contentuid="h9578d61288fc4e3fb163ca0f74790249bb99" version="1">Fléchette magique</content>
+    <content contentuid="h01bee2b0194e48e2a657de380abe0f7f6d0b" version="1">Fléau d'armes magique</content>
+    <content contentuid="h3266dbbba03a49c0ac92af7c06e36c3197cd" version="1">Coutille magique</content>
+    <content contentuid="h0ebf641d446a48619719f30769bdf91e02fc" version="1">Hache à deux mains magique</content>
+    <content contentuid="h2f0929ee692f4e40b780cd3a94e676c9f4df" version="1">Massue magique</content>
+    <content contentuid="h6c8e334745194244b1fce26adfafb8f3c3bg" version="1">Épée à deux mains magique</content>
+    <content contentuid="hfc61b9c5411d4a6abb9f7d0613bdb7139gba" version="1">Hallebarde magique</content>
+    <content contentuid="h1813e79ce9114ec384da3baac1329f94ba04" version="1">Hachette magique</content>
+    <content contentuid="he3ee0f8287b74709aaa8a4048783761c183f" version="1">Arbalète de poing magique</content>
+    <content contentuid="hb7a1c8d697fd471485c92d47a13f9b38bf44" version="1">Arbalète lourde magique</content>
+    <content contentuid="h4367d5122e634d98bfb1daac20cc9d39616b" version="1">Javeline magique</content>
+    <content contentuid="h577d5a247a4943e299266564596205e716g0" version="1">Arbalète légère magique</content>
+    <content contentuid="h8182d3211b0f4fb3b6531edf0f4e1005277a" version="1">Marteau léger magique</content>
+    <content contentuid="h209a7f10eae241dea16f41df3b88d4c37857" version="1">Arc long magique</content>
+    <content contentuid="h710c295c1dd345958a49980afd2024ef71ag" version="1">Épée longue magique</content>
+    <content contentuid="h514e99dd532246068f2dd076baa88ffab9f5" version="1">Masse d'armes magique</content>
+    <content contentuid="hcb3c9c939a9446c48b87c829781d6cb8ec74" version="1">Maillet magique</content>
+    <content contentuid="h0f4d1288931d4627a63de4df89eb865d0973" version="1">Morgenstern magique</content>
+    <content contentuid="h4da70bac1d2947698f4e0a4e919b92c6ba74" version="1">Pique magique</content>
+    <content contentuid="h0dd098b5651e4ce1a4cb8636b3af556dee91" version="1">Bâton magique</content>
+    <content contentuid="h35e6b380d29b49318484cba8185b2d8defea" version="1">Rapière magique</content>
+    <content contentuid="h736754c8c1094196a3e7bb1ae607eaa3970g" version="1">Cimeterre magique</content>
+    <content contentuid="hb484a365ac6c4a8caed31bb38a562557ddde" version="1">Arc court magique</content>
+    <content contentuid="h05ed7a4cb0b741598403b65dba86d8bb8b3f" version="1">Épée courte magique</content>
+    <content contentuid="ha403bf63a7dc497c8c2b704a85c7fcc2cg59" version="1">Serpe magique</content>
+    <content contentuid="h15efc0399a554d55a4e92e5b3d72069ac27a" version="1">Fronde magique</content>
+    <content contentuid="h165e93492a7e48fba934615e46780aa538bc" version="1">Lance magique</content>
+    <content contentuid="he93b9f79bd2f4c428c0017d9c76e18660904" version="1">Trident magique</content>
+    <content contentuid="h363f2675bec949078807bab573e96c7315a4" version="1">Marteau de guerre magique</content>
+    <content contentuid="h51eefa18443848d5899e79bbc63bf58e1a7c" version="1">Pic de guerre magique</content>
+   <!-- Bonus Weapon Damage Status Description -->
+    <content contentuid="hb82d256d81b34918b3ad868e9b3965feaa6d" version="1">Inflige [1] supplémentaire.</content>
+   <!-- Bonus Weapon Damage Status Display Names -->
+    <content contentuid="h67da3c1b57564de3923c4cf9b219091fe48b" version="1">Arme contondante</content>
+    <content contentuid="h6a8b52692eff437fbd3cb5ba432d4b36gf93" version="1">Arme perforante</content>
+    <content contentuid="hbcb2ee6450ab431096bbaf5c6d0f0a56gcgg" version="1">Arme tranchante</content>
+    <content contentuid="h7c0762288caa44469801f84160e89455g2f7" version="1">Arme de force</content>
+    <content contentuid="hef28150021714aaea668a4e4859f4cc877b8" version="1">Arme radiante</content>
+    <content contentuid="h50047a9bfedc41c18c3014bb815878b4gg7c" version="1">Arme empoisonnée</content>
+    <content contentuid="hb1535ac8d8b746ec939a6326d931031172d9" version="1">Arme psychique</content>
+    <content contentuid="h1245857c1ac5463db9406005fd25cea1603d" version="1">Arme de froid</content>
+    <content contentuid="h78a2eaa517094f32b8e535ac8cca0140ea7g" version="1">Arme de foudre</content>
+    <content contentuid="hf371b9f24f134f0991ab0178083dea9275f2" version="1">Arme de feu</content>
+    <content contentuid="hfefa674085734bba913b308fe2cffdf879f4" version="1">Necrotic Weapon</content>
+    <content contentuid="h7c4ced6d3591459b975bceae54733dd0606c" version="1">Arme de tonnerre</content>
+    <content contentuid="h770dbc7149344c1c8d180531938e1f0b7595" version="1">Arme acide</content>
+    <content contentuid="h90108d951cb74dc08f6cdeea2ddd1ba466fb" version="1">Après une attaque réussie avec cette arme, le porteur reçoit un bonus de +1d4 à ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et ses &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; jusqu'à la fin de son prochain tour.</content>
+</contentList>
