@@ -8,7 +8,7 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSWString" value="BG3 Community / Thraximundar2772" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSWString" value="Traduction of Community-Developed collection of Data for use in Baldur's Gate 3 Mods" />
+          <attribute id="Description" type="LSWString" value="Translation of Community-Developed collection of Data for use in Baldur's Gate 3 Mods" />
           <attribute id="Folder" type="LSWString" value="Community Library FR" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
@@ -22,10 +22,10 @@
           <attribute id="Tags" type="LSWString" value="Translation;CMTY;Library" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="2fa8f884-153a-45dd-8475-9aa663da8339" />
-          <attribute id="Version64" type="int64" value="72339086194507776" />
+          <attribute id="Version64" type="int64" value="72339086194507777" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="72339086194507776" />
+              <attribute id="Version64" type="int64" value="72339086194507777" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
