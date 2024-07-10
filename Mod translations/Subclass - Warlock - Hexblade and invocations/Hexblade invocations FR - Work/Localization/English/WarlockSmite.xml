@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <contentList>
+	<content contentuid="58dbdda5-3c21-492b-92cd-d99e83b4f623" version="1">Eldritch Smite: Toggle</content>
+	<content contentuid="867fcdd3-6ed7-47a3-9b41-a5280e4348d5" version="1">Gives you a selection between having Eldritch Smite active on all hits or only for critical hits. Use the ability again to turn it off.</content>
+	<content contentuid="3963dd0b-d01c-4a20-873d-7a0324b59264" version="1">Eldritch Smite: Active</content>
+	<content contentuid="a71fc972-641a-4d6b-b4f4-28d8b9723461" version="1">Eldritch Smite: Active on Critical Hits</content>
+	<content contentuid="8d1a316d-f889-4144-8a32-7f6fd7f6b180" version="6">&lt;b&gt;Toggled ON: This feature will be used on all successful attacks that will not kill the target.&lt;/b&gt;</content>
+	<content contentuid="a6bb254b-022d-49c7-bdf7-a2838776c855" version="3">&lt;b&gt;Toggled ON: This feature will be used on all successful Critical Hits that will not kill the target.&lt;/b&gt;</content>
+	<content contentuid="7e5c475a-16f6-4852-84dc-a0771746e8fe" version="1">On your next hit with your Pact Weapon that is not a Killing Blow you will expend a Warlock Spell slot to deal an extra [1] to the target, and the creature will be knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="2fce41c2-ced0-4d0c-be45-7e7c1e08fb94" version="1">On your next &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with your Pact Weapon that is not a Killing Blow you will expend a Warlock Spell slot to deal an extra [1] to the target, and the creature will be knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="a380d71a-7719-439b-b6ec-2db47869d5a3" version="1">Dispater Smite: Active</content>
+	<content contentuid="0a51cf6a-b354-4ca0-8009-220a21dffc82" version="1">Dispater Smite: Active on Critical Hits</content>
+	<content contentuid="168b8f95-807d-448b-ad06-fea32794102d" version="1">On your next hit with the Mace of Dispater that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and the creature will be knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="ffd08cde-b7da-436c-9e73-49caa093be9b" version="1">On your next &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with the Mace of Dispater that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and the creature will be knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="1bdc79bc-089e-4eb5-afb2-fc32ef7b346b" version="1">Acamar Smite: Active</content>
+	<content contentuid="2725b8d3-21fa-4583-b418-5fd81b785a10" version="1">Acamar Smite: Active on Critical Hits</content>
+	<content contentuid="d8ede517-6909-4f77-b165-fdeb84b0c3e5" version="1">On your next hit with the Claw of Acamar that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and the creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; will be reduced to 0 feet until the end of your next turn.</content>
+	<content contentuid="96015bcd-96f4-4b6e-b88d-53ce7814a8d2" version="1">On your next &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with the Claw of Acamar that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and the creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; will be reduced to 0 feet until the end of your next turn.</content>
+	<content contentuid="89e73761-d10d-4132-a809-c3456bf390e5" version="1">Moonbow Smite: Active</content>
+	<content contentuid="e003a683-6ad1-43b8-93d7-83350661a3e0" version="1">Moonbow Smite: Active on Critical Hits</content>
+	<content contentuid="4faa101d-6e3e-4786-8c3b-ef4f39e6285f" version="1">On your next hit with the Moonbow that is not a Killing Blow you will expend a Spell Slot to deal an additional [1] to the target. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against Lycanthropes with the bow.</content>
+	<content contentuid="83b8fb77-11df-477e-906a-503969c1a5b3" version="1">On your next &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with the Moonbow that is not a Killing Blow you will expend a Spell Slot to deal an additional [1] to the target. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against Lycanthropes with the bow.</content>
+	<content contentuid="0354dca2-173d-42e4-9e87-f9e605351c58" version="1">Curse Bringer Smite: Active</content>
+	<content contentuid="6e71a609-42ee-40ba-beaa-0841e4918b51" version="1">Curse Bringer Smite: Active on Critical Hits</content>
+	<content contentuid="0b65d565-5179-48a4-a82d-616040ccdaad" version="1">On your next hit with the Curse Bringer that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and you can reduce the creature’s &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn.</content>
+	<content contentuid="477f71ad-e256-419a-aa27-00026602da99" version="1">On your next &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with the Curse Bringer that is not a Killing Blow you will expend a Warlock Spell slot to deal an additional [1] to the target, and you can reduce the creature’s &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn.</content>
+	<content contentuid="c350357d-11c5-4701-8cf8-8848da53493d" version="1">Immobile</content>
+	<content contentuid="996755a0-7bd8-4fac-8ef4-6c7d06b14dbc" version="1">The creature has its &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; reduced to 0 and cannot move.</content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+</contentList>

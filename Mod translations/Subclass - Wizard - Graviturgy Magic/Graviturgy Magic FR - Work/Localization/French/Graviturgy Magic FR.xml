@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  <content contentuid="h6e718fbbg190bg4996gaa3ag1a4af627c84a" version="1">Magie Gravitationnelle</content>
+  <content contentuid="h6e718fbbg190bg4996gaa3ag1a4af627c84a" version="1">Graviturgie</content>
   <content contentuid="hccba7b1eg1527g4280g8bb7ga37db1301e69" version="1">Comprenant et maîtrisant les forces qui rapprochent ou éloignent les corps de matière, les étudiants de la tradition arcanique de la gravitation apprennent à plier et à manipuler l'énergie violente de la gravité à leur profit et au détriment de leurs ennemis.</content>
   <content contentuid="h6c232e32gf9e2g4b54gb0e9gec85b25b0c35" version="1">Dunamancien</content>
   <content contentuid="h85247d26gd87bg47fbga4cdgb0b7f0bb8446" version="1">Les pouvoirs ésotériques développés et exploités grâce à l'utilisation des Dunamis sont encore très rares et soigneusement préservés par la dynastie Kryn à Wildemount. Cependant, de tels arcanes sont difficiles à garder cachés, notamment en temps de guerre. Les espions et les transfuges ont longtemps fait passer en contrebande les secrets de cette pratique magique obscure, et même aujourd'hui, elle se répand lentement au-delà de Xhorhas.
   
-Les sorts de Dunamancie sont facilement accessibles aux sous-classes de Chronurgie et de Gravitation et ne devraient pas être simplement ajoutés aux listes de sorts des autres classes liées à la magie.</content>
+Les sorts de Dunamancie sont facilement accessibles aux sous-classes de Chronurgie et de Graviturgie et ne devraient pas être simplement ajoutés aux listes de sorts des autres classes liées à la magie.</content>
   <content contentuid="h39c24995g9252g4fd6gab56ge26290d7411e" version="1">Chaque fois que vous lancez un sort sur une créature, vous pouvez pousser ou tirer la cible à 2m de vous ou vers vous si la cible est alliée, si le sort la touche avec un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; ou si elle rate son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;.</content>
   <content contentuid="hc7d76bb3gc04bg4cf6gae12g6e7c4d1a6378" version="1">Chaque fois que vous lancez un sort sur une créature, vous pouvez pousser ou tirer la cible à 2m de vous ou vers vous si la cible est alliée, si le sort la touche avec un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; ou si elle rate son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;.</content>
   <content contentuid="h2b7380bdgd6a0g4fa2gb2ccg768f2c629d5c" version="1">Chaque fois que vous lancez un sort sur une créature, vous pouvez pousser ou tirer la cible à 2m de vous ou vers vous si la cible est alliée, si le sort la touche avec un &lt;LSTag Tooltip="AttackRoll"&gt;jet d'attaque&lt;/LSTag&gt; ou si elle rate son &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;.</content>
@@ -46,7 +46,7 @@ Les sorts de Dunamancie sont facilement accessibles aux sous-classes de Chronurg
   <content contentuid="h71f480aag7df2g4c2fg8be6ga8d090a0c3ce" version="1">Don d'Alacrité</content>
   <content contentuid="hc16fd878g1ee6g4fe4g8a1fgc81356d2c662" version="1">Un allié ou vous-même bénéficiez d'un bonus de +[1] à vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; d'initiative.</content>
   <content contentuid="h56294f4bg9a7bg42e2g959dgb41fe8e6cd35" version="1">+[1] ajouté aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; d'initiative.</content>
-  <content contentuid="h854b8fffg8cf1g46e9gb49ag035a4a081ab7" version="1">Amplification Gravitationnelle </content>
+  <content contentuid="h854b8fffg8cf1g46e9gb49ag035a4a081ab7" version="1">Amplification gravitationnelle </content>
   <content contentuid="h57e37178g53d9g4682gac85g0c681552b8f7" version="1">La gravité dans un rayon d'une sphère de [1], centrée sur une position préalablement choisie, peut potentiellement réduire moitié la &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; des créatures dans cette zone.</content>
   <content contentuid="h18113c25g6b85g411fgac4eg5a7bf25e254e" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de Déplacement&lt;/LSTag&gt; réduite de moitié.</content>
   <content contentuid="h5cd4e3adg070bg4960ga94ag05105037305c" version="1">Faveur de la Fortune</content>

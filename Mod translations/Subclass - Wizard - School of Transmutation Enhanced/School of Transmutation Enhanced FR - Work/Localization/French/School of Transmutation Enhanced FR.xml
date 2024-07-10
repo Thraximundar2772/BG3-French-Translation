@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="LHB_TW_TransmutedMass_Name" version="1">Transmutation de Masse</content>
+	<content contentuid="LHB_TW_TransmutedMass_Name" version="1">Transmutation de masse</content>
 	<content contentuid="LHB_TW_TransmutedMass_Description" version="1">Vos pouvoirs de Transmutation ont augmenté, vous êtes désormais immunisé contre les dégâts de chute.</content>
 	<content contentuid="LHB_TW_TransmutedStride_Name" version="1">Pas transmutés</content>
 	<content contentuid="LHB_TW_TransmutedStride_Description" version="1">Vos pouvoirs de Transmutation ont augmenté, vous avez désormais une vitesse de déplacement supplémentaire de 3 mètres (10 pieds).</content>
 	<content contentuid="LHB_TW_TransmutedVision_Name" version="1">Vision transmutée</content>
 	<content contentuid="LHB_TW_TransmutedVision_Description" version="1">Vos pouvoirs de Transmutation ont augmenté, vous avez maintenant une Vision dans le Noir jusqu'à une portée de 12 mètres (40 pieds).</content>
-	<content contentuid="LHB_TW_SST_Name" version="1">Transmutation d'emplacement de Sort</content>
+	<content contentuid="LHB_TW_SST_Name" version="1">Transmutation d'emplacement de sort</content>
 	<content contentuid="LHB_TW_SST_Description" version="1">Canalisez votre expertise en Transmutation pour reconstituer des emplacements de sorts dépensés en utilisant d'autres emplacements de sorts.</content>
 	<content contentuid="LHB_TW_SST_ExtraDescription" version="1">Il s'agit d'une capacité de restauration, pas d'une capacité de création. Les emplacements de sorts que vous souhaitez restaurer doivent être dépensés.</content>
-	<content contentuid="LHB_TW_SST_1_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 1</content>
+	<content contentuid="LHB_TW_SST_1_Name" version="1">Transmutation d'emplacement de sort : Niveau 1</content>
 	<content contentuid="LHB_TW_SST_1A_Description" version="1">Transmutez 1 emplacement de sort de niveau 2 pour restaurer 2 emplacements de sort de niveau 1.</content>
 	<content contentuid="LHB_TW_SST_1B_Description" version="1">Transmutez 1 emplacement de sort de niveau 3 pour restaurer 3 emplacements de sort de niveau 1.</content>
 	<content contentuid="LHB_TW_SST_1C_Description" version="1">Transmutez 1 emplacement de sort de niveau 4 pour restaurer 4 emplacements de sort de niveau 1.</content>
-	<content contentuid="LHB_TW_SST_2_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 2</content>
+	<content contentuid="LHB_TW_SST_2_Name" version="1">Transmutation d'emplacement de sort : Niveau 2</content>
 	<content contentuid="LHB_TW_SST_2A_Description" version="1">Transmutez 2 emplacements de sort de niveau 1 pour restaurer 1 emplacement de sort de niveau 2.</content>
 	<content contentuid="LHB_TW_SST_2B_Description" version="1">Transmutez 1 emplacement de sort de niveau 4 pour restaurer 2 emplacements de sort de niveau 2.</content>
 	<content contentuid="LHB_TW_SST_2C_Description" version="1">Transmutez 1 emplacement de sort de niveau 6 pour restaurer 3 emplacements de sort de niveau 2.</content>
-	<content contentuid="LHB_TW_SST_3_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 3</content>
+	<content contentuid="LHB_TW_SST_3_Name" version="1">Transmutation d'emplacement de sort : Niveau 3</content>
 	<content contentuid="LHB_TW_SST_3A_Description" version="1">Transmutez 3 emplacements de sort de niveau 1 pour restaurer 1 emplacement de sort de niveau 3.</content>
 	<content contentuid="LHB_TW_SST_3B_Description" version="1">Transmutez 1 emplacement de sort de niveau 1 et 1 emplacement de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 3.</content>
 	<content contentuid="LHB_TW_SST_3C_Description" version="1">Transmutez 1 emplacement de sort de niveau 6 pour restaurer 2 emplacements de sort de niveau 3.</content>
-	<content contentuid="LHB_TW_SST_4_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 4</content>
+	<content contentuid="LHB_TW_SST_4_Name" version="1">Transmutation d'emplacement de sort : Niveau 4</content>
 	<content contentuid="LHB_TW_SST_4A_Description" version="1">Transmutez 4 emplacements de sort de niveau 1 pour restaurer 1 emplacement de sort de niveau 4.</content>
 	<content contentuid="LHB_TW_SST_4B_Description" version="1">Transmutez 2 emplacements de sort de niveau 1 et 1 emplacement de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 4.</content>
 	<content contentuid="LHB_TW_SST_4C_Description" version="1">Transmutez 2 emplacements de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 4.</content>
 	<content contentuid="LHB_TW_SST_4D_Description" version="1">Transmutez 1 emplacement de sort de niveau 1 et 1 emplacement de sort de niveau 3 pour restaurer 1 emplacement de sort de niveau 4.</content>
-	<content contentuid="LHB_TW_SST_5_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 5</content>
+	<content contentuid="LHB_TW_SST_5_Name" version="1">Transmutation d'emplacement de sort : Niveau 5</content>
 	<content contentuid="LHB_TW_SST_5A_Description" version="1">Transmutez 3 emplacements de sort de niveau 1 et 1 emplacement de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 5.</content>
 	<content contentuid="LHB_TW_SST_5B_Description" version="1">Transmutez 2 emplacements de sort de niveau 1 et 1 emplacement de sort de niveau 3 pour restaurer 1 emplacement de sort de niveau 5.</content>
 	<content contentuid="LHB_TW_SST_5C_Description" version="1">Transmutez 1 emplacement de sort de niveau 1 et 2 emplacements de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 5.</content>
 	<content contentuid="LHB_TW_SST_5D_Description" version="1">Transmutez 1 emplacement de sort de niveau 2 et 1 emplacement de sort de niveau 3 pour restaurer 1 emplacement de sort de niveau 5.</content>
-	<content contentuid="LHB_TW_SST_6_Name" version="1">Transmutation d'Emplacement de Sort : Niveau 6</content>
+	<content contentuid="LHB_TW_SST_6_Name" version="1">Transmutation d'emplacement de sort : Niveau 6</content>
 	<content contentuid="LHB_TW_SST_6A_Description" version="1">Transmutez 3 emplacements de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 6.</content>
 	<content contentuid="LHB_TW_SST_6B_Description" version="1">Transmutez 4 emplacements de sort de niveau 1 et 1 emplacement de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 6.</content>
 	<content contentuid="LHB_TW_SST_6C_Description" version="1">Transmutez 2 emplacements de sort de niveau 1 et 2 emplacements de sort de niveau 2 pour restaurer 1 emplacement de sort de niveau 6.</content>

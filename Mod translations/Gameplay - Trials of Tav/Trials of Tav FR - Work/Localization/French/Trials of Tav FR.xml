@@ -209,13 +209,13 @@
     <content contentuid="h322608ceg6773g45d9gb011g53bfd233719d" version="1">Objets</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/Scenario.lua -->
-    <content contentuid="h34873bdcg61d2g46e8g907bg408ef25962ac" version="1">Score de tués : %s</content>
+    <content contentuid="h34873bdcg61d2g46e8g907bg408ef25962ac" version="1">Score de tués : %s</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Control.lua -->
     <content contentuid="h2d5b4e72g780eg41b2gb1e6g87d413c4a5f6" version="1">Tuer engendré</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Control.lua -->
-    <content contentuid="h2cb5c7a2g79e0g492fgb1f8g6f4913da4d6b" version="1">Tué : %s</content>
+    <content contentuid="h2cb5c7a2g79e0g492fgb1f8g6f4913da4d6b" version="1">Tué : %s</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/Scenario.lua -->
     <content contentuid="h6119ae15g344cg4fb4g8522ga9d267008bf0" version="1">Quittez le camp pour rejoindre la bataille.</content>
@@ -257,7 +257,7 @@
     <content contentuid="h298720feg7cd2g475agb1abg413cd389631e" version="1">En rupture de stock</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/GameMode.lua -->
-    <content contentuid="h979a14b3gc2cfg441egaa4ag92780868b05a" version="1">Parfaitement nettoyé ! Doubler votre score de %d à %d ?</content>
+    <content contentuid="h979a14b3gc2cfg441egaa4ag92780868b05a" version="1">Parfaitement nettoyé ! Doubler votre score de %d à %d ?</content>
 
     <!-- CombatMod/CombatMod/Server/Player.lua -->
     <content contentuid="h637ce98fg3629g4bcdga504gfdabc726df89" version="1">Parfaitement nettoyé ! Doubler votre score de 5 à 10 ?</content>
@@ -291,7 +291,7 @@
     <content contentuid="hac065c23gf953g4097ga9f3g56f10bd174d3" version="1">Jouer au mode Roguelike</content>
 
     <!-- CombatMod/CombatMod/Server/Player.lua -->
-    <content contentuid="hf44e063cga11bg4536g9c77gd350fe55f172" version="1">Jouer au mode Roguelike ?
+    <content contentuid="hf44e063cga11bg4536g9c77gd350fe55f172" version="1">Jouer au mode Roguelike ?
 Créez continuellement de nouvelles batailles.
 Vous obtiendrez un score plus élevé à chaque combat terminé.
 La difficulté augmente avec le score.</content>
@@ -382,7 +382,7 @@ La difficulté augmente avec le score.</content>
     <content contentuid="h243816eeg716dg443bgb170gb25dd352907f" version="1">Recherche</content>
 
     <!-- CombatMod/CombatMod/Server/Player.lua -->
-    <content contentuid="h2bb88d7eg7eedg4d82gb188gbbe4d3aa99c6" version="1">Passer au camp ?</content>
+    <content contentuid="h2bb88d7eg7eedg4d82gb188gbbe4d3aa99c6" version="1">Passer au camp ?</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/StoryBypass.lua -->
     <content contentuid="hb13de5b9ge468g4b0eg8820ged68aa02cf4a" version="1">Combat ignoré avec %s</content>
@@ -448,7 +448,7 @@ La difficulté augmente avec le score.</content>
     <content contentuid="he699ae7dgb3ccg4fb2g8d5aga9d4ef788bf6" version="1">Retour au camp après n secondes</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Control.lua -->
-    <content contentuid="h33c0b3bcg6695g4e6eg900fg3808f22d1a2a" version="1">Nombre total de tours : %s</content>
+    <content contentuid="h33c0b3bcg6695g4e6eg900fg3808f22d1a2a" version="1">Nombre total de tours : %s</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Config.lua -->
     <content contentuid="h9dc524a2gc890g471fgbaefg617918cd435b" version="1">Désactiver les notifications</content>
@@ -484,7 +484,7 @@ La difficulté augmente avec le score.</content>
     <content contentuid="h231a0e4eg764fg45b1gb102g93d7d320b1f5" version="1">Unlocks</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Control.lua -->
-    <content contentuid="h8528df02gd07dg48a5gbb61gbec319439ce1" version="1">Apparitions à venir : %s</content>
+    <content contentuid="h8528df02gd07dg48a5gbb61gbec319439ce1" version="1">Apparitions à venir : %s</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Config.lua -->
     <content contentuid="h2f0de7b4g7a58g4b2eg91c3ged4873e1cf6a" version="1">Mise à jour de la configuration...</content>
@@ -499,7 +499,7 @@ La difficulté augmente avec le score.</content>
     <content contentuid="h273eb1cag726bg4e49gb140gd82f9362fa0d" version="1">Points de téléportation</content>
 
     <!-- CombatMod/CombatMod/Server/Player.lua -->
-    <content contentuid="hfd862893ga8d3g47dcgacebg51ba0ec97398" version="1">Bienvenue à %s ! Commencer à jouer?</content>
+    <content contentuid="hfd862893ga8d3g47dcgacebg51ba0ec97398" version="1">Bienvenue à %s ! Commencer à jouer?</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Config.lua -->
     <content contentuid="h2d89694ag78dcg43c1gb1ebga5a793c98785" version="1">Paramètres de la fenêtre</content>
@@ -508,13 +508,13 @@ La difficulté augmente avec le score.</content>
     <content contentuid="h28a9d2d8g7dfcg4878g91b9gae1eb39b8c3c" version="1">Touche bascule de fenêtre</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/GameMode.lua -->
-    <content contentuid="hcb742a6eg9e21g47f3gbf84g7195dda653b7" version="1">Vous avez trouvé le niveau secret des vaches !</content>
+    <content contentuid="hcb742a6eg9e21g47f3gbf84g7195dda653b7" version="1">Vous avez trouvé le niveau secret des vaches !</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/Unlock.lua -->
-    <content contentuid="hc327dd8cg9672g488dg9f01g4eebfd236cc9" version="1">Votre monnaie a augmenté : %d -> %d !</content>
+    <content contentuid="hc327dd8cg9672g488dg9f01g4eebfd236cc9" version="1">Votre monnaie a augmenté : %d -> %d !</content>
 
     <!-- CombatMod/CombatMod/Server/ModActive/GameMode.lua -->
-    <content contentuid="hefbbbf98gbaeeg4eacg9dc8g88cabfeaaae8" version="1">Votre RogueScore a augmenté : %d -> %d !</content>
+    <content contentuid="hefbbbf98gbaeeg4eacg9dc8g88cabfeaaae8" version="1">Votre RogueScore a augmenté : %d -> %d !</content>
 
     <!-- CombatMod/CombatMod/Client/GUI/Config.lua -->
     <content contentuid="hd2a986b6g87fcg4d3egbe19gab585c3b897a" version="1">apparemment c'était trop facile</content>

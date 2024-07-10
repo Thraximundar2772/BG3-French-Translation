@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <contentList>
+	<content contentuid="4a4d2790-46f5-407b-95a3-90393f0a5398" version="1">Eldritch Mind</content>
+	<content contentuid="be5ecd72-feac-4c05-b111-ba184e835a1c" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; that you make to maintain your &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; on a Spell.</content>
+	<content contentuid="6b3ef604-472a-483a-99d6-c41ed176cfa1" version="1">Eldritch Spear</content>
+	<content contentuid="041bef57-a4ee-4bb0-afdb-17e61e08b0f3" version="1">When you cast &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt; its range is increased.</content>
+	<content contentuid="265f3ddd-bdfb-4d19-b8fb-f572dc606be4" version="1">Grasp of Hadar</content>
+	<content contentuid="0f43cce9-b8b0-4dbb-9574-575dd65aa9d7" version="1">Once on each of your turns when you hit a creature with your &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt; you can move that creature in a straight line 10 feet closer to yourself.</content>
+	<content contentuid="38b2744c-f1c9-45af-b926-f86b8c7b9eaa" version="1">Lance of Lethargy</content>
+	<content contentuid="d8a867e9-539b-4cc8-862c-0a4645c3ac31" version="1">Once on each of your turns when you hit a creature with your &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt; you can reduce that creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1] until the end of your next turn.</content>
+	<content contentuid="7a7c5644-565c-4245-9782-e2bb946c2ada" version="1">Cloak of Flies</content>	
+	<content contentuid="d4a557ae-855b-4239-93b3-3cb0a1f74247" version="1">Ascendant Step</content>
+	<content contentuid="7349bec0-b0dd-46f9-a8a5-c7da2b36cfea" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Projectile_Levitate_Invocation"&gt;Levitate&lt;/LSTag&gt; on yourself at will, without expending a Spell Slot or material components.</content>
+	<content contentuid="400c95c3-b336-4683-b4ea-389ce125b9df" version="1">Eldritch Sight</content>
+	<content contentuid="cd7724b4-8da9-454e-8901-255272f672a4" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Shout_DetectMagic"&gt;Detect Magic&lt;/LSTag&gt; at will, without expending a Spell Slot or material components.</content>
+	<content contentuid="955933da-9d4b-40a4-b6d6-959a3540d708" version="1">Eldritch Smite: Critical</content>
+	<content contentuid="fa6ff211-feed-4c8b-adb5-1125aada7815" version="1">Once per turn when you hit a creature with your Pact Weapon, you can expend a Warlock Spell Slot to deal an extra [1] to the target, plus another [1] per Level of the Spell Slot, and you can knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="5524919a-60dc-485f-86db-69a977f9f13c" version="1">You can surround yourself with a Magical Aura that looks like buzzing flies. The Aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; or you dismiss it as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. The aura grants you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; checks but &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all other Charisma based checks. Any other creature that starts its turn in the aura takes [1].</content>
+	<content contentuid="976f9023-3f04-4013-8e63-3745aa1b392d" version="1">Improved Pact Weapon (Pact of the Blade only)</content>
+	<content contentuid="4310ed0d-1549-4247-b854-f6c205c83136" version="1">Your Pact Weapon gains a +1 bonus to its &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls, unless it is a Magic Weapon that already has a bonus to those rolls. Finally, the Weapon you conjure can be a Shortbow, Longbow, Light Crossbow, or Heavy Crossbow.</content>
+	<content contentuid="8ca516a0-0411-4c15-9555-47dc1ffc633c" version="1">Improved Pact Weapon: Melee</content>
+	<content contentuid="3584097a-9e4c-4f15-8d2b-d889ac470f03" version="1">Your Pact Weapon gains a +1 bonus to its &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls, unless it is a Magic Weapon that already has a bonus to those rolls.</content>
+	<content contentuid="6443af61-7516-4ab7-8ac1-3e2536ecbd13" version="1">Improved Pact Weapon: Ranged</content>
+	<content contentuid="f8484dff-6241-4c74-a1dc-c08215682113" version="1">Pact of the Blade: Ranged</content>
+	<content contentuid="216e7211-319c-4718-bf3d-596d302d7655" version="1">Pact of the Blade: Heavy Crossbow</content>
+	<content contentuid="943fd046-52e6-4fb3-b684-b9f4341993af" version="1">Pact of the Blade: Light Crossbow</content>
+	<content contentuid="439c2d62-e111-4b4b-9479-a47f221cbc26" version="1">Pact of the Blade: Shortbow</content>
+	<content contentuid="d99551a3-be01-492a-ac0b-0d19da0f7878" version="1">Pact of the Blade: Longbow</content>
+	<content contentuid="c6fc53c1-42db-4740-b985-7bd794f28136" version="1">Summon a Heavy Crossbow</content>
+	<content contentuid="14f2cfc3-7a14-4fbb-a24c-8ec2ef196c0f" version="1">Summon a Light Crossbow</content>
+	<content contentuid="160efbaa-8a57-4b04-91dd-59187585b171" version="1">Summon a Longbow</content>
+	<content contentuid="c5538849-74a9-419e-9d0c-91a493fd107f" version="1">Summon a Shortbow</content>
+	<content contentuid="451ce6ec-2889-4bf8-8c9e-5e3b8c8cf015" version="1">Dismiss: Cloak of Flies</content>
+	<content contentuid="44e23a72-725d-407a-a1f8-497d44aa7955" version="1">Eldritch Smite</content>
+	<content contentuid="ada5bc12-c519-4060-af6d-e4f54e64dadb" version="1">Improved Pact Weapon</content>
+	<content contentuid="aedb43f5-af8a-4c72-a818-747a3d82c972" version="1">Undying Servitude</content>
+	<content contentuid="047bfb87-99e2-409b-84d1-cbc455bf86c5" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Target_UndyingServant"&gt;Animate Dead&lt;/LSTag&gt; without using a Spell Slot. Once you do so, you can't cast it in this way again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="f8e3fc5c-7a7a-4021-99ad-daa366e4b8bf" version="1">Eldritch Smite (Pact of the Blade only)</content>
+	<content contentuid="f00a02b3-be98-4f9a-b8bd-b8c1b5cfabd3" version="1">Trickster's Escape</content>
+	<content contentuid="74c4258a-8ccf-4c7b-a931-9ed8ce2ee686" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Target_TrickstersEscape"&gt;Freedom of Movement&lt;/LSTag&gt; once on yourself without expending a Spell Slot. You regain the ability to do so when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="5cc7c71b-04b8-4ba7-a678-62fdc810b1c2" version="1">Tomb of Levistus</content>
+	<content contentuid="e90085b0-808c-41ff-9adb-7618cba42c9e" version="1">As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;10 temporary hit points&lt;/LSTag&gt; per Warlock Level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerability&lt;/LSTag&gt; to Fire Damage, your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is reduced to 0, and you are &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;. These effects, including any remaining &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, all end when the ice melts. Once you use this invocation, you can't use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="e4a7f71b-d737-4c7d-9573-74b81e185585" version="1">Relentless Hex</content>
+	<content contentuid="9777a7ce-8f9c-429a-8e2a-62f44e59ea99" version="1">Your curse creates a temporary bond between you and your target. As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Hex Spell&lt;/LSTag&gt; or by a Warlock feature of yours, such as &lt;LSTag Type="Spell" Tooltip="Target_HexbladeCurse"&gt;Hexblade's Curse&lt;/LSTag&gt;.</content>
+	<content contentuid="f80941fa-9d01-4732-b299-205dd026adf8" version="1">Maddening Hex</content>
+	<content contentuid="1d4fad19-3158-4896-b880-38ca2bd9807a" version="1">You cause a psychic disturbance around the target cursed by your &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Hex Spell&lt;/LSTag&gt; or by a Warlock feature of yours, such as &lt;LSTag Type="Spell" Tooltip="Target_HexbladeCurse"&gt;Hexblade's Curse&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_BestowCurse"&gt;Sign of Ill Omen&lt;/LSTag&gt;. When you do so, you deal Psychic Damage to the cursed target and each creature of your choice within 5 feet of it. The Psychic Damage equals your Charisma modifier (minimum of 1 damage).</content>
+	<content contentuid="cbebea96-186b-4791-a955-a6f9a2a30b08" version="1">Eldritch Smite: Critical</content>
+	<content contentuid="e563eb26-1a6f-4e91-b95f-d236a8e1d307" version="1">Once per turn when you hit a creature with your Pact Weapon, you can expend a Warlock Spell Slot to deal an extra [1], and you can knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="2cef2397-26e2-4fea-839f-4d171bd9f42f" version="1">Moonbow (Archfey and Pact of the Blade only)</content>
+	<content contentuid="a26699bd-2527-4f45-966f-e0dedcdd0f3e" version="1">Summon Moonbow</content>
+	<content contentuid="14b1e233-3213-40e3-be26-b6af1719afb4" version="1">Moonbow</content>
+	<content contentuid="0bab0df3-fd08-44f7-9fcc-2f0a07d6119c" version="1">A special summonable weapon granted by your Archfey Patron, the Moonbow, firing white Wood Arrows piercing through Lycantropes.</content>
+	<content contentuid="624c1399-8941-4041-a386-d1ed547111f4" version="1">You can create a Longbow using your &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pact of the Blade&lt;/LSTag&gt; feature. When you draw back its string and fire, it creates an arrow of white wood. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against Lycanthropes with the bow. When you hit a creature with it, you can expend a Spell Slot to deal an additional [1] to the target per Spell Level.</content>
+	<content contentuid="49ade000-90fd-4295-86d1-7cc427f4954a" version="1">Moonbow Smite</content>
+	<content contentuid="ebaafeec-4e27-4abd-b8d2-5915d19dd229" version="1">When you hit a creature with the Moonbow, you can expend a Spell Slot to deal an additional [1] to the target.</content>
+	<content contentuid="f1ee9952-013f-4eb3-8e90-e155ca2a3480" version="1">Moonbow Smite: Critical</content>
+	<content contentuid="6de2e429-6bb6-4044-b0f3-01b0cb5db624" version="1">Mace of Dispater (Fiend and Pact of the Blade only)</content>
+	<content contentuid="f794f321-a39b-49f8-b500-c5ef1fce8e07" version="1">Mace of Dispater</content>
+	<content contentuid="987e31e1-8547-4408-ba66-d55d507b402e" version="1">A special summonable weapon granted by your Fey Patron, the Mace of Dispater, forged in Dis, the second of the Nine Hells.</content>
+	<content contentuid="40a9e359-b19b-4b5d-b047-2d5c2047ad23" version="1">When you create a Mace using your &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pact of the Blade&lt;/LSTag&gt; feature, it manifests as an Iron Mace forged in Dis, the second of the Nine Hells. When you hit a creature with it, you can expend a Spell Slot to deal an additional [1] to the target per spell Level, and you can knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="dd52d307-55dc-4301-8798-3baf23f18ab1" version="1">When you hit a creature with the Mace of Dispater, you can expend a Spell Slot to deal an additional [1] to the target, and you can knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; if it is Huge or smaller.</content>
+	<content contentuid="2fed5b7e-6344-47bc-91bd-d858b5f30c2e" version="1">Dispater Smite: Critical</content>
+	<content contentuid="4cf43ba0-3300-420c-8eb0-2cbd720f3133" version="1">Dispater Smite</content>
+	<content contentuid="d2882260-9edc-48bb-b933-ebdeaa6ee5c3" version="1">Summon Mace of Dispater</content>
+	<content contentuid="2e9d7c18-3de5-4188-a906-9205c4a3bad8" version="1">Pact of the Blade: Greataxe</content>
+	<content contentuid="bcb6aa7f-63ee-4eb8-ac9c-1d751f44c61e" version="1">Summon a Greataxe.</content>
+	<content contentuid="ee5a5f3d-b38b-4ce3-8bfd-3554f468ef10" version="1">Pact of the Blade: Halberd</content>
+	<content contentuid="afbfecfb-3b8d-433d-a827-d890f72ff58d" version="1">Summon a Halberd.</content>
+	<content contentuid="6ebb676b-1d8e-4546-a161-5f562a1ab0b8" version="1">Pact of the Blade: Flail</content>
+	<content contentuid="e166b32b-6dd2-4cd5-9ae0-89fbaef1a964" version="1">Summon a Flail.</content>
+	<content contentuid="08d43418-1c08-46f1-b404-0bfd33631b3d" version="1">Pact of the Blade: Maul</content>
+	<content contentuid="1f360c63-ce72-4345-b774-4923a6de4dd7" version="1">Summon a Maul.</content>
+	<content contentuid="0fd10f6f-7e8e-4d94-8eb9-d532ff4a6ac5" version="1">Pact of the Blade: Morningstar</content>
+	<content contentuid="e22e508b-69cc-4e83-8e67-4633ad8ff709" version="1">Summon a Morningstar.</content>
+	<content contentuid="fa9054b0-a4e9-47a8-83ce-3344af8fa9f2" version="1">Pact of the Blade: Pike</content>
+	<content contentuid="3ef18d8f-ed9e-4cc3-82f8-d2265778473b" version="1">Summon a Pike.</content>
+	<content contentuid="45eeed59-965e-4989-bcf1-c1b4d7ea4049" version="1">Pact of the Blade: Spear</content>
+	<content contentuid="30103740-e32d-49d4-96ce-b5763807f446" version="1">Summon a Spear.</content>
+	<content contentuid="57e74050-eb3c-4dea-a24e-6a120430b6fe" version="1">Pact of the Blade: Warpick</content>
+	<content contentuid="8dc17ece-d61f-4520-9800-aa5e9461e2ee" version="1">Summon a Warpick.</content>
+	<content contentuid="d413d2c3-fc3a-4afa-8a81-20b901a3cb32" version="1">Superior Pact Weapon +2 (Pact of the Blade only)</content>
+	<content contentuid="72f3063a-0ab6-40d5-9152-e1a29f93a8d7" version="1">Superior Pact Weapon: Melee</content>
+	<content contentuid="17e724f7-9bbf-40c7-82b0-11ceb73d435c" version="1">Superior Pact Weapon: Ranged</content>
+	<content contentuid="2e799ec7-7ee6-4aac-bd28-58bf5406718e" version="1">Your Pact Weapon gains a +2 bonus to its &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls, unless it is a Magic Weapon that already has a bonus to those rolls.</content>
+	<content contentuid="d4104988-6181-4563-8897-54c1b80e2493" version="1">Claw of Acamar</content>
+	<content contentuid="383dfb00-01c9-42ee-a115-93d0e639f347" version="1">A special summonable weapon granted by your Great Old One Patron, the Claw of Acamar, sculpted to resemble a pair of grasping tentacles and possessing the Reach Property.</content>
+	<content contentuid="fd744903-0078-44eb-98e5-c51049d5ff5b" version="1">You can create a black, lead Flail using your &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pact of the Blade&lt;/LSTag&gt; feature. The Flail's head is sculpted to resemble a pair of grasping tentacles. The Weapon has the &lt;LSTag Tooltip="Reach"&gt;Reach property&lt;/LSTag&gt;. When you hit a creature with it, you can expend a Spell Slot to deal an additional [1] to the target per spell Level, and you can reduce the creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn.</content>
+	<content contentuid="72372a03-512b-4759-ac1d-240a18a07826" version="1">Summon Claw of Acamar</content>
+	<content contentuid="76ecbf7e-cc7f-4066-8e87-1a900a26b03c" version="1">Acamar Smite</content>
+	<content contentuid="3c4404b4-967a-463c-b432-9210bf925953" version="1">Acamar Smite: Critical</content>
+	<content contentuid="94234590-d797-4e51-90b2-758855e7782e" version="1">When you hit a creature with the Claw of Acamar, you can expend a Spell Slot to deal an additional [1] to the target, and you can reduce the creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn.</content>
+	<content contentuid="20910665-abf9-4d4c-9763-3ae8051fe4e8" version="1">Claw of Acamar (Great Old One and Pact of the Blade only)</content>
+	<content contentuid="245425ae-9681-4a5c-ba9e-d1d03d7e9fc1" version="1">Eldritch Armor</content>
+	<content contentuid="80c1f2b0-f783-46ec-9011-34b2eaea6b49" version="1">As an &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action&lt;/LSTag&gt; you can touch a suit of armor and become proficient with it.</content>
+	<content contentuid="08c83d57-a91c-42a4-9388-51894391e6bc" version="1">Kiss of Mephistopheles</content>
+	<content contentuid="6b470c72-7655-4f96-a88f-eb2b85321a47" version="1">When you hit a creature with your &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt;, you can cast &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Fireball&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; using a Warlock Spell Slot. The spell must be centered on the creature you hit with &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt;.</content>
+	<content contentuid="93bfeb82-9800-4168-9174-a371c6d4778e" version="1">Curse Bringer (Hexblade and Pact of the Blade only)</content>
+	<content contentuid="37126cb4-7f53-4e4e-ab8d-d5485668de08" version="1">Curse Bringer</content>
+	<content contentuid="ef4fd6fb-ac6c-41e7-bac0-6d55a8c7b5cd" version="1">Summon Curse Bringer</content>
+	<content contentuid="f90a1a21-13aa-4ea8-bbf9-d6ad7e48c2d6" version="1">A special summonable weapon granted by your Hexblade Patron, the Curse Bringer, a Silver Greatsword etched with black runes, and especially deadly when used against Hexblade Curse's targets.</content>
+	<content contentuid="65007135-45b8-4716-b477-59f711388a6a" version="1">You can create a greatsword forged from Silver, with black runes etched into its blade, using your &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pact of the Blade&lt;/LSTag&gt; feature. If you reduce a target cursed by your &lt;LSTag Type="Spell" Tooltip="Target_HexbladeCurse"&gt;Hexblade's Curse&lt;/LSTag&gt; to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; with this sword, you can immediately change the target of the curse to a different creature. This change doesn’t extend the curse’s duration. When you hit a creature with this weapon, you can expend a Spell Slot to deal an additional [1] to the target, and you can reduce the creature’s &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn.</content>
+	<content contentuid="f9a5a327-0d48-430a-8200-d4ce1aa2d51c" version="1">When you hit a creature with the Curse Bringer, you can expend a Spell Slot to deal an additional [1], and you can reduce the creature's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; to 0 feet until the end of your next turn. If you reduce a target cursed by your &lt;LSTag Type="Spell" Tooltip="Target_HexbladeCurse"&gt;Hexblade's Curse&lt;/LSTag&gt; to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; with this sword, you can immediately change the target of the curse to a different creature. This change doesn’t extend the curse’s duration.</content>
+	<content contentuid="543d2fab-17c9-41b9-a091-978f077af0b0" version="1">As a bonus for killing a creature with Curse Bringer you have the option to spread your &lt;LSTag Type="Spell" Tooltip="Target_HexbladeCurse"&gt;Hexblade's Curse&lt;/LSTag&gt; to another target you can see within 30 feet of you. When you apply the curse in this way, you don't regain &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; from the death of the previously cursed creature. If you choose to not reapply the curse, or you are unable to do so during your turn, you will regain [1] instead.</content>
+	<content contentuid="53b6683c-d384-4602-97f1-4153f86b3ce3" version="1">Curse Bringer Smite</content>
+	<content contentuid="32b31b5b-89c6-4f66-b264-047ef03c81ee" version="1">Curse Bringer Smite: Critical</content>
+	<content contentuid=" " version="1"></content>
+	<content contentuid=" " version="1"></content>
+</contentList>
