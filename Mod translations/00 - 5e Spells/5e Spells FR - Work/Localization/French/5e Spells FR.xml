@@ -708,12 +708,40 @@
 	<content contentuid="72d37580bf7d41b59382896ad91f77cc" version="1">Peut se téléporter vers une créature ciblée par la Frappe du vent d'acier. </content>
 	<content contentuid="12950519-598d-4946-be0c-14e7c4409d7b" version="1">Frappe du vent d'acier: Téléportation</content>
 	<content contentuid="b3d9e8f4-5a5b-4ac4-b444-982b19e1a2d1" version="1">Se téléporte sur la cible de votre Frappe de vent d'acier.</content>
-	<content contentuid="397966e0-826b-4e2a-a62b-86c75bdbd970" version="1">Convocation d'esprit draconique</content>
-	<content contentuid="3b1ea766-b51c-468a-8a36-e31e29a0a549" version="1">Vous pouvez faire appel à un esprit draconique qui ressemble à un dragon chromatique, gemme ou métallique et qui se bat à vos côtés.</content>
-	<content contentuid="9f43b7a1-7256-446f-bb67-835fe6537648" version="1">Convocation d'esprit draconique : Chromatique</content>
-	<content contentuid="0dcf2040-520a-49f7-a8bc-d0fab42a9880" version="1">Vous faites à un esprit draconique qui ressemble à un dragon chromatique qui se bat à vos côtés.</content>
-	<content contentuid="cdc068e3-f9cd-474f-a421-88e5b8601951" version="1">Convocation d'esprit draconique : Gemme</content>
-	<content contentuid="97f2f626-2157-498e-90de-72f733f7b1b9" version="1">Vous faites à un esprit draconique qui ressemble à un dragon gemme qui se bat à vos côtés.</content>
+	<content contentuid="h397966e0g826bg4e2aga62bg86c75bdbd970" version="1">Convocation d'esprit draconique</content>
+	<content contentuid="h3b1ea766gb51cg468ag8a36ge31e29a0a549" version="1">Vous pouvez faire appel à un esprit draconique qui ressemble à un dragon chromatique, gemme ou métallique et qui se bat à vos côtés.</content>
+	<content contentuid="h9f43b7a1g7256g446fgbb67g835fe6537648" version="1">Convocation d'esprit draconique : Chromatique</content>
+	<content contentuid="h0dcf2040g520ag49f7ga8bcgd0fab42a9880" version="1">Vous faites appel à un esprit draconique qui ressemble à un dragon chromatique qui se bat à vos côtés.</content>
+	<content contentuid="hcdc068e3gf9cdg474fga421g88e5b8601951" version="1">Convocation d'esprit draconique : Gemme</content>
+	<content contentuid="h97f2f626g2157g498eg90deg72f733f7b1b9" version="1">Vous faites appel à un esprit draconique qui ressemble à un dragon gemme qui se bat à vos côtés.</content>
+	<content contentuid="h2c09a78dg39fag493dg9cadg0dd0c3829b51" version="1">Convocation d'esprit draconique : Métallique</content>
+	<content contentuid="h341405fbga55bg4739g8bcfg5b1e9b80d7fe" version="1">Vous faites appel à un esprit draconique qui ressemble à un dragon métallique dragon qui se bat à vos côtés.</content>
+	<content contentuid="h88f41494gf7d8g4a58gab87g273d587877ea" version="1">Esprit draconique</content>
+	<content contentuid="h4a948e07g5e3eg417cga7b2g758db4836b14" version="1">Déchirement</content>
+	<content contentuid="hce5f48f6g61c6g45e2gb975g4d6c2337b84e" version="1">Résistance Chromatique</content>
+	<content contentuid="h97ffe9d4g6358g4679g97d4ge9f045f8bf1c" version="1">Choisir de devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégâts d'acide, de froid, de feu, de foudre ou de poison.</content>
+	<content contentuid="hd6e7ad0dg54a8g4dedgab1agfd43d6927431" version="1">Résistance Chromatique : Acide</content>
+	<content contentuid="hc5851e9dge90fg4399ga0dcgddad42a36bb5" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats d'acide.</content>
+	<content contentuid="h5f1bc7fegb452g4a20g9725gbeffe614c69c" version="1">Résistance Chromatique : Froid</content>
+	<content contentuid="hecb695d3g22e3g4359gb31ega767b31fd24d" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de froid.</content>
+	<content contentuid="h6eafaa4ag5bd3g452cgb77egd3a1e36747b3" version="1">Résistance Chromatique : Feu</content>
+	<content contentuid="hcb1914fbgf4f2g4f00ga298g61b47580186a" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de feu.</content>
+	<content contentuid="h41679936g18bfg4118g93ffg4b46c847cc9c" version="1">Résistance Chromatique : Foudre</content>
+	<content contentuid="h72d33cb9g4423g4e19g90feg0a5ba0a1cf1f" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de foudre.</content>
+	<content contentuid="h9914fb18g743fg4fe2g8bc6gb65396e123f3" version="1">Résistance Chromatique : Poison</content>
+	<content contentuid="hd2edf024gd093g4cdfg9491g87c3fd6a6403" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de poison.</content>
+	<content contentuid="h4a974f0agb278g4345gb84ag872b2efbf8f7" version="1">Résistance de gemme</content>
+	<content contentuid="hd34a5a5agedb6g4f42gb8a1gb38f5aa40447" version="1">Choisir de devenir &lt;LSTag Tooltip="Resistance"&gt;Resistant&lt;/LSTag&gt; aux dégâts de force, necrotique, psychique, radiant ou de tonnerre.</content>
+	<content contentuid="hd402c43bgc429g47c8gbf76gd6ee2b00d5b4" version="1">Résistance de gemme : Force</content>
+	<content contentuid="h4656041fgd6beg413cg9d60g6cb57d481783" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de force.</content>
+	<content contentuid="h33145cd0gb513g48a1g963eg2a4010698d64" version="1">Résistance de gemme : Necrotique</content>
+	<content contentuid="he89e04acgeae6g4c0fgae3fg0cf46925ba0f" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats necrotique.</content>
+	<content contentuid="ha7dd8b81ge886g4fceg8d27g7be8fa7721a2" version="1">Résistance de gemme : Psychique</content>
+	<content contentuid="ha0b37b32g129eg4c1cgbd60g30695d3e925c" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats psychique.</content>
+	<content contentuid="ha433873eg0c02g46dfgbd15gdb3efbbcdfcd" version="1">Résistance de gemme : Radiant</content>
+	<content contentuid="h8ae2a5d3gf6beg45fdg9542g11e157d5e9fc" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats radiant.</content>
+	<content contentuid="h65adb25bg1c6ag4f30g978cgdbddd59990a6" version="1">Résistance de gemme : Tonnerre</content>
+	<content contentuid="hc6bcb3f8ga211g4b89g881dgc40ec0e5cb15" version="1">Devenir &lt;LSTag Tooltip="Resistance"&gt;Résistant&lt;/LSTag&gt; aux dégats de tonnerre.</content>
 	<content contentuid="h9939b043g2f5cg4bb3g9fc2g920ebbd3a379" version="1">Carquois magique</content>
 	<content contentuid="hcc528f00g79f0g4f54ga56bg3c7330c5dfdf" version="1">Transmutez votre carquois pour qu'il produise une réserve inépuisable de munitions non magiques. Vous pouvez utiliser une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt; pour effectuer deux attaques à l'arme à distance.</content>
 	<content contentuid="h5385e90ag42c4g4ed3g8e45g90308de76526" version="1">Peut effectuer deux attaques à l'arme à distance par le biais d'une &lt;LSTag Tooltip="BonusAction"&gt;Action bonus&lt;/LSTag&gt;.</content>
@@ -882,21 +910,57 @@
 	<content contentuid="h167dc145g985ag4706g8d69gc0ffea454275" version="1">Lors d'un échec &lt;LSTag Tooltip="SavingThrow"&gt; Jet de sauvegarde&lt;/LSTag&gt; d'Intelligence, l'ennemi reçoit 5d10 dégâts psychiques. Réduit sa vision et subit des dégâts 10d10 dégâts psychiques s'il bouge, est poussé ou attaque.</content>
 	<content contentuid="hc1f5f72bg133cg4978g84c8gd6ce81a78568" version="1">Prisonnier mental</content>
 	<content contentuid="hb64747beg4177g4030gacebgf6b16a5480bb" version="1">Reçoit des dégâts psychiques si il attaque, est poussé ou se déplace.</content>
-  <content contentuid="h837f921cg9835g4e6dg808dg6d1325d63e4c" version="1">Convocation d'artificiel</content>
-  <content contentuid="h0e322e16g9878g4872g9e6eg085ecadc5ecf" version="1">Invoquez un artificiel métallique pour combattre à vos côtés. Il peut &lt;LSTag Type="Spell" Tooltip="Target_Construct_Slam"&gt;Frapper&lt;/LSTag&gt; ses cibles et &lt;LSTag Type="Passive" Tooltip="HeatedBody"&gt;bruler&lt;/LSTag&gt; les créatures qui le frappent avec une attaque de mêlée.</content>
-  <content contentuid="hd59e8132g35edg4f22g8e8egee5dd3d7f54e" version="1">La &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt;, les dégâts infligés et les &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; de l'artificiel sont augmentés pour chaque &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; au dessus du niveau 4.</content>
-  <content contentuid="h6032e9b3gc49cg4c0fgb7e0g4878b370686e" version="1">Convocation d'artificiel : Metal</content>
-  <content contentuid="hd00cbad9g6753g4b07g9f45g8bc3f78f8d75" version="1">Convocation d'artificiel : Multiattack</content>
-  <content contentuid="hfc35e4e5g40a5g4a10gb289gdedd6a48880e" version="1">Peut effectuer un nombre d'attaques égal au niveau du sort utilisé pour invoquer l'artificiel, arrondi à l'inférieur.</content>
-  <content contentuid="hd76c0315g1c6eg4c1fg8ab2gbc1dabf1fe86" version="1">Frappez votre cible avec un poing métallique.</content>
-  <content contentuid="ha050ed24g7b7dg4bf7g98b7g37b661c426d3" version="1">Corps brûlant</content>
-  <content contentuid="h53a2c3d6g36a4g43d4gb627gd818cff1c5b8" version="1">Une créature qui frappe la construction avec une attaque de mêlée subit [1].</content>
-  <content contentuid="hff1df374g7c29g4d99gb33eg19d77741834e" version="1">Cercle magique</content>  
-  <content contentuid="h78e7ad23g69c3g44cfgb621ge69d16879046" version="1">Créez une zone d'énergie magique d'un rayon de [1]. Les créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre des cibles dans la zone, les cibles dans la zone ne peuvent pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmées&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayées&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédées&lt;/LSTag&gt; par les créatures, et les créatures ne peuvent pas entrer dans la zone par des moyens non magiques.</content>
-  <content contentuid="hb1d1c52dg3df2g402cgb246g15a60ff75026" version="1">Si les créatures tentent de se téléporter ou de voler dans la zone, elles doivent réussir un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; ou elles sont poussées [1] hors du cercle.</content>
-  <content contentuid="ha1efb250gbaf3g469fg89d6g6af7ef74094f" version="1">Cette entité impose un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; provenant de créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes et ne peut pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmée&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayée&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédée&lt;/LSTag&gt; par eux.</content>
-  <content contentuid="ha662d0c7g8040g4676gac02g8d92c1a11ca1" version="1">Réincarnation</content>
-  <content contentuid="hccc603edgeda8g4e2fg885ag7e32c0b56b65" version="1">Vous touchez un humanoïde mort ou une partie de cet humanoïde mort. Le sort crée un nouveau corps adulte pour cet humanoïde, changeant probablement la race de la créature et appelle son âme pour qu'elle entre dans ce corps.
-  </content>  
-  <content contentuid="h78e7ad23g69c3g44cfgb621ge69d16879046" version="1">réez une zone d'énergie magique d'un rayon de [1]. Les créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre des cibles dans la zone, les cibles dans la zone ne peuvent pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmées&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayées&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédées&lt;/LSTag&gt; par les créatures, et les créatures ne peuvent pas entrer dans la zone par des moyens non magiques.</content>
+	<content contentuid="h837f921cg9835g4e6dg808dg6d1325d63e4c" version="1">Convocation d'artificiel</content>
+	<content contentuid="h0e322e16g9878g4872g9e6eg085ecadc5ecf" version="1">Invoquez un artificiel métallique pour combattre à vos côtés. Il peut &lt;LSTag Type="Spell" Tooltip="Target_Construct_Slam"&gt;Frapper&lt;/LSTag&gt; ses cibles et &lt;LSTag Type="Passive" Tooltip="HeatedBody"&gt;bruler&lt;/LSTag&gt; les créatures qui le frappent avec une attaque de mêlée.</content>
+	<content contentuid="hd59e8132g35edg4f22g8e8egee5dd3d7f54e" version="1">La &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt;, les dégâts infligés et les &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; de l'artificiel sont augmentés pour chaque &lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt; au dessus du niveau 4.</content>
+	<content contentuid="h6032e9b3gc49cg4c0fgb7e0g4878b370686e" version="1">Convocation d'artificiel : Metal</content>
+	<content contentuid="hd00cbad9g6753g4b07g9f45g8bc3f78f8d75" version="1">Convocation d'artificiel : Multiattack</content>
+	<content contentuid="hfc35e4e5g40a5g4a10gb289gdedd6a48880e" version="1">Peut effectuer un nombre d'attaques égal au niveau du sort utilisé pour invoquer l'artificiel, arrondi à l'inférieur.</content>
+	<content contentuid="hd76c0315g1c6eg4c1fg8ab2gbc1dabf1fe86" version="1">Frappez votre cible avec un poing métallique.</content>
+	<content contentuid="ha050ed24g7b7dg4bf7g98b7g37b661c426d3" version="1">Corps brûlant</content>
+	<content contentuid="h53a2c3d6g36a4g43d4gb627gd818cff1c5b8" version="1">Une créature qui frappe la construction avec une attaque de mêlée subit [1].</content>
+	<content contentuid="hff1df374g7c29g4d99gb33eg19d77741834e" version="1">Cercle magique</content>  
+	<content contentuid="h78e7ad23g69c3g44cfgb621ge69d16879046" version="1">Créez une zone d'énergie magique d'un rayon de [1]. Les créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre des cibles dans la zone, les cibles dans la zone ne peuvent pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmées&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayées&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédées&lt;/LSTag&gt; par les créatures, et les créatures ne peuvent pas entrer dans la zone par des moyens non magiques.</content>
+	<content contentuid="hb1d1c52dg3df2g402cgb246g15a60ff75026" version="1">Si les créatures tentent de se téléporter ou de voler dans la zone, elles doivent réussir un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; ou elles sont poussées [1] hors du cercle.</content>
+	<content contentuid="ha1efb250gbaf3g469fg89d6g6af7ef74094f" version="1">Cette entité impose un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; provenant de créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes et ne peut pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmée&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayée&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédée&lt;/LSTag&gt; par eux.</content>
+	<content contentuid="ha662d0c7g8040g4676gac02g8d92c1a11ca1" version="1">Réincarnation</content>
+	<content contentuid="hccc603edgeda8g4e2fg885ag7e32c0b56b65" version="1">Vous touchez un humanoïde mort ou une partie de cet humanoïde mort. Le sort crée un nouveau corps adulte pour cet humanoïde, changeant probablement la race de la créature et appelle son âme pour qu'elle entre dans ce corps.
+	</content>  
+	<content contentuid="h78e7ad23g69c3g44cfgb621ge69d16879046" version="1">réez une zone d'énergie magique d'un rayon de [1]. Les créatures célestes, élémentaires, démoniaques, féeriques et mortes-vivantes ont &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre des cibles dans la zone, les cibles dans la zone ne peuvent pas être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmées&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayées&lt;/LSTag&gt;, ou &lt;LSTag Type="Status" Tooltip="LOW_GHOST_POSSESSED"&gt;Possédées&lt;/LSTag&gt; par les créatures, et les créatures ne peuvent pas entrer dans la zone par des moyens non magiques.</content>
+	<content contentuid="hd854d889g1532g4435g9780g26b9ff9e7043" version="1">Stabilisé</content>
+	<content contentuid="h189f5202g1fb4g4bfbgb0e9g3dabadd993a1" version="1">Un personnage stabilisé n'a plus besoin de lancer de jets de sauvegarde contre la mort et récupérera [1] après avoir quitté le combat.</content>
+	<content contentuid="h698c10b5gd703g46f2g8855g6f18a608b053" version="1">Mort prolongée</content>
+	<content contentuid="h2bca7e1cg92f9g468ag8be3g2f64e74b22a9" version="1">La créature est morte depuis 10 tours et ne peut pas être ressuscitée avec le sort &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Retour à la vie&lt;/LSTag&gt;.</content>
+	<content contentuid="h6ed64fdfgcd0eg4ebcg9d73gb0cbd64482ac" version="1">Impossible de cibler une créature morte depuis 10 tours.</content>
+	<content contentuid="h594030a5g2014g4d84g9e80g4d82279b3836" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Ce sort ne peut pas être utilisé sur une créature morte depuis 10 tours.</content>
+	<content contentuid="h85ad83c8g95d9g4d81g9e87ga0abf9470283" version="1">Convocation de fée</content>
+	<content contentuid="h5afcc8ceg31e1g4055ga4ddg88c01afd825b" version="1">Invoquez un esprit féerique avec une humeur choisie :&lt;LSTag Type="Status" Tooltip="SUMMON_FEY_FUMING"&gt;Furieux&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SUMMON_FEY_MIRTHFUL"&gt;Joyeux&lt;/LSTag&gt; ou &lt;LSTag Type="Status" Tooltip="SUMMON_FEY_TRICKSY"&gt;Rusé&lt;/LSTag&gt;. L'esprit dispose de différents sorts selon l'humeur choisie.</content>
+	<content contentuid="h28a33619g56edg4195ga0dcgabcafbd8c994" version="1">Convocation de fée : Furieux</content>
+	<content contentuid="h3320d72bga486g4a62gb252ga962855065f4" version="1">Invoquez un esprit féerique frénétique qui canalise sa rage dans les combats au corps à corps.</content>
+	<content contentuid="had2d5f62gab62g489ag88b3gdfea55b5914e" version="1">Cette fée invoquée est furieuse. Après avoir utilisé sa capacité &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Fuming"&gt;Foulée féerique&lt;/LSTag&gt;, elle a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h20af6555gcc8eg4457g9b63g747860cc9a38" version="1">Convocation de fée : Joyeux</content>
+	<content contentuid="he1e88141g6f66g410aga413g414d3ddcffb6" version="1">Invoquez un délicieux esprit féerique capable de charmer les ennemis.</content>
+	<content contentuid="h4401397cgf99ag43abg99e1gaef08fe07d47" version="1">Cette fée invoquée est franchement captivante. Après avoir utilisé sa capacité &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Mirthful"&gt;Foulée féerique&lt;/LSTag&gt;, elle peut charmer un ennemi proche.</content>
+	<content contentuid="hd030aa65ga8bag40e2g9c9cg0cab81a4b0c1" version="1">Convocation de fée : Rusé</content>
+	<content contentuid="h2a9b3741g9bf5g43eeg8ae0gff13f54cfc80" version="1">Invoquez un esprit féerique espiègle capable de provoquer des zones d'obscurité.</content>
+	<content contentuid="h7f7294e0gc231g4cd9g907fgf16af5ecdcfe" version="1">Cette fée invoquée prépare quelque chose. Lors de l'utilisation de sa capacité &lt;LSTag Type="Spell" Tooltip="Target_FeyStep_Tricksy"&gt;Foulée féerique&lt;/LSTag&gt;, elle peut créer une zone d'obscurité qui dure jusqu'à la fin de son prochain tour.</content>
+	<content contentuid="h252182d4g9179g4f9bg8cffgcd28d1c9b5f8" version="1">Foulée féerique : Furieux</content>
+	<content contentuid="h2f03b9ccgd298g4e50g94b4g1091b6381053" version="1">Téléportez-vous vers un espace inoccupé que vous pouvez voir. Ensuite, vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur votre prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hbc7e8538gddb3g434dgaebdg50a6a0ecc66f" version="1">Avantage furieux</content>
+	<content contentuid="h154d70c4gaf56g4ea4g8392gf49be6a76c63" version="1">A un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hff652c71ga6f2g4976g9fe8g7587e2949a5d" version="1">Foulée féerique : Joyeux</content>
+	<content contentuid="hcdb14210g2f74g4838g928fg13d9629aeb2f" version="1">Téléportez-vous vers un espace inoccupé que vous pouvez voir. Ensuite, vous pouvez &lt;LSTag Type="Spell" Tooltip="Target_MirthfulCharm"&gt;charmer&lt;/LSTag&gt; un ennemi.</content>
+	<content contentuid="hc06d3c9eg41d4g4313ga102gf06d85ad0fde" version="1">Foulée féerique : Rusé</content>
+	<content contentuid="h613579e1g3885g4fbag804fg1a2262a172d9" version="1">Téléportez-vous vers un espace inoccupé que vous pouvez voir. Ensuite, vous pouvez créer un &lt;LSTag Type="Spell" Tooltip="Target_Darkness_Tricksy"&gt;petite zone d’obscurité&lt;/LSTag&gt; qui dure jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="h53ab9ebbge744g415fgb2f7g1e5214c50a86" version="1">Taillade féerique</content>
+	<content contentuid="h7d81460ag214dg4f54g94b4g8b3eafeed9b4" version="1">Ciblez une attaque sur une cible.</content>
+	<content contentuid="hf1ed27eagd72ag4132gae53gd7457ab84a41" version="1">Inflige des dégâts supplémentaires égaux au niveau de l'emplacement de sort utilisé pour lancer le sort d'invocation.</content>
+	<content contentuid="hc4310343ga33eg4b10ga209ge70b3123cd58" version="1">Convocation de fée Bonuses</content>
+	<content contentuid="h30b727aegc64eg4534g9c2fg48e89b9ec059" version="1">Ténèbres rusée</content>
+	<content contentuid="ha32ee917g898cg4457g943eg8ec73d841478" version="1">Créé une petite zone d'obscurité.</content>
+	<content contentuid="hc0ac4df8g2244g41ddgb4c2gcb4f2954207f" version="1">Peut créer une petite zone d’obscurité.</content>
+	<content contentuid="h740ad486g2a29g489aga4f8gf300b24d43d0" version="1">Charme joyeux</content>
+	<content contentuid="ha5efa8c5gbcd1g4594g97e5g153549c0dd34" version="1">Peut charmer un ennemi proche.</content>
+	<content contentuid="he41dc336g9c34g45f2ga32ag02d235864c91" version="1">Charmé par un esprit féerique.</content>
+	<content contentuid="h82b0e79eg2c29g49e9ga16eg9e19a2d54997" version="1">Charme un ennemi proche, l'empêchant de vous attaquer.</content>
 </contentList>

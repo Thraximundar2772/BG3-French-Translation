@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList date="10/11/2023 5:00">
-  <content contentuid="hec3b48b9g10b2g4516gbb26g0ca0fef0f7bf" version="1">Les principes du Serment de Gloire</content>
+  <content contentuid="hec3b48b9g10b2g4516gbb26g0ca0fef0f7bf" version="1">Les principes du Serment de gloire</content>
   <content contentuid="h1aea1f0fg0f77g47a6gaae2ga995d35dd2c7" version="1">Les valeurs portées par le Serment de Gloire incitent le paladin à tenter des actes héroïques qui pourrait un jour figurer dans la légende :
 
 - Les Actes avant les Mots. Aspirez à être connu pour vos actes glorieux, pas pour vos mots.
@@ -21,6 +21,6 @@
   <content contentuid="h8d9eee1bg014eg4903gbdb3gac448d7fdd24" version="1">Légende vivante</content>
   <content contentuid="h18eb7be9g93e3g4657g9fdcgee685c7bde76" version="1">Vous vous appuyez sur les légendes de vos grands exploits. 
 Pendant 10 tours, vous bénéficiez d'un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur tous les &lt;LSTag Tooltip="AbilityCheck"&gt;tests&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; et si vous échouez à un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt;, vous pouvez utiliser votre &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Réaction&lt;/LSTag&gt; pour en effectuer un à nouveau. Une fois à chacun de vos tours, lorsque vous ratez une attaque d'arme, vous pouvez faire en sorte que cette attaque touche à la place.</content>
-  <content contentuid="h98a5c6bdgb475g426bg94ffgbf530d51c0a8" version="1">Serment de Gloire</content>
-  <content contentuid="h5e8ea2e8g7f0cg4c2fga9dfg22e0a9384829" version="1">Les Paladins qui prêtent le Serment de Gloire croient que leurs compagnons et eux sont destinés à atteindre la gloire via des actes héroïques. Ils s'entraînent scrupuleusement et encouragent leurs compagnons pour qu'ils soient prêts quand le destin les appellera.</content>
+  <content contentuid="h98a5c6bdgb475g426bg94ffgbf530d51c0a8" version="1">Serment de gloire</content>
+  <content contentuid="h5e8ea2e8g7f0cg4c2fga9dfg22e0a9384829" version="1">Les Paladins qui prêtent le Serment de la gloire croient que leurs compagnons et eux sont destinés à atteindre la gloire via des actes héroïques. Ils s'entraînent scrupuleusement et encouragent leurs compagnons pour qu'ils soient prêts quand le destin les appellera.</content>
 </contentList>

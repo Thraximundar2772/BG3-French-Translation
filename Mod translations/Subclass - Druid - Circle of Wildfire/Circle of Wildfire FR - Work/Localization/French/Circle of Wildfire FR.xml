@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  <content contentuid="h12acb87egffc3g4d46g82e3g8739ba218d44" version="1">Cercle des Fournaises</content>
-  <content contentuid="habd770e7gf2d4g4dbcga0fcgf99cee1b9817" version="1">Les druides du Cercle des Fournaises se lient à un esprit primitif qui abrite à la fois un pouvoir destructeur et créatif, ce qui leur permet de créer des flammes contrôlées qui brûlent une chose mais donnent vie à une autre.</content>
+  <content contentuid="h12acb87egffc3g4d46g82e3g8739ba218d44" version="1">Cercle des fournaises</content>
+  <content contentuid="habd770e7gf2d4g4dbcga0fcgf99cee1b9817" version="1">Les druides du cercle des fournaises se lient à un esprit primitif qui abrite à la fois un pouvoir destructeur et créatif, ce qui leur permet de créer des flammes contrôlées qui brûlent une chose mais donnent vie à une autre.</content>
   <content contentuid="h237071a4g5c80g423eg8fedga4a7b173fdbf" version="1">Invoquer un Esprit des Fournaises</content>
   <content contentuid="h791cea26g6cd3g49d2gbb8bg37f3b91d2bc4" version="1">Esprit des Fournaises</content>
   <content contentuid="h696d6ecfgff54g4ab7g936cg76050505ea20" version="1">Vous dépensez une de vos charges de &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Forme Sauvage&lt;/LSTag&gt; pour invoquer un Esprit des Fournaises, plutôt qu'adopter une forme bestiale.&lt;br&gt;&lt;br&gt;Vous pouvez faire apparaître l'esprit à un endroit innocupé de votre champ de vision et dans un rayon de [1], chaque créature se trouvant à moins de [2] de l'endroit où apparaîtra votre esprit subit [3].</content>
@@ -16,9 +16,9 @@
   <content contentuid="h20a2b280g7ba8g4828gb4fag43bfa7d7f8a8" version="1">Flammes de Vie</content>
   <content contentuid="hffbad676g31c4g41d4gbae6g825f2d70b90a" version="1">Lorsqu'une créature s'approche de ce cadavre, le druide peut éteindre la flamme spectrale persistante pour soigner un allié ou infliger des dégâts de feu à un ennemi.</content>
   <content contentuid="h1cba83a3gcba3g4adaga5bcgcc4356c23f48" version="1">Flammes de Vie: Soin</content>
-  <content contentuid="h7589135fg900ag4686gbdecg932d996a863c" version="1">Un druide du Cercle des Fournaises a soigné cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h7589135fg900ag4686gbdecg932d996a863c" version="1">Un druide du cercle des fournaises a soigné cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
   <content contentuid="h08c1bd98ga67dg4ed3g9a49g74589feacd29" version="1">Flammes de Vie: Dégâts</content>
-  <content contentuid="h5ca8e33fgd05eg410cg8973g539e1639b87c" version="1">Un druide du Cercle des Fournaises a infligé des dégâts à cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h5ca8e33fgd05eg410cg8973g539e1639b87c" version="1">Un druide du cercle des fournaises a infligé des dégâts à cette créature en utilisant &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt;.</content>
   <content contentuid="h43383f73g162eg4669g8a97ge07f9872c87a" version="1">Charge de Flammes de Vie</content>
   <content contentuid="h6fa0a476gb414g40f2g9b10gc2ca51756dbe" version="1">Vous pouvez utiliser &lt;LSTag Type="Spell" Tooltip="Target_CauterizingFlames"&gt;Flammes de Vie&lt;/LSTag&gt; un nombre de fois équivalent à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt;.</content>
   <content contentuid="hb57f94a6g849cg4dcdg825egd6ac258d879d" version="1">Aura de Vie</content>
