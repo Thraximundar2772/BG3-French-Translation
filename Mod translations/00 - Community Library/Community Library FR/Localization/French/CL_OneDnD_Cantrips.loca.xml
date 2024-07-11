@@ -7,6 +7,7 @@
 	<content contentuid="h522c4802g4f3cg4784gab45g18ef220b44a5" version="1">Bouffée de poison (OneDnD)</content>
 	<content contentuid="h631d1f58gbfa0g439bgaf5fg5e7a6a1938d2" version="1">Flammes (OneDnD)</content>
 	<content contentuid="h7de10c3fgc90eg424bg9bccg58039def2cde" version="1">Poigne électrique (OneDnD)</content>
+	<content contentuid="h881fba90g49fcg4160g9467gfb4985b6b971" version="1">Stabilisation (OneDnD)</content>
 	<content contentuid="h9797f7f0ge67eg4703g8c59g9659ae622578" version="1">Coup au but (OneDnd)</content>
 	<content contentuid="ha50eb169g772cg41f7g8d62gebb411468b7f" version="1">Coup au but (Melee)</content>
 	<content contentuid="h5189e4d4g8e03g491egadb8g521f70b372fb" version="1">Coup au but (Ranged)</content>
@@ -30,12 +31,12 @@
 	<content contentuid="hb4dd4551g82b7g4032g9211gfee4aa1873b9" version="1">Remplacez les attaques régulières par Coup au but.</content>
 	<content contentuid="hbd7e412cg042cg4397gb776gff8aa8d71332" version="1">Flammes : Créer</content>
 	<content contentuid="h90748a97g8d9dg458fg893cg21a240533233" version="1">Invoquez une flamme et lancez-la sur votre cible</content>
-	<content contentuid="h180771f8g9ed1g470fga980gbdd81220edd0" version="1">Ne consomme pas d'action bonus si vous avez déjà invoqué une flamme.</content>
+	<content contentuid="h180771f8g9ed1g470fga980gbdd81220edd0" version="1">Ne coûte pas d'action bonus si vous avez déjà invoqué une flamme.</content>
 	<content contentuid="hdb24c48egc590g4ef0g8a69gd8e3a8663cab" version="1">Ne peut pas faire d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaque d'opportunité&gt;LSTag&gt;.</content>
 	<content contentuid="h4d2c5677gd01ag4545gaf1eg3c133325f7fc" version="1">La cible ne peut pas faire d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt; jusqu'à son prochain tour. Ce sort a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur des créatures dotées d'une armure métallique.</content>
 	<content contentuid="h97cb536bg022dg4cbeg92dag2f6bb3944165" version="1">Portée augmentée : [1]</content>
-	<content contentuid="hc4834941g2569g4cdfgb5b0g19466e92c8f3" version="1">Vous tracez un sceau de protection, imposant un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; de la créature contre vous.</content>
-	<content contentuid="hcccf37fegf726g4c32g9e7egff533122cf9b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Le charme se brise si la cible subit des dégâts ou si le lanceur fait un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; ou provoque un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;.</content>
+	<content contentuid="hc4834941g2569g4cdfgb5b0g19466e92c8f3" version="1">Vous tracez un sceau de protection, imposant un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque de mêlée&lt;/LSTag&gt; de la créature contre vous.</content>
+	<content contentuid="hcccf37fegf726g4c32g9e7egff533122cf9b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Le charme se brise si la cible subit des dégâts ou si le lanceur fait un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; ou provoque un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt;.</content>. La cible ne peut être à nouveau charmée qu'après un &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.
     <content contentuid="h092b0016g5508g4b30g93b6ge65b746e3c99" version="1">Ami bloqué</content>
 	<content contentuid="h394d51fdgebdcg4c8aga126g89ce53dbf545" version="1">Ne peut pas être affecté par &lt;LSTag Type="Spell" Tooltip="CL_Target_OneDnD_Friends"&gt;Amis&lt;/LSTag&gt; jusqu'au prochain &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;.</content>
 	<content contentuid="h6f2a8982g1c44g4839g9f6fg47f00662d06b" version="1">Relancez pour chasser les flammes.</content>
