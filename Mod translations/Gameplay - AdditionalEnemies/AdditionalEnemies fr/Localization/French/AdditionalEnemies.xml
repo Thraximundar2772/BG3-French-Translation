@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="65f35201-9614-4dff-b93a-06f640e09883" version="1">Chargé une fois</content>
+	<content contentuid="e984252f-a7ee-4c7e-9fb5-ede7646daf82" version="1">Vérifier si le personnage est chargé une fois</content>
+	<content contentuid="e52cd967-1514-4650-89c7-524240f8046e" version="1">Malédiction de l'ombre</content>
+	<content contentuid="d402a6a5-f335-43ee-90b8-c8204e0e4872" version="1">La cible est affaiblie par la malédiction de l'ombre. Elle reçoit une pénalité aux jets de sauvegarde, désavantage aux jets d'attaques et sa classe d'armure est réduite.</content>
+	<content contentuid="a6a9b333-0219-41a3-b8cf-2273d2122fbd" version="1">La cible a succombé à la malédiction de l'ombre.</content>
+	<content contentuid="974b0167-c741-4e32-83b7-4f3047f7a2ff" version="1">Points de vie temporaires</content>
+	<content contentuid="64119bbf-32ab-40ee-a96a-4fa968507eac" version="1">Renaissance fongique mineure</content>
+	<content contentuid="19838f31-2cac-478c-912a-c81367d52398" version="1">Réanime la cible à 1/3 de santé, conservant toutes les compétences en se transformant en créature de spore (PLANTE).</content>
+	<content contentuid="f6aec416-5951-47e3-a528-be66b61fc31a" version="1">Faible volonté</content>
+	<content contentuid="de26bc2d-677f-4197-8499-92eb2817b7a3" version="1">Soumis aux aigles. Pénalité aux jets de sauvegarde et désavantage aux tests de concentration.</content>
+	<content contentuid="ebed42ac-571d-453e-892e-42b4b01b32ee" version="1">Immunité à la lave</content>
+	<content contentuid="98f86fa0-cb95-4bbb-b7dd-c5d88b2249a1" version="1">Immunisé aux dégâts de lave et aux difficultés de terrain</content>
+	<content contentuid="1b90f847-9a15-4206-a81e-748aa8f5c96b" version="1">Vitalité animale</content>
+	<content contentuid="df2b95ae-286e-42cc-9506-59a45f5cb37e" version="1">Récupère 2d8 points de vie au début de chaque tour</content>
+	<content contentuid="fcb9bc59-0502-481f-b1d6-fb04b1960cba" version="1">Arlequin</content>
+	<content contentuid="e0a68843-be07-43bc-9700-ca49dfac2f30" version="1">Le feu envahit l'entrée du cirque, piégeant le public à l'intérieur. Le jongleur de feu se tourne vers la loge du maire, où sa cible est assise avec une peur soudaine.</content>
+	<content contentuid="2c45aee9-d9e8-4156-9c62-f0443dab3bad" version="1">Porteur de torche</content>
+	<content contentuid="b1b087cc-affa-4443-94bc-a85aa7637dc1" version="1">Les porteurs de torches incarnent les attributs surnaturels des arlequins, capitalisant sur la peur de l'inconnu de leurs cibles en employant des tactiques inhabituelles.</content>
+	<content contentuid="dbc2c87c-a251-4b87-9218-5c512042a751" version="1">Flux mortel</content>
+	<content contentuid="1c0b0c6d-3c06-4c80-8471-24d0ad208f78" version="1">Ajoute 1d4 de dégâts et à chaque attaque réussie avec une arme contre une cible, vous pouvez ajouter cumulativement 1 aux jets de dégâts. Supprime le bonus en cas de raté, de changement de cible ou si vous faites une action autre qu'une attaque avec une arme.</content>
+	<content contentuid="66fd4520-be55-4cbe-adc0-cfd6bc07e6ac" version="1">Flux mortel - Ajouter une charge</content>
+	<content contentuid="9379cb73-6ef4-473a-ab3e-6e474b116e76" version="1">Ajoute des dégâts à vos attaques au tour suivant</content>
+	<content contentuid="ad8ff71f-44a3-486d-b193-3aae3c0ed9e5" version="1">Flux mortel - Supprimer une charge</content>
+	<content contentuid="fb5c5e1d-0ece-44c9-8260-b028dd0ce881" version="1">Supprime le bonus en cas de raté ou si vous faites une action autre qu'une attaque avec une arme</content>
+	<content contentuid="c121f6d6-364f-41fd-8ea5-dbd9ea8377c7" version="1">Frappes menaçantes</content>
+	<content contentuid="14bb7276-0ca3-4b73-8fb5-e0ebd5af6c78" version="1">Lorsque vous améliorez vos dégâts sur une créature avec votre caractéristique de Flux mortel, vous pouvez la forcer à effectuer un jet de sauvegarde de Charisme. En cas d'échec, la créature est Effrayée par vous pendant 1 minute, mais peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour mettre fin à l'effet plus tôt.</content>
+	<content contentuid="d8dd485d-34b4-45f5-b24f-4bba7c89c279" version="1">Spectacle de lumière</content>
+	<content contentuid="11db0268-7b02-4f12-9c78-394ec31a514d" version="1">La torche compte comme une arme de finesse et inflige 1d6 de dégâts de feu supplémentaires</content>
+	<content contentuid="8975b02a-2829-4785-a307-a471bcd49c76" version="1">Souffle du Dragon Dansant</content>
+	<content contentuid="81133ac1-a09d-4174-8817-eb09cad0817f" version="1">Exhalez un mélange alcoolisé puissant pour cracher du feu en un cône partant de vous.</content>
+	<content contentuid="ba437464-1e35-4b12-a670-55c1d4f1d020" version="1">Cible de Renaissance Fongique</content>
+	<content contentuid="090de7a8-8032-4734-a7b5-64db0c7591a0" version="1">Cible pour la renaissance fongique.</content>
+	<content contentuid="9b1b9e8d-4f31-413f-b76e-f9009b109eeb" version="1">Cadavre de Renaissance Fongique Mineure</content>
+	<content contentuid="d0c6bca2-462f-4aa8-806c-9f3cae27b541" version="1">Ressuscité par la renaissance fongique mineure</content>
+	<content contentuid="65748e31-4bf4-4022-afc4-2ba35eca95b6" version="1">Lanceur Rapide</content>
+	<content contentuid="2b46f9b4-196c-4c82-8345-bf958355f268" version="1">Utilise des sorts rapides</content>
+	<content contentuid="18005f7a-703f-47cd-8f27-5064e5c4da04" version="1">Dominé</content>
+	<content contentuid="bc39bf08-e0a3-405d-a6dc-ed3f7ef8358f" version="1">La cible est dominée</content>
+	<content contentuid="a3916cb7-8845-4d93-824e-07dfaf39f021" version="1">Immunité aux Pics</content>
+	<content contentuid="c0189154-502b-460b-9690-f7b8c59eb9f8" version="1">La cible est immunisée à la Croissance de Pics</content>
+	<content contentuid="8d8a8da3-c435-41cf-bce1-72bc2d977b40" version="1">Le feu follet semblait n'être rien de plus qu'une boule de lumière floue, colorée en blanc, bleu, violet, vert ou jaune, brillant aussi fort qu'une torche enflammée</content>
+	<content contentuid="c65a3d90-b85a-48de-8387-2a991ebe79cb" version="1">Pluie</content>
+	<content contentuid="f64eb4ac-bb8f-489e-aff0-185e2bd1bebe" version="1">Crée une surface d'eau qui se répand et éteint les feux. Applique le statut Mouillé aux personnages dans la zone.</content>
+	<content contentuid="645b6469-a22a-4c36-8745-549014401b39" version="1">Ki Inébranlable</content>
+	<content contentuid="a4b7697f-3140-4d5e-85a3-3a8096d62b93" version="1">La cible est protégée contre la malédiction de l'ombre et bénéficie d'une immunité contre le rire</content>
+	<content contentuid="68c513f1-1975-4da6-8bdc-0e28cd6ed6af" version="1">Fureur des Coups est débloquée par La cible</content>
+	<content contentuid="280548d1-5d7f-4983-8aef-67f41b5308df" version="1">Rajeunir</content>
+	<content contentuid="1d94443e-d1be-4298-acf8-9a343b104b12" version="1">Cela garantira que toutes les ressources seront restaurées lorsque La cible quitte le combat.</content>
+	<content contentuid="1fd55891-9043-43fe-b2df-fb032e034f31" version="1">Premier Tour Terminé</content>
+	<content contentuid="272c3a3c-e6d7-4d33-8cdf-0f20a8af34aa" version="1">Étiquette pour vérifier s'il s'agit du premier tour d'un objet</content>
+	<content contentuid="9389ddf9-77f3-48e1-a5a9-347a3164190b" version="1">Décomposition</content>
+	<content contentuid="79d305d4-538a-49ca-b1d2-20baccedee83" version="1">La cible est maudite et devient Vulnérable aux Dégâts Nécrotiques.</content>
+	<content contentuid="167c7454-a947-470d-90bb-71ffe6d1dce8" version="1">Asthénie</content>
+	<content contentuid="5ccfdae1-49eb-491a-ab26-36856c5fbc96" version="1">La cible est malade et subit un Désavantage aux Jets de Sauvegarde de Constitution.</content>
+	<content contentuid="7f2c30b3-8c8a-4d32-807f-70684194d8b0" version="1">Coup Décomposant</content>
+	<content contentuid="a739789c-60e0-4d87-9f0b-a2f60a374b62" version="1">Morsure Décomposante</content>
+	<content contentuid="59606758-548b-4ffd-b5b2-d5cfe0245fe5" version="1">Enfoncez vos crocs dans une cible et infligez l'Asthénie</content>
+	<content contentuid="8a48eecc-b829-4ced-9220-e66f18ad871b" version="1">Terrain Difficile : Glace</content>
+	<content contentuid="bd1588fc-5147-4ecb-b5b9-b817f21415ca" version="1">Invoquer Zombie</content>
+	<content contentuid="a1768ded-ac31-4ed1-bc6f-5565bc68875d" version="1">Invoquez un zombie pour servir le Seigneur des Crânes</content>
+	<content contentuid="97b08b16-f7d9-4a12-b09f-af8032e86720" version="1">Soigner les Morts-Vivants</content>
+	<content contentuid="eb9e8684-e542-4d32-a62b-d9c7acd3f842" version="1">Soigne la cible morte-vivante</content>
+	<content contentuid="4374267f-e780-47ad-8f20-239ad2002d38" version="1">Ne peut soigner que les unités mortes-vivantes</content>
+	<content contentuid="c37697d2-80dc-41dc-8787-9d4c278dc571" version="1">Bénédiction des Morts</content>
+	<content contentuid="83d89972-a8b9-4611-81e6-bf4a97e0cf7d" version="1">Accorde l'Avantage aux Jets d'Attaque, un bonus aux Jets de Sauvegarde et ajoute 1 CA.</content>
+	<content contentuid="61bd58e7-a47c-4296-9857-40518918418a" version="1">Vérification d'Invocation de Bulette</content>
+	<content contentuid="21b0bac4-a519-46de-b794-11d8bde17f02" version="1">Vérifie si la bulette doit être invoquée</content>
+	<content contentuid="ec255d5c-b018-4d57-85c8-a7dad97ba79e" version="1">Bulette : Fuite</content>
+	<content contentuid="aa6560c4-b8a6-44c7-9c72-3347ecc27a35" version="1">La bulette quittera l'arène au prochain tour</content>
+	<content contentuid="4e640d54-8238-4745-801b-74b4170f37a1" version="1">Vérification de Saut de la Bulette</content>
+	<content contentuid="f8507aa5-8129-4062-8efb-d4c3e079a825" version="1">Vérifie si la bulette doit sauter</content>
+	<content contentuid="1070ebc8-0df1-49db-992d-0e7578b07c03" version="1">Armes Infusées de Lumière</content>
+	<content contentuid="0615a8c4-e8a7-4182-8513-6d02becd74f6" version="1">Protège le porteur contre les effets mineurs de la Malédiction de l'Ombre</content>
+	<content contentuid="4d220763-9471-41b7-b042-f346fefe71ae" version="1">Aura d'Annihilation</content>
+	<content contentuid="f3d300b7-041b-45a2-93d4-06ad54b14b1a" version="1">Toute créature qui commence son tour à moins de 30m du Marcheur Nocturne doit réussir un Jet de Sauvegarde de Constitution de 16 ou subir 4d6 dégâts nécrotiques et accorder l'Avantage aux Jets d'Attaque de ses ennemis jusqu'au début du prochain tour de la créature. Les morts-vivants sont immunisés contre cette aura.</content>
+	<content contentuid="9f1044f1-1815-4c11-90e1-4787923a9757" version="1">Accorde aux ennemis l'Avantage aux Jets d'Attaque.</content>
+	<content contentuid="9e05c486-8ef1-41d7-8678-8d603a2df1a5" version="1">Focalisation Affaiblissante</content>
+	<content contentuid="ede6a588-4b7c-42c4-b2f9-58b13fab5657" version="1">La cible doit réussir un Jet de Sauvegarde de Constitution de 16 ou son maximum de points de vie est réduit de 2d8. Cette réduction dure jusqu'à ce que la cible termine un long repos.</content>
+	<content contentuid="fe86a984-f859-4185-ab83-761d7e7d4029" version="1">Doigt de la Destinée</content>
+	<content contentuid="ef0cc1d9-6771-4210-8f50-69f104b09533" version="1">La cible doit réussir un Jet de Sauvegarde de Sagesse de 16 ou subir 4d12 dégâts nécrotiques et être Effrayée pendant 2 tours. Pendant ce temps, la créature est également Paralysée. Si le Jet de Sauvegarde de la cible est réussi, la cible est immunisée contre le Doigt de la Destinée du marcheur nocturne jusqu'à un long repos.</content>
+	<content contentuid="c567c564-bcf7-4bef-a29e-40f35be89b91" version="1">Immunité au Doigt de la Destinée</content>
+	<content contentuid="2600cb80-51b5-4c44-b26c-e22fdb084f18" version="1">La cible est immunisée contre le Doigt de la Destinée jusqu'à un long repos.</content>
+	<content contentuid="52711fc1-b0d4-4032-9cb0-e4f8d0888ae6" version="1">Invoquer un Goule</content>
+	<content contentuid="64eb99f3-ac0f-4a32-ad63-b0654477a3ea" version="1">Invoquez un zombie pour servir le Marcheur Nocturne</content>
+	<content contentuid="9b6d27c5-e2b1-4d62-9a29-914443e5a2c3" version="1">Cette unité a déjà reçu des dégâts de l'Aura d'Annihilation.</content>
+	<content contentuid="b7214cb1-0a28-4765-9ad0-5691e755c207" version="1">Tentacule des Profondeurs</content>
+	<content contentuid="3699aace-24d1-41a6-ade2-fb9b6973e7b6" version="1">Invoquer Tentacule des Profondeurs</content>
+	<content contentuid="d1991522-b6dc-4364-a301-e99f7353e40b" version="1">En tant qu'action bonus, vous créez un tentacule de 10m de long à un point que vous pouvez voir dans un rayon de 60m. Le tentacule dure 1 minute.</content>
+	<content contentuid="2c433a0f-422c-4469-a164-ad57f7c000d9" version="1">Fouet Tentaculaire</content>
+	<content contentuid="55124865-1324-47ab-a532-65caf98a4e69" version="1">Lors d'un coup réussi, la cible subit 2d8 dégâts de froid et sa vitesse est réduite de 10m jusqu'au début de votre prochain tour.</content>
+	<content contentuid="9f282f96-6d12-4656-8ac9-0386e0d5538b" version="1">Don de la Mer</content>
+	<content contentuid="7645e493-65f8-49fa-b63a-e4d80b6d68ab" version="1">La cible est immunisée contre le Terrain Difficile : Eau Profonde.</content>
+	<content contentuid="9d6a51d6-01f1-435c-a11e-73ca9b520934" version="1">Âme Océanique</content>
+	<content contentuid="22da3738-b74e-43dc-8c03-1fc75dcdc7df" version="1">Vous gagnez une résistance aux dégâts de froid.</content>
+	<content contentuid="a95ae49d-23b7-40c7-8efe-01ab55f0222b" version="1">Tentacules Agrippants</content>
+	<content contentuid="de4777fc-d327-4087-b476-4b6454dead5c" version="1">Vous pouvez lancer les Tentacules Noirs d'Evard sans utiliser un emplacement de sort, et vous regagnez cette capacité après un long repos. Chaque fois que vous lancez ce sort, la magie de votre patron vous renforce, vous accordant 20 points de vie temporaires. De plus, vous gagnez un Avantage aux Jets de Sauvegarde de Constitution tant que vous avez des PV temporaires.</content>
+	<content contentuid="2a15f715-a60f-408e-b55a-779050a2cd58" version="1">Avantage aux Jets de Sauvegarde de Constitution et gain de PV temporaires.</content>
+	<content contentuid="182ad5a4-988d-4106-b3ea-c8e6a84a6a76" version="1">Bobine Protectrice</content>
+	<content contentuid="d188c75a-d649-45ff-aa0b-772d915b4328" version="1">Lorsque vous ou une créature que vous pouvez voir subit des dégâts à moins de 10m du tentacule, vous pouvez utiliser votre réaction pour choisir une de ces créatures et réduire les dégâts subis par cette créature de 2d8.</content>
+	<content contentuid="d8ae6e94-094f-47d5-9fba-c2cb415510dc" version="1">Le Tentacule des Profondeurs peut vous défendre, vous et les autres, en s'interposant entre eux et le danger. Lorsque vous ou une créature que vous pouvez voir subit des dégâts à moins de 10m du tentacule, vous pouvez utiliser votre réaction pour choisir une de ces créatures et réduire les dégâts subis par cette créature de 2d8.</content>
+	<content contentuid="86b96b54-40ca-46f8-b56f-14c851d40934" version="1">Yeux de Flamme Verte</content>
+	<content contentuid="4adb91db-6864-4ce3-9ced-903453fb4640" version="1">L'ombre regagne 2d8 PV lorsqu'elle est obscurcie, à moins qu'elle n'ait récemment subi des dégâts radiants.</content>
+	<content contentuid="d6b6d9cb-8bff-4308-8984-75a03e16e327" version="1">L'ombre a été endommagée par des dégâts radiants et ne se régénérera pas.</content>
+	<content contentuid="7e6ccb69-1e22-41b6-8e0b-4882a654239c" version="1">Tuez le Mage !</content>
+	<content contentuid="653de0c3-24c2-4ec6-b454-3c9d2319a81e" version="1">Les unités alliées préféreront attaquer l'ennemi marqué.</content>
+	<content contentuid="010784b5-6a6f-4441-aa44-2be4992621ef" version="1">Chasse au Mage</content>
+	<content contentuid="df779bab-0808-4185-b6bb-5ac019d74b6a" version="1">Cette unité et ses alliés préféreront attaquer l'ennemi marqué</content>
+	<content contentuid="3c9355f3-fce8-4812-9734-d7f657aa73b6" version="1">Cette unité est marquée par l'ennemi</content>
+	<content contentuid="c108542a-23a8-4e9f-a8ea-42c043d42e40" version="1">Fléau du Chasseur</content>
+	<content contentuid="676d077f-ceb9-4d60-b252-a74d5bffcd99" version="1">Vous avez un avantage sur les tests de Survie et cela renforce également votre corps pour contrôler et façonner la magie de l'hémocraft. Ajoute également +2 aux Jets de Sauvegarde.</content>
+	<content contentuid="923fd6bf-b016-4b0b-860a-8e25be7e64ac" version="1">Rite Cramoisi</content>
+	<content contentuid="180bf4a8-5cc1-4c78-b47f-db1ef21248a8" version="1">Invoquez un rite de l'hémocraft qui imprègne vos frappes d'armes d'énergie élémentaire. En tant qu'action bonus, vous pouvez activer n'importe quel rite que vous connaissez sur une arme que vous tenez. L'effet du rite dure jusqu'à ce que vous terminiez un court ou un long repos. Tant que le rite est en vigueur, les attaques que vous effectuez avec cette arme sont magiques et infligent des dégâts supplémentaires égaux à votre dé d'hémocraft du type déterminé par le rite choisi. Une arme ne peut avoir qu'un seul rite actif à la fois.</content>
+	<content contentuid="b91bc1ef-79c4-4180-999a-d409381713d6" version="1">Psychométrie Sombre</content>
+	<content contentuid="a9cb9bc6-e8eb-44fc-be87-35517f07a4a3" version="1">Vous avez un avantage sur les tests d'Histoire</content>
+	<content contentuid="859eeeec-07a6-404f-99a8-50cec0c98f3c" version="1">Marque de Châtiment</content>
+	<content contentuid="cb741a6f-1943-4ad6-bd27-017233db3489" version="1">Lorsque vous endommagez une créature avec une arme pour laquelle vous avez un rite cramoisi actif, vous pouvez canaliser la magie de l'hémocraft pour marquer cette créature d'une marque arcanique, l'empêchant de devenir Invisible. Chaque fois que la créature marquée inflige des dégâts à une entité située à moins de 5m de quelqu'un pouvant lancer la Marque de Châtiment, la créature marquée subit des dégâts psychiques égaux à votre modificateur d'hémocraft (1d6). Votre marque peut être dissipée avec Dissipation des Malédictions.</content>
+	<content contentuid="d0953811-220e-40b2-afa7-59d39070dbd5" version="1">Cette unité ne peut devenir Invisible et subira 1d6 de dégâts Psychiques lorsque cette unité infligera des dégâts aux créatures pouvant lancer la Marque de Châtiment et à ses alliés dans un rayon de 5m. Peut être enlevée avec Dissipation des Malédictions.</content>
+	<content contentuid="8921012e-ab0b-47cf-abde-f84632668392" version="1">Châtié</content>
+	<content contentuid="50de7eac-d5c5-424c-bb99-693c53622eb5" version="1">Mutagène : Puissance</content>
+	<content contentuid="0a6d7264-dbd4-47ce-95e9-dde94612beff" version="1">Votre score de Force augmente de 3, tout comme votre maximum pour ce score. Cependant, vous avez un désavantage sur les jets de sauvegarde de Dextérité.</content>
+	<content contentuid="7b829339-0b10-429d-b28b-37e5c1add7b7" version="1">Vous avez un désavantage sur les jets de sauvegarde de Dextérité.</content>
+	<content contentuid="34ad546d-2253-4c95-aa71-cf61e3e3a8a8" version="1">Mutagène : Rapidité</content>
+	<content contentuid="3a49df15-a60c-409a-8379-1f9db873030f" version="1">Votre vitesse augmente de 10m. Cependant, vous avez un désavantage sur les tests d'Intelligence.</content>
+	<content contentuid="7ce103e5-9ad5-4bed-89e8-2379506818db" version="1">Vous avez un désavantage sur les tests d'Intelligence.</content>
+	<content contentuid="28b5b7f6-7a48-4b56-8a70-e627f82ae0c2" version="1">Métabolisme Étrange : Adrénaline</content>
+	<content contentuid="891f51c7-2f9a-4043-ac3d-b9902f77d185" version="1">Ignorez l'effet secondaire négatif d'un mutagène qui vous affecte pendant 1 minute.</content>
+	<content contentuid="85a76f98-3507-486e-a928-c93fc3e36f2d" version="1">Métabolisme Étrange</content>
+	<content contentuid="cbae623f-15ef-4661-9879-fc5148d2942d" version="1">Votre corps commence à s'adapter aux toxines et aux venins, en ignorant leurs effets corruptifs. Vous gagnez l'immunité aux dégâts de poison et à la condition empoisonnée.</content>
+	<content contentuid="4a4a00aa-09f6-4c27-b66b-3c9a967c52f0" version="1">Sens Accrus</content>
+	<content contentuid="f7385253-c0cd-4a67-b549-0ae277e6e624" version="1">Vous avez un avantage sur les tests de Sagesse (Perception) qui dépendent de l'ouïe ou de l'odorat.</content>
+	<content contentuid="31a63263-93f3-4896-b091-6eec4696b823" version="1">Focalisation du Rite : Abyssal</content>
+	<content contentuid="8a403861-89ca-4dc2-8276-c149cd6de2e3" version="1">Vous pouvez respirer sous l'eau. De plus, une fois par tour, lorsque vous infligez des dégâts à une créature avec une arme pour laquelle vous avez un rite cramoisi actif, vous pouvez réduire la vitesse de cette créature de 10m jusqu'au début de votre prochain tour.</content>
+	<content contentuid="599ecf3f-92ae-4a32-bf1f-952427f7045e" version="1">Réduisez la vitesse de la créature de 10m jusqu'au début de votre prochain tour.</content>
+	<content contentuid="1e6b2d79-d6cc-48b0-88d8-dd6e627326ae" version="1">Transformation Hybride</content>
+	<content contentuid="b6157980-b98f-42eb-9e62-80b8b2590455" version="1">En tant qu'action bonus, vous vous transformez en loup-garou pendant jusqu'à 1 heure. Gagnez Puissance Sauvage, Peau Résiliente, Frappes Prédatrices et Soif de Sang.</content>
+	<content contentuid="d5ae038e-a689-456d-a046-44399463fe01" version="1">Annuler : Transformation Hybride</content>
+	<content contentuid="4e81af1e-b513-402c-b4fb-c6d9a0c55f14" version="1">Annulez votre Transformation Hybride et redevenez à votre forme originale.</content>
+	<content contentuid="61e5c20a-12ff-4bdf-98c4-0e99159a2fd3" version="1">Puissance Sauvage</content>
+	<content contentuid="1805d8c2-10a5-4e78-a5da-a08fc4311449" version="1">Avantage sur les tests de Force et les jets de sauvegarde de Force, et vous avez un bonus de +1 aux jets de dégâts en mêlée.</content>
+	<content contentuid="90757102-4cb8-4cd9-9255-99ff7de48e7e" version="1">Peau Résiliente</content>
+	<content contentuid="3c95a3f2-b175-411e-83bf-f412185e04f5" version="1">Résistance aux dégâts de contondant, perforant et tranchant provenant des attaques non magiques. De plus, tant que vous ne portez pas d'armure lourde, vous avez un bonus de +1 à la CA.</content>
+	<content contentuid="ffcc5043-0783-4fa6-9c4a-2d22282fe7ba" version="1">Frappes Prédatrices</content>
+	<content contentuid="2ee245e5-1b2a-4e98-9911-700ff382b9d0" version="1">Les frappes sans arme en mêlée sont imprégnées de votre Rite Cramoisi. Vos frappes sans arme peuvent infliger des dégâts de tranchant ou de contondant. De plus, lorsque vous utilisez l'action Attaque pour effectuer une frappe sans arme, vous pouvez effectuer une frappe sans arme supplémentaire en tant qu'action bonus.</content>
+	<content contentuid="5cec731c-d0d0-4243-ac57-382525f439b3" version="1">Frappes Prédatrices : Tranchant</content>
+	<content contentuid="96d8806f-b612-4047-906b-ac4b7f1460c5" version="1">Ratissez vos griffes sur un ennemi.</content>
+	<content contentuid="a8e8eba7-ae8d-4000-bf91-1ee6cd77ba5f" version="1">Frappes Prédatrices : Contondant</content>
+	<content contentuid="7377436a-c8d2-42d7-b07c-33faeea4e363" version="1">Prouesse du Traqueur</content>
+	<content contentuid="d8b2730d-1a76-4988-b0e5-9761d2549d26" version="1">La vitesse augmente de 10m, et vous ajoutez 10m à votre distance de saut.</content>
+	<content contentuid="fb5cd397-be5c-472b-9b01-df8ac04213ac" version="1">Amélioration des frappes prédatrices</content>
+	<content contentuid="12334adb-62b9-4e90-958e-c3c49be14bd2" version="1">Vous bénéficiez d'un bonus de +1 aux jets d'attaque effectués avec votre attaque à mains nues. De plus, lorsque vous avez un rite cramoisi actif sur votre attaque à mains nues en forme hybride, vos attaques à mains nues sont considérées comme magiques pour surmonter la résistance et l'immunité aux attaques et aux dégâts non magiques.</content>
+	<content contentuid="27842f62-baa6-4262-afd3-2d12f0321221" version="1">Attaque à mains nues gratuite en utilisant un point d'action bonus accordé par une attaque à mains nues.</content>
+	<content contentuid="e37e4bd9-2e79-45f3-8f52-db687ed30371" version="1">Frappes prédatrices : Attaque bonus</content>
+	<content contentuid="16f4c937-cff7-42e7-a1f7-0634f4c35d85" version="1">Soif de sang</content>
+	<content contentuid="1df1473b-ad69-468c-9345-7e8353a315e7" version="1">Si vous commencez votre tour avec moins de points de vie que la moitié de votre maximum de points de vie, vous devez réussir un jet de sauvegarde de Sagesse CD 8 ou vous déplacer directement vers la créature la plus proche et utiliser l'action Attaquer contre cette créature.</content>
+	<content contentuid="04d58e44-0159-4ea0-a330-746b28ac2f38" version="1">Soif de sang : Folie</content>
+	<content contentuid="de76676a-03fb-40d0-97af-df77c3f78274" version="1">La cible est atteinte de folie</content>
+	<content contentuid="e222ea2a-dc4d-48b2-b7c1-202beb4de86f" version="1">Soif de sang : Passif</content>
+	<content contentuid="a47a481f-0754-4b9f-a442-6be15852f625" version="1">Soif de sang : Faible PV</content>
+	<content contentuid="da4f842b-e1ff-4b5c-a490-876bdf154faf" version="1">Malédiction de sang de l'Aveugle</content>
+	<content contentuid="21989185-883d-48a9-88ee-c2852503837c" version="1">Lorsqu'une créature que vous pouvez voir dans un rayon de 30m de vous effectue une attaque, vous pouvez utiliser votre réaction pour lancer un dé hémocraft et soustraire le nombre obtenu au jet d'attaque de la créature. La créature est immunisée contre cette malédiction si elle est immunisée contre la condition aveuglée.</content>
+	<content contentuid="ff0d8871-5c4e-4800-ad03-56ec1632f56f" version="1">Malediction de sang</content>
+	<content contentuid="aee5f527-2324-418f-8f9d-1a648f2992f3" version="1">Gagnez la capacité de canaliser - ou parfois de sacrifier - une partie de votre essence vitale pour maudire et manipuler des créatures grâce à la magie hémocraft.</content>
+	<content contentuid="fdbb4e27-f32d-471b-857d-85b3a19bcad1" version="1">Charges de Malédiction de sang épuisées</content>
+	<content contentuid="33fbec66-4280-4b20-9899-08c72d6acb14" version="1">Malédiction de sang du Marqué</content>
+	<content contentuid="89c27675-bebe-411f-befa-faaf9a2fcc4c" version="1">Marquez une créature que vous pouvez voir dans un rayon de 30m de vous. Jusqu'à la fin de votre tour, chaque fois que vous touchez la créature maudite avec une arme pour laquelle vous avez un rite cramoisi actif, vous lancez un dé hémocraft supplémentaire pour déterminer les dégâts supplémentaires du rite.</content>
+	<content contentuid="75a7cf03-793d-4f25-8477-29e1cf893d7b" version="1">Malédiction de sang du Marqué : Propriétaire</content>
+	<content contentuid="bd2d229f-8c2e-4572-8ebf-09731f60c4fb" version="1">Malédiction de sang du Marqué : Passif</content>
+	<content contentuid="75c4619a-7abf-4953-a994-61d16ee95913" version="1">Chaque fois que vous êtes touché par une arme avec un rite cramoisi actif, l'ennemi gagne un dé hémocraft supplémentaire pour déterminer les dégâts supplémentaires.</content>
+	<content contentuid="cd0521ed-0d34-4947-ada6-4e99d90af031" version="1">Malédiction de sang de Lien</content>
+	<content contentuid="56a09ce7-1a49-411f-bb9a-f2c3f957203c" version="1">Tentez de lier une créature de taille Large ou plus petite que vous pouvez voir dans un rayon de 30m de vous, qui doit effectuer un jet de sauvegarde de Force. En cas d'échec, la vitesse de la créature maudite est réduite à 0 et elle ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.</content>
+	<content contentuid="75811702-3853-4734-8e64-8b447b12f651" version="1">La vitesse est réduite à 0 et ne peut pas utiliser de réactions pendant 2 tours.</content>
+	<content contentuid="060a0812-a6cd-4d50-9cf7-adb351a6534d" version="1">Invoquer une Griffe Rampante</content>
+	<content contentuid="263470ad-7c9c-4fed-9e43-0e807f75deb5" version="1">Invoquez une Griffe Rampante capable d'empoisonner et de restreindre la cible.</content>
+	<content contentuid="b7f7ed71-c835-4f85-9088-f6ee88051dc8" version="1">Nuage Toxique</content>
+	<content contentuid="bb38172a-d231-490c-a82d-0062cfb3bd62" version="1">Invoquez un nuage toxique qui inflige 5 à 40 dégâts de poison par tour pendant 3 tours.</content>
+	<content contentuid="871d65e2-2fe3-41e4-8c22-b16d55f87ff7" version="1">Coupures Nauséabondes</content>
+	<content contentuid="7844d569-962c-404f-beea-1e9f728ce699" version="1">Inflige 1d8 dégâts de poison supplémentaires. Si la cible échoue à un jet de sauvegarde de Dextérité, elle subit un désavantage aux jets de sauvegarde de Constitution.</content>
+	<content contentuid="efff8e16-fbab-469e-94ff-3eb2857bc1b9" version="1">Coupure Infectée</content>
+	<content contentuid="e490e3f1-ff0f-42f0-90dd-02042c21f923" version="1">Griffe Saisissante</content>
+	<content contentuid="49a4eac7-f767-4b48-be4d-a1bec2ebcc43" version="1">Griffe Saisissante : Propriétaire</content>
+	<content contentuid="f170759d-3ae7-4da2-bd95-7b77df161bdc" version="1">Griffe Saisissante : Agrippé</content>
+	<content contentuid="d5597091-113c-48be-b797-3f3fc395bcd0" version="1">Griffe Saisissante : Passif - Cumul</content>
+	<content contentuid="9965456d-eb85-4601-8238-f9fcd5144771" version="1">Griffe Saisissante : Passif - Technique</content>
+	<content contentuid="0602caa9-4c46-40c6-a6cd-c37236aad022" version="1">Griffe Saisissante : Cumul</content>
+	<content contentuid="5b19f047-363b-4874-8638-00b89c38172c" version="1">Attrapez l'ennemi et réduisez sa vitesse de déplacement. Chaque pile réduira la vitesse de déplacement de la créature. Avec au moins 2 piles, la créature obtient le statut Agrippé : Légèrement Encombré. Avec au moins 4 piles, la créature obtient le statut Agrippé : Fortement Encombré. Avec 5 piles, la créature obtient le statut Agrippé : Restreint. Avec au moins 6 piles, la créature obtient le statut Agrippé : Vulnérable.</content>
+	<content contentuid="c2c26e72-8768-4936-8719-bfe616a9ac9f" version="1">Agrippé : Légèrement Encombré</content>
+	<content contentuid="3595e0b5-99ed-4ec2-9dd0-8e933a23278c" version="1">Agrippé : Fortement Encombré</content>
+	<content contentuid="aa9917bf-9e38-4bd3-9349-e49f3a30fe21" version="1">Agrippé : Restreint</content>
+	<content contentuid="8667890d-eb1f-4b3a-a2f2-10f188abf118" version="1">Agrippé : Vulnérable</content>
+	<content contentuid="2541cd47-071d-4fcd-b32f-43963c1c6d3c" version="1">Réduire la Distance de Saut.</content>
+	<content contentuid="2bde7c74-6ccc-4d53-8f1b-51ccaa7c2bc5" version="1">Saut Désactivé.</content>
+	<content contentuid="777f1254-2d68-4071-8f0e-38e30cb6ad4e" version="1">Mouvement désactivé et désavantage aux jets d'attaque, à tous les tests de capacité et aux jets de sauvegarde (Force, Dextérité et Constitution).</content>
+	<content contentuid="74ab66ee-97f9-449d-b761-e90743604128" version="1">Mouvement désactivé et échec automatique aux tests de capacité, échec automatique et désavantage aux jets de sauvegarde (Force, Dextérité et Constitution). Les créatures attaquant La cible ont l'avantage et toutes les attaques dans un rayon de 18m sont des coups critiques. La cible a également un désavantage aux jets d'attaque.</content>
+	<content contentuid="bcea1708-2809-4961-bf5e-0570f655da11" version="1">Couper Couper Couper!</content>
+	<content contentuid="2d70e519-b5d7-4e9e-9ce5-515cbff7f855" version="1">Infligez des dégâts et appliquez des saignements avec des blessures béantes à un ennemi avec la condition de Mucus Rampant.</content>
+	<content contentuid="9c630540-fbd3-4994-8c0c-1901acfca068" version="1">Amateur de Mucus Rampant</content>
+	<content contentuid="0a6986f6-3b30-47e7-8f1f-3eb4bcdcb4a6" version="1">+2 de  supplémentaire pour appliquer le Mucus Rampant.</content>
+	<content contentuid="6e6d10ed-fa3f-49cc-be4f-e4cd8867203a" version="1">Soins Ciblés</content>
+	<content contentuid="c70d8824-8a1e-4725-83c6-ac444528390d" version="1">La cible doit toujours être la cible des soins</content>
+	<content contentuid="18e9b6cb-a32a-42fb-8d2e-cca250e9251a" version="1">Arme Spirituelle Invoquée</content>
+	<content contentuid="b47eb73a-021f-461e-8e3d-22c3766b7187" version="1">Une arme spirituelle est actuellement active.</content>
+	<content contentuid="21900e9d-9aa8-473f-bebd-e9ae4f980e3d" version="1">Gardien de la Foi Invoqué</content>
+	<content contentuid="d9c4f490-251f-4a2b-9ffe-9d72015d0e72" version="1">Un Gardien de la Foi est actuellement actif.</content>
+	<content contentuid="df16c876-40bf-4496-b1e0-317280262b8d" version="1">Illusion</content>
+	<content contentuid="d5f7d900-ac62-4fd9-a40b-041d47b7590f" version="1">Créez une copie presque parfaite de vous-même, y compris la plupart de vos sorts, emplacements de sorts et buffs. Les illusions ont une pénalité de -4 pour toutes les statistiques et la CA.</content>
+	<content contentuid="b1e5f0db-8564-4cc3-a649-6e033bfa1337" version="1">Illusion Invoquée</content>
+	<content contentuid="48a03110-f1d8-422f-8f51-ee250a2750d9" version="1">Une illusion est actuellement active.</content>
+	<content contentuid="25976e46-be00-47a5-afe8-29187ea18bd3" version="1">Pénalité d'Illusion</content>
+	<content contentuid="9689457f-fd33-4f34-82e5-8c182f9c4840" version="1">-4 à toutes les statistiques et la CA</content>
+	<content contentuid="cb14f36d-ddae-42f5-ac65-5375dbfbc805" version="1">Rayon Charmeur</content>
+	<content contentuid="3979b968-2357-4e89-8f94-2feb234c0244" version="1">Tire un rayon oculaire qui charme sa cible.</content>
+	<content contentuid="b559eca9-9809-4161-9eca-8c737b8ff793" version="1">Rayon Ralentissant</content>
+	<content contentuid="57560be4-84a5-488a-abe6-318987ff2f4c" version="1">Tire un rayon oculaire qui ralentit sa cible.</content>
+	<content contentuid="e629d1a2-834d-4118-8784-db45e69f0c5f" version="1">Rayon d'Épuisement</content>
+	<content contentuid="936170c0-f9d3-413b-bd1a-e798e016b347" version="1">Transformé en pierre croustillante. Ne peut ni se déplacer ni agir, ni prendre d'actions bonus ou de réactions. Vulnérable aux dégâts perforants et contondants mais peut faire un jet de sauvegarde de Force pour se libérer chaque tour. Si La cible a subi des dégâts perforants ou contondants, réduisez le de  requis sur le jet de sauvegarde.</content>
+	<content contentuid="e0ed6d0c-5658-4a6d-8546-8fcea8518b00" version="1">Rayon de Sommeil</content>
+	<content contentuid="6876d816-8347-4d07-a520-3cbe33acec6d" version="1">Tire un rayon oculaire qui endort sa cible.</content>
+	<content contentuid="42b45518-2b57-4ea5-846a-1fd5174e407b" version="1">Rayon de Pétrification</content>
+	<content contentuid="9c9fff74-9244-4c33-9344-8f80a9ef8055" version="1">Tire un rayon oculaire qui pétrifie sa cible.</content>
+	<content contentuid="a4ae4a2a-3b67-41f1-a83e-c46cdd1bdf46" version="1">Rayon de Désintégration</content>
+	<content contentuid="bc1b7137-6a37-474f-a39b-c90e119c5065" version="1">Tire un rayon oculaire qui désintègre sa cible.</content>
+	<content contentuid="7eb8050f-5c59-43c4-b609-61e728940c87" version="1">Rayon de Mort</content>
+	<content contentuid="64db2b3c-ac18-467d-bff1-69ea7450e92e" version="1">Tire un rayon oculaire infligeant des dégâts immenses. Meurt si réduit à 0 PV.</content>
+	<content contentuid="59921c1f-8bf8-4c4a-ae20-f965788ecf36" version="1">Dommages Subis en étant Pétrifié</content>
+	<content contentuid="0fb9ebb2-4a76-4378-ace9-887c0d579bc9" version="1">Ajoutez +1 à vos jets de sauvegarde de Force pendant que vous êtes pétrifié.</content>
+	<content contentuid="23f16204-1f24-4963-9725-03130e37c854" version="1">Pétrifié : Technique</content>
+	<content contentuid="5fb7b842-57f1-44cf-a091-10c1deabbbcd" version="1">Si attaqué par des dégâts perforants ou contondants, augmentez le jet de sauvegarde de Force de 1 pendant que pétrifié.</content>
+	<content contentuid="8536c095-3c1d-433f-95df-1a8f1370af4c" version="1">Rayon Télékinétique</content>
+	<content contentuid="814b81bb-8302-454c-a336-b2ee36774fae" version="1">Tire un rayon oculaire qui entrave sa cible et la pousse à 30m de distance.</content>
+	<content contentuid="8b29a4cf-6cdb-4dbf-b4fc-dccb3ea1b3f6" version="1">Tire un rayon oculaire qui repousse sa cible à 30m de distance.</content>
+	<content contentuid="603832c3-18dd-421f-905f-18076663ae30" version="1">Rayon Antimagique</content>
+	<content contentuid="aa0b1cdc-f2c6-4150-a77b-91a570180a00" version="1">Tire un rayon oculaire qui supprime la magie de toutes les entités affectées.</content>
+	<content contentuid="74f74b7b-3b93-4104-a396-8c97bb59c68b" version="1">Antimagique</content>
+	<content contentuid="79ccd3f5-e729-4da4-9453-0acf6c2b7f6b" version="1">Affecté par le Rayon Antimagique du Beholder. Cette unité sera réduite au silence mais bénéficiera également d'une immunité à la magie et supprimera les états infligés par le Beholder.</content>
+	<content contentuid="06607071-f8d0-434f-a112-71839357f013" version="1">Rayon Antimagique en recharge</content>
+	<content contentuid="26eb2805-5181-4572-90c4-06ad139b1179" version="1">Victime du Rayon du Beholder</content>
+	<content contentuid="84a39ea1-f7be-45b9-86ff-8cbdd4eb597f" version="1">Touché par un rayon du Beholder.</content>
+	<content contentuid="5e3eec9a-bee6-462b-8021-de324b0eb5ab" version="1">Déclencheur de Rayon Antimagique</content>
+	<content contentuid="44ca2efe-01cb-41b1-9131-f20b205aa6d0" version="1">Rayon de Givre</content>
+	<content contentuid="ddd80c2c-5bfa-4941-bfe5-9a061b281cf5" version="1">Tire un rayon oculaire infligeant des dégâts de Froid.</content>
+	<content contentuid="10908a63-667c-4fe3-87eb-74b99814ae8b" version="1">Rayon Étourdissant</content>
+	<content contentuid="7983ffe2-cf62-454d-ad68-d2b4c0c75947" version="1">Tire un rayon oculaire qui charme sa cible, réduit de moitié sa vitesse de déplacement et lui donne un désavantage aux jets d'attaque.</content>
+	<content contentuid="a6180fba-04a5-47bd-a859-66cf0db715bc" version="1">Ne peut pas attaquer les lanceurs de sorts, réduit de moitié sa vitesse de déplacement et a un désavantage aux jets d'attaque.</content>
+	<content contentuid="731825d4-50e4-4cb4-a887-5069f3be9609" version="1">Baiser</content>
+	<content contentuid="4c50b47e-3180-4ccf-a0c6-b301878912ae" version="1">La cible doit réussir un jet de sauvegarde de Charisme de : 12 ou être maudite. La cible maudite perd 6 points de Charisme jusqu'au prochain long repos.</content>
+	<content contentuid="2bbe2b7a-3ed3-434d-a3bb-cce45e1cb838" version="1">Marque de Vargouille</content>
+	<content contentuid="65199663-c869-42be-b5ea-5ad0b3e790b8" version="1">La cible est maudite. Réduction de Charisme de 6.</content>
+	<content contentuid="a033d9d7-427d-46f9-a713-6480dcf5d0eb" version="1">Cri Étourdissant</content>
+	<content contentuid="5b96b10e-9693-475a-a328-d054b213f70c" version="1">Chaque humanoïde et bête dans un rayon de 30m de la vargouille et capable de l'entendre doit réussir un jet de sauvegarde de Sagesse de : 12 ou être effrayé jusqu'à la fin du prochain tour de la vargouille. En étant effrayé de cette manière, une cible est étourdie.</content>
+	<content contentuid="5087729d-a7ab-44bf-beb8-3728fad6e13d" version="1">Affecté par Cri Étourdissant, cette unité est effrayée et étourdie.</content>
+	<content contentuid="4da98a77-e818-4d87-a5f2-dc1c2cb4875f" version="1">Immunité au Cri Étourdissant</content>
+	<content contentuid="9b764c44-e6dc-4f20-9e55-68fba09878b0" version="1">La cible est immunisée contre le Cri Étourdissant.</content>
+	<content contentuid="bfe26fcf-dec2-497d-b8da-5ceebbe0aeb1" version="1">Le Cri Étourdissant est actuellement en recharge</content>
+	<content contentuid="5d4b10b5-8622-4355-a598-799866b4b8b4" version="1">Infirmière en Chef</content>
+	<content contentuid="6627d4b2-57f3-4cbc-87c9-f66f842a3646" version="1">Infirmière en Chef située à la morgue</content>
+	<content contentuid="2d178f8c-6056-4b99-a5f4-a6698b03986f" version="1">Attraction Maligne</content>
+	<content contentuid="7a3fa0c0-6e2b-4032-b8c4-82e60f5aca6e" version="1">Saisissez une cible pour la tirer vers vous.</content>
+	<content contentuid="651dcfbf-2a4d-498a-a457-4062914ae222" version="1">Maîtriser le Patient</content>
+	<content contentuid="2785119e-891e-4a9c-b281-d08fd6f563a4" version="1">Réduit la vitesse de déplacement ennemie de 10m et les jets de sauvegarde (Force, Dextérité) de 1 par pile. Pour retirer une pile, la cible doit réussir un jet de sauvegarde de Force à la fin de son tour ou rompre la concentration du lanceur de sorts. Avec au moins 1 pile, la créature obtiendra le statut de Restrained: Légèrement Encombrée. Avec au moins 2 piles, la créature obtiendra le statut de Restrained: Fortement Encombrée. Avec au moins 3 piles, la créature obtiendra le statut de Restrained: Vulnérable.</content>
+	<content contentuid="145748dd-c7e7-49f6-a801-c28b896054e9" version="1">Réduit la vitesse de déplacement ennemie de 10m et les jets de sauvegarde (Force, Dextérité) de 1 par pile. Pour retirer une pile, la cible doit réussir un jet de sauvegarde de Force à la fin de son tour ou rompre la concentration du lanceur de sorts. Avec au moins 2 piles, la créature obtiendra le statut de Grappled: Légèrement Encombrée. Avec au moins 4 piles, la créature obtiendra le statut de Grappled: Fortement Encombrée. Avec 5 piles, elle obtiendra le statut de Grappled: Restreinte. Avec au moins 6 piles, elle obtiendra le statut de Grappled: Vulnérable.</content>
+	<content contentuid="88d2c0a1-f420-4ea4-9016-1a38ce7ed263" version="1">Maîtriser le Patient : Propriétaire</content>
+	<content contentuid="1966cbdf-f67f-4e8d-ad00-ce1c86c06e87" version="1">Maîtriser le Patient : Pile</content>
+	<content contentuid="2ebc90a0-c32f-42a3-942c-ac92bf0bf9e7" version="1">Maîtriser le Patient : Infirmière</content>
+	<content contentuid="8811c39e-9183-41cb-9e05-d1f8463353bc" version="1">Maîtriser le Patient : Infirmière en Chef</content>
+	<content contentuid="f05a33b1-f6c3-41c4-acee-d430a1686a54" version="1">Restrained: Légèrement Encombrée</content>
+	<content contentuid="dc09686b-3af7-4452-8a79-96beacbdbea1" version="1">Restrained: Fortement Encombrée</content>
+	<content contentuid="012d7871-d336-4880-b0c6-473874c0d0ff" version="1">Restrained: Vulnérable</content>
+	<content contentuid="ce8b60d9-cb2b-4505-b2fb-0510abb3b0ec" version="1">Saut Désactivé. Désavantage aux Jets d'Attaque.</content>
+	<content contentuid="d9cbb77f-9963-406e-ab2f-8354377233b1" version="1">Déplacement désactivé et Désavantage aux Jets d'Attaque. Les créatures attaquant La cible obtiennent l'Avantage et tous les attaques à moins de 18m sont des Coups Critiques.</content>
+	<content contentuid="536533b7-6a43-42b6-a387-158fedb1b655" version="1">Gestionnaire de Cooldown Générique</content>
+	<content contentuid="06224e75-4505-4a65-85e9-2cb7fa8de629" version="1">Utilisé pour vérifier combien de tours il reste avant que La cible puisse utiliser le sort.</content>
+	<content contentuid="4b389469-4fc6-4271-829d-de050d903194" version="1">Grappin : Infirmière en Chef</content>
+	<content contentuid="c4eec43f-c984-4a90-9d91-8b0331c04165" version="1">Grappin : Infirmière</content>
+	<content contentuid="531e609a-599b-4e96-a711-9876bc755242" version="1">Grappé</content>
+	<content contentuid="f3780df0-7059-43af-84dc-637bae4f8361" version="1">Yeux Rugissants Imprudents</content>
+	<content contentuid="916cb56e-d4d9-45be-be4c-e549348c5275" version="1">Vent de Cage d'Âme</content>
+	<content contentuid="9775dce9-e62f-4b1b-b2bb-b17322d7685b" version="1">Gardien de Shar</content>
+	<content contentuid="dbd0d4d2-012b-4be5-8e77-ba76deeb6fe4" version="1">Riposte Sombre</content>
+	<content contentuid="fc3351cd-c5ed-4e06-ab1c-50f4b105e321" version="1">Formation en Guerre et Chanson</content>
+	<content contentuid="8c0de8cd-a063-4dc7-982f-2ac4468f4677" version="1">Obtenez la maîtrise des armures légères, d'un type d'arme de mêlée à une main de votre choix et de la Performance.</content>
+	<content contentuid="2c4409f6-d1a6-45b0-baa6-a88296b5d2fc" version="1">Chant de Lames</content>
+	<content contentuid="3a430ca5-4fb8-43fc-bcec-78b7957d36e9" version="1">Lorsque vous ne portez pas d'armure intermédiaire, lourde ou de bouclier et que vous n'utilisez pas une arme à deux mains, vous obtenez : CA égale à votre modificateur d'Intelligence (minimum de +1), augmentation de la vitesse de déplacement de 10m, Avantage aux jets de Dextérité (Acrobaties) et un Bonus aux Jets de Sauvegarde de Constitution égal à votre modificateur d'Intelligence.</content>
+	<content contentuid="55be9b81-80dd-4101-ae9f-225aac69c89d" version="1">Attaque Supplémentaire</content>
+	<content contentuid="98d177b7-1eb6-4051-af03-00cf33ed1dbc" version="1">Chaque fois que vous prenez l'action Attaque lors de votre tour, de plus, vous pouvez lancer un de vos chameaux à la place de l'une de ces attaques.</content>
+	<content contentuid="81081c51-ac78-40d6-bb87-591ecacc2900" version="1">Lame Tonnerre</content>
+	<content contentuid="e9c2795c-0f2d-45ee-953a-0731effe9393" version="1">Vous brandissez l'arme utilisée pour l'incantation du sort et faites une attaque de mêlée avec elle contre une créature se trouvant à 5m de vous. En cas de réussite, la cible subit les effets normaux de l'attaque avec en plus 1d8 de dégâts de Tonnerre et devient enveloppée d'énergie tonitruante jusqu'au début de votre prochain tour. Si la cible se déplace volontairement de 5m ou plus avant cela, elle subit 2d8 de dégâts de tonnerre et le sort prend fin.</content>
+	<content contentuid="581726dd-bafd-4575-9bab-c9b17a2eeaac" version="1">Si la cible se déplace volontairement de 5m ou plus, la cible subit 2d8 de dégâts de tonnerre, et le statut prend fin.</content>
+	<content contentuid="5cd95f1a-31d7-49c1-bf7a-a27ccd396819" version="1">Résurgence Fongique</content>
+	<content contentuid="710a977e-9ec1-4d61-94ac-f30d0491ca91" version="1">Réanime La cible à 66% de santé, conservant toutes les compétences, se transformant en créature de spore(PLANT).</content>
+	<content contentuid="ec4c37eb-40d7-4f22-a3e9-f952b47c8a72" version="1">Immunité au Tour</content>
+	<content contentuid="5d6a1446-291d-4ba0-a945-35247cf99282" version="1">Le revenant est immunisé contre les effets qui repoussent les morts-vivants.</content>
+	<content contentuid="e77dd150-f23b-4f08-9ccc-b01d0e4fc5a9" version="1">Le revenant regagne 10 points de vie au début de son tour. Si le revenant subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour du revenant. Le corps du revenant est détruit seulement s'il commence son tour avec 0 points de vie et ne se régénère pas.</content>
+	<content contentuid="e228e45f-4f20-44da-ab43-e9927471c939" version="1">Le revenant a été endommagé par des dégâts radiants ou de feu et ne se régénérera pas.</content>
+	<content contentuid="32d12b1f-4197-4921-b583-e8ee2dacf38e" version="1">Rugissement Vengeur</content>
+	<content contentuid="ee708b1a-7129-44fa-aa09-2ca898975d0b" version="1">Les cibles doivent réussir un jet de sauvegarde de Sagesse de : 15. En cas d'échec, la cible est paralysée jusqu'à ce que le revenant lui inflige des dégâts, ou jusqu'à la fin du prochain tour du revenant. Lorsque la paralysie prend fin, la cible est effrayée du revenant pendant 1 minute. La cible effrayée peut répéter le jet de sauvegarde à la fin de chacun de ses tours.</content>
+	<content contentuid="a8059493-fd7f-44cf-91be-89109eb69046" version="1">Entité affectée ne peut pas se déplacer ni prendre des actions, des actions bonus ou des réactions. Les attaques contre La cible sont toujours des Coups Critiques si l'attaquant est dans sa portée de mêlée. Si La cible est attaquée par le Revenant, ce statut est supprimé.</content>
+	<content contentuid="7eb76f84-9963-4e43-ad7d-0c9b03414b12" version="1">Créer Revenant</content>
+	<content contentuid="215755b0-a550-4ad0-9c16-992af0c0220f" version="1">Invoque un revenant.</content>
+	<content contentuid="13ddf0d9-a69a-48d2-906b-b1892a30ae34" version="1">Druid des Spores du Mausolée</content>
+	<content contentuid="4de477e6-8415-4dc8-969a-234dfcc40469" version="1">Magicien Lame du Mausolée</content>
+	<content contentuid="77afb5ec-bedb-4a72-8a4c-996e5eb62750" version="1">Barde Épée du Mausolée</content>
+	<content contentuid="8f52c150-2ee7-4072-b120-9bcbc981d00a" version="1">Source du Revenant</content>
+	<content contentuid="f5af3165-f614-4954-9653-d110dffe88bf" version="1">Le Revenant a été invoqué ici.</content>
+	<content contentuid="fe95cb05-4c5e-4d35-8d27-16dd9085508d" version="1">Toll the Dead (Sonner le Glas)</content>
+	<content contentuid="507a4582-f682-4bd7-affa-3f05a6b34e41" version="1">Vous pointez une créature que vous pouvez voir dans la portée, et le son d'une cloche douloureuse remplit l'air autour d'elle pendant un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou subir 1d8 dégâts nécrotiques. Si la cible manque de points de vie, elle subit plutôt 1d12 dégâts nécrotiques.</content>
+	<content contentuid="7aff96ac-19fc-4bd1-890c-0fe0072003bd" version="1">Destruction Inévitable</content>
+	<content contentuid="86cdfae9-1d99-4afa-a3fb-d528548de401" version="1">Les dégâts nécrotiques infligés par vos sorts de clerc et vos options de Channel Divinity ignorent la résistance aux dégâts nécrotiques.</content>
+	<content contentuid="6698908f-80af-4b62-9db5-36d330c0e5e4" version="1">Frappe Divine : Nécrotique</content>
+	<content contentuid="4f24869c-b786-487d-b166-1eea2bd47789" version="1">Frappe Divine sur Critique : Nécrotique</content>
+	<content contentuid="99a46f03-2a5d-4683-be5f-4f735cb6a6cc" version="1">Faucheur</content>
+	<content contentuid="85443ce6-24e9-4309-9154-301acfe50887" version="1">Lorsque vous lancez un sort de nécromancie qui cible normalement une seule créature, le sort peut cibler plutôt deux créatures dans la portée et à moins de 5m l'une de l'autre.</content>
+	<content contentuid="51660f72-a6a8-44b0-9704-1fc6630c9d68" version="1">L'enveloppe squelettique explosera à son prochain tour pour donner naissance à une créature mort-vivante.</content>
+	<content contentuid="c74b4201-1933-4c11-bc46-c173c2ef5f25" version="1">Contact Hallucinant</content>
+	<content contentuid="f24783fc-fbe1-4a55-ab71-451488bbc794" version="1">Frappe Hallucinante</content>
+	<content contentuid="4321dcf6-3d4c-4625-8920-fae4f09fd04c" version="1">Lorsqu'elle touche une créature, celle-ci doit réussir un jet de sauvegarde de Sagesse de : 9. En cas d'échec, la créature succombe à la Folie.</content>
+	<content contentuid="70f7116b-afa0-4f74-88e5-d3a3bf3b8bba" version="1">Murmures de la Folie</content>
+	<content contentuid="22cc1b44-ed0c-41c8-af3d-4ae49a003555" version="1">L'Allip choisit jusqu'à trois créatures qu'il peut voir dans un rayon de 60m autour de lui. Chaque cible doit réussir un jet de sauvegarde de Sagesse de : 14, sinon elle subit (1d8 + Modificateur de lancement de sorts) dégâts psychiques et succombe à la Folie.</content>
+	<content contentuid="e5e7fa76-3430-4f92-a31a-3b70f69e7240" version="1">Babillage Hurleur</content>
+	<content contentuid="c0e4724d-2805-4c1c-8030-560ce3c7fd03" version="1">Chaque créature dans un rayon de 30m de l'Allip qui peut l'entendre doit réussir un jet de sauvegarde de Sagesse de : 14. En cas d'échec, une cible subit (2d8 + Modificateur de lancement de sorts) dégâts psychiques et est étourdie jusqu'à la fin de son prochain tour. En cas de succès, elle subit la moitié des dégâts et n'est pas étourdie.</content>
+	<content contentuid="376bc9bc-62a9-41ec-b3bc-cdf310248599" version="1">Invoquer Allip</content>
+	<content contentuid="f0622bc6-a5ea-470a-8ce0-60da704dd7c7" version="1">Acide</content>
+	<content contentuid="23101960-638d-4d68-b88e-765c6f938c3b" version="1">La cible est immunisée au surface acide.</content>
+	<content contentuid="2f71671f-d101-432a-9b9b-dada84a0ad1b" version="1">Invoquer un Défenseur d'Acier.</content>
+	<content contentuid="2162886a-e224-49c1-be26-2693c77c17bb" version="1">Éclair de Génie</content>
+	<content contentuid="55d930db-d6de-4553-badc-ec98572fbad6" version="1">Lorsque vous ou une autre créature que vous pouvez voir dans un rayon de 30m de vous fait un test d'aptitude ou un jet de sauvegarde, vous pouvez utiliser votre réaction pour ajouter votre modificateur d'Intelligence au résultat.</content>
+	<content contentuid="7718e844-5a26-4dd3-b3eb-4d702d5bdcc1" version="1">À court de charges d'Éclair de Génie</content>
+	<content contentuid="447c8174-2451-4a4f-b89b-4688e7642773" version="1">Coup d'Arcane</content>
+	<content contentuid="4824196f-ead6-4bde-99f7-5b7ace56eedf" version="1">La cible subit 2d6 dégâts de force supplémentaires.</content>
+	<content contentuid="cae8635a-f2b9-4190-91d6-27abb79de7a3" version="1">À court de charges de Coup d'Arcane</content>
+	<content contentuid="cbd45040-bdc1-4fc8-b239-6de375b02542" version="1">Déchirure Renforcée par la Force</content>
+	<content contentuid="49430f66-3d12-4d4f-9a85-004d6558d248" version="1">Puissance du Maître</content>
+	<content contentuid="553f92df-a312-434c-be1a-3d96ed9f85b6" version="1">Les bonus de compétence et de jets de sauvegarde du défenseur, les bonus pour toucher et les dégâts de son attaque de déchirure, ainsi que le nombre de points de vie restaurés par son action de Réparation sont augmentés de 1 à chaque fois que votre Bonus de Compétence augmente.</content>
+	<content contentuid="86119c53-40b5-471a-8716-a4d7b7c3b7d5" version="1">Réparation</content>
+	<content contentuid="c3ceb547-2eaf-4e9d-9dd4-5475d22ecd48" version="1">Les mécanismes magiques à l'intérieur du défenseur restaurent 2d8 points de vie à lui-même ou à un construct ou objet situé à moins de 5m de lui.</content>
+	<content contentuid="254a148a-4e1e-4c8d-8edb-10a850d17c4f" version="1">À court de charges de Réparation</content>
+	<content contentuid="352ff390-7b98-4b67-938f-7261869427e6" version="1">Lié</content>
+	<content contentuid="3d0b02ee-2154-4f83-ab1e-a7c0e7d8aa8e" version="1">Utilisé par l'IA pour déterminer une cible de lien de protection dans leur groupe de combat</content>
+	<content contentuid="c63b4eb2-08d1-48a1-b540-c648ac550ae3" version="1">Éclair de Génie</content>
+	<content contentuid="0a198fc8-b1ff-4418-b37d-e8c4ad84c6c8" version="1">Lorsque vous ou une autre créature que vous pouvez voir dans un rayon de 30m de vous fait un test d'aptitude ou un jet de sauvegarde, vous pouvez utiliser votre réaction pour ajouter votre modificateur d'Intelligence au résultat. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre modificateur d'Intelligence.</content>
+	<content contentuid="da5b0b99-7a65-4c82-b180-9622a7683cfd" version="1">Défense Améliorée</content>
+	<content contentuid="894d6187-69a3-4ce5-869c-b8676fdfbe38" version="1">Une créature gagne un bonus de +1 à la Classe d'Armure lorsqu'elle porte (armure) ou utilise (bouclier) l'objet infusé. Le bonus augmente à +2 lorsque vous atteignez le 10e niveau dans cette classe.</content>
+	<content contentuid="6d6c9783-2bc1-40a1-a781-396a96cf592a" version="1">Arme Améliorée</content>
+	<content contentuid="fafd3f8c-dd02-4045-86ef-a979ac7d5e2c" version="1">Cette arme magique confère un bonus de +1 aux jets d'attaque et aux jets de dégâts effectués avec elle. Le bonus augmente à +2 lorsque vous atteignez le 10e niveau dans cette classe.</content>
+	<content contentuid="d37658c1-935c-4edd-8ecb-9516eea183a4" version="1">Répliquer l'Objet Magique : Amulette de Santé</content>
+	<content contentuid="0c712ca5-2b7f-44f0-af75-d68b8b9c3c39" version="1">Votre score de Constitution est de 19 tant que vous portez cette amulette. Elle n'a aucun effet sur vous si votre Constitution est de 19 ou plus sans elle.</content>
+	<content contentuid="c048195c-315d-4020-9a92-765777927ee1" version="1">Prêt au Combat : Arme Magique</content>
+	<content contentuid="c429a197-c949-4879-be8a-3d402ed24336" version="1">Lorsque vous attaquez avec une arme magique, vous pouvez utiliser votre modificateur d'Intelligence, plutôt que votre modificateur de Force ou de Dextérité, pour les jets d'attaque et de dégâts.</content>
+	<content contentuid="afbf45dd-1275-4bdd-87db-b1d36ef2372d" version="1">Bottes du Chemin Sinueux</content>
+	<content contentuid="1303d91b-38d6-461c-961e-e2f3e11e34fe" version="1">En portant ces bottes, une créature peut se téléporter jusqu'à 15m en un espace libre qu'elle peut voir, en tant qu'action bonus.</content>
+	<content contentuid="d458d79f-61e6-43fe-8ebb-a6b11698a23e" version="1">Défense Déflectée</content>
+	<content contentuid="4795552a-d3e9-41ac-9580-39477debde5f" version="1">Le défenseur impose désavantage sur le jet d'attaque d'une créature qu'il peut voir à moins de 5m de lui, à condition que le jet d'attaque soit dirigé contre une créature autre que le défenseur.</content>
+	<content contentuid="fa06e35d-f15f-4f28-84a8-53ddccc81321" version="1">Lorsque vous touchez une cible avec une attaque d'arme magique, la cible subit 2d6 dégâts de force supplémentaires.</content>
+	<content contentuid="f067e7a3-01b6-4632-ab33-abd619bf540a" version="1"m Épais</content>
+	<content contentuid="ed907104-90b5-4a18-935f-282b3913d3ec" version="1">La cible a une résistance aux dégâts perforants lorsqu'elle marche sur une croissance de pointes pendant son tour.</content>
+	<content contentuid="958efa9e-7b98-4cf8-bc3d-d9f6faad428a" version="1">Résistance aux Dégâts Perforants</content>
+	<content contentuid="ec83e82f-966e-444f-8c55-cc43a7efbb68" version="1">Gel Dur</content>
+	<content contentuid="4a01b482-739c-46f8-ac78-fd516c624d97" version="1">Réduit les dégâts de feu de 5.</content>
+	<content contentuid="bd7f32a2-2fac-4b17-8543-900ab97ed77b" version="1">Guérisseur : Guéri</content>
+	<content contentuid="d596ca7b-0f75-40c9-a1de-1c6fc7212db6" version="1">La cible ne peut pas être soignée jusqu'au prochain tour.</content>
+	<content contentuid="f4a98563-ae06-4ad4-8bcb-78ddd839293b" version="1">Ne pas soigner</content>
+	<content contentuid="8cf6b9bf-4ce2-4ec0-aeb4-fe3e6415c7bf" version="1">La cible ne doit pas être soignée.</content>
+	<content contentuid="35115c02-ba41-4c2c-ad6a-2e35d4be5fe3" version="1">Écailles du Petit Ver</content>
+	<content contentuid="b28b2d73-eae7-4cda-9594-f9b6a58c88bc" version="1">Tous les dégâts magiques entrants sont réduits de 2.</content>
+	<content contentuid="ea794de7-4f4a-43d0-bd39-6eb06881dc36" version="1">Tous les dégâts magiques entrants sont réduits de 2, les dégâts physiques sont réduits de 1.</content>
+	<content contentuid="2f3f10aa-1270-4159-a9d5-8f41852c8ea8" version="1">Résistance Magique Inférieure</content>
+	<content contentuid="f1a170d7-0828-4f7b-af34-36e3187e926f" version="1">Bénéficie d'un bonus de +1 aux jets de sauvegarde contre les sorts et autres effets magiques.</content>
+	<content contentuid="74310110-bd03-4cd8-bc4f-bb1683516efd" version="1">Assez proche d'un allié amical pour être soigné avec &lt;LSTag Type="Spell" Tooltip="Target_AuraOfVitality_Activate"&gt;Restauration de Vitalité&lt;/LSTag&gt;.</content>
+
+	<content contentuid="7ad084c0-0204-468b-9c12-a22e72407ed1" version="1">Arlequin</content>
+	<content contentuid="e500033f-1212-44ff-8cec-6eff911c3a70" version="1">Balise de classe Arlequin</content>
+	<content contentuid="2e0c5320-7e7c-41be-8197-b9bb3afd997b" version="1">Balise de classe Porte-Torches</content>
+	<content contentuid="07c7b302-4161-4472-9715-e2e2903dcc96" version="1">Balise de classe Cercle des Spores</content>
+	<content contentuid="6079e895-80bf-4ea5-8257-57eeb589201c" version="1">Balise de quête Bibberbang</content>
+	<content contentuid="c936342c-1a21-40d6-9b95-2732080ba2f2" version="1">La quête Bibberbang est terminée si cette quête est présente</content>
+	<content contentuid="15adb23d-8b42-4100-851d-42a59b0bf545" version="1">Chasseur de Sang</content>
+	<content contentuid="0b299b55-eaaa-479f-9f1c-2dcc53f02d91" version="1">Balise de classe Chasseur de Sang</content>
+
+	<content contentuid="d1073c93-39cc-4352-bb7a-ea125c9769a2" version="1">Sorcière</content>
+	<content contentuid="a065a321-238c-42e8-b6a6-919de5516966" version="1">Protegé du Grand Ancien</content>
+	<content contentuid="907bc917-17ed-4583-b03e-f88c5a73a3f1" version="1">Protegé de l'Abysse</content>
+	<content contentuid="df54d5ce-b55a-4883-8aaa-edccbeded9bc" version="1">Protegé du Démon</content>
+	<content contentuid="1251909c-eacd-4c81-8dc1-dc94f76de7af" version="1">Protegé du Seigneur des Faës</content>
+	<content contentuid="d76e9dec-569c-404d-afbb-4a63f53450de" version="1">Magicien Évocationniste</content>
+	<content contentuid="2b426d52-97b1-4b2d-b1fd-4d634f37350b" version="1">Magicien Nécromancien</content>
+	<content contentuid="c904167f-040b-477f-a71f-42869651280c" version="1">Magicien Chantelame</content>
+	<content contentuid="d25edd1f-6412-4c12-89b8-0c9b87746dbb" version="1">Maître des Bêtes</content>
+	<content contentuid="715eb02d-2e85-45d7-b34f-cc278d165953" version="1">Chasseur</content>
+	<content contentuid="16b025e6-88a4-4184-a7bc-50d2fa775307" version="1">Assassin</content>
+	<content contentuid="a983936d-3467-41bb-807d-756dc7f3ced1" version="1">Voleur</content>
+	<content contentuid="63e752ff-e22d-4b98-9cd4-c62fa4eb3205" version="1">Ombre profonde</content>
+	<content contentuid="6c50c747-98e5-4e96-977c-a90f5aae25bb" version="1">Maître d'Armes</content>
+	<content contentuid="4f0e7aba-038c-4633-96e2-2fa8e541da77" version="1">Chevalier Élémentaire</content>
+	<content contentuid="42e57305-eeb2-4236-a529-5752a4ba4629" version="1">Champion</content>
+	<content contentuid="e991b8be-e098-43b6-939e-1a1d3b5a2f47" version="1">Sorcier Draconique</content>
+	<content contentuid="8f3e74c8-fb70-4c8a-a526-84a260530110" version="1">Sorcier de la Magie Sauvage</content>
+	<content contentuid="7513e22a-f70f-418b-95fd-ebccf4d38d84" version="1">Cercle des Spores</content>
+	<content contentuid="9c45e89d-852f-442a-9537-cd69dec4bda3" version="1">Cercle de la Lune</content>
+	<content contentuid="bf2c50ee-14df-4ee6-aed3-71e4096d3d36" version="1">Cœur Sauvage</content>
+	<content contentuid="001699f3-5b86-41a5-9986-2f1c8a136fd1" version="1">Prêtre de la Tromperie</content>
+	<content contentuid="438c20eb-7951-4eb4-8239-27406fca9e02" version="1">Prêtre de Guerre</content>
+	<content contentuid="743ce49f-e108-43c1-9538-84be790269d0" version="1">Prêtre de la Lumière</content>
+	<content contentuid="6038b4d4-1a7e-4408-bef2-5e28de51f3b1" version="1">Paladin Ancien</content>
+	<content contentuid="9b0bb61b-132d-4a24-91c0-5bd44fce9cf3" version="1">Paladin de Dévotion</content>
+	<content contentuid="efce9256-cee7-4041-bceb-09cb4139333a" version="1">Porte-Torches</content>
+	<content contentuid="334bb296-9024-4011-8c71-c95101fce05f" version="1">Ordre du Mutant</content>
+	<content contentuid="a416e70e-1b87-4291-9cf2-0700bc58f071" version="1">Ordre du Lycan</content>
+	<content contentuid="1a8447f7-0494-4f8f-9c0d-fb90d21355fd" version="1">Âme Profane: Abysse</content>
+	<content contentuid="ad3263c6-2b64-4075-842e-12bcd78a6ab3" version="1">Collège des Lames</content>
+	<content contentuid="999cf298-4861-4ab5-8eea-72669527dd0b" version="1">Prêtre de la Mort</content>
+	<content contentuid="c9b013df-9148-4ec1-a1df-1698c5214515" version="1">Artificier</content>
+
+	<content contentuid="2885f51f-b251-45f7-a94f-5cc214e63b92" version="1">Voleur des Quatre Éléments</content>
+	<content contentuid="974f2308-44d8-4305-b88d-1f98f99f7c99" version="1">Assassin des Ombre profondes</content>
+
+	<content contentuid="dc6ecb3d-a8ae-4468-96eb-57113769f7e0" version="1">Kuo-Toa</content>
+	<content contentuid="040ae042-32ff-45c2-9dbf-e38023256062" version="1">Flagelleur Mental</content>
+	<content contentuid="36aa73b3-1098-430e-a251-67314fdefe6d" version="1">Ours-Hibou</content>
+	<content contentuid="68e5f248-9781-416d-acb6-9ff999ccad03" version="1">Varion le Petit Dragon</content>
+	<content contentuid="18497b60-fecc-4839-aec7-c25325491c43" version="1">Étiquette de Petit Dragon</content>
+	<content contentuid="31f444b6-c7c1-48d4-8228-3c6010c197d1" version="1">Étiquette utilisée pour Varion</content>
+	<content contentuid="be42bee9-47d7-412a-87a8-6eeb59f432df" version="1">Ozgur le Pillard</content>
+	<content contentuid="e5e729ce-2789-4365-ac4f-90661fcbf8ec" version="1">Main Droite de Dror</content>
+	<content contentuid="9300321e-d090-4fe6-bff7-f10afa715805" version="1">Sbire Kobold</content>
+	<content contentuid="707633e3-a1ed-477c-9f5c-4d7f6cbc2a67" version="1">Patrouilleur du Pont</content>
+	<content contentuid="aa1fe77e-86fd-435d-b1d4-1f6d74f81aad" version="1">Bête Déplacée</content>
+	<content contentuid="6ca6e01f-bc95-452b-93d2-955f081605f7" version="1">Ot'Anih</content>
+	<content contentuid="e4f45a06-ea76-4191-9b48-5012c667816e" version="1">Appel Benji</content>
+	<content contentuid="67873b73-22d5-41d9-b100-9923ac5feb87" version="1">Benji, un Bon Garçon</content>
+	<content contentuid="b2f68c40-aa82-4dee-9c0d-f8b793426d81" version="1">Astryn le Cultiste</content>
+	<content contentuid="70a190aa-1f64-4186-88b0-0e92372ea6a1" version="1">Moog</content>
+	<content contentuid="c52affff-906c-4d7f-a474-3ba8eba703d9" version="1">Worg</content>
+	<content contentuid="28a53379-816f-4a6a-a23e-d14e1c0462aa" version="1">Ogre Dominé</content>
+
+	<content contentuid="17419d3d-b527-4dd5-814a-45ef9e924070" version="1">Araignée Géante Souterraine</content>
+	<content contentuid="e61dfdac-dca8-480d-8d50-0a94191ea341" version="1">Araignée de Phase Adulte</content>
+	<content contentuid="b1ef29a0-3177-437a-92c4-0c2f7223a044" version="1">Gardien de la Porte de la Tour</content>
+	<content contentuid="d51a04a7-6166-449b-89ad-12b8354bf5ec" version="1">Amiral Vammeatalyn</content>
+	<content contentuid="ccf07917-89eb-4a4d-a5ae-ca3a7a24748f" version="1">Général Elrsaehilde</content>
+	<content contentuid="6952a35a-1d1e-46a9-bce2-56e8306c65f0" version="1">Assassin Duergar</content>
+	<content contentuid="8f9538aa-4aca-44f9-9dd6-086d19fc7802" version="1">Rôdeur Duergar</content>
+	<content contentuid="8ea40ec3-8ec1-4d14-a0ed-d189d3e71874" version="1">Nsiria la devote</content>
+	<content contentuid="2a8192bc-064c-4a81-b0d0-306272897cd5" version="1">Celelaeth la devote</content>
+	<content contentuid="2608f4e0-f189-4234-953d-ad1205b0bbb6" version="1">Bulette Mineure</content>
+	<content contentuid="bed21e10-ed8c-4f05-a0fb-19dc181ebf66" version="1">Igni</content>
+	<content contentuid="ebcbdaf0-8562-485a-bf9e-6911f49b2057" version="1">Chasseur Drow</content>
+	<content contentuid="00a14d59-8faa-402a-aa03-88512140cc12" version="1">Voleur Duergar</content>
+
+	<content contentuid="e6a583f3-1b9d-4676-8f51-33c454e6cea4" version="1">Adandir le Bûcheron</content>
+	<content contentuid="944f71a3-bda5-4aa2-a12c-892451b11670" version="1">Zombie Fongique</content>
+	<content contentuid="ca043992-4dd9-4ba7-9021-6065df0933d2" version="1">Occupant Githyanki Corrompu</content>
+	<content contentuid="06c01bd1-54bc-4e51-9aab-4190d4ccc6f6" version="1">Capitaine Githyanki Corrompu</content>
+	<content contentuid="cc1447ff-5c21-4da1-b77f-3aae8c56ce73" version="1">Chasseur Githyanki Corrompu</content>
+	<content contentuid="d7b8860c-204b-4b5d-980f-8f4168345a98" version="1">Mage de Bataille Githyanki Corrompu</content>
+	<content contentuid="5be81b7a-8a82-46a2-b23f-023a58ae940d" version="1">Raider Githyanki Corrompu</content>
+	<content contentuid="7ab9943f-36cb-40da-bfa0-d707e37f0bc6" version="1">Occupant Githyanki</content>
+	<content contentuid="9757b3cf-3671-41bf-8ca7-e9ecd4618596" version="1">Capitaine Githyanki</content>
+	<content contentuid="2aaaf165-939f-4a8f-b532-5c65341e31e0" version="1">Chasseur Githyanki</content>
+	<content contentuid="930af9f5-27aa-4de1-9218-cab995a026c2" version="1">Mage de Bataille Githyanki</content>
+	<content contentuid="812baa1d-e7ac-4906-8a57-aa5af3a3d984" version="1">Raider Githyanki</content>
+	<content contentuid="f6cb4b28-2bb4-46fb-80aa-3529688368dc" version="1">Clerc Githyanki</content>
+	<content contentuid="7683d1b4-b0db-4a73-97ae-06baf01585f8" version="1">Haerlgent</content>
+	<content contentuid="f3fbc28a-0758-498b-aad9-18edf381adde" version="1">Gethra</content>
+	<content contentuid="d326e70f-6f94-4896-af64-13b499629392" version="1">Loup Apprivoisé</content>
+	<content contentuid="0542ae75-bc66-4dae-9b68-805d9670f856" version="1">Alan</content>
+	<content contentuid="301b7ade-953b-48ce-925d-daf1c50e8f38" version="1">Image de Lathander</content>
+	<content contentuid="3a9b3011-2f44-4634-9428-75d8c81b5eb7" version="1">Garde d'Honneur de Lathander</content>
+	<content contentuid="7862be15-5728-48d1-bada-46cc9b970691" version="1">Garde d'Honneur</content>
+	<content contentuid="f54c4204-144c-48b0-a9de-d36e3f736c5f" version="1">Chevalier de Lathander</content>
+
+	<content contentuid="da81fc37-345e-459b-9994-b33c025b85e2" version="1">Istolil le Bûcheron</content>
+	<content contentuid="0adf3dca-cb3d-44c4-ac7f-48c3caa8ea45" version="1">Nindr</content>
+	<content contentuid="53d3fc42-21cf-490b-9225-c79233f52d68" version="1">Shalia la dryade</content>
+	<content contentuid="0521725a-dedf-4ede-a525-f0c05181633f" version="1">Feu follet</content>
+	<content contentuid="981d9fde-5192-44df-bc09-631f974547f6" version="1">Windego la sorcière perdue</content>
+	<content contentuid="97e23974-d69f-4605-82e1-580982c0d8ce" version="1">Kael le Moine solitaire</content>
+	<content contentuid="dcf57022-b45b-4537-9777-bcf0798fa741" version="1">Seigneur du crâne</content>
+	<content contentuid="28ba936f-70e0-4e8f-83a0-89d035d679c6" version="1">Crâne de convocation</content>
+	<content contentuid="861c5842-ed76-4e81-8dda-bc98ea0c544f" version="1">Crâne de soutien</content>
+	<content contentuid="5368cb18-66ed-4b8c-b244-9e4840ad25bf" version="1">Valagh l'Adepte</content>
+	<content contentuid="67843036-952d-46f1-85c5-4f8e1ddb0698" version="1">Pimkin l'Adepte</content>
+	<content contentuid="c75e8f25-76ca-427c-8472-812f87e91aed" version="1">Karmir</content>
+	<content contentuid="a91254c2-1d86-4a3c-905e-8bb9cd5ccd31" version="1">Marfine</content>
+	<content contentuid="a18f908d-942e-4e57-9d69-1c0522c83338" version="1">Marcheur de nuit</content>
+	<content contentuid="2bb9638a-482d-4f77-b875-b1b474efa884" version="1">Rhith l'Adepte</content>
+	<content contentuid="b0e7b6cc-0831-4869-8ec5-beb292707063" version="1">Nikryn l'Adepte</content>
+	<content contentuid="32275cb6-0e49-4862-a09a-4c1201eadc38" version="1">Jinrana l'Adepte</content>
+	<content contentuid="d5d5d118-1021-466f-ae15-ee9a1855fb8c" version="1">Chef des Ombres</content>
+	<content contentuid="d927e676-1355-439d-ae41-8e86dc899194" version="1">Ombre</content>
+	<content contentuid="1cd211d0-9cf7-4115-b41f-619ce3d19902" version="1">Krighor l'Acolyte</content>
+	<content contentuid="ead983bb-6266-43c6-8339-41dbff5a2f7c" version="1">Caedhur l'Acolyte</content>
+	<content contentuid="1a5bb5e3-e29c-484e-95b1-8bdbc5553b38" version="1">Arorael l'Acolyte</content>
+	<content contentuid="d6411e4b-a969-421c-b565-22c3375d7991" version="1">Chimiste corrompu</content>
+	<content contentuid="2262123b-e063-4089-b93f-12fa14725eae" version="1">Assassin corrompu</content>
+	<content contentuid="fe470c77-c206-4100-bb59-8e6b85230882" version="1">Sœur Ameh</content>
+	<content contentuid="64c9cd28-4fff-4f4b-9ad5-ce1e7b62fbfd" version="1">Sœur Lalthe</content>
+	<content contentuid="1f0f3ef4-c770-41fa-853b-8b69980c2337" version="1">Sœur Lósh</content>
+	<content contentuid="af6b3924-8aa8-4c0f-b754-a261c1e9366b" version="1">Sœur Mia</content>
+	<content contentuid="c81d9a07-6e9f-4786-9e11-47070d7f6de0" version="1">Commandant Zachariel</content>
+	<content contentuid="0abcc965-90e6-4c8a-9ff3-964aeca887de" version="1">Beholder</content>
+	<content contentuid="98385d30-adeb-4605-808a-2beda51fddd3" version="1">Gazer</content>
+	<content contentuid="cc047b54-89ba-42a5-9d3e-f92790af10ff" version="1">Sœur Elaine</content>
+	<content contentuid="c2e96248-51e7-4799-9dfc-bd06db7dd7f2" version="1">Sœur Estela</content>
+	<content contentuid="59e32955-cd0b-4eb2-9e8e-6b0623d7bfbf" version="1">Sœur Paula</content>
+	<content contentuid="a6804d5a-99f1-415b-8f1d-edfa268c98d0" version="1">Sœur Catarina</content>
+	<content contentuid="7ad7ddd5-271d-4a10-ba4d-4f0a60fd0fca" version="1">Sœur Cassia</content>
+	<content contentuid="1275a49e-62fd-4e7a-a778-b749b7c9a73e" version="1">Vargouille</content>
+	<content contentuid="fc719576-9aaa-424d-ab17-e358d3fa933a" version="1">Doomsept</content>
+	<content contentuid="fec7251c-5fa3-4198-9b02-b30b0835c0b6" version="1">Vibetha l'Adepte</content>
+	<content contentuid="90b65b97-58bd-40ed-88ef-8632a928ffce" version="1">Ewamira l'Adepte</content>
+	<content contentuid="2a00bb4f-726d-41ad-81c1-3ad7ef920e3e" version="1">Aeson le Coupeur</content>
+	<content contentuid="5bc723b2-9332-4050-80af-57ce143f91ec" version="1">Augure le Coupeur</content>
+	<content contentuid="c7582a07-e41c-472c-8b55-ff13464917cf" version="1">Revenant</content>
+	<content contentuid="ec4eac19-3801-4d67-941f-8f1f0f0926c6" version="1">Veto du Chef des Morts</content>
+	<content contentuid="bd45a74f-9fa6-4a2f-8695-b700bab84f95" version="1">Flint le Fouet de Crâne</content>
+	<content contentuid="49bc3e0d-c004-4107-9b40-e233506c2189" version="1">Buzz du Gantelet Noir</content>
+	<content contentuid="148ce414-8f34-4bbc-8799-2d2da3f61852" version="1">Commando Commandeur</content>
+	<content contentuid="ef67935f-ab4f-4992-8286-6517b084948b" version="1">Allip</content>
+	<content contentuid="1b207f9c-e52a-4bcd-b722-733c5dc5c6ac" version="1">Défenseur d'Acier</content>
+
+
+	<content contentuid="ad71bfa0-f8fd-4d45-9a13-f23c0b8a4a41" version="1">Varion's Balance Patch Compensation</content>
+	<content contentuid="5842492d-bb23-413c-8591-2c8b3cba74ae" version="1">Cette compétence passive sera retirée lors des prochaines mises à jour et n'est présente que pour compenser une compétence passive qui ne peut pas être retirée par la dernière mise à jour. Tous les dégâts entrants augmentés de 2.</content>
+	<content contentuid="031761f4-c4ea-4627-9e90-cb45426b3035" version="1">Cette compétence passive sera retirée lors des prochaines mises à jour et n'est présente que pour compenser une compétence passive qui ne peut pas être retirée par la dernière mise à jour. Tous les dégâts entrants augmentés de 1.</content>
+</contentList>
